@@ -36,8 +36,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Noto+Sans+SC:wght@300;400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root {
-  --green:#1e3d2d;
-  --green2:#12291e;
+  --green:#1a2f5c;
+  --green2:#0f1d3d;
   --ink:#25231f;
   --ivory:#f5f2ea;
   --ivory2:#ebe5da;
@@ -45,7 +45,7 @@
   --muted:#8f8a80;
   --line:rgba(37,35,31,.14);
   --white:#fff;
-  --shadow:0 24px 70px rgba(20,31,25,.12);
+  --shadow:0 24px 70px rgba(15,22,40,.14);
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -56,6 +56,7 @@ body{
 }
 a{color:inherit;text-decoration:none}
 img{display:block;width:100%}
+h1,h2,h3,h4,h5,h6{word-break:keep-all;overflow-wrap:break-word}
 button,input,select,textarea{font:inherit}
 .container{width:min(1240px,calc(100% - 48px));margin:auto}
 .kicker{font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);font-weight:600}
@@ -96,7 +97,7 @@ button,input,select,textarea{font:inherit}
 .menu-btn{display:none;border:0;background:none;color:inherit;font-size:24px}
 
 /* hero */
-.hero{min-height:100vh;background:linear-gradient(105deg,#12251c 0%,#1e3d2d 58%,#294737 100%);color:white;position:relative;overflow:hidden}
+.hero{min-height:100vh;background:linear-gradient(105deg,#0a1730 0%,#1a2f5c 58%,#2c4a82 100%);color:white;position:relative;overflow:hidden}
 .hero:before{content:"";position:absolute;inset:0;background:
 radial-gradient(circle at 10% 10%,rgba(180,154,85,.18),transparent 31%),
 linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-size:auto,76px 76px;opacity:.7}
@@ -110,8 +111,12 @@ linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-siz
 .hero-meta{display:flex;gap:32px;margin-top:48px;padding-top:28px;border-top:1px solid rgba(255,255,255,.16);font-size:12px;color:rgba(255,255,255,.68);letter-spacing:.05em}
 .hero-photo{align-self:end;height:calc(100vh - 78px);position:relative}
 .hero-photo:before{content:"";position:absolute;left:-70px;top:15%;width:170px;height:70%;background:linear-gradient(90deg,transparent,rgba(180,154,85,.16));filter:blur(22px)}
-.hero-photo img{height:100%;object-fit:cover;object-position:50% 22%;mix-blend-mode:normal;filter:saturate(.92) contrast(1.02)}
-.hero-photo:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--green) 0%,transparent 18%,transparent 85%,rgba(18,41,30,.28) 100%)}
+.hero-photo img{height:100%;object-fit:cover;object-position:50% 22%;mix-blend-mode:normal;filter:saturate(.82) contrast(1.05) brightness(.96)}
+.hero-photo:after{content:"";position:absolute;inset:0;background:
+  linear-gradient(90deg,var(--green) 0%,transparent 22%,transparent 80%,rgba(15,29,61,.42) 100%),
+  linear-gradient(180deg,rgba(10,23,48,.48) 0%,transparent 16%,transparent 78%,rgba(10,23,48,.58) 100%),
+  linear-gradient(0deg,rgba(26,47,92,.16),rgba(26,47,92,.16))
+}
 .scroll-note{position:absolute;left:32px;bottom:30px;writing-mode:vertical-rl;font-size:9px;letter-spacing:.28em;opacity:.5}
 
 /* intent */
@@ -167,7 +172,7 @@ linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-siz
 section[id]{scroll-margin-top:100px}
 .market-detail{margin-top:64px;padding-top:44px;border-top:1px solid var(--line)}
 .market-detail-head{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:26px}
-.market-detail h3{font-family:"Noto Serif SC","Songti SC",serif;font-weight:500;font-size:26px;margin:0}
+.market-detail h3{font-family:"Noto Serif SC","Songti SC",serif;font-weight:500;font-size:26px;margin:0;flex:1 1 260px;min-width:220px}
 .market-detail-tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
 .market-note{font-size:12.5px;color:#8a8477;margin-top:18px;max-width:760px}
 .market-note a{color:var(--green);text-decoration:underline;text-underline-offset:2px}
@@ -214,9 +219,9 @@ section[id]{scroll-margin-top:100px}
 .property[hidden]{display:none}
 .property img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:.6s ease}
 .property:hover img{transform:scale(1.035)}
-.property:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 35%,rgba(11,19,14,.82) 100%)}
+.property:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 35%,rgba(8,14,28,.82) 100%)}
 .property-info{position:absolute;z-index:3;left:28px;right:28px;bottom:26px;color:white}
-.sold-badge{display:inline-block;background:var(--gold);color:#17261e;padding:6px 10px;font-size:10px;font-weight:700;letter-spacing:.12em;margin-bottom:14px}
+.sold-badge{display:inline-block;background:var(--gold);color:#142244;padding:6px 10px;font-size:10px;font-weight:700;letter-spacing:.12em;margin-bottom:14px}
 .property h3{font-family:"Noto Serif SC",serif;font-size:26px;margin:0 0 7px;font-weight:500}
 .property-meta{display:flex;justify-content:space-between;gap:20px;align-items:end}
 .property-meta p{margin:0;font-size:12px;color:rgba(255,255,255,.76)}
@@ -256,7 +261,7 @@ section[id]{scroll-margin-top:100px}
 .credential strong{font-size:14px;font-weight:500}
 
 /* lifestyle band */
-.lifestyle{background:#111b16;color:white;padding:0}
+.lifestyle{background:#0a1226;color:white;padding:0}
 .lifestyle-grid{display:grid;grid-template-columns:1fr 1fr;min-height:590px}
 .lifestyle-img img{height:100%;object-fit:cover;object-position:center 36%}
 .lifestyle-copy{display:flex;flex-direction:column;justify-content:center;padding:80px;position:relative}
@@ -277,7 +282,7 @@ section[id]{scroll-margin-top:100px}
 .contact-info strong{color:white}
 
 /* footer */
-footer{background:#0d1511;color:rgba(255,255,255,.64);padding:34px 0;font-size:11px}
+footer{background:#070d1d;color:rgba(255,255,255,.64);padding:34px 0;font-size:11px}
 .footer-grid{display:flex;flex-wrap:wrap;justify-content:space-between;gap:16px 24px;align-items:center}
 .footer-brand{display:flex;align-items:center;gap:12px;flex:0 0 auto}
 .footer-brand img{height:34px;width:auto}
@@ -285,7 +290,7 @@ footer{background:#0d1511;color:rgba(255,255,255,.64);padding:34px 0;font-size:1
 .disclaimer{flex:1 1 320px;max-width:760px;text-align:right;line-height:1.6}
 
 /* modal / toast */
-.toast{position:fixed;z-index:100;right:24px;bottom:24px;background:#182b21;color:white;padding:16px 20px;box-shadow:var(--shadow);transform:translateY(120px);opacity:0;transition:.3s}
+.toast{position:fixed;z-index:100;right:24px;bottom:24px;background:#16264a;color:white;padding:16px 20px;box-shadow:var(--shadow);transform:translateY(120px);opacity:0;transition:.3s}
 .toast.show{transform:translateY(0);opacity:1}
 .reveal{opacity:0;transform:translateY(22px);transition:.7s ease}
 .reveal.show{opacity:1;transform:none}
