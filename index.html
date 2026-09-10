@@ -192,9 +192,13 @@ section[id]{scroll-margin-top:100px}
 .budget-tier p{font-size:13.5px;color:#5c584f;margin:0}
 
 .city-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
-.city-block{background:var(--ivory);padding:20px 18px;min-height:118px}
+.city-block{background:var(--ivory);padding:20px 18px;min-height:118px;display:block}
 .city-block h4{font-family:"Noto Serif SC",serif;font-weight:500;font-size:16px;margin:0 0 8px}
 .city-block p{font-size:12.5px;color:#6e6a62;margin:0;line-height:1.55}
+.city-block.linked{cursor:pointer;transition:.2s;position:relative}
+.city-block.linked:hover{background:var(--ivory2);transform:translateY(-2px)}
+.city-block.linked h4{color:var(--green)}
+.city-block.linked h4:after{content:"查看城市指南 →";display:inline-block;margin-left:10px;font-family:"Noto Sans SC",sans-serif;font-weight:400;font-size:10.5px;letter-spacing:.03em;color:var(--gold);vertical-align:middle}
 
 .tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .tool-link{display:block;background:var(--ivory);padding:22px;border:1px solid transparent;transition:.22s}
@@ -524,7 +528,7 @@ footer{background:#070d1d;color:rgba(255,255,255,.64);padding:34px 0;font-size:1
     <div class="market-detail reveal" id="market-cities">
       <div class="market-detail-head"><h3>城市与社区</h3></div>
       <div class="city-grid">
-        <div class="city-block"><h4>Palo Alto</h4><p>紧邻 Stanford，公立学区口碑突出，硅谷最核心区域之一，价格也最高。</p></div>
+        <a class="city-block linked" href="cities/palo-alto.html"><h4>Palo Alto</h4><p>紧邻 Stanford，公立学区口碑突出，硅谷最核心区域之一，价格也最高。</p></a>
         <div class="city-block"><h4>Cupertino</h4><p>Apple 总部所在地，学区评价高，居民以科技从业者与家庭为主。</p></div>
         <div class="city-block"><h4>Sunnyvale</h4><p>科技公司密集，通勤方便，价格比 Palo Alto / Cupertino 更友好一些。</p></div>
         <div class="city-block"><h4>Mountain View</h4><p>Google 总部所在地，Downtown Castro St 生活氛围好，公寓与联排比例较高。</p></div>
