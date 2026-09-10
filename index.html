@@ -433,7 +433,7 @@ footer{background:#070d1d;color:rgba(255,255,255,.64);padding:34px 0;font-size:1
         <select id="searchType"><option>不限房型</option><option>Single Family</option><option>Townhouse</option><option>Condo</option><option>New Construction</option></select>
       </div>
       <button class="btn btn-dark" style="width:100%;margin-top:6px" onclick="demoSearch()">查看匹配房源 <span class="arrow">→</span></button>
-      <p style="font-size:11px;color:#948d81;margin:15px 0 0">Demo 页面：正式网站可连接经纪人的 IDX / MLS 搜索系统。</p>
+      <p style="font-size:11px;color:#948d81;margin:15px 0 0">点击后会跳转至 Zillow 对应城市的房源搜索页，可在 Zillow 页面内按预算、房型进一步筛选；如需连接陈靖专属的 IDX / MLS 实时搜索系统，请联系我们提供接入信息。</p>
     </div>
   </div>
 </section>
@@ -1022,11 +1022,19 @@ function toast(msg){
   const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show');
   clearTimeout(window.__toast); window.__toast=setTimeout(()=>t.classList.remove('show'),4200);
 }
+const ZILLOW_CITY_SLUG={
+  'Palo Alto':'palo-alto-ca','Cupertino':'cupertino-ca','Sunnyvale':'sunnyvale-ca',
+  'Mountain View':'mountain-view-ca','San Jose':'san-jose-ca','Fremont':'fremont-ca',
+  'Pleasanton':'pleasanton-ca','San Ramon':'san-ramon-ca'
+};
 function demoSearch(){
   const city=document.getElementById('searchCity').value;
   const budget=document.getElementById('searchBudget').value;
   const type=document.getElementById('searchType').value;
-  toast(`Demo：准备搜索 ${city} · ${budget} · ${type}`);
+  const slug = ZILLOW_CITY_SLUG[city] || 'san-jose-ca';
+  const label = city==='不限区域' ? '湾区核心城市（默认 San Jose）' : city;
+  toast(`正在为你打开 ${label} 的房源搜索（Zillow），可在页面内进一步按 ${budget}、${type} 筛选`);
+  window.open(`https://www.zillow.com/${slug}/`, '_blank', 'noopener');
 }
 
 const sb=(window.CONFIG&&window.CONFIG.SUPABASE_URL&&window.CONFIG.SUPABASE_ANON_KEY&&window.supabase)
