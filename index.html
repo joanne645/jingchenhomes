@@ -155,7 +155,7 @@ linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-siz
 /* market */
 .market{background:#ebe5da}
 .market-cards{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:46px}
-.market-card{background:var(--ivory);padding:28px;min-height:210px;border:1px solid transparent;transition:.25s}
+.market-card{display:block;background:var(--ivory);padding:28px;min-height:210px;border:1px solid transparent;transition:.25s;cursor:pointer}
 .market-card:hover{border-color:var(--gold);transform:translateY(-5px)}
 .market-card .icon{font-size:26px;color:var(--gold)}
 .market-card h3{font-family:"Noto Serif SC",serif;font-weight:500;font-size:21px;margin:25px 0 8px}
@@ -163,6 +163,46 @@ linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-siz
 .city-strip{margin-top:36px;display:flex;flex-wrap:wrap;gap:10px}
 .city-chip{border:1px solid #cfc7ba;padding:10px 14px;font-size:12px;background:rgba(255,255,255,.35);cursor:pointer}
 .city-chip:hover{background:var(--green);color:white;border-color:var(--green)}
+
+section[id]{scroll-margin-top:100px}
+.market-detail{margin-top:64px;padding-top:44px;border-top:1px solid var(--line)}
+.market-detail-head{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:26px}
+.market-detail h3{font-family:"Noto Serif SC","Songti SC",serif;font-weight:500;font-size:26px;margin:0}
+.market-detail-tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+.market-note{font-size:12.5px;color:#8a8477;margin-top:18px;max-width:760px}
+.market-note a{color:var(--green);text-decoration:underline;text-underline-offset:2px}
+
+.market-table-wrap{overflow-x:auto;background:var(--ivory);border:1px solid var(--line)}
+.market-table{width:100%;border-collapse:collapse;min-width:520px;font-size:14px}
+.market-table th,.market-table td{padding:13px 18px;text-align:left;border-bottom:1px solid var(--line)}
+.market-table th{background:var(--ivory2);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#6e6a62}
+.market-table tr:last-child td{border-bottom:none}
+.market-table td.trend-down{color:#7a6a4a}
+.market-table td.trend-up{color:#3d6b4d}
+.market-table td.trend-flat{color:#8a8477}
+
+.budget-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.budget-tier{background:var(--ivory);padding:26px;border-top:2px solid var(--gold)}
+.budget-tier h4{font-family:"Noto Serif SC",serif;font-weight:500;font-size:19px;margin:0 0 10px}
+.budget-tier p{font-size:13.5px;color:#5c584f;margin:0}
+
+.city-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
+.city-block{background:var(--ivory);padding:20px 18px;min-height:118px}
+.city-block h4{font-family:"Noto Serif SC",serif;font-weight:500;font-size:16px;margin:0 0 8px}
+.city-block p{font-size:12.5px;color:#6e6a62;margin:0;line-height:1.55}
+
+.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.tool-link{display:block;background:var(--ivory);padding:22px;border:1px solid transparent;transition:.22s}
+.tool-link:hover{border-color:var(--gold);transform:translateY(-3px)}
+.tool-link h4{font-family:"Noto Serif SC",serif;font-weight:500;font-size:16px;margin:0 0 6px;display:flex;align-items:center;gap:6px}
+.tool-link h4:after{content:"↗";font-size:13px;color:var(--gold)}
+.tool-link p{font-size:12.5px;color:#77726a;margin:0}
+
+@media (max-width:980px){
+  .budget-grid{grid-template-columns:1fr}
+  .city-grid{grid-template-columns:repeat(2,1fr)}
+  .tools-grid{grid-template-columns:1fr}
+}
 
 /* sold */
 .sold{background:#fff}
@@ -418,15 +458,104 @@ footer{background:#0d1511;color:rgba(255,255,255,.64);padding:34px 0;font-size:1
     <h2 class="section-title reveal">湾区房地产信息中心</h2>
     <p class="section-copy reveal">不是只有“找房”。客户真正需要的是一套能帮助判断的资源：市场、城市、预算、持有成本和交易知识。</p>
     <div class="market-cards reveal">
-      <div class="market-card"><div class="icon">⌁</div><h3>市场报告</h3><p>各城市房价、成交量、库存、DOM 与市场竞争趋势。</p></div>
-      <div class="market-card"><div class="icon">⌂</div><h3>预算可以买哪里</h3><p>$1.5M / $2M / $3M / $5M，在不同城市可以买到什么。</p></div>
-      <div class="market-card"><div class="icon">◫</div><h3>城市与社区</h3><p>学校、通勤、社区特征、房型结构与真实在售/成交房源。</p></div>
-      <div class="market-card"><div class="icon">↗</div><h3>买卖工具</h3><p>房屋估值、持有成本、Closing Cost、Seller Net Sheet 与 Buyer Guide。</p></div>
+      <a class="market-card" href="#market-report"><div class="icon">⌁</div><h3>市场报告</h3><p>10 个核心城市近 3 个月成交中位价与同比变化。</p></a>
+      <a class="market-card" href="#market-budget"><div class="icon">⌂</div><h3>预算可以买哪里</h3><p>按预算区间，湾区各城市大致能买到什么。</p></a>
+      <a class="market-card" href="#market-cities"><div class="icon">◫</div><h3>城市与社区</h3><p>10 个核心城市的基本特征，帮你缩小范围。</p></a>
+      <a class="market-card" href="#market-tools"><div class="icon">↗</div><h3>买卖工具</h3><p>房屋估值、月供计算、Closing Cost、Net Proceeds、买房指南。</p></a>
     </div>
     <div class="city-strip reveal">
       <button class="city-chip">Palo Alto</button><button class="city-chip">Cupertino</button><button class="city-chip">Sunnyvale</button>
       <button class="city-chip">Mountain View</button><button class="city-chip">San Jose</button><button class="city-chip">Fremont</button>
       <button class="city-chip">Milpitas</button><button class="city-chip">Dublin</button><button class="city-chip">Pleasanton</button><button class="city-chip">San Ramon</button>
+    </div>
+
+    <div class="market-detail reveal" id="market-report">
+      <div class="market-detail-head">
+        <h3>市场报告 · 近 3 个月成交中位价</h3>
+        <span class="market-detail-tag">Updated 2026.09</span>
+      </div>
+      <div class="market-table-wrap">
+        <table class="market-table">
+          <thead><tr><th>城市</th><th>成交中位价</th><th>同比变化</th></tr></thead>
+          <tbody>
+            <tr><td>Palo Alto</td><td>$3.52M</td><td class="trend-down">↓ 1.5%</td></tr>
+            <tr><td>Cupertino</td><td>$3.06M</td><td class="trend-down">↓ 2.5%</td></tr>
+            <tr><td>Mountain View</td><td>约 $1.9M – $1.96M</td><td class="trend-up">↑ 小幅上涨</td></tr>
+            <tr><td>Sunnyvale</td><td>$1.75M</td><td class="trend-down">↓ 16.3%</td></tr>
+            <tr><td>Pleasanton</td><td>$1.60M</td><td class="trend-flat">— 基本持平</td></tr>
+            <tr><td>San Ramon</td><td>$1.57M</td><td class="trend-flat">— 基本持平</td></tr>
+            <tr><td>Fremont</td><td>$1.50M</td><td class="trend-down">↓ 5.0%</td></tr>
+            <tr><td>Dublin</td><td>$1.32M</td><td class="trend-down">↓ 2.0%</td></tr>
+            <tr><td>Milpitas</td><td>$1.32M</td><td class="trend-down">↓ 7.4%</td></tr>
+            <tr><td>San Jose</td><td>$1.40M</td><td class="trend-down">↓ 6.2%</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="market-note">数据来源：Redfin 各城市住房市场页面（Mountain View 交叉核对 Zillow ZHVI），采集于 2026 年 9 月，为近 3 个月成交中位价与同比变化，之后会随市场变化定期更新。以上数字为城市整体口径（含公寓/联排等房型混合），仅供大致参考，不构成对具体房源的估价意见——想了解某套房的准确市场价值，欢迎<a href="#contact">直接联系陈靖</a>。</p>
+    </div>
+
+    <div class="market-detail reveal" id="market-budget">
+      <div class="market-detail-head">
+        <h3>预算可以买哪里</h3>
+        <span class="market-detail-tag">基于以上成交中位价归纳</span>
+      </div>
+      <div class="budget-grid">
+        <div class="budget-tier">
+          <h4>$1.3M – $1.6M</h4>
+          <p>San Jose、Milpitas、Dublin、Fremont、San Ramon、Pleasanton 等城市的成交中位价大致落在这个区间，是湾区相对好入手的一档。</p>
+        </div>
+        <div class="budget-tier">
+          <h4>$1.7M – $2M</h4>
+          <p>Sunnyvale、Mountain View 的成交中位价在这个区间，属于更靠近核心科技公司、通勤便利的位置。</p>
+        </div>
+        <div class="budget-tier">
+          <h4>$3M 以上</h4>
+          <p>Cupertino、Palo Alto 的成交中位价已经在 $3M 以上，通常对应最顶尖学区与核心地段。</p>
+        </div>
+      </div>
+      <p class="market-note">以上区间是根据各城市近 3 个月成交中位价粗略归纳，同一城市内不同社区、地块大小、房屋新旧的价格差异仍然很大，不能代替针对具体预算和目标区域的详细规划——欢迎<a href="#contact">预约咨询</a>，一起看你的预算实际能覆盖哪些选择。</p>
+    </div>
+
+    <div class="market-detail reveal" id="market-cities">
+      <div class="market-detail-head"><h3>城市与社区</h3></div>
+      <div class="city-grid">
+        <div class="city-block"><h4>Palo Alto</h4><p>紧邻 Stanford，公立学区口碑突出，硅谷最核心区域之一，价格也最高。</p></div>
+        <div class="city-block"><h4>Cupertino</h4><p>Apple 总部所在地，学区评价高，居民以科技从业者与家庭为主。</p></div>
+        <div class="city-block"><h4>Sunnyvale</h4><p>科技公司密集，通勤方便，价格比 Palo Alto / Cupertino 更友好一些。</p></div>
+        <div class="city-block"><h4>Mountain View</h4><p>Google 总部所在地，Downtown Castro St 生活氛围好，公寓与联排比例较高。</p></div>
+        <div class="city-block"><h4>San Jose</h4><p>南湾最大的城市，区域跨度大，从平价到高端社区都有，选择面最广。</p></div>
+        <div class="city-block"><h4>Fremont</h4><p>东湾偏南，家庭氛围浓，近年新建案多，性价比在南湾/东湾之间。</p></div>
+        <div class="city-block"><h4>Milpitas</h4><p>这一组城市里价格相对最亲民，新建公寓/联排项目多，通勤南湾方便。</p></div>
+        <div class="city-block"><h4>Dublin</h4><p>Tri-Valley 发展最快的城市之一，新社区多，房屋普遍较新、面积较大。</p></div>
+        <div class="city-block"><h4>Pleasanton</h4><p>Tri-Valley 学区口碑好的代表城市，生活节奏比南湾更悠闲。</p></div>
+        <div class="city-block"><h4>San Ramon</h4><p>规划社区为主，多家大公司在此设有办公点，适合重视社区规划的家庭。</p></div>
+      </div>
+      <p class="market-note">以上为各城市的一般性特点介绍，具体到学校评级、社区细节与在售房源，建议结合最新真实数据一起看——<a href="#contact">预约咨询</a>可以针对你关心的城市做更细的对比。</p>
+    </div>
+
+    <div class="market-detail reveal" id="market-tools">
+      <div class="market-detail-head"><h3>买卖工具</h3></div>
+      <div class="tools-grid">
+        <a class="tool-link" href="https://www.zillow.com/how-much-is-my-home-worth/" target="_blank" rel="noopener">
+          <h4>房屋估值</h4><p>Zillow Zestimate® 免费预估房屋价值</p>
+        </a>
+        <a class="tool-link" href="https://www.bankrate.com/mortgages/mortgage-calculator/" target="_blank" rel="noopener">
+          <h4>月供计算器</h4><p>Bankrate 房贷月供 / 利率 / Amortization 计算</p>
+        </a>
+        <a class="tool-link" href="https://www.nerdwallet.com/article/mortgages/closing-costs-calculator" target="_blank" rel="noopener">
+          <h4>Closing Cost 计算器</h4><p>NerdWallet 买房交割费用逐项估算</p>
+        </a>
+        <a class="tool-link" href="https://www.homelight.com/net-proceeds-calculator" target="_blank" rel="noopener">
+          <h4>Seller Net Proceeds</h4><p>HomeLight 卖房到手金额估算</p>
+        </a>
+        <a class="tool-link" href="https://www.bankrate.com/mortgages/first-time-homebuyer-guide/" target="_blank" rel="noopener">
+          <h4>Buyer Guide</h4><p>Bankrate 首次购房完整流程指南</p>
+        </a>
+        <a class="tool-link" href="#contact">
+          <h4>持有成本 / Holding Cost</h4><p>房产税、保险、HOA 等具体到你目标房源的测算，直接联系陈靖</p>
+        </a>
+      </div>
+      <p class="market-note">以上前 5 个是第三方免费公开工具，估算结果仅供参考，不代表陈靖或 BQ Realty 的意见。想拿到针对某套具体房源、更准确的持有成本与净收益分析，欢迎<a href="#contact">直接联系陈靖</a>。</p>
     </div>
   </div>
 </section>

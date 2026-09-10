@@ -11,6 +11,8 @@
 5. 图片做了压缩（webp 格式），"关于陈靖" lifestyle 大图从 813KB 压到 233KB，整体加载更快。
 6. 表单从"演示提交"改成了真实写入数据库（做法和之前一致），加了隐藏防机器人字段。
 7. 补了 SEO：用真实 logo 生成的网站图标、结构化数据、robots.txt、sitemap.xml。
+8. 新增了私密的"客户咨询后台"（`/dashboard/`），陈靖登录后能直接看到网站表单收到的客户名单，不用给她 Supabase 账号（详见下方"客户咨询后台"一节）。
+9. "湾区市场"板块从占位文字换成了真实内容：10 个核心城市近 3 个月成交中位价与同比变化的数据表、基于这些数据归纳的预算区间参考、10 个城市的基本特征介绍，以及 5 个真实可用的第三方买卖工具链接（房屋估值、月供计算、Closing Cost、Net Proceeds、Buyer Guide）（详见下方"关于湾区市场数据"一节）。
 
 ---
 
@@ -83,12 +85,36 @@ python3 -m http.server 8000
 
 ---
 
+## 客户咨询后台（给陈靖自己看客户留资，不用给她 Supabase 账号）
+
+网站里新加了一个私密页面 `/dashboard/`，登录后能看到网站表单收到的所有客户咨询（跟你在 Supabase Table Editor 里看到的 `leads` 表内容一样），陈靖不需要注册 Supabase 账号、也碰不到你其他客户的项目数据。
+
+**上线前需要做两件事：**
+
+1. 在 Supabase 的 **SQL Editor** 里，把 `supabase/schema.sql` 最下面新加的第 5 部分（`Allow authenticated read` 那一段）跑一遍——如果你是整份文件重新跑一次也没问题，脚本可以重复执行。
+2. 给陈靖建一个登录账号：Supabase 后台左侧 **Authentication → Users → Add user**，填她的邮箱，密码可以先设一个临时的告诉她，让她登录后自己在个人设置里改掉（Supabase Auth 目前没有内置"用户自己改密码"的现成页面，如果她想改密码，最简单的办法是你在 Authentication → Users 里直接帮她重设一个新的）。
+
+设置好之后，陈靖访问 `https://jingchenhomes.vercel.app/dashboard/`（换成你正式域名的话就是 `https://homesbyjingchen.com/dashboard/`），输入邮箱密码登录，就能看到客户咨询列表了；这个页面没有放在导航栏里，也在 `robots.txt` 里可以考虑加一条不让搜索引擎收录（已经在页面里加了 `noindex`）。她登录的账号只能"查看"这一个项目的 `leads` 表，看不到、也改不了任何数据。
+
+---
+
+## 关于"湾区市场"板块的数据
+
+"湾区市场"（首页导航"湾区市场"，锚点 `#market`）里的成交中位价数据来自 Redfin 各城市住房市场页面（Mountain View 交叉核对了 Zillow ZHVI），采集时间是 2026 年 9 月，页面上也标了 "Updated 2026.09" 的字样。**这类市场数据会随时间变化，建议每隔几个月找我或自己去 Redfin/Zillow 核对一次，更新 `index.html` 里 `id="market-report"` 这个表格的数字**，避免网站上挂着过期的价格误导访客。
+
+"预算可以买哪里"和"城市与社区"两块内容是基于这份成交数据和公开的城市基本情况（比如 Cupertino 是 Apple 总部所在地、Mountain View 是 Google 总部所在地这类广为人知的事实）归纳整理的，不是逐字引用某个第三方报告。
+
+"买卖工具"里的 5 个外部链接（Zillow 房屋估值、Bankrate 月供计算器、NerdWallet Closing Cost 计算器、HomeLight Net Proceeds 计算器、Bankrate Buyer Guide）都是发布前逐个打开验证过确实可用的免费公开工具，不是陈靖或 BQ Realty 自己开发的，页面上也用小字做了说明。
+
+---
+
 ## 目录结构
 
 ```
 jingchenhomes2/
 ├── index.html              网站主页
 ├── config.js                Supabase 公开配置
+├── dashboard/index.html    客户咨询后台（陈靖登录查看留资用）
 ├── images/                   页面图片（含 logo.png 完整版、logo-nav.png 导航小图）
 ├── supabase/schema.sql      建表 + 权限脚本
 ├── favicon.svg / .ico / apple-touch-icon.png   用真实 logo 生成的网站图标

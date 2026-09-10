@@ -48,3 +48,18 @@ grant insert on public.leads to anon;
 -- 事件配置一个 Webhook，转发到 Zapier / Make / 邮件服务即可，
 -- 不需要再改这份 schema。
 -- ============================================================
+
+-- ============================================================
+-- 5. 客户咨询后台（/dashboard/）用到的权限
+--    只允许"登录过的用户"（Supabase Auth 账号，比如陈靖）读取 leads 表，
+--    陌生访客（anon）依然只能新增、不能读取——这条不会影响前面的安全策略。
+-- ============================================================
+drop policy if exists "Allow authenticated read" on public.leads;
+create policy "Allow authenticated read"
+  on public.leads
+  for select
+  to authenticated
+  using (true);
+
+grant select on public.leads to authenticated;
+-- ============================================================
