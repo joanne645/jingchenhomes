@@ -3,14 +3,142 @@
     {
       "source": "/images/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/(favicon.ico|favicon.svg|apple-touch-icon.png)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=86400" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/buy",
+      "destination": "/#services",
+      "permanent": true
+    },
+    {
+      "source": "/buy/",
+      "destination": "/#services",
+      "permanent": true
+    },
+    {
+      "source": "/sell",
+      "destination": "/#services",
+      "permanent": true
+    },
+    {
+      "source": "/sell/",
+      "destination": "/#services",
+      "permanent": true
+    },
+    {
+      "source": "/home-search",
+      "destination": "/#homes",
+      "permanent": true
+    },
+    {
+      "source": "/home-search/",
+      "destination": "/#homes",
+      "permanent": true
+    },
+    {
+      "source": "/listings",
+      "destination": "/#sold",
+      "permanent": true
+    },
+    {
+      "source": "/listings/",
+      "destination": "/#sold",
+      "permanent": true
+    },
+    {
+      "source": "/success-stories",
+      "destination": "/#sold",
+      "permanent": true
+    },
+    {
+      "source": "/success-stories/",
+      "destination": "/#sold",
+      "permanent": true
+    },
+    {
+      "source": "/resources",
+      "destination": "/#market-tools",
+      "permanent": true
+    },
+    {
+      "source": "/resources/",
+      "destination": "/#market-tools",
+      "permanent": true
+    },
+    {
+      "source": "/home-valuation",
+      "destination": "/#market-tools",
+      "permanent": true
+    },
+    {
+      "source": "/home-valuation/",
+      "destination": "/#market-tools",
+      "permanent": true
+    },
+    {
+      "source": "/communities/palo-alto",
+      "destination": "/cities/palo-alto.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/palo-alto/",
+      "destination": "/cities/palo-alto.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities",
+      "destination": "/#market-cities",
+      "permanent": true
+    },
+    {
+      "source": "/communities/",
+      "destination": "/#market-cities",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/#about",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/#about",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/communities/:city",
+      "destination": "/#market-cities",
+      "permanent": true
+    },
+    {
+      "source": "/communities/:city/",
+      "destination": "/#market-cities",
+      "permanent": true
     }
   ]
 }
