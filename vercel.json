@@ -140,5 +140,11 @@
       "destination": "/en/#market-cities",
       "permanent": true
     }
+  ],
+  "crons": [
+    {
+      "path": "/api/keepalive",
+      "schedule": "0 16 * * *"
+    }
   ]
 }

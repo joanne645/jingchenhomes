@@ -189,6 +189,13 @@ loginForm.addEventListener('submit', async (e) => {
   loginBtn.textContent = '登录';
 
   if(error){
+    const m = (error.message || '').toLowerCase();
+    let text;
+    if(m.includes('invalid login credentials')) text = '邮箱或密码不对，请再试一次。';
+    else if(m.includes('email not confirmed')) text = '这个账号还没有完成邮箱验证，请在 Supabase 后台 Authentication → Users 里确认该用户。';
+    else if(m.includes('fetch') || m.includes('network') || error.status === 0 || error.status >= 500) text = '暂时连不上数据库（Supabase 项目可能被暂停或正在恢复），请稍后再试。';
+    else text = '登录失败：' + error.message;
+    loginError.textContent = text;
     loginError.style.display = 'block';
     return;
   }

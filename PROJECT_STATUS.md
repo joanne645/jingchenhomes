@@ -24,3 +24,5 @@
 - [ ] 中文页评价区和页脚有两句对内的说明（“请提供陈靖 Google 商家资料…”、“正式网站建议使用…MLS / 摄影素材”），英文页已去掉，中文页是否也去掉待确认
 - [ ] 中文页在手机上有轻微横向滚动（市场报告表格太宽），上线前就存在，待修
 - [ ] Palo Alto 城市页目前只有中文
+- [x] 防止 Supabase 自动暂停：Vercel Cron 每天调用 /api/keepalive（2026-09-24 加上）；上线后到 Vercel → Settings → Cron Jobs 确认，过几天到 Logs 看是否每天都有运行
+- [ ] 恢复后 jinglan727@gmail.com 仍登录不了后台，待查 Authentication → Users
