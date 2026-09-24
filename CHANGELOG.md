@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## 2026-09-24
+- keepalive 改为调用专用的数据库函数 keepalive()：原来读取 leads 表，因为访客没有读取权限会返回 401，现在改成正常返回 200 的查询；新增 schema.sql 第 6 部分
+- 确认后台恢复正常：可以登录，看到 4 条咨询
 - Supabase 免费版项目曾被自动暂停，导致后台登录不上、表单提交不了，用户已手动恢复。新增 api/keepalive.js + Vercel Cron（每天一次）防止再次暂停
 - 客户咨询后台登录失败时显示具体原因（密码错误 / 邮箱未验证 / 连不上数据库），不再只显示“邮箱或密码不对”
 - 域名上线：DNS 改好后，www.homesbyjingchen.com 显示新网站，homesbyjingchen.com 自动跳转到 www

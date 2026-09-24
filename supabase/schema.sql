@@ -63,3 +63,17 @@ create policy "Allow authenticated read"
 
 grant select on public.leads to authenticated;
 -- ============================================================
+
+-- ============================================================
+-- 6. 防止免费版项目因一周无活动被自动暂停（2026-09-24 新增）
+--    网站的 /api/keepalive 每天由 Vercel Cron 调用一次这个函数。
+--    函数只返回当前时间，不读取、不修改任何表，匿名访客调用也拿不到任何数据。
+-- ============================================================
+create or replace function public.keepalive()
+returns timestamptz
+language sql
+stable
+as $$ select now(); $$;
+
+grant execute on function public.keepalive() to anon;
+

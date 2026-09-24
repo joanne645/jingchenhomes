@@ -25,4 +25,5 @@
 - [ ] 中文页在手机上有轻微横向滚动（市场报告表格太宽），上线前就存在，待修
 - [ ] Palo Alto 城市页目前只有中文
 - [x] 防止 Supabase 自动暂停：Vercel Cron 每天调用 /api/keepalive（2026-09-24 加上）；上线后到 Vercel → Settings → Cron Jobs 确认，过几天到 Logs 看是否每天都有运行
-- [ ] 恢复后 jinglan727@gmail.com 仍登录不了后台，待查 Authentication → Users
+- [x] 后台已恢复，可以正常登录（2026-09-24）
+- [ ] 在 Supabase SQL Editor 运行 schema.sql 第 6 部分（创建 keepalive 函数），之后 /api/keepalive 应返回 supabaseStatus 200

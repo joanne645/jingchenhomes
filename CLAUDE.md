@@ -15,7 +15,7 @@
 - `en/index.html`：英文版主页（2026-09-24 新增）。内容与 `index.html` 一一对应，**改中文主页时要同步修改英文页**。图片、config.js、城市页用 `../` 相对路径引用；表单的“意向”选项 value 仍然用中文（买房/卖房/换房/投资/市场 / 其他），这样后台数据统一，source_url 会带 /en/
 - 语言切换：两个页面导航栏里都有 `.lang-switch` 按钮（中文页显示 EN，英文页显示 中文），切换时会保留当前的版块锚点（#about 等）；页面里也加了 hreflang 标签
 - `cities/palo-alto.html`：Palo Alto 城市详情页（主页 `#market-cities` 里的城市方框链接到这里）
-- `api/keepalive.js` + `vercel.json` 的 `crons`：Vercel 每天（UTC 16 点，也就是加州早上 9 点左右，±59 分钟）自动调用一次，对 Supabase 做一次只读查询，防止免费版项目被暂停（2026-09-24 曾被暂停过）。手动测试：打开 /api/keepalive，应该返回 {"ok":true,...}
+- `api/keepalive.js` + `vercel.json` 的 `crons`：Vercel 每天（UTC 16 点，也就是加州早上 9 点左右，±59 分钟）自动调用一次，调用数据库函数 public.keepalive()（见 supabase/schema.sql 第 6 部分，只返回当前时间），防止免费版项目被暂停（2026-09-24 曾被暂停过）。手动测试：打开 /api/keepalive，应该返回 {"ok":true,...}
 - `dashboard/index.html`：客户咨询后台（Supabase Auth 登录后查看 leads，已加 noindex）
 - `images/`：webp/png 图片；`vercel.json` 给图片设置了长期缓存（改图时要换文件名，否则浏览器可能继续显示旧图）
 - `supabase/schema.sql`：建表脚本和 RLS 权限设置

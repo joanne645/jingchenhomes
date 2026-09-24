@@ -7,10 +7,13 @@ const SUPABASE_KEY = 'sb_publishable_2qXy0ASRXF6VzGw732b7qA_hWygji0z';
 module.exports = async (req, res) => {
   res.setHeader('Cache-Control', 'no-store');
   try {
-    const r = await fetch(`${SUPABASE_URL}/rest/v1/leads?select=id&limit=1`, {
-      headers: { apikey: SUPABASE_KEY, Authorization: `Bearer ${SUPABASE_KEY}` },
+    // 调用数据库里的 keepalive() 函数（见 supabase/schema.sql 第 6 部分），只返回当前时间，不读写任何数据
+    const r = await fetch(`${SUPABASE_URL}/rest/v1/rpc/keepalive`, {
+      method: 'POST',
+      headers: { apikey: SUPABASE_KEY, Authorization: `Bearer ${SUPABASE_KEY}`, 'Content-Type': 'application/json' },
+      body: '{}',
     });
-    // 访客没有读取权限时会返回空列表或 401，这都说明数据库已经收到并处理了这次请求
+    // supabaseStatus 为 200 表示数据库正常响应
     res.status(200).json({ ok: true, supabaseStatus: r.status, at: new Date().toISOString() });
   } catch (err) {
     res.status(502).json({ ok: false, error: String(err), at: new Date().toISOString() });
