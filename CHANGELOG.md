@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## 2026-09-24
+- 域名上线：DNS 改好后，www.homesbyjingchen.com 显示新网站，homesbyjingchen.com 自动跳转到 www
+- 新增英文版 /en/，导航栏加 EN / 中文 一键切换（切换时保留当前版块）；加 hreflang；sitemap 加 /en/；旧 WordPress 英文网址跳转改为指向英文版对应版块。英文页去掉了中文页上两句对内的说明（Google 评价请提供链接、建议使用 MLS 素材）
 - 成交案例：给 963 Bellomo Ave（BQ 同事 Bill Qin 的 listing）和 4131 Pleasanton Ave（陈靖自己的 listing）加了封面图，引用 Redfin 上的 listing 主图，图片加载失败时自动隐藏
 - 正式域名改为 www.homesbyjingchen.com（与 Vercel 设置的主网址一致）：更新 index.html 里的 canonical、og:url、og:image、JSON-LD，更新 robots.txt 和 sitemap.xml（新增 Palo Alto 页），Palo Alto 页新增 canonical
 - vercel.json 新增旧 WordPress 网址的永久跳转（/buy/ /sell/ /home-search/ /listings/ /success-stories/ /resources/ /home-valuation/ /communities/* /about/ /contact/）

@@ -11,7 +11,7 @@
 ## 待办 / 待确认
 - [x] 正式域名确定为 homesbyjingchen.com，代码里的网址已统一改好（尚未推送）
 - [x] Vercel 已添加 homesbyjingchen.com（308 跳转到 www）和 www.homesbyjingchen.com；主网址用 www
-- [ ] （等原网站设置人操作，用户本人没有域名权限）在 WordPress 的 DNS 设置里修改：A 记录 @ → 216.198.79.1；CNAME www → cname.vercel-dns.com（不要改 MX 等邮箱记录，也不要更换 nameserver）。改完后，原来的 WordPress 旧站就不再通过这个域名访问
+- [x] DNS 已由原网站设置人改好（2026-09-24）：homesbyjingchen.com 跳转到 www.homesbyjingchen.com，打开的是新网站
 - [x] 域名在 WordPress 管理，DNS 在 WordPress 后台修改
 - [x] 旧 WordPress 站的网址（/buy/、/sell/、/communities/…、/about/、/contact/ 等）已在 vercel.json 里设置 301 跳转到新站对应版块，避免旧链接打不开
 - [ ] 确认旧站的英文内容是否需要保留（新站目前只有中文）
@@ -21,3 +21,6 @@
 - [ ] 仓库暂时保持公开（2026-09-24 决定）。如果以后改成私有：先确认 joanne@1pinnacle.com 已加入 GitHub 账号 joanne645，否则 Vercel 免费版可能拒绝自动部署
 - [ ] 4056 Nevis St（Compass 的 listing，陈靖是买方经纪）因为照片版权问题暂时不放图；如果以后陈靖提供自己有权使用的照片，放到 images/ 目录
 - [ ] 成交案例的封面图目前引用 Redfin、Homes.com、Zillow 的图片地址，对方网站改动后图片可能会失效；长期建议换成 images/ 目录里的本地图片
+- [ ] 中文页评价区和页脚有两句对内的说明（“请提供陈靖 Google 商家资料…”、“正式网站建议使用…MLS / 摄影素材”），英文页已去掉，中文页是否也去掉待确认
+- [ ] 中文页在手机上有轻微横向滚动（市场报告表格太宽），上线前就存在，待修
+- [ ] Palo Alto 城市页目前只有中文

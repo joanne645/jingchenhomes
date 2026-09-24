@@ -22,72 +22,72 @@
   "redirects": [
     {
       "source": "/buy",
-      "destination": "/#services",
+      "destination": "/en/#services",
       "permanent": true
     },
     {
       "source": "/buy/",
-      "destination": "/#services",
+      "destination": "/en/#services",
       "permanent": true
     },
     {
       "source": "/sell",
-      "destination": "/#services",
+      "destination": "/en/#services",
       "permanent": true
     },
     {
       "source": "/sell/",
-      "destination": "/#services",
+      "destination": "/en/#services",
       "permanent": true
     },
     {
       "source": "/home-search",
-      "destination": "/#homes",
+      "destination": "/en/#homes",
       "permanent": true
     },
     {
       "source": "/home-search/",
-      "destination": "/#homes",
+      "destination": "/en/#homes",
       "permanent": true
     },
     {
       "source": "/listings",
-      "destination": "/#sold",
+      "destination": "/en/#sold",
       "permanent": true
     },
     {
       "source": "/listings/",
-      "destination": "/#sold",
+      "destination": "/en/#sold",
       "permanent": true
     },
     {
       "source": "/success-stories",
-      "destination": "/#sold",
+      "destination": "/en/#sold",
       "permanent": true
     },
     {
       "source": "/success-stories/",
-      "destination": "/#sold",
+      "destination": "/en/#sold",
       "permanent": true
     },
     {
       "source": "/resources",
-      "destination": "/#market-tools",
+      "destination": "/en/#market-tools",
       "permanent": true
     },
     {
       "source": "/resources/",
-      "destination": "/#market-tools",
+      "destination": "/en/#market-tools",
       "permanent": true
     },
     {
       "source": "/home-valuation",
-      "destination": "/#market-tools",
+      "destination": "/en/#market-tools",
       "permanent": true
     },
     {
       "source": "/home-valuation/",
-      "destination": "/#market-tools",
+      "destination": "/en/#market-tools",
       "permanent": true
     },
     {
@@ -102,42 +102,42 @@
     },
     {
       "source": "/communities",
-      "destination": "/#market-cities",
+      "destination": "/en/#market-cities",
       "permanent": true
     },
     {
       "source": "/communities/",
-      "destination": "/#market-cities",
+      "destination": "/en/#market-cities",
       "permanent": true
     },
     {
       "source": "/about",
-      "destination": "/#about",
+      "destination": "/en/#about",
       "permanent": true
     },
     {
       "source": "/about/",
-      "destination": "/#about",
+      "destination": "/en/#about",
       "permanent": true
     },
     {
       "source": "/contact",
-      "destination": "/#contact",
+      "destination": "/en/#contact",
       "permanent": true
     },
     {
       "source": "/contact/",
-      "destination": "/#contact",
+      "destination": "/en/#contact",
       "permanent": true
     },
     {
       "source": "/communities/:city",
-      "destination": "/#market-cities",
+      "destination": "/en/#market-cities",
       "permanent": true
     },
     {
       "source": "/communities/:city/",
-      "destination": "/#market-cities",
+      "destination": "/en/#market-cities",
       "permanent": true
     }
   ]
