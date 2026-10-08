@@ -1,0 +1,1193 @@
+{
+ "slug": "mountain-view",
+ "name": "Mountain View",
+ "county": "Santa Clara County",
+ "meta_title": "Mountain View 城市生活指南｜片区、学校、通勤与住房",
+ "meta_description": "Mountain View 买房前的城市指南：车站生活与靠近 North Bayshore、East Whisman 办公区的住法比较，六个生活片区，三个学区的地址查询，Caltrain 与轻轨接驳，联排公寓的使用细节和半天看区路线。",
+ "hero": {
+  "tagline": "Caltrain 与轻轨交汇 · Castro St 步行街 · North Bayshore 办公区 · Stevens Creek Trail",
+  "intro": "Mountain View 夹在 Palo Alto 与 Sunnyvale 之间，南接 Los Altos，北到海湾边的 Shoreline。城里有两座 Caltrain 车站和轻轨起点，Castro St 负责日常吃饭办事，101 以北和东侧 Whisman 是成片办公园区。选房的核心是住在车站旁还是离办公室更近，以及为此接受多大的房子、多少楼梯和噪音。"
+ },
+ "card": "两座 Caltrain 车站加轻轨起点，Castro St 步行街管吃饭办事，101 以北是 Shoreline 公园和办公园区。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Santa Clara County"
+  },
+  {
+   "label": "轨道交通",
+   "value": "Caltrain（Mountain View、San Antonio 两站）；VTA 轻轨 Orange Line（Mountain View、Whisman、Middlefield 等站）"
+  },
+  {
+   "label": "公立学区",
+   "value": "小学与初中：Mountain View Whisman 或 Los Altos School District（按地址）；高中：Mountain View–Los Altos Union HSD"
+  },
+  {
+   "label": "主要干道",
+   "value": "US-101、SR-85、SR-237、Central Expressway、El Camino Real、Shoreline Blvd、San Antonio Rd"
+  }
+ ],
+ "position": {
+  "paragraphs": [
+   "Mountain View 在半岛南端与南湾交界处，西北是 Palo Alto，西南是 Los Altos，东南是 Sunnyvale，北面是海湾湿地和联邦用地 Moffett Field / NASA Ames。城市被三条东西向的线切成几层：最北是 US-101，中间是 Caltrain 铁路与并行的 Central Expressway，南边是 El Camino Real。SR-85 从城市东侧南北穿过，在北端接 101，SR-237 从东边接入通往 Milpitas 和 880 方向。看房时先弄清候选地址落在哪两条线之间，日常出门要跨哪一条，比记住片区名字更有用。",
+   "轨道方面，Caltrain 在城内有 Mountain View（Downtown Transit Center）和 San Antonio 两站，都在 Zone 3。VTA 轻轨 Orange Line 从 Downtown 的 Mountain View 站出发，经 Whisman、Middlefield、Bayshore/NASA 向东到 Sunnyvale、Santa Clara、Milpitas（可换 BART），终点是 San Jose 的 Alum Rock。城里还有两套免费接驳车：全天运行、覆盖商场医院和公园的 Mountain View Community Shuttle，以及只在工作日早晚高峰运行、把车站和办公区连起来的 MVgo。",
+   "生活半径上，城内已经有 Castro St 餐饮街、San Antonio 一带的大型超市群和 Grant Rd 上的 El Camino Health 医院，多数日常不必出城。常被用到的城外去处主要有三类：Los Altos 和 Cupertino 交界处的 Rancho San Antonio 山野步道与 Deer Hollow Farm，Palo Alto 的 Stanford 及其周边，以及 Sunnyvale、Cupertino 方向的其他商圈。"
+  ],
+  "neighbors": [
+   "Palo Alto",
+   "Los Altos",
+   "Sunnyvale",
+   "Moffett Field / NASA Ames（联邦用地）"
+  ],
+  "note": "Mountain View 的城市边界与学区边界不一致：同样是 Mountain View 的地址，小学和初中可能属于 Mountain View Whisman，也可能属于 Los Altos School District。另外，市政府 GIS 把 NASA Ames 单列为联邦用地，Moffett Field 一带不属于普通的市区住宅范围。"
+ },
+ "districts_intro": "片区以市政府 GIS 的 Neighborhoods 图层（市议会 Neighborhoods Committee 分区开会所用的范围）为底，结合居民惯用的社区名称整理。这些名称用来比较生活方式，不是法定边界，也不对应学校招生范围。",
+ "districts": [
+  {
+   "name": "Downtown / Old Mountain View",
+   "tag": "车站与 Castro St 步行范围 · 小地块老房与公寓混合",
+   "where": "大致以 El Camino Real、Shoreline Blvd、Central Expressway 和 SR-85 为界，这是市政府社区应急小组名单里对 Old Mountain View 的描述；在市 GIS 的分区里属于 Central Neighborhoods。Downtown Transit Center 在北端的 Castro St 与 Evelyn Ave 路口。",
+   "housing": "这一带是城里开发较早的部分，街道呈方格，地块偏小。独立屋多为单层或一层半的老房，车库常在后院或只有单车位；其间夹着小型公寓楼、联排和靠近车站的新公寓。买老房要多看地基、管线、电路和屋顶的更新记录，买公寓则重点看车位归属和访客停车。",
+   "daily": "Castro St 从车站向南到 El Camino Real 共七个街区，靠近车站的几段已由市议会在 2022 年立法设为步行街，机动车不能进入，餐馆和咖啡店集中在这里。每周日上午，Caltrain 车站停车场（600 W Evelyn Ave）有全年开放的 Mountain View Farmers' Market。City Hall 与 Center for the Performing Arts 在 500 Castro St，后面是 Pioneer Park，Mountain View Public Library 就在公园旁；Eagle Park Pool 在 650 Franklin St，有泳道。住在这个范围内，这些地方多数可以步行或骑车到。",
+   "commute_school": "Caltrain 的 Local、Limited 和 Express 列车都在 Mountain View 站停靠，轻轨 Orange Line 和 MVgo 四条线路也从这里出发，所以向北去 Palo Alto、San Francisco，向东去 Sunnyvale、North San Jose，或换接驳车去 North Bayshore，都可以不开车。开车则从 Shoreline Blvd 或 Moffett Blvd 上 101，或从 El Camino Real、SR-85 出城。学校方面，这一带一般在 Mountain View Whisman 学区和 MVLA 高中学区内，但具体对应哪所小学要用 MVWSD 的 SchoolLocator 按地址查；附近有 Landels Elementary（W Dana St）和 Graham Middle School（Castro St），校舍近不代表该地址被划入。",
+   "tradeoffs": "换来步行生活的代价主要有三点：房子和院子偏小、老房维护项目多；靠近铁路和 Central Expressway 的街段能听到列车与道口的声音；步行街周边晚间和周末人多，路边停车紧张，访客停车要提前想好。Castro St 在铁路处的平交道口目前仍在使用，市政府计划先做临时改造、关闭该道口的机动车通行，完整的下穿工程尚无开工时间，住在道口两侧的人要留意这件事对开车进出的影响。",
+   "visit": "建议安排一个工作日傍晚和一个周日上午各来一次。傍晚从候选房子走到 Castro St 和车站站台，记下要过几个路口、列车经过时室内外的声音；周日上午看农夫市集期间车站停车场和周边街道的停车情况。再从房子门口开车到 Shoreline Blvd 或 Moffett Blvd 的 101 入口，感受出城的路线。"
+  },
+  {
+   "name": "San Antonio",
+   "tag": "大型超市群与 San Antonio 车站 · 公寓和联排为主",
+   "where": "城市西北角，靠近 Palo Alto 和 Los Altos 的交界，以 San Antonio Rd、El Camino Real、Central Expressway 和 Showers Dr、California St 一带为核心。市 GIS 把这里与东侧合称 San Antonio / Rengstorff；市社区应急小组名单中的 Greater San Antonio 指 Showers Dr 两侧到 San Antonio Circle、California St 一带。",
+   "housing": "以公寓和联排为主，既有早年的花园式公寓，也有车站和商场旁较新的多层公寓与联排。新联排常见三层布局，车库在底层、起居在二层，买前要实际走一遍从车库提东西上楼的路线，并核对 HOA 费用包含什么、访客车位有多少。独立屋在这个片区内不多，更多出现在 Central Expressway 以北的 Monta Loma 和 El Camino Real 以南。",
+   "daily": "日常采购非常集中：Showers Dr 上有 Trader Joe's（590 Showers Dr）和 Walmart Supercenter（600 Showers Dr），San Antonio Rd 上有 Safeway（645 San Antonio Rd），这些门店在 2026 年 10 月的官方门店页面上均显示营业。Community Shuttle 在 San Antonio Center 设站，MVgo 的 C、D 两线也经过 San Antonio。往东沿 California St 或 Latham St 可以骑车到 Rengstorff Park 和那里的 Community Center、新的 Aquatics Center。",
+   "commute_school": "San Antonio Caltrain 站只有 Local 和 Limited 列车停靠，Express 不停，赶快车要去 Mountain View 站或 Palo Alto 站。开车向北走 San Antonio Rd 上 101，向南走 El Camino Real 或 Foothill Expressway 方向。这个片区是城里学区最需要逐户核对的地方：有一部分地址的小学和初中属于 Los Altos School District，另一部分属于 Mountain View Whisman。先用 Santa Clara County Office of Education 指引的县 Assessor 地块资料确认学区，再分别用 LASD 的 school locator 或 MVWSD 的 SchoolLocator 查学校。LASD 的入学页面写明会尽量安排住址对应学校，但名额不足时可能被分流到其他学校。",
+   "tradeoffs": "买菜和车站都近，但片区被 El Camino Real、San Antonio Rd 和 Central Expressway 这些宽马路围着，步行过街的体验因路口而异，带孩子走路要实地看。商场周边车流在周末比较集中。California St 与 Showers Dr 路口的 LASD 新校区在 2026 年进入施工期，学区公告的作业时间为工作日白天，预计 2028 年秋季启用，附近住户这两年会受到施工噪音和围挡影响，建成后会多出一所学校和一块约两英亩的公共公园。",
+   "visit": "周六中午来看商场停车场和 Showers Dr 的车流；再从候选房子步行到 San Antonio 站站台，看是否要穿过大型停车场或等很长的红灯。顺路到 California St 与 Showers Dr 路口看施工范围和围挡，判断与候选房子的距离。"
+  },
+  {
+   "name": "Monta Loma / Rex Manor",
+   "tag": "Central Expressway 以北 · 单层独立屋街区",
+   "where": "Monta Loma 的范围比较清楚：Central Expressway、San Antonio Rd、Middlefield Rd 和 Rengstorff Ave 之间。Rex Manor 在它东侧，市社区应急小组名单描述为 Central Expressway、Farley St、Middlefield Rd、Burgoyne St、Beatrice St 一带。市 GIS 把这一片称为 Monta Loma / Farley / Rock Street。",
+   "housing": "Monta Loma 以二十世纪中叶的单层住宅著称，建造商包括 Joseph Eichler、John Calder Mackay 和 Mardell。这类房子常见平屋顶或缓坡屋顶、大面积玻璃和混凝土地坪，有的原始设计带地暖。检查时要特别关注屋顶排水和防水、地坪内管线、单层玻璃和墙体保温是否更新过，以及历次加建是否有许可。Rex Manor 一带多为同年代的传统牧场式单层独立屋，Middlefield Rd 和 Rengstorff Ave 沿线夹有公寓和联排。",
+   "daily": "Costco（1000 N Rengstorff Ave）在片区北侧，Safeway 在 580 N Rengstorff Ave，San Antonio 的超市群在西南角隔着 Central Expressway。Monta Loma Elementary（Thompson Ave）旁有学校公园；Rengstorff Park 在铁路南侧，要经 Rengstorff Ave 的平交道口过去。向北过 Middlefield Rd 可以接上通往 Shoreline 方向的自行车路线。",
+   "commute_school": "这里到 North Bayshore 的办公区距离短，开车走 Rengstorff Ave 或 San Antonio Rd 跨 101，骑车可以走 Permanente Creek Trail 方向。坐 Caltrain 要先到 San Antonio 站或 Mountain View 站。学校属于 Mountain View Whisman 和 MVLA 高中学区的范围，但具体小学要按地址查：片区内及附近有 Monta Loma Elementary、Theuerkauf Elementary、Crittenden Middle School，另有选择性项目 Stevenson Elementary（PACT），后者靠抽签入学，不按住址划入。",
+   "tradeoffs": "单层、有院子、街道安静，是这一片的主要吸引力；对应的取舍是房龄大、中世纪现代风格的房子维护专业性强，改造成本要事先请熟悉这类结构的检查师估算。靠南的街段贴近铁路和 Central Expressway，靠北和靠东的街段更接近 101 和 Moffett Field 的航线，声音来源不同。Rengstorff Ave 的铁路道口计划改为下穿，施工期间进出片区的路线会受影响。",
+   "visit": "工作日上学时段走一次 Thompson Ave 到 Monta Loma Elementary 的路，看过街和接送车流；再开车经过 Rengstorff Ave 与 Central Expressway 路口，体会道口放下栏杆时的排队。看房时进屋先看屋顶、地面和窗，问清地暖是否仍在使用。"
+  },
+  {
+   "name": "Cuesta Park / Blossom Valley / Waverly Park",
+   "tag": "El Camino Real 以南 · 独立屋街区与医院、高中",
+   "where": "El Camino Real 以南的住宅区。Cuesta Park 一带按市社区应急小组名单是 El Camino Real、Grant Rd、Cuesta Dr、Miramonte Ave 之间；Blossom Valley 泛指更靠南、靠 Springer Rd 和 Miramonte Ave 的几个小区（如 Varsity Park、Springer Meadows）；Grant Rd 以东到 SR-85 和 Stevens Creek 的部分常被称为 Waverly Park，市名单里叫 Cooper 和 South Mountain View。市 GIS 对应 Springer / Cuesta / Phyllis 与 Grant Road / Sylvan Park 两个分区。",
+   "housing": "以独立屋为主。Blossom Valley 多建于 1950 至 1960 年代的果园旧地上，牧场式单层住宅常见，不少已经加建或重建成两层。靠近 Sunnyvale 边界的 Cuernavaca 是 1989 年建成的西班牙风格规划社区。沿 El Camino Real 和 Grant Rd 有公寓、联排和几处移动房屋社区。这一带地块普遍比 Downtown 宽，车库和车道停车比较从容。",
+   "daily": "Cuesta Park 有网球场、烧烤区和儿童游乐场，旁边就是 El Camino Health 的 Mountain View 医院园区（2500 Grant Rd）。Safeway 在 1750 Miramonte Ave；Grant Rd 沿线还有其他超市和商铺，去之前可在地图上确认当前营业的门店。Stevens Creek Trail 在片区东缘，市 GIS 标有 Sleeper Ave、Yuba Dr、El Camino Real 等入口。去 Castro St 要向北过 El Camino Real，开车或骑车都不远。",
+   "commute_school": "开车是主要方式：SR-85 在东侧，向南去 Cupertino、West San Jose，向北接 101；向西经 Grant Rd、Miramonte Ave 进 Los Altos 再到 I-280。去 Caltrain 要先到 Downtown 的 Transit Center。学校要分两层看：片区东部和中部多在 Mountain View Whisman 范围内（附近有 Bubb Elementary、Amy Imai Elementary、Graham Middle School），而靠 Springer Rd 一侧有地址属于 Los Altos School District，Springer Elementary 本身就在 Mountain View 市内。高中都属 MVLA，Mountain View High School 在片区南部，但读哪所高中同样按地址在 MVLA 的 School Locator 上查。",
+   "tradeoffs": "这里换来的是更大的地块、更安静的街道和开车方便的医院、公园；要接受的是离车站和步行街远，日常基本依赖开车，孩子上学和课后活动也多半靠接送。靠近 SR-85、Grant Rd 和 El Camino Real 的街段有持续车声，医院周边偶尔有救护车。同一条街两侧可能分属不同小学学区，这一点在出价前必须拿到学区的书面确认。",
+   "visit": "先到 Cuesta Park 停车走一圈，再沿 Grant Rd 到医院入口看车流；之后开到 SR-85 的入口匝道，试一次早高峰方向。看具体房子时，用手机同时打开 MVWSD 和 LASD 的地址查询工具核对。"
+  },
+  {
+   "name": "Whisman / North Whisman / Wagon Wheel",
+   "tag": "轻轨沿线 · 联排社区与办公区相邻",
+   "where": "城市东北部，SR-85 以东、Central Expressway 以北到 US-101 之间，市 GIS 称为 Moffett / Whisman Road。其中 Wagon Wheel 按市社区应急小组名单是 Middlefield Rd、Fairchild Dr、N Whisman Rd、Tyrella Ave 之间；North Whisman 在 Fairchild Dr、Leong Dr、Easy St、E Middlefield Rd 一带；轻轨 Whisman 站周边是成片的联排和小独立屋社区。Whisman Rd 以东是 East Whisman Precise Plan 覆盖的办公区。",
+   "housing": "以 1990 年代以后建成的联排、小地块独立屋和公寓为主，夹有较早的公寓楼和少量老独立屋。这类社区多数有 HOA，买前要看 HOA 的财务储备、外墙和屋顶由谁负责、车库是并排还是前后串联停放。三层联排的楼梯对推婴儿车或与长辈同住的家庭影响较大，值得在看房时实际上下走几趟。",
+   "daily": "Safeway 在 570 N Shoreline Blvd，靠近片区西缘。Stevens Creek Trail 从片区中间穿过，市 GIS 标有 Easy St、E Middlefield Rd、Moffett Blvd、Central Ave 等入口，向北可骑到 Shoreline，向南到 Downtown 和 El Camino Real。Jose Antonio Vargas Elementary（220 N Whisman Rd）是随 2019–20 学年新边界启用的小学。去 Castro St 可以坐一两站轻轨。",
+   "commute_school": "轻轨 Orange Line 的 Whisman 和 Middlefield 两站在片区内，向西一两站到 Mountain View 站换 Caltrain，向东直达 Sunnyvale 的 Moffett Park 和 Santa Clara、Milpitas。MVgo 的 A 线服务 Whisman、Clyde、Middlefield 一带的办公楼。开车上 101、85、237 的入口都很近，这既是便利也是噪音来源。学校属于 Mountain View Whisman 和 MVLA 范围；MVWSD 现行小学招生边界自 2019–20 学年生效，就是为 Vargas Elementary 启用而调整的，旧资料上的划分可能已经过时，请以 SchoolLocator 当前结果为准。",
+   "tradeoffs": "离东侧办公区、轻轨和高速都近，房龄相对新；但片区被 101、85、237 和 Moffett Field 包围，交通和飞行噪音要按具体街段实地听。这里还涉及 EPA 的 Middlefield-Ellis-Whisman（MEW）Superfund 研究区，历史上的工业溶剂污染了地下水，EPA 对其上方建筑做室内空气取样和防护，买这一带的房子应把查询 EPA 资料列为固定步骤。East Whisman 和 Google 的 Middlefield Park 规划获批了大量住宅和公园，未来多年周边会陆续有工地。",
+   "visit": "从候选房子步行到 Whisman 或 Middlefield 轻轨站，记录路上的照明和过街；在 Easy St 入口上 Stevens Creek Trail 走一段。分别在工作日早高峰和周末午后各停留一会儿，听 101、85 和飞机的声音。问卖方或 HOA 是否收到过 EPA 的通知或做过室内空气检测。"
+  },
+  {
+   "name": "North Bayshore / Shoreline",
+   "tag": "US-101 以北 · 办公园区与海湾公园，住宅在规划中",
+   "where": "US-101 以北到海湾边，市 GIS 称为 North Bayshore。主要道路是 Shoreline Blvd、Charleston Rd、Amphitheatre Pkwy、Garcia Ave、La Avenida 和 Crittenden Ln。北端是 Shoreline at Mountain View 公园、高尔夫球场和 Shoreline Amphitheatre。",
+   "housing": "目前这里以办公楼为主，现有住宅很少。市议会 2023 年 6 月批准了 Google 提交的 North Bayshore Master Plan，允许最多 7,000 套住宅并配套公园，市府文件提到规划中还预留了一块未来学校用地和一份为期三十年的开发协议；市政府项目页面截至 2026 年 10 月没有列出新的进度说明。所以这个片区对买房人的意义，主要是作为通勤目的地和周末去处，而不是当下的选房范围。",
+   "daily": "Shoreline at Mountain View 有可以划船的湖和船屋餐厅、Shoreline Golf Links、历史建筑 Rengstorff House、放风筝的草地和狗公园，海湾步道 Bay Trail 从这里经过。Charleston Park 在办公楼群中间。Costco 在 101 南侧的 N Rengstorff Ave。日常买菜、看病、上学都要回到 101 以南。",
+   "commute_school": "所谓住得离公司近，在这里要具体到办公楼入口：MVgo 的线路名称本身就说明了入口分散，B 线走 Shoreline、La Avenida、Crittenden，C、D 线绕行 Charleston、Garcia 和 San Antonio。从 101 以南过来只有 Shoreline Blvd、Rengstorff Ave、San Antonio Rd 几个跨线点，另有 Stevens Creek Trail 和 Permanente Creek Trail 供步行骑车。先在地图上钉住你实际进出的那栋楼，再比较从候选住宅走哪个跨线点。未来住宅的学校安排属于 Mountain View Whisman 和 MVLA 范围，届时以学区公布为准。",
+   "tradeoffs": "对在这里上班的人，住在 101 以南紧邻跨线点的片区（如 Monta Loma、Rex Manor、Whisman 西侧）通常比等待 North Bayshore 新住宅更现实。要留意两件事：Shoreline Amphitheatre 有演出的晚上，Shoreline Blvd 和 101 匝道车流明显增加；这一带地势低，是查看 FEMA 洪水图层时最需要逐个地址核对的区域，Shoreline 公园本身建在旧垃圾填埋场上。",
+   "visit": "工作日早高峰从 101 以南沿 Shoreline Blvd 开到你的办公楼入口一次，再换 Rengstorff Ave 或 San Antonio Rd 走一次作比较；周末到 Shoreline 湖边和 Stevens Creek Trail 北端走走，感受风和开阔程度。"
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车的骨架很清楚：US-101 贯穿城市北部，向北去 Palo Alto、Redwood City 和 San Francisco，向南去 Sunnyvale、Santa Clara 和 San Jose；SR-85 沿东侧向南通往 Cupertino、West San Jose；SR-237 向东连接 North San Jose、Milpitas 和 I-880。城内东西向主要靠 Central Expressway、El Camino Real 和 Middlefield Rd，南北向靠 San Antonio Rd、Rengstorff Ave、Shoreline Blvd、Moffett Blvd 和 Grant Rd。真正卡人的往往是跨线点：过 101 去 North Bayshore，以及过 Caltrain 铁路的 Castro St、Rengstorff Ave 两个平交道口。",
+   "公共交通以 Downtown Transit Center 为中心。Caltrain 的 Local、Limited、Express 都停 Mountain View 站，San Antonio 站只停 Local 和 Limited。VTA 轻轨 Orange Line 以 Mountain View 站为起点，工作日和周末都有班次，城内设 Whisman、Middlefield 等站，继续向东到 Milpitas 可换 BART。MVgo 是 Mountain View Transportation Management Association 运营的免费班车，只在工作日早晚高峰运行，A、B、C、D 四条线把 Transit Center 与 East Whisman、North Bayshore、San Antonio 连起来。Mountain View Community Shuttle 同样免费，工作日和周末全天运行，有 Red、Gray 两条线约五十个站点，覆盖商场、公园、Senior Center、医院和 Downtown。2026 年 6 月这两套班车曾因运营商的州许可问题停运约一周后恢复，使用前建议看一眼官网公告。",
+   "车站的最后一段路值得单独考虑。市政府在 Castro St 与 Evelyn Ave 路口的 Transit Center 设有免费短时使用的自行车棚，Downtown 还有可租用的自行车柜；站台上的电子车柜由 Caltrain 管理。开车去车站的话，停车位数量和收费以 Caltrain 官网为准，周日上午车站停车场还要让给农夫市集。骑车通勤的人可以利用 Stevens Creek Trail 和 Permanente Creek Trail 两条南北向步道，避开在主干道上过 101。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 Downtown / Old Mountain View 到 North Bayshore 的办公楼",
+    "text": "三种走法：在 Transit Center 坐 MVgo（先确认哪条线经过你那栋楼的入口，B 线走 Shoreline、La Avenida、Crittenden，C、D 线走 Charleston、Garcia）；骑车上 Stevens Creek Trail 向北；或开车沿 Shoreline Blvd 过 101。要核实的是班车首末班与你的上下班时刻是否对得上，以及公司园区内从下车点到工位的距离。"
+   },
+   {
+    "title": "从 Whisman 一带到 San Francisco 或 Palo Alto",
+    "text": "步行到 Whisman 或 Middlefield 轻轨站，坐到 Mountain View 站换 Caltrain。关键环节是轻轨与你要坐的那班 Caltrain 的衔接时间，以及回程晚班轻轨的间隔；也可以直接骑车沿 Stevens Creek Trail 到 Transit Center，把车存进车棚。开车则从 Moffett Blvd 或 Ellis St 附近上 101。"
+   },
+   {
+    "title": "从 Cuesta Park / Waverly Park 到 Cupertino 或 North San Jose",
+    "text": "去 Cupertino 走 SR-85 向南，或走 Grant Rd、Foothill Expressway 等地面道路；去 North San Jose 走 SR-85 向北接 SR-237。这两个方向都以开车为主，需要核实的是 Grant Rd 和 El Camino Real 一带进入 85 匝道前的排队，以及送孩子上学后再上高速的顺路程度。"
+   }
+  ],
+  "verify": [
+   "在地图应用里把起点设为候选房子的门牌，终点设为办公楼的具体入口或停车楼，而不是公司名称；用“出发时间”功能分别查工作日早上和傍晚你实际出门的时刻，连查几个不同的工作日。",
+   "坐 Caltrain 的话，在 Caltrain 官网的车站页面核对你要坐的车次是否停靠该站（San Antonio 站没有 Express），再把家到站台、站台到办公室两段分别计时走一遍。",
+   "依赖 MVgo 或 Community Shuttle 的话，在官网线路页确认站点位置、运行时段和当日公告；MVgo 周末不运行。",
+   "骑车通勤的人，实地骑一次 Stevens Creek Trail 或 Permanente Creek Trail，留意入口位置、夜间照明和雨后情况。",
+   "有演出的日子再查一次：Shoreline Amphitheatre 的演出晚上，Shoreline Blvd 和 101 匝道的情况与平日不同。"
+  ],
+  "links": [
+   {
+    "label": "Caltrain Mountain View 站与时刻",
+    "url": "https://www.caltrain.com/station/mountainview"
+   },
+   {
+    "label": "Caltrain San Antonio 站与时刻",
+    "url": "https://www.caltrain.com/station/sanantonio"
+   },
+   {
+    "label": "VTA 轻轨 Orange Line",
+    "url": "https://www.vta.org/go/routes/orange-line"
+   },
+   {
+    "label": "MVgo 班车线路图",
+    "url": "https://mvgo.org/map/"
+   },
+   {
+    "label": "Mountain View Community Shuttle",
+    "url": "https://mvcommunityshuttle.com"
+   },
+   {
+    "label": "市政府 Transit and Shuttles 页面",
+    "url": "https://www.mountainview.gov/our-city/departments/public-works/roads-and-transportation/transit-and-shuttles?locale=en"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "日常采购在城里分成几个点。San Antonio 一带最集中，Trader Joe's、Walmart Supercenter 和 Safeway 彼此相邻；N Rengstorff Ave 上有 Costco 和另一家 Safeway；N Shoreline Blvd 和 Miramonte Ave 各有一家 Safeway，分别服务东北部和 El Camino Real 以南的住宅区。以上门店都是 2026 年 10 月在各品牌官方门店页面上核对过的地址，其他超市和亚洲食品店请在去之前自行确认是否仍在营业。",
+   "吃饭和办事主要在 Downtown。Castro St 靠近车站的三段已是步行街，餐馆沿街设座；City Hall、Center for the Performing Arts、Mountain View Public Library 和 Pioneer Park 集中在 Castro St 与 Franklin St 之间的市政中心一带。图书馆除了借阅还有儿童故事时间，并可以借用加州州立公园的免费通行证。周日上午的农夫市集在 Caltrain 车站停车场，由 California Farmers' Markets Association 运营，全年开放。",
+   "不开车的家庭成员可以用 Community Shuttle 串起这些地点，它的站点包括 San Antonio Center、Downtown、Senior Center、El Camino Hospital 和几处公园。看房时不妨查一下候选住宅离最近的站点有多远。"
+  ],
+  "places": [
+   {
+    "name": "Castro Street 步行街",
+    "kind": "餐饮与商业街",
+    "where": "Downtown，Evelyn Ave 至 California St 之间的 Castro St",
+    "note": "2022 年 10 月市议会立法设为步行街，机动车不能驶入；永久性改造仍在设计阶段"
+   },
+   {
+    "name": "Mountain View Farmers' Market",
+    "kind": "农夫市集",
+    "where": "Caltrain 车站停车场，600 W Evelyn Ave",
+    "note": "全年每周日上午 9 点至下午 1 点"
+   },
+   {
+    "name": "Trader Joe's",
+    "kind": "超市",
+    "where": "590 Showers Dr，San Antonio",
+    "note": ""
+   },
+   {
+    "name": "Walmart Supercenter",
+    "kind": "超市/百货",
+    "where": "600 Showers Dr，San Antonio",
+    "note": ""
+   },
+   {
+    "name": "Safeway（San Antonio Rd）",
+    "kind": "超市",
+    "where": "645 San Antonio Rd",
+    "note": "城内另有三家：580 N Rengstorff Ave、570 N Shoreline Blvd、1750 Miramonte Ave"
+   },
+   {
+    "name": "Costco Mountain View",
+    "kind": "仓储超市",
+    "where": "1000 N Rengstorff Ave，101 南侧",
+    "note": ""
+   },
+   {
+    "name": "Mountain View Public Library",
+    "kind": "图书馆",
+    "where": "Downtown，Pioneer Park 旁",
+    "note": "儿童故事时间有室内场和 Pioneer Park 户外场"
+   },
+   {
+    "name": "City Hall 与 Center for the Performing Arts",
+    "kind": "市政与演出",
+    "where": "500 Castro St",
+    "note": "Public Works 柜台在 City Hall 一层，可办理自行车柜租用"
+   },
+   {
+    "name": "Community Center（Rengstorff Park）",
+    "kind": "社区中心",
+    "where": "Rengstorff Park 内，Rengstorff Ave 与 Central Expressway 以南",
+    "note": "课程报名与场地安排以市 Recreation 页面为准"
+   },
+   {
+    "name": "Mountain View Senior Center",
+    "kind": "长者中心",
+    "where": "Community Shuttle 设站",
+    "note": "具体课程与开放时间请查市政府页面"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "城里的户外活动有两个层次。一是遍布各片区的社区公园和两座市立泳池；二是北端的 Shoreline at Mountain View 和贯穿全城的 Stevens Creek Trail。市政府的公园部门维护着沿 Stevens Creek、Permanente Creek 和 Hetch Hetchy 输水管用地的约十英里步道，市 GIS 上标出的 Stevens Creek Trail 入口从北到南包括 Crittenden Ln、La Avenida、E Middlefield Rd、Easy St、Moffett Blvd、Central Ave、W Dana St、El Camino Real、Yuba Dr 和 Sleeper Ave 等，住得离某个入口近，孩子和大人就多一条不必与汽车混行的南北通道。",
+   "泳池方面，Rengstorff Park Aquatics Center 在 2025 年 3 月启用，有十条泳道的比赛池、跳板，以及带滑梯和戏水设施、可以从浅滩走入的活动池；Eagle Park Pool 在 Downtown，有八条泳道。游泳课和开放时段随季节调整，以市 Recreation 页面为准。想走山路的话，开车到 Los Altos 与 Cupertino 交界的 Rancho San Antonio，那里有 Deer Hollow Farm 和大片步道，但周末停车场经常很满，保护区不允许带狗。"
+  ],
+  "places": [
+   {
+    "name": "Shoreline at Mountain View",
+    "kind": "区域公园",
+    "where": "N Shoreline Blvd 北端，US-101 以北",
+    "note": "有划船湖与船屋餐厅、Shoreline Golf Links、Rengstorff House、风筝草地和狗公园；建在旧垃圾填埋场上；演出日周边车多"
+   },
+   {
+    "name": "Stevens Creek Trail",
+    "kind": "步道",
+    "where": "沿 Stevens Creek 南北贯穿城市东侧",
+    "note": "多个街道入口，向北接 Shoreline 和 Bay Trail"
+   },
+   {
+    "name": "Rengstorff Park 与 Aquatics Center",
+    "kind": "公园/泳池",
+    "where": "2073 Crisanto Ave（泳池）",
+    "note": "公园内另有 Community Center、滑板场、围栏狗公园和游乐场；泳池 2025 年 3 月启用"
+   },
+   {
+    "name": "Eagle Park 与 Eagle Park Pool",
+    "kind": "公园/泳池",
+    "where": "650 Franklin St，Downtown",
+    "note": "八条泳道，有游泳俱乐部和泳道时段"
+   },
+   {
+    "name": "Cuesta Park",
+    "kind": "公园",
+    "where": "Cuesta Dr 与 Grant Rd 一带，El Camino Hospital 旁",
+    "note": "网球场、烧烤区、游乐场，东西两侧各有停车场"
+   },
+   {
+    "name": "Pioneer Park",
+    "kind": "公园",
+    "where": "City Hall 与图书馆后面",
+    "note": "市中心的草地公园，图书馆在此办户外故事时间"
+   },
+   {
+    "name": "Charleston Park",
+    "kind": "公园",
+    "where": "North Bayshore，Charleston Rd 旁",
+    "note": "办公楼群中间的小型公园"
+   },
+   {
+    "name": "Rancho San Antonio 与 Deer Hollow Farm",
+    "kind": "保护区（城外）",
+    "where": "从 I-280 的 Foothill Blvd 出口经 Cristo Rey Dr 进入",
+    "note": "日出前半小时至日落后半小时开放；不允许带狗；入口有实时车位显示"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "城内的综合医院是 El Camino Health 的 Mountain View 医院园区，在 Grant Rd 与 Hospital Dr 一带，急诊室全天开放，园区内还有癌症中心、化验和多个专科门诊。它位于城市南部，从 Cuesta Park、Waverly Park 过去很近；从 Whisman 或 Monta Loma 过去要穿过 Central Expressway 和 El Camino Real，建议在晚高峰实际开一次。Community Shuttle 在医院设站。",
+   "Sutter Health 旗下的 Palo Alto Medical Foundation 在城里设有 Mountain View Center，提供多科门诊；其他医疗系统在本市和邻近的 Palo Alto、Sunnyvale、Santa Clara 也有门诊点。医疗设施离家近，并不等于它在你的保险网络内。选定候选片区后，请登录自己的保险计划查看网络内的家庭医生、儿科、紧急门诊和急诊分别在哪里，再把这些地址放进通勤和接送路线里一起考虑。"
+  ],
+  "places": [
+   {
+    "name": "El Camino Health Mountain View Hospital（急诊室）",
+    "kind": "医院/急诊",
+    "where": "Mountain View，2500 Grant Rd",
+    "note": "急诊室每天 24 小时开放"
+   },
+   {
+    "name": "El Camino Health Cancer Center 与门诊楼",
+    "kind": "门诊",
+    "where": "Mountain View，2505 Hospital Dr 及 2495 Hospital Dr",
+    "note": "化验与多个专科，工作日开放"
+   },
+   {
+    "name": "Palo Alto Medical Foundation Mountain View Center（Sutter Health）",
+    "kind": "门诊",
+    "where": "Mountain View，El Camino Real 沿线",
+    "note": "就诊科室与是否提供紧急门诊请以 Sutter Health 官网为准"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "Mountain View 的公立学校分属三个学区。小学和初中阶段，城内大部分地址属于 Mountain View Whisman School District（MVWSD，学前班至八年级，九所小学加 Crittenden、Graham 两所初中）；另有一部分地址属于 Los Altos School District（LASD，TK 至八年级），主要在 San Antonio 一带和 El Camino Real 以南靠 Springer Rd 的西侧，LASD 的 Springer Elementary 校舍就在 Mountain View 市内。高中阶段全市都属于 Mountain View–Los Altos Union High School District（MVLA），该学区同时服务 Los Altos 和 Los Altos Hills，设 Mountain View High School、Los Altos High School 和 Alta Vista High School。",
+   "因此在这里看房要按三步核对。第一步确认学区：Santa Clara County Office of Education 的 School District Locator 页面指引用县 Assessor 的地块资料查学区。第二步在对应学区的地址查询工具里查学校：MVWSD 用 SchoolLocator，LASD 用官网的 school locator，MVLA 用 School Locator。第三步联系学区确认入学学年的实际安排。MVWSD 现行小学招生边界自 2019–20 学年生效，是为 Jose Antonio Vargas Elementary 启用并平衡各校人数而调整的。LASD 的入学页面明确说明，学区会尽量把新生安排在住址对应学校，但会考虑兄弟姐妹、校舍容量和班级人数，名额不足时学生可能被安排到其他学校并进入候补。",
+   "LASD 在 Mountain View 境内的新校区值得关注：位于 California St 与 Showers Dr 路口的 11.7 英亩地块，规划为约 600 名学生的 TK–8 校园，并附带一块约两英亩、交给市政府的公共公园。学区页面显示 2026 年春季开始拆除和施工，目标是 2028 年秋季启用。至于由哪所学校使用，截至 2026 年 7 月的本地报道，学区董事会倾向安排 Bullis Charter School 迁入而该校表示反对，尚无定论。这件事可能影响 San Antonio 一带地址将来的就学安排，买房时请直接向 LASD 询问最新决定。"
+  ],
+  "districts": [
+   {
+    "name": "Mountain View Whisman School District",
+    "short": "MVWSD",
+    "grades": "学前班/TK–8",
+    "covers": "城内大部分地址，包括 Downtown、Monta Loma、Rex Manor、Whisman、North Bayshore，以及 El Camino Real 以南的中部和东部",
+    "locator_url": "https://betalocator.decisioninsite.com/?StudyID=214830",
+    "map_url": "https://www.mvwsd.org/UserFiles/Servers/Server_418774/File/Services%20and%20Requests/Register%20a%20student/Residency/Boundary%20Map%20Jan2024.pdf",
+    "enroll_url": "https://www.mvwsd.org/services_and_requests/register_a_student",
+    "note": "SchoolLocator 按住址给出划片学校；边界图为学区 2024 年 1 月版本，现行边界自 2019–20 学年生效。两所选择性学校靠抽签，不按住址划入。"
+   },
+   {
+    "name": "Los Altos School District",
+    "short": "LASD",
+    "grades": "TK–8",
+    "covers": "Mountain View 的一部分地址，主要在 San Antonio 一带和 El Camino Real 以南的西侧；其余服务范围在 Los Altos 等地",
+    "locator_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=64149d5b54ac4f22b4210eb9345c066e",
+    "map_url": "",
+    "enroll_url": "https://www.lasdschools.org/enrollment",
+    "note": "学区说明住址对应学校不是确定安置，名额不足时可能分流并候补；学区表示 2026–27 学年预计不接收跨学区转入。"
+   },
+   {
+    "name": "Mountain View–Los Altos Union High School District",
+    "short": "MVLA",
+    "grades": "9–12",
+    "covers": "Mountain View 全市，以及 Los Altos、Los Altos Hills",
+    "locator_url": "https://residency.school/v2/map/mvla",
+    "map_url": "https://www.mvla.net/school-boundaries",
+    "enroll_url": "https://www.mvla.net/About-MVLA/General-Information/index.html",
+    "note": "按住址在 School Locator 上查对应 Mountain View High School 还是 Los Altos High School；Alta Vista 为另类高中，另有 Freestyle Academy、Middle College 等项目。"
+   }
+  ],
+  "programs": [
+   "MVWSD 的 Gabriela Mistral Elementary 开设西班牙语–英语双语沉浸项目（Dual Immersion），K–5，母语为英语和西班牙语的学生同班学习。",
+   "MVWSD 的 Stevenson Elementary 开设 PACT 项目，强调动手做和项目式学习，鼓励但不强制家长参与课堂志愿服务。",
+   "MVWSD 部分小学设 Transitional Kindergarten（官网学校列表中标为 TK–5 的有 Imai、Mistral、Castro、Monta Loma、Theuerkauf），学区另有学前班项目。",
+   "MVLA 除两所综合高中外，设有面向十一、十二年级的 Freestyle Academy，以及与 Foothill College 合作的 Middle College 和 College Now。",
+   "LASD 的注册覆盖 TK 至八年级，设七所小学以及 Blach Intermediate 和 Egan Junior High。"
+  ],
+  "choice_note": "MVWSD 有两所选择性学校：Mistral（双语沉浸）和 Stevenson（PACT）。它们同样是免学费的公立学校，课程标准与其他小学一致，但入学靠开放注册期间的申请和抽签，没抽中的孩子保留住址对应学校的位置；双语项目一年级以上入学还要经过语言评估。所以买在这两所学校旁边不代表可以就读，住在别的片区也可以申请。LASD 范围内的 Bullis Charter School 是特许学校，招生办法另行规定。",
+  "dashboard_note": "在 California School Dashboard（caschooldashboard.org）搜索学区或学校名称，可以看到学业、长期缺勤、停学率、英语学习者进步等多项指标及各学生群体的情况，每份报告都标有年份。截至 2026 年 10 月，可查到的最新完整报告应为 2025 Dashboard（对应 2024–25 学年），新一年的报告通常在年底发布，请以页面显示的年份为准。比较时请同时看 MVWSD、LASD 和 MVLA 三个学区，并对照具体学校，不要只看一个综合印象。",
+  "trustee_note": "学区董事的选举分区（Trustee Area）与学校招生边界是两回事。查询工具或地图上如果同时出现选区信息，请只读取学校招生范围那一层。",
+  "safe_routes": {
+   "text": "市政府设有 Safe Routes to School 项目，网站提供 Suggested Routes to School 路线图，覆盖 Bubb、Castro 与 Mistral、Imai、Landels、Monta Loma、Stevenson 与 Theuerkauf、Vargas、Springer 等小学，Crittenden、Graham 两所初中，以及 Los Altos High School、Mountain View 与 Alta Vista 高中。项目页面还列出 2026–27 学年的自行车安全活动，并说明全市有 21 处由市府出资的路口护导员。路线图用来规划步行和骑行，不代表入学资格。",
+   "url": "https://www.mountainview.gov/our-city/departments/public-works/transportation/walking-and-bicycling-in-mountain-view/safe-routes-to-schools/safe-route-maps"
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "Mountain View 的住房结构里，公寓和联排占比高，独立屋集中在几个成片的街区。按年代看大致有三层：Downtown 周边是较早的小地块住宅和小型公寓；Monta Loma、Rex Manor 和 El Camino Real 以南的 Blossom Valley、Cuesta Park 一带是二十世纪中叶的单层独立屋；1990 年代以后，Whisman 轻轨站周边、San Antonio 和主干道沿线陆续建成联排、小地块独立屋和多层公寓。此外城里有几处移动房屋社区，那是另一种产权和费用结构，需要单独了解。",
+   "联排和公寓要把房子本身和每天的门到门路线放在一起看。三层联排常见的是底层车库、二层起居、三层卧室，买菜上楼、老人和幼儿上下楼是每天都会发生的事；车库是并排两车位还是前后串联，决定了两辆车早上怎么出门；访客车位和街边停车规则决定了朋友来访是否方便。HOA 方面，要看月费包含哪些项目、储备金是否充足、近年有没有特别摊派，以及对出租、电动车充电、装修的规定。离车站或办公楼近的社区，往往也离铁路、轻轨或高速更近，隔音和窗户的状况值得多花时间检查。",
+   "独立屋的检查重点随年代不同。Monta Loma 的 Eichler、Mackay 等中世纪现代住宅要看屋顶、地坪内管线和玻璃；传统牧场式老房要看地基、下水主管、电路容量和历次加建的许可。靠近 101 以北和 Whisman 东侧的房子，还要加上洪水图层和 EPA 研究区这两项按地址的查询。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "集中在 Monta Loma、Rex Manor、Old Mountain View 和 El Camino Real 以南的 Cuesta Park、Blossom Valley、Waverly Park。北边多为单层中世纪住宅，南边地块更宽、加建和重建更多。老房的维护项目和许可记录是出价前的重点。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "Whisman 轻轨站周边、San Antonio 一带以及 Middlefield Rd、Rengstorff Ave、El Camino Real 沿线常见。多为两到三层带车库，有 HOA。要实地走楼梯、试停车，并读完整的 HOA 文件。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "分布在 Downtown 车站周边、San Antonio 和 El Camino Real 沿线，既有早年的花园式小区，也有较新的电梯公寓。重点核对车位产权、储物空间、HOA 储备金和保险，以及楼栋朝向与铁路、主干道的关系。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "房价之外，每套房的持有成本都要单独算。加州房产税以购入价为基础，按 Prop 13 的基础税率加上地方债券和各类特别评估，Mountain View 的地址因所属小学学区不同（MVWSD 或 LASD），税单上的学区债券和地块税项目也不同，必须看具体房源的税单。城里多数社区不是以 Mello-Roos 著称的新开发区，但较新的项目是否设有 CFD 或其他特别评估，仍要逐个在税单和产权初步报告里核对。",
+   "联排和公寓要加上 HOA 月费及可能的特别摊派；老独立屋要预留屋顶、管线、地基、电路等更新的预算；保险方面，位于 FEMA 洪水区的房子贷款时可能被要求购买洪水保险，地震保险则是另行选择的项目，都应在出价前拿到报价。通勤成本也是持有成本的一部分：一个靠车站的小户型和一个要两辆车的大房子，长期开销的构成很不一样。如果考虑购买两个单元以上的出租物业，Mountain View 有租金稳定法规 CSFRA：1995 年以前建成的出租单元受租金管制和驱逐保护，1995 至 2017 年间建成的受驱逐保护，移动房屋另有专门条例，投资前应向市政府 Rent Stabilization Division 确认该物业的适用情况。"
+  ],
+  "checklist": [
+   "最近一年的房产税单：逐项看基础税、学区和市县债券、地块税及任何特别评估或 CFD。",
+   "HOA 全套文件：预算、储备金研究、近两年会议记录、特别摊派记录、保险证明，以及停车、出租和充电桩规定。",
+   "保险报价：房屋险、洪水险（先在 FEMA 地图上查该地址的分区）和地震险各要一份。",
+   "检查报告与许可记录：屋顶、地基、下水管、电路；加建和改造是否有市政府许可。",
+   "学区的书面确认：该地址在目标入学学年对应的小学、初中、高中，以及是否存在名额分流。",
+   "自然灾害披露报告（NHD）和环境资料：洪水区、液化区，以及是否位于 EPA MEW 研究区范围。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "气候上，Mountain View 靠近海湾南端，夏季比内陆的 South San Jose 或 Tri-Valley 温和，午后常有从海湾吹来的风，北部 Shoreline 一带风感更明显；南部靠 Los Altos 的街区树荫更多、风小一些。冬季是雨季，其余时间干燥。老房子不少没有中央空调，看房时可以问一下夏天的室内情况。",
+   "噪音来源比较多样，而且彼此叠加。Caltrain 沿 Central Expressway 横穿城市，Castro St 和 Rengstorff Ave 两处仍是平交道口；轻轨从 Downtown 沿 Whisman 向东北行驶；US-101、SR-85、SR-237 在城市东北部交汇；Moffett Federal Airfield 紧邻城市东北角，有飞行活动；Shoreline Amphitheatre 在演出季的晚上会带来车流和声音。这些都不能靠地图判断程度，只能在不同时段到具体地址听。",
+   "按地址需要查询的环境资料主要有四类。洪水：FEMA 洪水图层在 101 以北以及 Permanente Creek、Stevens Creek 等水道沿线最需要逐户核对，市政府 GIS 也提供洪水区图层。地质：整座城市位于湾区平原，California Geological Survey 的地震灾害区图标有液化区，按地址在 EQ Zapp 上查。地下水污染：城市东北部的 Middlefield-Ellis-Whisman（MEW）是 EPA 的 Superfund 研究区，历史上的半导体和电子制造使三氯乙烯（TCE）等挥发性有机物进入地下水，污染带从 E Middlefield Rd 以南向北延伸到 Moffett Field；EPA 的做法是在污染带上方的建筑做室内空气取样、对新建筑要求防护措施，其 2019 年的五年评估报告提到 Evandale Ave、Leong Dr 一带住宅区也在评估范围内。买这一带的房子，应查阅 EPA 的 MEW 页面并询问该物业是否做过取样或装有防护系统。旧填埋场：Shoreline 公园建在旧垃圾填埋场上，由市政府长期管理。这些图层说明的是需要进一步了解的事项，不等于对某个地址下结论。"
+  ],
+  "tools": [
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示联邦洪水保险费率图上的分区，影响贷款是否要求洪水保险。本市通常需要查看的是 101 以北，以及 Permanente Creek、Stevens Creek 沿线的地址。"
+   },
+   {
+    "label": "CGS EQ Zapp 地震灾害区查询",
+    "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+    "what": "按地址显示是否位于州划定的液化区、断层带或滑坡区。本市主要关注液化区图层。"
+   },
+   {
+    "label": "EPA MEW Superfund 研究区五年评估报告",
+    "url": "https://semspub.epa.gov/work/09/100018492.pdf",
+    "what": "说明污染带范围、涉及的街道、室内空气取样与防护措施。适用于 Whisman、North Whisman、Wagon Wheel 及 Moffett Field 附近的地址；最新情况请向 EPA Region 9 查询。"
+   },
+   {
+    "label": "Mountain View 市政府 GIS 公开图层目录",
+    "url": "https://maps.mountainview.gov/arcgis/rest/services/Public?f=json",
+    "what": "市政府发布的地图服务，包含 FEMA 洪水区、分区规划（Zoning）、社区分区、自行车与步道、地块等图层，可在市府地图应用中叠加查看。"
+   },
+   {
+    "label": "Santa Clara County 学区查询指引",
+    "url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx",
+    "what": "说明如何用县 Assessor 的地块资料确认一个地址属于哪个学区；在本市用于分清 MVWSD 与 LASD。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "对居住影响最直接的是两处铁路道口。Rengstorff Ave 道口的下穿工程是市政府优先推进的项目：方案是把 Rengstorff Ave 和它与 Central Expressway 的路口下沉，铁轨保持现有高度并架桥通过，Crisanto Ave 改为尽端路，Leland Ave 另接新路，并新建一座跨 Rengstorff Ave 的步行自行车桥。2026 年 9 月 Caltrain 就该项目提交了环境豁免通知，同年 10 月的 Caltrain 董事会文件显示设计完成到约 65%，后续的最终设计和施工将转由 VTA 负责交付；项目资金仍有缺口，开工时间尚未公布。Castro St 道口的完整下穿方案因资金不足没有时间表，市政府转而设计临时改造：关闭该道口的机动车通行、保留行人和自行车平面过轨、Evelyn Ave 改为西向单行。",
+   "Downtown 方面，Castro St 三个街段在 2022 年 10 月被立法设为步行街，目前靠护柱和栏杆封闭，永久性的街道改造还要经过概念设计、最终设计和施工几个阶段；Downtown Precise Plan 的更新原计划在 2026 年前后完成，进度请查市政府页面。Moffett Blvd Precise Plan 覆盖 Central Expressway 到 SR-85 之间的 Moffett Blvd 沿线，市议会在 2025 年选定了较高强度的混合用途方案，但 2026 年 1 月因州法 SB 79 暂停，市府称 2027 年恢复。R3 多户住宅分区的更新在 2026 年 2 月获得市议会方向性意见，正式通过暂定在 2026 年下半年，它会影响公寓和联排地块将来能建多高、多密。",
+   "更长期的变化在两个办公区。North Bayshore Master Plan（2023 年 6 月批准，最多 7,000 套住宅）和 East Whisman 的 Middlefield Park Master Plan（2022 年 11 月批准，最多 1,900 套住宅和 10 英亩公园）都由 Google 提出，两个项目的市政府页面在 2026 年 10 月都没有填写当前进度。对买房人来说，合理的预期是：这些地方会在很多年里分期建设，周边住户既可能得到新的公园、商店和学校，也要接受持续的工地和车流变化；不要把尚未开工的配套当作已有条件来出价。"
+  ],
+  "items": [
+   {
+    "name": "Rengstorff Avenue Grade Separation",
+    "status": "截至 2026 年 10 月：设计约 65%，交付机构转为 VTA，资金有缺口，开工时间未公布",
+    "text": "Rengstorff Ave 与 Central Expressway 路口下沉、铁路架桥通过，Crisanto Ave 改尽端路并建步行自行车桥。建成后 Monta Loma、Rex Manor 与铁路南侧之间的通行不再受道口影响，施工期间周边绕行和噪音会持续数年。",
+    "url": "https://ceqanet.lci.ca.gov/2026090201"
+   },
+   {
+    "name": "Castro Street 道口临时改造与 Transit Center 下穿",
+    "status": "完整下穿工程无时间表；截至 2026 年 10 月，临时改造在设计中",
+    "text": "计划关闭 Castro St 铁路道口的机动车通行，保留行人和自行车过轨，Evelyn Ave 改西向单行。影响 Downtown 北端和 Moffett Blvd 一侧住户开车进出的路线。",
+    "url": "https://www.mountainview.gov/our-city/departments/public-works/city-projects-bids/castro-grade-separation-and-access-project-gsap"
+   },
+   {
+    "name": "LASD San Antonio 新校区",
+    "status": "2026 年春季开始拆除与施工，目标 2028 年秋季启用；使用学校未定",
+    "text": "California St 与 Showers Dr 路口，约 600 名学生的 TK–8 校园、运动场和约两英亩公共公园。施工期影响附近住户，建成后改变 San Antonio 一带的学校与公园格局。",
+    "url": "https://www.lasdschools.org/sanantoniocampus"
+   },
+   {
+    "name": "North Bayshore Master Plan 与 Middlefield Park Master Plan",
+    "status": "分别于 2023 年 6 月和 2022 年 11 月获市议会批准；市政府页面未列当前进度",
+    "text": "在 101 以北和 East Whisman 的办公区内分期新增住宅、公园和商业。属于多年期规划，实际开工节奏需持续跟进。",
+    "url": "https://mountainview.gov/our-city/departments/community-development/planning/active-projects/google-projects/north-bayshore-master-plan?locale=en"
+   },
+   {
+    "name": "R3 分区更新与 Moffett Boulevard Precise Plan",
+    "status": "R3：暂定 2026 年下半年通过；Moffett Blvd：2026 年 1 月暂停，预计 2027 年恢复",
+    "text": "前者调整全市多户住宅地块的建设标准，后者规划 Downtown 以北 Moffett Blvd 沿线的混合用途开发。买在这些地块旁边的独立屋或联排，应了解隔壁地块将来允许建什么。",
+    "url": "https://collaborate.mountainview.gov/r3update"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "这条半天路线从车站出发，先看 Downtown 的步行生活，再向西看 San Antonio 的超市群和学区交界，向北看 Monta Loma 的单层住宅和跨 101 的通勤点，然后到东侧 Whisman 的联排与轻轨，最后回到 El Camino Real 以南的独立屋街区和医院。建议选一个工作日的下午出发，这样能在傍晚赶上通勤车流和列车密集的时段。",
+  "stops": [
+   {
+    "name": "第1站 Downtown Transit Center 与 Castro St",
+    "text": "把车停在 Downtown 的市立停车场，走到站台，看 Caltrain、轻轨和 MVgo 的上下车位置，再沿步行街走到 City Hall。记录列车经过和道口响铃的声音传到几个街区之外。"
+   },
+   {
+    "name": "第2站 Old Mountain View 住宅街与 Eagle Park",
+    "text": "从 Castro St 向西或向东走进住宅街，看地块宽度、车库位置和路边停车占用情况；走到 Eagle Park Pool、图书馆和 Pioneer Park，估算从候选街道步行过去的实际路线。"
+   },
+   {
+    "name": "第3站 San Antonio：Showers Dr 与 California St",
+    "text": "看 Trader Joe's、Walmart、Safeway 之间的步行动线和停车场车流，走到 San Antonio 站站台；在 California St 与 Showers Dr 路口看 LASD 新校区的施工范围。在这里用手机试查两三个门牌分别属于 LASD 还是 MVWSD。"
+   },
+   {
+    "name": "第4站 Monta Loma 与 Rengstorff Ave 道口",
+    "text": "在 Thompson Ave 一带慢慢开一圈，看中世纪住宅的屋顶和立面保养状况；然后从 Rengstorff Ave 过铁路道口，体会与 Central Expressway 路口的排队，并留意将来施工的范围。"
+   },
+   {
+    "name": "第5站 过 101 到 North Bayshore",
+    "text": "沿 Rengstorff Ave 或 Shoreline Blvd 跨 101，开到你或家人实际上班的那栋楼的入口，再从另一个跨线点返回。时间允许的话到 Shoreline 湖边看一眼，感受风和开阔度。"
+   },
+   {
+    "name": "第6站 Whisman：轻轨站、Vargas Elementary 与 Stevens Creek Trail",
+    "text": "在 Whisman 或 Middlefield 轻轨站附近停车，走进联排社区看楼梯、车库和访客车位；到 N Whisman Rd 看 Vargas Elementary 周边，再从 Easy St 入口上 Stevens Creek Trail 走一小段。停留时注意 101、85 和飞机的声音。"
+   },
+   {
+    "name": "第7站 Cuesta Park、Grant Rd 与医院",
+    "text": "穿过 El Camino Real 向南，在 Cuesta Park 停车走一圈，看周边独立屋的地块和街道宽度；沿 Grant Rd 经过 El Camino Health 医院入口，再开到 SR-85 的匝道，结束时正好能看到傍晚的出城车流。"
+   }
+  ],
+  "questions": [
+   "这个地址的小学和初中属于 MVWSD 还是 LASD，高中对应 Mountain View High School 还是 Los Altos High School，目标入学学年是否有名额分流。",
+   "从门口到我实际上班的那栋楼入口，开车、班车和骑车各走哪条路，要过哪个 101 跨线点或铁路道口。",
+   "房子离 Caltrain、轻轨、101、85、237 和 Moffett Field 航线各有多远，关窗和开窗时卧室里能听到什么。",
+   "这是联排或公寓的话：车库怎么停两辆车，访客停哪里，从车库到厨房要上几段楼梯，HOA 月费含什么、储备金和特别摊派记录如何。",
+   "这个地址在 FEMA 洪水图、CGS 液化区图上的位置，是否在 EPA MEW 研究区范围内，有没有做过室内空气取样。",
+   "老房的屋顶、地基、下水管、电路何时更新过，加建是否有许可；Eichler 类住宅的地暖和地坪管线现状如何。",
+   "附近有没有已批准或施工中的项目，例如道口下穿、新校区、相邻地块的多户住宅开发，施工期会持续到什么时候。"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Sunnyvale",
+   "slug": "sunnyvale",
+   "text": "两城相邻，都有 Caltrain 和轻轨。Sunnyvale 面积更大，独立屋街区选择更多，学区组合更复杂；Mountain View 有 Castro St 步行街，离 North Bayshore 更近。在 Moffett Park 上班的人，可把 Whisman 与 Sunnyvale 北部放在一起比门到门路线。"
+  },
+  {
+   "city": "Palo Alto",
+   "slug": "palo-alto",
+   "text": "Palo Alto 同样沿 Caltrain 和 101，有两个步行商业区和自己的统一学区。Mountain View 的联排和公寓供应更多，但学区构成不同，住宅区也更靠近高速交汇处和办公园区。San Antonio 一带与 Palo Alto 南部只隔一条 San Antonio Rd，值得一起看。"
+  },
+  {
+   "city": "Cupertino",
+   "slug": "cupertino",
+   "text": "Cupertino 没有 Caltrain 和轻轨，日常以开车为主，多数家庭从独立屋和上学路线出发来选它。家里有人坐 Caltrain 或在 North Bayshore 上班，Mountain View 的路线更短；工作在 SR-85 以南、想要更大院子，可把 Cuesta Park 与 Cupertino 对比。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "Mountain View Station（Downtown Transit Center）",
+    "system": "Caltrain",
+    "address": "600 W Evelyn Ave, Mountain View, CA"
+   },
+   {
+    "name": "San Antonio Station",
+    "system": "Caltrain",
+    "address": "Showers Dr, Mountain View, CA"
+   },
+   {
+    "name": "Mountain View Station",
+    "system": "VTA Light Rail",
+    "address": "Castro St & W Evelyn Ave, Mountain View, CA"
+   },
+   {
+    "name": "Whisman Station",
+    "system": "VTA Light Rail",
+    "address": "Whisman Station, Mountain View, CA"
+   },
+   {
+    "name": "Middlefield Station",
+    "system": "VTA Light Rail",
+    "address": "E Middlefield Rd, Mountain View, CA"
+   },
+   {
+    "name": "Bayshore/NASA Station",
+    "system": "VTA Light Rail",
+    "address": "Bayshore/NASA Station, Mountain View, CA"
+   }
+  ],
+  "pois": [
+   {
+    "name": "Mountain View City Hall",
+    "category": "community",
+    "address": "500 Castro St, Mountain View, CA 94041",
+    "district": "Downtown / Old Mountain View"
+   },
+   {
+    "name": "Mountain View Farmers' Market",
+    "category": "grocery",
+    "address": "600 W Evelyn Ave, Mountain View, CA",
+    "district": "Downtown / Old Mountain View"
+   },
+   {
+    "name": "Eagle Park Pool",
+    "category": "park",
+    "address": "650 Franklin St, Mountain View, CA 94041",
+    "district": "Downtown / Old Mountain View"
+   },
+   {
+    "name": "Rengstorff Park Aquatics Center",
+    "category": "park",
+    "address": "2073 Crisanto Ave, Mountain View, CA 94040",
+    "district": "San Antonio"
+   },
+   {
+    "name": "Trader Joe's",
+    "category": "grocery",
+    "address": "590 Showers Dr, Mountain View, CA 94040",
+    "district": "San Antonio"
+   },
+   {
+    "name": "Walmart Supercenter",
+    "category": "shopping",
+    "address": "600 Showers Dr, Mountain View, CA 94040",
+    "district": "San Antonio"
+   },
+   {
+    "name": "Safeway",
+    "category": "grocery",
+    "address": "645 San Antonio Rd, Mountain View, CA 94040",
+    "district": "San Antonio"
+   },
+   {
+    "name": "Costco Wholesale",
+    "category": "grocery",
+    "address": "1000 N Rengstorff Ave, Mountain View, CA 94043",
+    "district": "Monta Loma / Rex Manor"
+   },
+   {
+    "name": "Safeway",
+    "category": "grocery",
+    "address": "580 N Rengstorff Ave, Mountain View, CA 94043",
+    "district": "Monta Loma / Rex Manor"
+   },
+   {
+    "name": "Safeway",
+    "category": "grocery",
+    "address": "570 N Shoreline Blvd, Mountain View, CA 94043",
+    "district": "Whisman / North Whisman / Wagon Wheel"
+   },
+   {
+    "name": "Safeway",
+    "category": "grocery",
+    "address": "1750 Miramonte Ave, Mountain View, CA 94040",
+    "district": "Cuesta Park / Blossom Valley / Waverly Park"
+   },
+   {
+    "name": "El Camino Hospital",
+    "category": "hospital",
+    "address": "2500 Grant Rd, Mountain View, CA 94040",
+    "district": "Cuesta Park / Blossom Valley / Waverly Park"
+   },
+   {
+    "name": "Mountain View–Los Altos Union High School District Office",
+    "category": "school_admin",
+    "address": "1299 Bryant Ave, Mountain View, CA 94040",
+    "district": "Cuesta Park / Blossom Valley / Waverly Park"
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "Downtown / Old Mountain View",
+    "anchor": "Castro St & W Dana St, Mountain View, CA"
+   },
+   {
+    "district": "San Antonio",
+    "anchor": "California St & Showers Dr, Mountain View, CA"
+   },
+   {
+    "district": "Monta Loma / Rex Manor",
+    "anchor": "460 Thompson Ave, Mountain View, CA"
+   },
+   {
+    "district": "Cuesta Park / Blossom Valley / Waverly Park",
+    "anchor": "Grant Rd & Cuesta Dr, Mountain View, CA"
+   },
+   {
+    "district": "Whisman / North Whisman / Wagon Wheel",
+    "anchor": "220 N Whisman Rd, Mountain View, CA"
+   },
+   {
+    "district": "North Bayshore / Shoreline",
+    "anchor": "N Shoreline Blvd & Charleston Rd, Mountain View, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "Mountain View 市政府 GIS 公开图层（社区分区、Zoning、洪水区、自行车与步道）",
+    "kind": "city_gis",
+    "url": "https://maps.mountainview.gov/arcgis/rest/services/Public?f=json",
+    "note": "City of Mountain View ArcGIS 服务目录；社区分区见 Neighborhoods 图层"
+   },
+   {
+    "label": "Mountain View 市立公园互动地图",
+    "kind": "parks",
+    "url": "https://experience.arcgis.com/experience/62d21caf6284401bac58857bab7629ae/",
+    "note": "City of Mountain View Community Services"
+   },
+   {
+    "label": "MVWSD 招生边界图（PDF）",
+    "kind": "school_boundary",
+    "url": "https://www.mvwsd.org/UserFiles/Servers/Server_418774/File/Services%20and%20Requests/Register%20a%20student/Residency/Boundary%20Map%20Jan2024.pdf",
+    "note": "Mountain View Whisman School District，文件名标注 2024 年 1 月"
+   },
+   {
+    "label": "MVWSD SchoolLocator 地址查询",
+    "kind": "school_boundary",
+    "url": "https://betalocator.decisioninsite.com/?StudyID=214830",
+    "note": "学区官网链接的地址查询工具"
+   },
+   {
+    "label": "LASD School Locator",
+    "kind": "school_boundary",
+    "url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=64149d5b54ac4f22b4210eb9345c066e",
+    "note": "Los Altos School District 官网链接的地图查询"
+   },
+   {
+    "label": "MVLA School Locator",
+    "kind": "school_boundary",
+    "url": "https://residency.school/v2/map/mvla",
+    "note": "MVLA 官网 School Boundaries 页面跳转的地址查询"
+   },
+   {
+    "label": "Suggested Routes to School 路线图",
+    "kind": "safe_routes",
+    "url": "https://www.mountainview.gov/our-city/departments/public-works/transportation/walking-and-bicycling-in-mountain-view/safe-routes-to-schools/safe-route-maps",
+    "note": "City of Mountain View Safe Routes to School"
+   },
+   {
+    "label": "MVgo 班车系统图",
+    "kind": "transit",
+    "url": "https://mvgo.org/map/",
+    "note": "Mountain View Transportation Management Association"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "市 GIS Neighborhoods 图层（社区分区名称）",
+   "url": "https://maps.mountainview.gov/arcgis/rest/services/Public/Neighborhoods/MapServer/0/query?where=1%3D1&outFields=*&returnGeometry=false&f=json",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市 GIS 公开服务目录",
+   "url": "https://maps.mountainview.gov/arcgis/rest/services/Public?f=json",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Council Neighborhoods Committee 页面",
+   "url": "https://www.mountainview.gov/our-city/city-council/councilmembers/council-subcommittees/neighborhoods-subcommittee",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "社区 CERT 名单（各社区范围描述，2025-09-17）",
+   "url": "https://www.mountainview.gov/home/showpublisheddocument/12168/638936910196970000",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Castro Grade Separation and Access Project 页面",
+   "url": "https://www.mountainview.gov/our-city/departments/public-works/city-projects-bids/castro-grade-separation-and-access-project-gsap",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Rengstorff 下穿工程环境豁免通知（2026-09-03）",
+   "url": "https://ceqanet.lci.ca.gov/2026090201",
+   "org": "Peninsula Corridor JPB / CEQAnet",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain 董事会 2026-10-01 关于 Rengstorff 项目的材料",
+   "url": "https://www.caltrain.com/media/37906/download",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Rengstorff 项目资金缺口报道（2025-11-18）",
+   "url": "https://www.mv-voice.com/transportation/2025/11/18/mountain-view-faces-99m-funding-gap-for-rengstorff-train-crossing-project/",
+   "org": "Mountain View Voice",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "两处道口项目资金与优先顺序报道（2024-01-24）",
+   "url": "https://www.mv-voice.com/city-government/2024/01/24/major-funding-gap-snarls-plans-for-caltrain-grade-separation-projects-in-mountain-view/",
+   "org": "Mountain View Voice",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Transit and Shuttles 页面",
+   "url": "https://www.mountainview.gov/our-city/departments/public-works/roads-and-transportation/transit-and-shuttles?locale=en",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVgo 官网",
+   "url": "https://mvgo.org",
+   "org": "Mountain View TMA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVgo 系统图",
+   "url": "https://mvgo.org/map/",
+   "org": "Mountain View TMA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Mountain View Community Shuttle 官网",
+   "url": "https://mvcommunityshuttle.com",
+   "org": "City of Mountain View / Community Shuttle",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "班车停运后恢复的报道（2026-06-26）",
+   "url": "https://www.mv-voice.com/transportation/2026/06/26/mountain-view-shuttles-resume-service-after-license-snafu/",
+   "org": "Mountain View Voice",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain Mountain View 站",
+   "url": "https://www.caltrain.com/station/mountainview",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain San Antonio 站",
+   "url": "https://www.caltrain.com/station/sanantonio",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Orange Line 线路页",
+   "url": "https://www.vta.org/go/routes/orange-line",
+   "org": "VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Orange Line 时刻表 PDF",
+   "url": "https://www.vta.org/sites/default/files/route_schedule_pdfs/upcoming/route_Ornge/route_Ornge_schedule.pdf",
+   "org": "VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Orange Line 车站顺序与换乘",
+   "url": "https://en.wikipedia.org/wiki/Orange_Line_(VTA)",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVWSD 学校边界与地址查询",
+   "url": "https://www.mvwsd.org/residency",
+   "org": "Mountain View Whisman School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVWSD 选择性学校",
+   "url": "https://www.mvwsd.org/schools_and_programs/choice_schools",
+   "org": "Mountain View Whisman School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVWSD 小学列表",
+   "url": "https://www.mvwsd.org/schools_and_programs/elementary_schools",
+   "org": "Mountain View Whisman School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVWSD 初中列表",
+   "url": "https://www.mvwsd.org/schools_and_programs/middle_schools",
+   "org": "Mountain View Whisman School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVWSD 学区概况",
+   "url": "https://www.mvwsd.org/about",
+   "org": "Mountain View Whisman School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "LASD 官网首页",
+   "url": "https://www.lasdschools.org",
+   "org": "Los Altos School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "LASD 入学与分流说明",
+   "url": "https://www.lasdschools.org/enrollment",
+   "org": "Los Altos School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "LASD San Antonio Campus 页面",
+   "url": "https://www.lasdschools.org/sanantoniocampus",
+   "org": "Los Altos School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "LASD 新校区拆除开工报道（2026-07-02）",
+   "url": "https://www.mv-voice.com/education/2026/07/02/demolition-begins-on-los-altos-school-districts-10th-site-in-mountain-view/",
+   "org": "Mountain View Voice",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVLA 学区概况",
+   "url": "https://www.mvla.net/About-MVLA/General-Information/index.html",
+   "org": "Mountain View–Los Altos Union HSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVLA School Locator",
+   "url": "https://residency.school/v2/map/mvla",
+   "org": "Mountain View–Los Altos Union HSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SCCOE School District Locator 页面",
+   "url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx",
+   "org": "Santa Clara County Office of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Safe Routes to School 项目页",
+   "url": "https://www.mountainview.gov/our-city/departments/public-works/roads-and-transportation/walking-and-bicycling-in-mountain-view/suggested-routes-to-schools",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Suggested Routes to School 路线图列表",
+   "url": "https://www.mountainview.gov/our-city/departments/public-works/transportation/walking-and-bicycling-in-mountain-view/safe-routes-to-schools/safe-route-maps",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "步行与自行车页面（自行车停放）",
+   "url": "https://www.mountainview.gov/our-city/departments/public-works/roads-and-transportation/walking-and-bicycling-in-mountain-view",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Farmers' Market 页面",
+   "url": "https://www.mountainview.gov/our-city/departments/community-services/special-events/farmers-market",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市立泳池页面",
+   "url": "https://www.mountainview.gov/our-city/departments/community-services/recreation/aquatics-pools",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Rengstorff Park Aquatics Center 启用报道（2025-04-04）",
+   "url": "https://www.mv-voice.com/outdoor-recreation/2025/04/04/making-a-splash-new-rengstorff-pool-is-open-in-time-for-summer/",
+   "org": "Mountain View Voice",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Parks and Trails 页面",
+   "url": "https://www.mountainview.gov/our-city/departments/community-services/parks-and-trails",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市 GIS 设施点图层（公园、步道入口、设施名称）",
+   "url": "https://maps.mountainview.gov/arcgis/rest/services/Public/CityReferenceOverlay/MapServer/1/query?where=1%3D1&outFields=*&returnGeometry=false&f=json",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Mountain View Public Library 官网",
+   "url": "https://library.mountainview.gov/",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "North Bayshore Master Plan 页面",
+   "url": "https://mountainview.gov/our-city/departments/community-development/planning/active-projects/google-projects/north-bayshore-master-plan?locale=en",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "North Bayshore Area Plan（Shoreline Regional Park Community）",
+   "url": "https://www.mountainview.gov/home/showpublisheddocument/13245/639143729779100000",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Middlefield Park Master Plan 页面",
+   "url": "https://www.mountainview.gov/our-city/departments/community-development/planning/active-projects/google-projects/middlefield-park-master-plan",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "R3 Zoning District Update（Collaborate 页面）",
+   "url": "https://collaborate.mountainview.gov/r3update",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "R3 Zoning Update 市政府页面",
+   "url": "https://www.mountainview.gov/our-city/departments/community-development/planning/active-projects/r3-zoning-update",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "R3 更新市议会表决报道（2026-02-12）",
+   "url": "https://www.mv-voice.com/housing/2026/02/12/prioritizing-local-control-mountain-view-greenlights-plan-to-make-adding-housing-easier/",
+   "org": "Mountain View Voice",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Moffett Boulevard Precise Plan（Collaborate 页面）",
+   "url": "https://collaborate.mountainview.gov/moffett-boulevard-precise-plan",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Moffett Boulevard Precise Plan 市政府页面",
+   "url": "https://www.mountainview.gov/our-city/departments/community-development/planning/city-planning-and-policy-projects/moffett-boulevard-rezoning-project",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Downtown 长期规划与 Castro 步行街",
+   "url": "https://econdev.mountainview.gov/downtown/long-term-downtown",
+   "org": "City of Mountain View Economic Development",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CSFRA 驱逐保护说明会材料（2025-11-18）",
+   "url": "https://www.mountainview.gov/home/showpublisheddocument/12552/638991376187730000",
+   "org": "City of Mountain View Rent Stabilization Division",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MEW Superfund 研究区第四次五年评估报告（2019-09）",
+   "url": "https://semspub.epa.gov/work/09/100018492.pdf",
+   "org": "U.S. EPA Region 9",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MEW 研究区和解案例说明",
+   "url": "https://www.epa.gov/node/199875",
+   "org": "U.S. EPA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "El Camino Hospital Mountain View 急诊室",
+   "url": "https://www.getcare.elcaminohealth.org/locations/mountain-view-hospital-campus/2500-grant-rd/emergency_room-mv",
+   "org": "El Camino Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "El Camino Health 门诊地点列表",
+   "url": "https://www.getcare.elcaminohealth.org/locations",
+   "org": "El Camino Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Rancho San Antonio 保护区",
+   "url": "https://www.openspace.org/preserves/rancho-san-antonio",
+   "org": "Midpeninsula Regional Open Space District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Costco Mountain View 门店页",
+   "url": "https://www.costco.com/warehouse-locations/mountain-view-ca-143.html",
+   "org": "Costco",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Trader Joe's Mountain View 门店页",
+   "url": "https://locations.traderjoes.com/ca/mountain-view/81/",
+   "org": "Trader Joe's",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Walmart Mountain View 门店页",
+   "url": "https://www.walmart.com/store/2280-mountain-view-ca",
+   "org": "Walmart",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Safeway Mountain View 门店列表",
+   "url": "https://local.safeway.com/safeway/ca/mountain-view.html",
+   "org": "Safeway",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Mountain View 城市条目（社区、公园、雇主、学区概述）",
+   "url": "https://en.wikipedia.org/wiki/Mountain_View,_California",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FEMA Flood Map Service Center",
+   "url": "https://msc.fema.gov/portal/home",
+   "org": "FEMA",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CGS EQ Zapp",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "California School Dashboard",
+   "url": "https://www.caschooldashboard.org/",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MVLA School Boundaries 页面（跳转至 Locator）",
+   "url": "https://www.mvla.net/school-boundaries",
+   "org": "Mountain View–Los Altos Union HSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "LASD School Locator 地图应用",
+   "url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=64149d5b54ac4f22b4210eb9345c066e",
+   "org": "Los Altos School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "MVWSD SchoolLocator",
+   "url": "https://betalocator.decisioninsite.com/?StudyID=214830",
+   "org": "Mountain View Whisman School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "市立公园互动地图",
+   "url": "https://experience.arcgis.com/experience/62d21caf6284401bac58857bab7629ae/",
+   "org": "City of Mountain View",
+   "accessed": "2026-10-08",
+   "opened": false
+  }
+ ]
+}

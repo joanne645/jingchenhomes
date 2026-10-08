@@ -17,6 +17,15 @@
           "value": "public, max-age=86400"
         }
       ]
+    },
+    {
+      "source": "/cities/guide.(css|js)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
     }
   ],
   "redirects": [
@@ -98,6 +107,96 @@
     {
       "source": "/communities/palo-alto/",
       "destination": "/cities/palo-alto.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/cupertino",
+      "destination": "/cities/cupertino.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/cupertino/",
+      "destination": "/cities/cupertino.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/sunnyvale",
+      "destination": "/cities/sunnyvale.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/sunnyvale/",
+      "destination": "/cities/sunnyvale.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/mountain-view",
+      "destination": "/cities/mountain-view.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/mountain-view/",
+      "destination": "/cities/mountain-view.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/san-jose",
+      "destination": "/cities/san-jose.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/san-jose/",
+      "destination": "/cities/san-jose.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/fremont",
+      "destination": "/cities/fremont.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/fremont/",
+      "destination": "/cities/fremont.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/milpitas",
+      "destination": "/cities/milpitas.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/milpitas/",
+      "destination": "/cities/milpitas.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/dublin",
+      "destination": "/cities/dublin.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/dublin/",
+      "destination": "/cities/dublin.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/pleasanton",
+      "destination": "/cities/pleasanton.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/pleasanton/",
+      "destination": "/cities/pleasanton.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/san-ramon",
+      "destination": "/cities/san-ramon.html",
+      "permanent": true
+    },
+    {
+      "source": "/communities/san-ramon/",
+      "destination": "/cities/san-ramon.html",
       "permanent": true
     },
     {

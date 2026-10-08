@@ -1,0 +1,933 @@
+{
+ "slug": "dublin",
+ "name": "Dublin",
+ "county": "Alameda County",
+ "meta_title": "Dublin 城市生活指南｜片区、BART、学校与住房",
+ "meta_description": "按片区介绍 Dublin：两个 BART 站的停车与接驳、I-580 与 I-680 通勤结构、Dublin Unified 学校如何按地址核验、主要公园，以及东部新社区要核对的税单、HOA 和周边建设。",
+ "hero": {
+  "tagline": "两个 BART 站 · I-580 与 I-680 交汇 · 东部新社区 · 大型运动公园",
+  "intro": "Dublin 在 Tri-Valley，沿 I-580 北侧展开，西端与 I-680 交汇，BART 蓝线最后两站都在这里。西边是较早建成的住宅区和市中心，东边是陆续建成的规划社区和大型公园。房子相对新、空间较宽，取舍是内陆夏季更热、通勤依赖高速或 BART 接驳，新社区的 HOA 与附加税费要逐套核对。"
+ },
+ "card": "I-580 北侧的 Tri-Valley 城市，南缘有两个 BART 站，西边是老城区，东边是带大型公园的新社区。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Alameda County（Tri-Valley）"
+  },
+  {
+   "label": "轨道交通",
+   "value": "BART 蓝线：Dublin/Pleasanton 站、West Dublin/Pleasanton 站"
+  },
+  {
+   "label": "主要学区",
+   "value": "Dublin Unified School District（TK–12）"
+  },
+  {
+   "label": "主要干道",
+   "value": "I-580、I-680、Dublin Blvd、Tassajara Rd、Fallon Rd"
+  }
+ ],
+ "position": {
+  "paragraphs": [
+   "Dublin 位于 East Bay 内陆的 Amador Valley，城市在 I-580 北侧，I-580 与 I-680 在城市西南角交汇。南面隔着 I-580 是 Pleasanton，北面沿 I-680 和 Iron Horse Regional Trail 进入 Contra Costa County 的 San Ramon，东面经一段尚未并入城市的县属土地后是 Livermore。往西翻过山是 Castro Valley 和 Hayward 方向。",
+   "两个 BART 站都建在 I-580 中间的分隔带上，骑在 Dublin 与 Pleasanton 的市界上：Dublin/Pleasanton 站是蓝线终点，West Dublin/Pleasanton 站在西侧一站，靠近 Pleasanton 的 Stoneridge Shopping Center。贯穿全城的东西向道路是 Dublin Blvd，它紧贴 I-580 北侧，从西部山麓一直到东端的 Fallon Rd。",
+   "Dublin 居民的生活半径通常跨出市界：城里没有综合医院急诊，最近的医院在 Pleasanton 和 San Ramon；ACE 通勤列车的车站在 Pleasanton；去 Bishop Ranch 上班是往北进 San Ramon。看房时把这些常去的地点和候选住址放在同一张地图上，比只看城市名更有用。"
+  ],
+  "neighbors": [
+   "Pleasanton",
+   "San Ramon",
+   "Livermore（中间隔一段县属未并入土地）",
+   "Castro Valley 方向的县属山地"
+  ],
+  "note": "Dublin/Pleasanton BART 站的官方地址写的是 Pleasanton（5801 Owens Dr），车站实际跨两城；房源描述里的「近 BART」要落实到从哪一侧进站、走哪条路。"
+ },
+ "districts_intro": "下面从西到东把 Dublin 分成五个生活片区。名称来自居民惯称、开发项目名和市政府几份 Specific Plan 的范围，都不是法定边界，也不对应学校招生范围。",
+ "districts": [
+  {
+   "name": "West Dublin 山麓与 Schaefer Ranch",
+   "tag": "I-680 以西 · 老独立屋与山坡新社区",
+   "where": "I-680 和 San Ramon Rd 以西、一直到 Dublin Blvd 西端的山坡地带，属于惯称。靠近 San Ramon Rd 的平缓部分是较早建成的住宅街区，Dublin Blvd 尽头的 Schaefer Ranch 是后来在山坡上开发的社区。",
+   "housing": "靠东的街区以单层或两层独立屋为主，建成时间较早，常见带车道的双车库和后院，翻新程度每套差别很大。Schaefer Ranch 一带房龄新得多，地块随坡地起伏，部分房屋有景观，也有较多台阶和挡土墙。",
+   "daily": "Shannon Park（11600 Shannon Ave）是这一带的社区活动节点；Schaefer Ranch Park（9595 Dublin Blvd）服务山坡社区；Mape Memorial Park 沿 Martin Canyon Creek；East Bay Regional Park District 的 Dublin Hills Regional Park 从 Dublin Blvd 西段的 Donlon Point Staging Area 进入。买菜和办事基本要开车下到 San Ramon Rd 以东的市中心商业区。",
+   "commute_school": "上 I-680 和 I-580 都近，去 West Dublin/Pleasanton BART 站要经 Dublin Blvd 穿过 I-680 下方。全片属于 Dublin Unified School District，具体小学、初中、高中要用学区的地址查询工具逐个地址核对，山坡社区和山脚街区对应的学校不一定相同。",
+   "tradeoffs": "这里安静、离山近，但越往西离超市和车站越远，Schaefer Ranch 进出几乎只有 Dublin Blvd 一条路。老房要留出地基、屋顶、管线和电路的检查与更新预算；山坡地块要另外看排水、挡土墙和坡体维护责任，并核对税单上是否有地质或景观类的特别评估。",
+   "visit": "从 San Ramon Rd 沿 Dublin Blvd 一路开到尽头，体会坡度和单程距离；傍晚回程时看 Dublin Blvd 与 San Ramon Rd 路口的排队情况；在山坡社区下车听一下 I-580 的声音是否传得上来。"
+  },
+  {
+   "name": "Downtown Dublin 与中部老住宅区",
+   "tag": "商业核心 · West Dublin BART · 早期平房街区",
+   "where": "I-680 以东、Dougherty Rd 以西、I-580 以北的范围。南半部靠近 Dublin Blvd、Village Pkwy 和 Amador Valley Blvd 的商业地块是市政府 Downtown Dublin Specific Plan 覆盖的区域；商业区以北和以东是较早建成的住宅街区，俗称 central Dublin。",
+   "housing": "住宅街区以早期建成的单层独立屋为主，地块规整，多为前车道加双车库，很多已经加建或翻新。靠近 West Dublin/Pleasanton BART 站和 Dublin Blvd 一带近年新增了公寓和联排项目，以出租公寓居多，买房前要分清出租与可售产权。",
+   "daily": "Dublin Place 等购物中心集中在 Dublin Blvd 与 Amador Valley Blvd 之间；Dublin Library（200 Civic Plaza）和 City Hall 在片区东缘的 Civic Plaza；Dublin Sports Grounds 和 Imagine Playground（6700 Dublin Blvd）紧邻市政中心；Kolb Park（8020 Bristol Rd）在北侧住宅区里；Dublin Heritage Park and Museums（6600 Donlon Way）在 I-680 西侧不远。从住宅街区到这些地点多数是短途开车或骑车。",
+   "commute_school": "West Dublin/Pleasanton BART 站（6501 Golden Gate Dr）在片区南缘，Dublin 一侧有停车楼；I-680 和 I-580 的入口都在几条街之内。Wheels 的 30R 快线沿 Dublin Blvd 连接两个 BART 站。学校同样按地址在 Dublin Unified 的工具里查，不要按「离哪所学校近」来推断。",
+   "tradeoffs": "生活便利度在全城较高，但商业区车流大，靠近 I-680、I-580 和 BART 的街道有持续的交通噪音。老房的面积和层高通常不如东部新房，胜在没有或只有很低的 HOA，税单上的附加项目也往往更简单，这一点要拿具体税单确认。",
+   "visit": "工作日傍晚在 Dublin Blvd 与 Village Pkwy、San Ramon Rd 几个路口各停一会儿，看左转排队；从候选街道步行到 West Dublin BART 站走一次，记录要过几条大路、天桥入口在哪里；周末上午去 Dublin Sports Grounds 看比赛日的停车外溢情况。"
+  },
+  {
+   "name": "Dublin Crossing（Boulevard）与 Camp Parks 边缘",
+   "tag": "城市中段 · 新建联排与公寓 · Don Biddle Community Park",
+   "where": "Dougherty Rd 以东、Arnold Rd 以西、Dublin Blvd 以北的地块，原属 Camp Parks 军事用地，按市政府的 Dublin Crossing Specific Plan 开发，销售名称为 Boulevard。北面仍是 Parks Reserve Forces Training Area 的现役训练场地。",
+   "housing": "几乎全部是近年新建的联排、多层 townhome、condo 和少量小地块独立屋，三层带底层车库的户型很常见。密度比东部社区高，访客停车和储物空间需要逐个项目看。各期建成与入住进度不同，截至2026年10月的在售与在建情况请向陈靖或建商确认。",
+   "daily": "Don Biddle Community Park（6100 Horizon Pkwy）占地约30英亩，2022年9月建成，有两个游乐场、带灯光的篮球场和网球场、bocce 场、社区菜园和大草坪，是这个片区的公共客厅。Iron Horse Regional Trail 从片区西侧经过，往南通到 Dublin/Pleasanton BART 站，往北进入 San Ramon。买菜要到 Dublin Blvd 沿线或 Hacienda Dr 一带的购物中心。",
+   "commute_school": "位置夹在两个 BART 站之间，到 Dublin/Pleasanton 站可以沿 Iron Horse Trail 骑车或走 Dublin Blvd；上 I-580 走 Dougherty Rd 或 Hacienda Dr。新社区的学校归属尤其要按地址核对：新开发地块的招生范围由学区指定，可能与隔一条路的老街区不同，而且学校满额时学区有 diversion 安排。",
+   "tradeoffs": "房子新、公园新、离车站不远，但住房以多层联排为主，楼梯多、院子小。紧邻军事训练区，偶尔会有训练相关的声响；南侧靠近 Dublin Blvd 和 I-580。这类新社区通常有 HOA，税单上也可能有社区设施类的特别税，需要拿到具体数字再比较月供。",
+   "visit": "把车停在 Don Biddle Community Park，步行绕社区一圈，数一下访客车位、看垃圾桶和快递的摆放位置；从候选房屋沿 Iron Horse Trail 走或骑到 BART 站入口，记录穿越 Dublin Blvd 的方式；留意北侧围栏外的训练场与住宅的距离。"
+  },
+  {
+   "name": "East Dublin：Emerald Glen 与 Dublin Ranch",
+   "tag": "Tassajara Rd 沿线 · 规划社区 · 购物中心集中",
+   "where": "大致从 Arnold Rd、Hacienda Dr 往东到 Fallon Rd，I-580 以北，属于市政府 Eastern Dublin Specific Plan 的核心部分。Tassajara Rd 是南北向主轴，Central Pkwy 和 Gleason Dr 横穿其间；Dublin Ranch 是这一带多个社区的总称，Positano 在东北侧的坡地上。",
+   "housing": "房型很全：靠近 Dublin/Pleasanton BART 站和 Dublin Blvd 的是公寓和 condo，其中 Aster、Avalon Dublin Station 等属于车站周边的出租项目；往北是联排和小地块独立屋，再往北和往东的坡地上是面积更大的独立屋。整体房龄比西部新，两层为主，后院普遍不大。",
+   "daily": "Emerald Glen Park（4201 Central Pkwy）是全市最大的社区公园，园内的 The Wave 有室内泳池、室外比赛池和滑梯区；Hacienda Crossings、Persimmon Place、The Shops at Waterford、Grafton Station 等购物中心分布在 Dublin Blvd 和 Tassajara Rd 沿线；Forest Park（2150 Central Pkwy）、Sean Diamond Park 和 Positano Hills Park（2301 Valentano Dr）是社区里的邻里公园。南部住户步行可达的范围较大，北部坡地基本靠开车。",
+   "commute_school": "Dublin/Pleasanton BART 站在片区西南角，从北部社区过去要沿 Tassajara Rd 或 Hacienda Dr 南下，穿过 Dublin Blvd 进入车站的 Dublin 一侧停车楼。上 I-580 的入口在 Hacienda Dr、Tassajara Rd 和 Fallon Rd。Wheels 的本地线路和 30R 快线经过 Dublin Blvd。学校按地址在 Dublin Unified 查询，这一带学龄人口多，要同时问清对应学校当年的名额和 diversion 情况。",
+   "tradeoffs": "配套成熟、房型选择多，是多数买家在 Dublin 的第一站。要接受的是早晚高峰 Tassajara Rd、Dublin Blvd 和 I-580 匝道的拥堵，靠近高速和购物中心的楼栋有噪音和灯光，以及多数社区都有 HOA。部分地块的税单带有特别税或评估，同一条街上不同建商、不同期的房子也可能不一样。",
+   "visit": "早高峰从候选房屋开到 BART 的 Dublin 侧停车楼，看几点还有日付车位、从车位走到闸机要多久；傍晚在 Tassajara Rd 与 Dublin Blvd 路口观察南北向排队；周末去 Emerald Glen Park 走一圈，看停车和场地使用情况。"
+  },
+  {
+   "name": "Fallon Rd 以东与 Tassajara Rd 北段新社区",
+   "tag": "最新建成 · Fallon Sports Park · 靠近 Emerald High School",
+   "where": "包括 Fallon Rd 以东的 Jordan Ranch 等社区，以及 Tassajara Rd 北段靠近市界的 Wallis Ranch 和 Tassajara Hills，是城市最晚开发的部分，再往东、往北就是未开发的山地和县属土地。",
+   "housing": "以近十年内建成的两层、三层独立屋和联排为主。Wallis Ranch 由多家建商分区建设，首期在2016年开盘；Tassajara Hills 以独立屋为主。新房的保温、电气和布局更符合现在的使用习惯，地块普遍紧凑，很多社区有门禁或会所。",
+   "daily": "Fallon Sports Park（4605 Lockhart St）有足球、棒垒球、板球、沙滩排球、篮球、网球和 bocce 等场地，是周末球赛的集中地；Wallis Ranch Community Park（6701 Rutherford Dr 一带）2025年8月建成，带狗公园、网球、篮球和 pickleball 场；Jordan Ranch Park 和 Tassajara Hills 的 Butterfly Knoll Park 是邻里公园。日常采购要回到 Fallon Rd 与 Dublin Blvd 路口的 Fallon Gateway、Grafton Station 或更西的购物中心。",
+   "commute_school": "这里离 BART 站是全城最远的，去车站要沿 Fallon Rd 或 Tassajara Rd 南下再走 Dublin Blvd，Wheels 30R 在 Dublin Blvd 与 Fallon Rd 设站。往 Livermore 方向目前要先上 I-580，Dublin Blvd 向东接 North Canyons Pkwy 的延伸段尚未动工。2024年启用的 Emerald High School 在城市东部，但能否就读仍取决于学区为该地址指定的高中，请以地址查询结果为准。",
+   "tradeoffs": "房子最新、公园最新，代价是离车站和超市都要多开一段，周边还有地块在施工。新社区的 HOA、税单上的附加项目通常比老区多；位于坡地的社区要了解坡体和排水由谁维护。靠近城市东缘的地址还要看山火危险分区图层。",
+   "visit": "周六上午去 Fallon Sports Park，看比赛日的车流和停车；从候选社区开到最近的超市和 BART 停车楼各一次；在社区边缘找一下还在施工或待建的地块，回头对照市政府的开发项目信息。"
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车的骨架很清楚。I-580 沿城市南缘东西向通过：往西经 Castro Valley 去 Oakland、Bay Bridge 方向，往东经 Livermore 翻 Altamont Pass 去 Central Valley，这条走廊上有大量从东边进湾区的通勤车流，早上西向、傍晚东向压力大。I-680 在城市西侧南北向通过：往北是 San Ramon、Danville、Walnut Creek，往南经 Pleasanton、Sunol Grade 去 Fremont 和 San Jose。Alameda County 的 express lanes 对单人驾驶收费、对合乘车辆免费，合乘需要使用 FasTrak Flex；具体哪些路段、哪个时段收费，请以 Alameda CTC 和 511 的现行说明为准。",
+   "BART 方面，蓝线从 Dublin/Pleasanton 站出发，经 West Dublin/Pleasanton 站往西到 Oakland 和 San Francisco，终点 Daly City。Dublin/Pleasanton 站是始发站，上车有座位的机会大。停车要分清两侧：BART 自营的地面停车场在 Pleasanton 一侧；Dublin 一侧的停车楼低层在上午十点前是预约许可车位，高层是日付车位；Dublin 一侧另有一个私营的大型地面停车场，一周七天收费。West Dublin/Pleasanton 站两侧各有一座停车楼，Dublin 侧的更大。BART 页面目前显示两站停车位全天有余量，但这是会变的信息，开始通勤前自己去看一次。",
+   "公交接驳由 LAVTA 的 Wheels 负责。截至2026年10月的线路表里，1、2、4 路是 Dublin 本地线，30R 快线从 Livermore 的实验室和 Transit Center 经 Las Positas College、Dublin Blvd 与 Fallon Rd 路口到两个 BART 站，每天运营，工作日白天班次较密，晚间和周末间隔拉长；另有 20X、580X、70X 几条快线，70X 连接 Walnut Creek 和 Pleasant Hill 方向。开学期间 Wheels 还开行编号 201、202、502、503 的 Dublin 学校线路。往 San Ramon 方向由 County Connection 运营：35 路（周末为 335 路）往返 San Ramon Transit Center 与 Dublin/Pleasanton BART，97X 在工作日高峰连接 BART 与 Bishop Ranch。",
+   "所谓最后一段路，在 Dublin 主要是三件事：从家到 BART 站台之间的那几公里怎么走；车站在高速中间，步行和骑车进站要经过天桥和大路口；下了 BART 以后到办公室还有多远。Iron Horse Regional Trail 直接通到 Dublin/Pleasanton 站，两个站都有自行车架和 BikeLink 电子车柜，住在步道附近的地址可以认真考虑骑车接驳。ACE 列车不经过 Dublin，最近的车站是 Pleasanton 站（4950 Pleasanton Ave）。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 East Dublin 北部社区到 San Francisco 金融区",
+    "text": "沿 Tassajara Rd 或 Fallon Rd 南下到 Dublin Blvd，进入 Dublin/Pleasanton BART 站 Dublin 一侧的停车楼或私营停车场，乘蓝线直达市区各站，不用换乘。要核实的是：你出门的时刻停车楼哪几层还有日付车位、是否值得办预约许可；如果想不开车，家门口的 Wheels 线路首班车能否接上你要坐的那班 BART；回程末段的公交晚上开到几点。"
+   },
+   {
+    "title": "从 Dublin 到 South Bay（Fremont、Milpitas、North San Jose）",
+    "text": "基本是开车：从 Dublin Blvd 或 San Ramon Rd 上 I-680 南向，经 Pleasanton 和 Sunol Grade 下到 Fremont，再接 I-880 或继续沿 I-680 去 Milpitas 和 San Jose。这条路早高峰南向、晚高峰北向都有固定的拥堵段，express lane 是否划算取决于你的出发时刻。替代方案是开到 Pleasanton 站坐 ACE，它只在工作日通勤时段开行、班次少，适合时间固定的人；BART 去 South Bay 需要中途换乘其他线路，绕行较远，适用性要按你的终点查。"
+   },
+   {
+    "title": "从 Dublin 到 Bishop Ranch / San Ramon",
+    "text": "这是 Dublin 距离最短的一类通勤。西部和市中心住户走 San Ramon Rd 或 Village Pkwy 往北，或上一段 I-680；东部住户常走 Dougherty Rd 或 Tassajara Rd 往北，进入 San Ramon 后道路名称会变化。不开车的话，County Connection 的 35 路和高峰时段的 97X 从 Dublin/Pleasanton BART 站出发去 San Ramon Transit Center 和 Bishop Ranch；Iron Horse Regional Trail 也从 Dublin 一路通到 San Ramon，适合骑车。要核实的是办公楼的具体入口和园区内的停车位置。"
+   }
+  ],
+  "verify": [
+   "在地图应用里输入候选房屋地址和你的办公地址，把出发时间设成你真实的上班时刻和下班时刻，分别查周二到周四的预估范围，记录区间而不是单个数字。",
+   "坐 BART 的话，把行程拆成三段分别查：家到停车楼或公交站、BART 时刻表上你要坐的那班车、出站后到办公室。BART 官网的车站页面会显示停车规则和实时到发。",
+   "在工作日的早高峰实际走一次，重点记录停车楼剩余车位的楼层、从车位走到站台的距离，以及回程时从 I-580 或 I-680 下来的那个匝道是否排队。",
+   "依赖公交接驳时，在 Wheels 或 County Connection 官网打开对应线路的时刻表，确认首末班和周末是否运营；学校线路只在上课日开行。"
+  ],
+  "links": [
+   {
+    "label": "BART Dublin/Pleasanton 站（停车、接驳、时刻）",
+    "url": "https://www.bart.gov/stations/dubl"
+   },
+   {
+    "label": "BART West Dublin/Pleasanton 站",
+    "url": "https://www.bart.gov/stations/wdub"
+   },
+   {
+    "label": "Wheels 线路与时刻表",
+    "url": "https://www.wheelsbus.com/routes-and-schedules/"
+   },
+   {
+    "label": "Wheels 30R 快线",
+    "url": "https://www.wheelsbus.com/routes/route-30r/"
+   },
+   {
+    "label": "County Connection 线路（35、335、97X）",
+    "url": "https://countyconnection.com/routes/"
+   },
+   {
+    "label": "ACE 车站列表（Pleasanton 站）",
+    "url": "https://acerail.com/stations/"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "Dublin 的商业几乎都排在 Dublin Blvd 沿线，可以理解为西、中、东三组。西组在 I-680 以东的市中心，Dublin Place 一带是较早建成的购物中心群；中组在 Hacienda Dr 到 Tassajara Rd 之间，Hacienda Crossings、Persimmon Place 和 The Shops at Waterford 相距很近；东组在 Fallon Rd 路口，Grafton Station 和 Fallon Gateway 服务最东边的新社区。住在 Dublin Blvd 以北较远的坡地社区，日常采购都要专门开车下来一趟。",
+   "购物中心里的具体门店变动较快，这里只列出中心本身。你常用的超市品牌是否在某个中心营业，请在看房当天顺路确认，并留意它和候选住址之间要经过哪些路口。公共服务方面，Dublin Library 和 City Hall 在 Civic Plaza，图书馆属于 Alameda County Library 系统，周五闭馆。"
+  ],
+  "places": [
+   {
+    "name": "Dublin Place",
+    "kind": "商业中心",
+    "where": "市中心，Dublin Blvd 与 Amador Valley Blvd 之间",
+    "note": "市中心规划范围内较早建成的购物中心"
+   },
+   {
+    "name": "Hacienda Crossings",
+    "kind": "商业中心",
+    "where": "Dublin Blvd 与 Hacienda Dr 一带",
+    "note": "靠近 I-580 的 Hacienda Dr 出口和 Dublin/Pleasanton BART 站"
+   },
+   {
+    "name": "Persimmon Place",
+    "kind": "商业中心",
+    "where": "Dublin Blvd 北侧，Hacienda Crossings 以东",
+    "note": ""
+   },
+   {
+    "name": "The Shops at Waterford",
+    "kind": "商业中心",
+    "where": "Tassajara Rd 与 Dublin Blvd 路口附近",
+    "note": ""
+   },
+   {
+    "name": "Grafton Station",
+    "kind": "商业中心",
+    "where": "Dublin Blvd 东段，靠近 Fallon Rd",
+    "note": ""
+   },
+   {
+    "name": "Fallon Gateway",
+    "kind": "商业中心",
+    "where": "Fallon Rd 与 Dublin Blvd 路口，靠近 I-580",
+    "note": "最东侧新社区最近的商业节点"
+   },
+   {
+    "name": "Dublin Library",
+    "kind": "图书馆",
+    "where": "200 Civic Plaza",
+    "note": "Alameda County Library 分馆；周一至周四开到晚间，周五闭馆，周末白天开放，出发前在官网确认当天时间"
+   },
+   {
+    "name": "Dublin City Hall",
+    "kind": "市政服务",
+    "where": "100 Civic Plaza",
+    "note": "规划、建筑许可等查询窗口所在地"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "公园是 Dublin 新社区规划里很用心的一部分。市政府的公园目录列有二十多处公园，其中 Emerald Glen Park、Fallon Sports Park、Don Biddle Community Park 和 Dublin Sports Grounds 是全市级的大型场地，其余多为各社区内部的邻里公园。大型公园的野餐区可以向市政府预约，周末球赛多的日子停车会紧张。",
+   "想走长一点的路线有两个方向。Iron Horse Regional Trail 是沿旧铁路线修的多用途步道，从 Dublin/Pleasanton BART 站往北穿过 Dublin 进入 San Ramon、Danville，一直到 Concord，往南进入 Pleasanton，路面平缓，适合骑车和推婴儿车。往西是 East Bay Regional Park District 管理的 Dublin Hills Regional Park，是开阔的草坡和山脊步道，夏天几乎没有树荫，适合清晨或凉季去。"
+  ],
+  "places": [
+   {
+    "name": "Emerald Glen Park",
+    "kind": "社区公园 / 泳池",
+    "where": "4201 Central Pkwy，East Dublin",
+    "note": "全市最大的社区公园；园内 The Wave 有室内泳池、室外比赛池、戏水区和滑梯塔，戏水设施的开放季节和票价以市政府当季公告为准"
+   },
+   {
+    "name": "Fallon Sports Park",
+    "kind": "运动公园",
+    "where": "4605 Lockhart St，Fallon Rd 以东",
+    "note": "分三期建成，有带灯光的人工草足球场、棒垒球场、板球场、沙滩排球场、bocce 场和击球练习笼"
+   },
+   {
+    "name": "Don Biddle Community Park",
+    "kind": "社区公园",
+    "where": "6100 Horizon Pkwy，Dublin Crossing",
+    "note": "约30英亩，2022年9月建成；游乐场、灯光篮球场和网球场、社区菜园、大草坪"
+   },
+   {
+    "name": "Dublin Sports Grounds 与 Imagine Playground",
+    "kind": "运动场 / 游乐场",
+    "where": "6700 Dublin Blvd，Civic Plaza 旁",
+    "note": "Imagine Playground 是为不同身体条件的孩子设计的无障碍游乐场，2021年建成"
+   },
+   {
+    "name": "Wallis Ranch Community Park",
+    "kind": "社区公园",
+    "where": "Rutherford Dr 一带，Tassajara Rd 北段",
+    "note": "2025年8月建成，Tassajara Creek 从中穿过；狗公园、网球、篮球、pickleball 场和健身点"
+   },
+   {
+    "name": "Dublin Heritage Park and Museums",
+    "kind": "历史公园",
+    "where": "6600 Donlon Way",
+    "note": "保留早期教堂和墓园的历史园区，有可预约的野餐区"
+   },
+   {
+    "name": "Dublin Hills Regional Park",
+    "kind": "区域公园 / 步道",
+    "where": "Dublin Blvd 西段，Donlon Point Staging Area",
+    "note": "East Bay Regional Park District 管理，约654英亩草坡和山脊，步道对徒步、自行车和骑马开放"
+   },
+   {
+    "name": "Iron Horse Regional Trail",
+    "kind": "多用途步道",
+    "where": "南北向穿过城市中段，连接 Dublin/Pleasanton BART 站",
+    "note": "往北到 San Ramon、Danville、Walnut Creek、Concord，往南到 Pleasanton；个别路段会临时封闭维修，出发前看园区局公告"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "Dublin 市内有门诊和专科诊所，但综合医院和急诊室在邻近城市。往南是 Pleasanton 的 Stanford Health Care Tri-Valley，往北是 San Ramon Regional Medical Center，两处都要上一段高速或穿过 I-580。住在城市东端和西端的地址，到这两家医院的路线不同，建议各自查一次夜间和高峰时段的路况。",
+   "医疗设施离家近，不等于在你的医保网络内。Kaiser 会员、Stanford 或 Sutter 体系的患者，请先在保险公司或医疗集团的官网按你的计划查询 Tri-Valley 一带可用的门诊、urgent care 和急诊位置，再把结果标到看房地图上。家里有老人或需要定期复诊的成员时，这一步放在选片区之前做。"
+  ],
+  "places": [
+   {
+    "name": "Stanford Health Care Tri-Valley",
+    "kind": "医院 / 急诊",
+    "where": "Pleasanton",
+    "note": "I-580 以南；具体院区、急诊入口和 urgent care 位置以医院官网为准"
+   },
+   {
+    "name": "San Ramon Regional Medical Center",
+    "kind": "医院 / 急诊",
+    "where": "San Ramon，6001 Norris Canyon Rd",
+    "note": "设有急诊；医院官网提示部分保险计划的网络状态可能在2027年初变化，就医前核对"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "Dublin 的公立学校由 Dublin Unified School District（DUSD）一个学区负责，从学前、TK 到12年级，学区办公室在 7471 Larkdale Ave。这让 Dublin 的学校问题比很多湾区城市简单：不用先分辨小学学区和高中学区。但「住在 Dublin」只说明学区，具体上哪所小学、初中、高中，取决于该地址落在哪所学校的招生范围（attendance boundary）里。",
+   "学区目前有 Amador、Dougherty、Dublin、Frederiksen、John Green、Kolb、Murray 等小学，Cottonwood Creek 是 K–8 学校，初中有 Wells 和 Fallon，综合高中有 Dublin High School 和2024年8月启用独立校园的 Emerald High School。Emerald High 分期建设：第二期教学楼在2025年夏天投入使用，校园容量随之扩大；以 Catherine C. Kuo 命名的表演艺术中心属于第三期，按2025年8月的报道预计在2027年4月前完成。",
+   "东部社区持续交房，学龄人口增长快，所以 DUSD 的学校边界页面除了地址查询，还专门说明了 diversion 流程：当某个年级在划片学校没有名额时，学区会把学生安排到其他有空位的学校。也就是说，查到招生范围只是第一步，还要问清楚入学那一年该年级是否有位置。买在两所高中范围交界附近的家庭，请直接向学区确认该地址当前对应 Dublin High 还是 Emerald High，以及今后是否有调整计划。"
+  ],
+  "districts": [
+   {
+    "name": "Dublin Unified School District",
+    "short": "DUSD",
+    "grades": "TK–12",
+    "covers": "覆盖 Dublin 全市",
+    "locator_url": "https://www.dublinusd.org/apps/pages/index.jsp?hideMenu=0&pREC_ID=829074&termREC_ID=&type=d&uREC_ID=443732",
+    "map_url": "https://www.dublinusd.org/apps/pages/index.jsp?hideMenu=0&pREC_ID=829074&termREC_ID=&type=d&uREC_ID=443732",
+    "enroll_url": "https://www.dublinusd.org",
+    "note": "地址查询显示的是按边界对应的学校；实际安置还取决于注册时间和该年级名额，名额不足时适用学区的 diversion 流程。边界可能随新校启用调整，以入学学年的结果为准。"
+   }
+  ],
+  "programs": [
+   "Emerald High School 第二期教学楼设有工程、烹饪和地区职业课程（ROP）的专用教室，以及广播技术教室和舞蹈教室。",
+   "Dublin Partners in Education（DPIE）是支持 DUSD 的非营利教育基金会，成立于1992年；它提供的课后与暑期课程以当年公布的为准。",
+   "Wheels 在上课日开行编号 201、202、502、503 的 Dublin 学校公交线路，可以在 Wheels 官网查看是否经过你的社区和学校。",
+   "语言项目、课后照护的承办方和名额每年会有变化，请在 DUSD 官网的学校页面逐校确认，并问清报名时间。"
+  ],
+  "choice_note": "DUSD 的普通学校按居住地址划片入读。跨校转学、因名额不足被分流到其他学校，以及任何需要申请的特色项目，都有各自的申请时间和条件，不能和按地址入读的情况混为一谈。考虑私立学校的家庭，Dublin 市内有 Valley Christian School、The Quarry Lane School、St. Raymond School 等，招生由学校各自负责。",
+  "dashboard_note": "在 California School Dashboard（caschooldashboard.org）搜索 Dublin Unified 或具体学校名称，可以看到学业、出勤、停学率、英语学习者进步等多项指标及各学生群体的情况。打开后先看页面上标注的报告年份，引用数字时连同年份一起记录；Emerald High 开校时间短，早期年份的数据可能不完整。",
+  "trustee_note": "DUSD 的校董按 Trustee Area 分区选举。Trustee Area 地图只关系到你投票选哪一位校董，与孩子上哪所学校无关，查学校请用招生边界和地址查询工具。",
+  "safe_routes": {
+   "text": "Dublin 的新社区里学校多靠近社区公园和步道，但上学路线常常要横穿 Dublin Blvd、Tassajara Rd、Fallon Rd 这类多车道道路。确定候选地址后，在上学时段按孩子的实际方式走一次，记录有信号灯或交通协管员的过街点、校门开在哪条街、接送车道的排队方向。市政府和学校发布的建议上学路线资料，可以向 City of Dublin 公共工程部门或学校办公室索取。",
+   "url": ""
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "Dublin 的住房可以按一条线分成两类：Dougherty Rd 以西是较早建成的城区，以单层和两层独立屋为主；以东是按规划文件分期开发的新区，独立屋、联排、condo 混合，越往东房龄越新。同样的预算，在西边常常能换到更大的地块和更简单的持有成本，在东边换到的是更新的房屋、更高的层数和社区设施。",
+   "老区的房子重点看结构和系统：地基和排水、屋顶年限、原有管线和电箱容量、窗户与保温，以及加建部分有没有许可。很多老房是单层，对有老人或幼儿的家庭使用方便。新区的房子重点看使用细节：三层联排的楼梯数量和卧室分布、车库是并排还是前后停、访客车位和路边停车规则、后院的朝向与坡度，以及 HOA 管什么、不管什么。",
+   "新区里山坡上的社区景观好，但要多问几件事：挡土墙和坡面属于业主还是 HOA 或专门的维护机构，雨季排水走哪里，后院可用的平地有多大。靠近 I-580、BART 轨道和购物中心的楼栋，要在不同时段开窗听一下。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "西部和中部老区以早期单层、两层独立屋为主，地块较大，没有或只有很低的 HOA；东部 Dublin Ranch、Positano、Jordan Ranch、Tassajara Hills 等社区是较新的两层独立屋，地块紧凑，多数带 HOA。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "集中在 Dublin Crossing（Boulevard）、Dublin Blvd 以北的东部各社区和 Wallis Ranch。三层带底层车库的户型常见，要实际走一遍从车库到厨房、从主卧到洗衣间的路线。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "主要在两个 BART 站周边和 Dublin Blvd 沿线。车站附近也有不少只租不售的公寓楼，看房前先分清产权类型，再比较 HOA 费用包含的项目和楼内车位分配。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "加州房产税的基础部分按 Prop 13 是评估价值的1%，在此之上叠加选民批准的地方债和各类按地块征收的固定项目，所以要看每一套房自己的税单。在 Dublin，学区为建设新学校发行过多期债券（例如用于 Emerald High School 的 Measure H 和 Measure J），这部分会体现在全市房屋的税单上。新开发的社区还可能有 Mello-Roos 或 Community Facilities District（CFD）特别税、景观与照明类的评估，坡地社区可能有地质灾害防治方面的评估。这些项目是否存在、金额多少、还要缴多少年，同一个社区的不同期次都可能不同。",
+   "HOA 是东部新区的常态，联排和 condo 的月费通常高于独立屋社区，有些地址同时属于一个总 HOA 和一个分 HOA。水、污水和再生水由 Dublin San Ramon Services District（DSRSD）提供，费率和账单计算方式在其官网公布。保险方面，靠近西部山麓和东部城市边缘的地址要提前询价，确认山火分区是否影响保费和可保性。再加上通勤的 BART 车费、停车费或过路费，才是一套房完整的月度成本。"
+  ],
+  "checklist": [
+   "向卖方或产权公司索取最近一期的房产税单，逐行看基础税以外的每个项目名称、金额和到期年份。",
+   "新社区的房子，要求建商或卖方提供 Mello-Roos / CFD 披露文件，确认是否有按年递增的条款。",
+   "拿到 HOA 的月费、包含项目、储备金报告和近期是否有特别摊派；确认是否存在总 HOA 加分 HOA 两层收费。",
+   "坡地社区询问是否属于地质灾害防治区（GHAD）或类似机构的范围，挡土墙、排水沟和坡面由谁维护。",
+   "下 offer 前取得房屋保险的正式报价，把山火、地震（另购）和洪水（如适用）分开问。",
+   "在 DSRSD 官网用水费计算工具，按你家的人数和院子大小估算水与污水账单。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "Dublin 在山丘后面的内陆谷地，夏天白天明显比湾边城市热，下午常有风从西边的山口吹进来，傍晚降温较快；冬季早晨偶有雾。朝西的房间和没有树荫的后院，在七八月的下午是什么感受，建议在热天实地体会一次，同时看空调和屋顶太阳能的配置。",
+   "噪音主要来自三处。I-580 和 I-680 是全天候的车流声，BART 列车在 I-580 中间运行，靠近高速的几排房屋都会听到。Parks Reserve Forces Training Area（Camp Parks）是现役的陆军预备役训练基地，有靶场和训练场地，紧邻 Dublin Crossing 和中部住宅区，训练日可能有声响。城市东边是 Livermore Municipal Airport，起降的是通用航空的小型飞机，东部社区可以留意头顶的航线。另外，基地以东的县属地块上有 Santa Rita Jail；相邻的联邦监狱 FCI Dublin 已于2024年4月关闭，该地块今后的用途可以向市政府了解。",
+   "自然灾害方面，Dublin 需要按地址查看的图层有三类：一是地震，西部山麓和 I-680 走廊一带要用 CGS 的工具查看是否落在断层带、液化或地震诱发滑坡区内；二是山火，CAL FIRE 在2025年分批发布了地方责任区的 Fire Hazard Severity Zones 新图，西部山坡和东部、北部城市边缘的地址要核对；三是洪水，溪流沿线的地址在 FEMA 地图上确认分区。图层表示的是按统一方法划定的区域，用来决定披露、保险和建筑要求，不能直接等同于某一套房子的实际状况。"
+  ],
+  "tools": [
+   {
+    "label": "CGS EQ Zapp 地震危险区（按地址）",
+    "url": "https://maps.conservation.ca.gov/cgs/EQZApp/app/",
+    "what": "显示地址是否位于州划定的断层破裂带、液化区或地震诱发滑坡区，也会提示该区域是否尚未评估。Dublin 西部山麓、I-680 沿线和坡地社区建议都查。"
+   },
+   {
+    "label": "CAL FIRE Fire Hazard Severity Zones 查看器",
+    "url": "https://experience.arcgis.com/experience/5065c998b4b0462f9ec3c6c226c610a9",
+    "what": "按 Moderate、High、Very High 三级标示山火危险分区，反映的是地形、植被和气候条件下的长期危险性，不考虑单个房屋的防护措施。西部山坡和东、北侧城市边缘的地址需要看。"
+   },
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示地址所在的洪水分区，关系到贷款是否要求购买洪水保险。溪流和排水渠沿线的地址建议查。"
+   },
+   {
+    "label": "East Bay Regional Park District：Dublin Hills",
+    "url": "https://www.ebparks.org/parks/dublin-hills",
+    "what": "了解西部山麓开放空间的范围和入口位置，判断山坡社区与未开发草坡的相邻关系。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "Dublin 仍在建设中，东部尤其如此。对买家来说，这意味着今天看到的空地、工地和路网都不是最终状态：一方面新的公园和学校设施会陆续启用，例如 Wallis Ranch Community Park 在2025年8月建成，Emerald High School 的后续工程还在进行；另一方面，周边地块动工会带来几年的施工车辆和灰尘，建成后车流也会增加。",
+   "交通上有两件事值得跟踪。一是 Dublin Blvd 向东延伸到 Livermore 的 North Canyons Pkwy，全长约1.5英里，建成后东部住户去 Livermore 和 Las Positas College 方向可以不上 I-580；按2025年1月市议会的资料，设计预计在2026年秋季完成，开工时间取决于剩余资金、用地和许可，尚未确定。二是 Valley Link 轨道项目，计划从 Dublin/Pleasanton BART 站向东沿 I-580 通往 Livermore，首段环评已完成，但官方页面没有给出开工和通车日期。两个项目都不宜当作已经存在的通勤条件来买房。",
+   "市中心一带，市政府通过 Downtown Dublin Specific Plan 引导老购物中心逐步改造为住宅和商业混合的街区；东部还有若干已批准或在审的住宅和商业地块。具体到你关注的房子，建议向市政府规划部门查询周边一圈地块的规划用途和在审项目。"
+  ],
+  "items": [
+   {
+    "name": "Dublin Blvd – North Canyons Pkwy 延伸段",
+    "status": "截至2025年1月：设计阶段，最终设计预计2026年秋季完成；开工时间未定，取决于资金、用地和许可",
+    "text": "从 Fallon Rd 的 Dublin Blvd 现有终点向东，穿过县属未并入土地，接到 Livermore 的 Doolan Rd 与 North Canyons Pkwy 路口，规划为四到六车道，带自行车道、人行道和公交优先信号。建成后会改变 Fallon Rd 一带的车流方向，住在 Dublin Blvd 东端附近的地址要留意。",
+    "url": "https://www.alamedactc.org/1483000_dublin_blvd_ext_fs_20220406"
+   },
+   {
+    "name": "Valley Link 轨道（Phase 1A）",
+    "status": "截至2026年10月官方页面：环评已获批准，正在为首段做补充评估；未公布开工和通车日期",
+    "text": "计划中的客运轨道，首段从 Dublin/Pleasanton BART 站到 Livermore 的 Vasco Road ACE 站，中间设 Isabel 站。若建成，Dublin/Pleasanton 站会从终点站变成换乘站，站区客流和停车需求可能随之变化。",
+    "url": "https://www.getvalleylinked.com/"
+   },
+   {
+    "name": "Emerald High School 第三期（Catherine C. Kuo Performing Arts Center）",
+    "status": "按2025年8月报道：第二期已于2025年夏季启用，第三期预计2027年4月前完成",
+    "text": "Dublin 第二所综合高中的收尾工程。第二期启用后校园容量扩大，学校逐年增加年级。对东部家庭的含义是高中就近的可能性提高，但招生范围仍以学区公布的边界和地址查询为准。",
+    "url": "https://www.pleasantonweekly.com/?p=654694"
+   },
+   {
+    "name": "Wallis Ranch Community Park",
+    "status": "2025年8月建成开放",
+    "text": "Tassajara Rd 北段 Rutherford Dr 旁的社区公园，约8.85英亩，Tassajara Creek 从中穿过，设有狗公园、网球、篮球、pickleball 场、健身点和游乐区，补上了城市北缘新社区的公园空白。",
+    "url": "https://dublin.ca.gov/2386/Recently-Completed-Projects"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "这条路线从西往东走，约半天，建议安排在工作日下午到傍晚，这样可以顺便看到放学和晚高峰的真实状态；如果只能周末来，改成周六上午，重点看公园和购物中心的使用情况。每一站都把手机地图的时间戳截下来，回头比较。",
+  "stops": [
+   {
+    "name": "第1站：Dublin Blvd 西端与 Schaefer Ranch Park",
+    "text": "从 I-680 沿 Dublin Blvd 一路向西开到头，感受西部山麓到市中心的距离和坡度。在 Schaefer Ranch Park 下车，看山坡社区的地块、挡土墙和风的大小，听一下高速声。"
+   },
+   {
+    "name": "第2站：West Dublin/Pleasanton BART 站与市中心",
+    "text": "把车停进 Dublin 一侧停车楼，走到闸机，记下步行距离和天桥位置。随后在 Dublin Place 一带转一圈，看市中心商业区的停车和路口通行。"
+   },
+   {
+    "name": "第3站：Civic Plaza、Dublin Library 与 Dublin Sports Grounds",
+    "text": "看图书馆、City Hall 和运动场的位置关系，以及周边老住宅街区的街道宽度、树荫和路边停车。带孩子的话到 Imagine Playground 停一下。"
+   },
+   {
+    "name": "第4站：Don Biddle Community Park 与 Dublin Crossing",
+    "text": "在公园停车，步行穿过几条新建联排的街道，数访客车位，看北侧训练基地围栏的位置。找到 Iron Horse Regional Trail 的入口，判断骑车去 BART 是否可行。"
+   },
+   {
+    "name": "第5站：Dublin/Pleasanton BART 站 Dublin 一侧",
+    "text": "实际开进停车楼，看预约层和日付层的标识、当下的剩余车位，再看私营地面停车场的收费牌。记录从 Dublin Blvd 拐进车站的路口是否排队。"
+   },
+   {
+    "name": "第6站：Emerald Glen Park 与 Tassajara Rd",
+    "text": "在公园走一圈，看 The Wave、球场和游乐区。然后沿 Tassajara Rd 往北开到 Wallis Ranch Community Park，体会从北缘社区到 Dublin Blvd 的单程距离。"
+   },
+   {
+    "name": "第7站：Fallon Sports Park 与 Fallon Rd 以东",
+    "text": "看运动公园的规模和停车，绕 Jordan Ranch 一带的新社区一圈，留意在建和待建地块。最后从 Fallon Rd 上 I-580，记下这个匝道在晚高峰的状态。"
+   }
+  ],
+  "questions": [
+   "这个地址在 Dublin Unified 的地址查询里对应哪所小学、初中和高中，入学那一年该年级有没有名额，是否可能被 diversion 到别的学校。",
+   "最近一期税单上除基础税以外有哪些项目，Mello-Roos 或 CFD、景观照明、地质防治类评估各是多少，还剩多少年。",
+   "HOA 有几层，月费各是多少，包含屋顶、外墙、坡面维护还是只管公共区域，近三年有没有涨价或特别摊派。",
+   "从家门口到 BART 站台，开车、骑车和坐 Wheels 各怎么走，早上你出门的时刻停车是否有把握。",
+   "房屋周边一圈有没有空地或在建工地，它们的规划用途是什么，预计施工多久。",
+   "在 CGS、CAL FIRE 和 FEMA 的工具里，这个地址分别落在什么分区，保险公司给出的报价是多少。",
+   "夏天下午西晒的房间温度如何，空调和太阳能的配置与电费账单是什么水平。"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Pleasanton",
+   "slug": "pleasanton",
+   "text": "两城隔 I-580 相望，共用两个 BART 站。Pleasanton 有 ACE 车站，学校属于 Pleasanton Unified；Dublin 的新房和联排选择更多。比较时把房龄、HOA、税单附加项目和从哪一侧进 BART 站放在一起看。"
+  },
+  {
+   "city": "San Ramon",
+   "slug": "san-ramon",
+   "text": "San Ramon 在北面，属于 Contra Costa County 和 San Ramon Valley Unified，有 Bishop Ranch 办公区，但市内没有 BART。依赖 BART 的人，Dublin 的接驳更直接。"
+  },
+  {
+   "city": "Fremont",
+   "slug": "fremont",
+   "text": "去 South Bay 上班的买家常比较这两城。Fremont 在 Sunol Grade 南侧，少走一段 I-680；Dublin 东部的房屋和社区公园普遍更新。关键是用你的出发时刻实测 I-680 南向这一段。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "Dublin/Pleasanton",
+    "system": "BART",
+    "address": "5801 Owens Dr, Pleasanton, CA 94588"
+   },
+   {
+    "name": "West Dublin/Pleasanton",
+    "system": "BART",
+    "address": "6501 Golden Gate Dr, Dublin, CA 94568"
+   },
+   {
+    "name": "Pleasanton",
+    "system": "ACE",
+    "address": "4950 Pleasanton Ave, Pleasanton, CA 94566"
+   }
+  ],
+  "pois": [
+   {
+    "name": "Emerald Glen Park",
+    "category": "park",
+    "address": "4201 Central Pkwy, Dublin, CA 94568",
+    "district": "East Dublin：Emerald Glen 与 Dublin Ranch"
+   },
+   {
+    "name": "Fallon Sports Park",
+    "category": "park",
+    "address": "4605 Lockhart St, Dublin, CA 94568",
+    "district": "Fallon Rd 以东与 Tassajara Rd 北段新社区"
+   },
+   {
+    "name": "Don Biddle Community Park",
+    "category": "park",
+    "address": "6100 Horizon Pkwy, Dublin, CA 94568",
+    "district": "Dublin Crossing（Boulevard）与 Camp Parks 边缘"
+   },
+   {
+    "name": "Dublin Sports Grounds",
+    "category": "park",
+    "address": "6700 Dublin Blvd, Dublin, CA 94568",
+    "district": "Downtown Dublin 与中部老住宅区"
+   },
+   {
+    "name": "Dublin Heritage Park and Museums",
+    "category": "park",
+    "address": "6600 Donlon Way, Dublin, CA 94568",
+    "district": "Downtown Dublin 与中部老住宅区"
+   },
+   {
+    "name": "Kolb Park",
+    "category": "park",
+    "address": "8020 Bristol Rd, Dublin, CA 94568",
+    "district": "Downtown Dublin 与中部老住宅区"
+   },
+   {
+    "name": "Shannon Park",
+    "category": "community",
+    "address": "11600 Shannon Ave, Dublin, CA 94568",
+    "district": "West Dublin 山麓与 Schaefer Ranch"
+   },
+   {
+    "name": "Schaefer Ranch Park",
+    "category": "park",
+    "address": "9595 Dublin Blvd, Dublin, CA 94568",
+    "district": "West Dublin 山麓与 Schaefer Ranch"
+   },
+   {
+    "name": "Dublin Hills Regional Park",
+    "category": "trailhead",
+    "address": "Donlon Point Staging Area, Dublin Blvd, Dublin, CA 94568",
+    "district": "West Dublin 山麓与 Schaefer Ranch"
+   },
+   {
+    "name": "Alamo Creek Park",
+    "category": "park",
+    "address": "7601 Shady Creek Rd, Dublin, CA 94568",
+    "district": ""
+   },
+   {
+    "name": "Forest Park",
+    "category": "park",
+    "address": "2150 Central Pkwy, Dublin, CA 94568",
+    "district": "East Dublin：Emerald Glen 与 Dublin Ranch"
+   },
+   {
+    "name": "Positano Hills Park",
+    "category": "park",
+    "address": "2301 Valentano Dr, Dublin, CA 94568",
+    "district": "East Dublin：Emerald Glen 与 Dublin Ranch"
+   },
+   {
+    "name": "Wallis Ranch Community Park",
+    "category": "park",
+    "address": "6701 Rutherford Dr, Dublin, CA 94568",
+    "district": "Fallon Rd 以东与 Tassajara Rd 北段新社区"
+   },
+   {
+    "name": "Butterfly Knoll Park",
+    "category": "park",
+    "address": "7399 Rosamond Hills Ct, Dublin, CA 94568",
+    "district": "Fallon Rd 以东与 Tassajara Rd 北段新社区"
+   },
+   {
+    "name": "Dublin Library",
+    "category": "library",
+    "address": "200 Civic Plaza, Dublin, CA 94568",
+    "district": "Downtown Dublin 与中部老住宅区"
+   },
+   {
+    "name": "Dublin City Hall",
+    "category": "community",
+    "address": "100 Civic Plaza, Dublin, CA 94568",
+    "district": "Downtown Dublin 与中部老住宅区"
+   },
+   {
+    "name": "Dublin Unified School District Office",
+    "category": "school_admin",
+    "address": "7471 Larkdale Ave, Dublin, CA 94568",
+    "district": "Downtown Dublin 与中部老住宅区"
+   },
+   {
+    "name": "San Ramon Regional Medical Center",
+    "category": "hospital",
+    "address": "6001 Norris Canyon Rd, San Ramon, CA 94583",
+    "district": ""
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "West Dublin 山麓与 Schaefer Ranch",
+    "anchor": "Shannon Park, 11600 Shannon Ave, Dublin, CA"
+   },
+   {
+    "district": "Downtown Dublin 与中部老住宅区",
+    "anchor": "Dublin Blvd & Village Pkwy, Dublin, CA"
+   },
+   {
+    "district": "Dublin Crossing（Boulevard）与 Camp Parks 边缘",
+    "anchor": "Don Biddle Community Park, 6100 Horizon Pkwy, Dublin, CA"
+   },
+   {
+    "district": "East Dublin：Emerald Glen 与 Dublin Ranch",
+    "anchor": "Emerald Glen Park, 4201 Central Pkwy, Dublin, CA"
+   },
+   {
+    "district": "Fallon Rd 以东与 Tassajara Rd 北段新社区",
+    "anchor": "Fallon Sports Park, 4605 Lockhart St, Dublin, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "DUSD 学校边界与地址查询",
+    "kind": "school_boundary",
+    "url": "https://www.dublinusd.org/apps/pages/index.jsp?hideMenu=0&pREC_ID=829074&termREC_ID=&type=d&uREC_ID=443732",
+    "note": "Dublin Unified School District；页面同时说明 diversion 流程，边界以入学学年为准"
+   },
+   {
+    "label": "Wheels 系统线路图",
+    "kind": "transit",
+    "url": "https://www.wheelsbus.com/wp-content/uploads/2026/08/System-Map-Brochure-2026-August-CIRCA-production-MC-WEB.pdf",
+    "note": "LAVTA，2026年8月版 PDF"
+   },
+   {
+    "label": "BART Dublin/Pleasanton 站页面",
+    "kind": "transit",
+    "url": "https://www.bart.gov/stations/dubl",
+    "note": "BART；含车站平面、停车规则与接驳公交"
+   },
+   {
+    "label": "City of Dublin 公园目录",
+    "kind": "parks",
+    "url": "https://www.dublin.ca.gov/1649/Parks",
+    "note": "City of Dublin Parks & Community Services"
+   },
+   {
+    "label": "Iron Horse Regional Trail",
+    "kind": "bike",
+    "url": "https://www.ebparks.org/trails/interpark/iron-horse",
+    "note": "East Bay Regional Park District；页面含临时封闭公告"
+   },
+   {
+    "label": "CGS EQ Zapp",
+    "kind": "city_gis",
+    "url": "https://maps.conservation.ca.gov/cgs/EQZApp/app/",
+    "note": "California Geological Survey 地震危险区按地址查询"
+   },
+   {
+    "label": "CAL FIRE FHSZ 查看器",
+    "kind": "city_gis",
+    "url": "https://experience.arcgis.com/experience/5065c998b4b0462f9ec3c6c226c610a9",
+    "note": "Office of the State Fire Marshal；地方责任区图于2025年分批发布"
+   },
+   {
+    "label": "FEMA Flood Map Service Center",
+    "kind": "city_gis",
+    "url": "https://msc.fema.gov/portal/home",
+    "note": "FEMA 洪水分区按地址查询"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Dublin/Pleasanton BART 站：位置、停车、接驳",
+   "url": "https://www.bart.gov/stations/dubl",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "West Dublin/Pleasanton BART 站：位置、停车楼",
+   "url": "https://www.bart.gov/stations/wdub",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin 公园目录",
+   "url": "https://www.dublin.ca.gov/1649/Parks",
+   "org": "City of Dublin",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "近期完工项目（各公园建成时间与设施）",
+   "url": "https://dublin.ca.gov/2386/Recently-Completed-Projects",
+   "org": "City of Dublin",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "野餐区预约收费表（各公园地址，2025年12月修订）",
+   "url": "https://dublin.ca.gov/DocumentCenter/View/38807",
+   "org": "City of Dublin",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Wheels 线路与时刻表目录",
+   "url": "https://www.wheelsbus.com/routes-and-schedules/",
+   "org": "LAVTA Wheels",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Wheels 30R 快线",
+   "url": "https://www.wheelsbus.com/routes/route-30r/",
+   "org": "LAVTA Wheels",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Wheels 系统线路图（2026年8月）",
+   "url": "https://www.wheelsbus.com/wp-content/uploads/2026/08/System-Map-Brochure-2026-August-CIRCA-production-MC-WEB.pdf",
+   "org": "LAVTA Wheels",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "Wheels 2024年3月线网调整公告（Dublin 2、4 路）",
+   "url": "https://www.wheelsbus.com/wheels-bus-launches-network-expansion-and-service-updates/",
+   "org": "LAVTA Wheels",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "County Connection 线路（35、335、97X、92X）",
+   "url": "https://countyconnection.com/routes/",
+   "org": "County Connection",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "ACE 车站列表",
+   "url": "https://acerail.com/stations/",
+   "org": "Altamont Corridor Express",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin Hills Regional Park",
+   "url": "https://www.ebparks.org/parks/dublin-hills",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Iron Horse Regional Trail",
+   "url": "https://www.ebparks.org/trails/interpark/iron-horse",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin Library 地址与开放时间",
+   "url": "https://aclibrary.org/locations/DUB/",
+   "org": "Alameda County Library",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "DUSD 学校边界与 diversion 说明",
+   "url": "https://www.dublinusd.org/apps/pages/index.jsp?hideMenu=0&pREC_ID=829074&termREC_ID=&type=d&uREC_ID=443732",
+   "org": "Dublin Unified School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "Dublin Unified 学区登记信息",
+   "url": "https://www.cde.ca.gov/SchoolDirectory/details?cdscode=01750930000000",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin Unified School District 条目（学校名单、校董分区、DPIE）",
+   "url": "https://en.wikipedia.org/wiki/Dublin_Unified_School_District",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Emerald High 第二期启用与第三期时间（2025年8月5日）",
+   "url": "https://www.pleasantonweekly.com/?p=654694",
+   "org": "Pleasanton Weekly",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Emerald High 第二期完工报道（2025年8月8日）",
+   "url": "https://www.independentnews.com/news/dublin_news/emerald-high-school-celebrates-the-completion-of-phase-ii-construction/article_f7b3f3bd-a9f8-45eb-ab96-4e9f0d145ba3.html",
+   "org": "The Independent",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Emerald High 开校报道（2024年8月）",
+   "url": "https://patch.com/california/dublin/alameda-countys-first-new-high-school-50-years-opens-tuesday",
+   "org": "Patch",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "California School Dashboard",
+   "url": "https://www.caschooldashboard.org/",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin Blvd – North Canyons Pkwy 延伸段项目说明（2022年4月）",
+   "url": "https://www.alamedactc.org/1483000_dublin_blvd_ext_fs_20220406",
+   "org": "Alameda County Transportation Commission",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin Blvd 延伸段进度（2025年1月市议会）",
+   "url": "https://www.pleasantonweekly.com/?p=548920",
+   "org": "Pleasanton Weekly",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin Blvd 延伸段顾问合同报道（2025年1月）",
+   "url": "https://www.independentnews.com/news/dublin_news/city-hires-consultant-for-dublin-boulevard-extension-across-vacant-crosby-property/article_4eb690a4-d914-11ef-b620-83ba2afdf438.html",
+   "org": "The Independent",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Valley Link 项目与环评状态",
+   "url": "https://www.getvalleylinked.com/",
+   "org": "Tri-Valley–San Joaquin Valley Regional Rail Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alameda County express lanes 概况",
+   "url": "https://www.alamedactc.org/programs-projects/expresslanes",
+   "org": "Alameda County Transportation Commission",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Ramon Regional Medical Center",
+   "url": "https://www.sanramonmedctr.com/",
+   "org": "San Ramon Regional Medical Center",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stanford Health Care Tri-Valley",
+   "url": "https://stanfordhealthcare.org/tri-valley",
+   "org": "Stanford Health Care",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "DSRSD 首页（服务内容）",
+   "url": "https://www.dsrsd.com/",
+   "org": "Dublin San Ramon Services District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Camp Parks（Parks Reserve Forces Training Area）",
+   "url": "https://home.army.mil/parks/",
+   "org": "U.S. Army",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dublin 条目（地理、购物中心、社区开发、Camp Parks、Santa Rita Jail）",
+   "url": "https://en.wikipedia.org/wiki/Dublin,_California",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FCI Dublin 关闭时间",
+   "url": "https://en.wikipedia.org/wiki/Federal_Correctional_Institution,_Dublin",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CAL FIRE Fire Hazard Severity Zones 说明",
+   "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+   "org": "CAL FIRE Office of the State Fire Marshal",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FHSZ 地图查看器",
+   "url": "https://experience.arcgis.com/experience/5065c998b4b0462f9ec3c6c226c610a9",
+   "org": "CAL FIRE Office of the State Fire Marshal",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CGS EQ Zapp 说明页",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "EQ Zapp 应用",
+   "url": "https://maps.conservation.ca.gov/cgs/EQZApp/app/",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "FEMA Flood Map Service Center",
+   "url": "https://msc.fema.gov/portal/home",
+   "org": "FEMA",
+   "accessed": "2026-10-08",
+   "opened": false
+  }
+ ]
+}

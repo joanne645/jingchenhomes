@@ -1,0 +1,1234 @@
+{
+ "slug": "palo-alto",
+ "name": "Palo Alto",
+ "county": "Santa Clara County",
+ "meta_title": "Palo Alto 城市生活指南｜片区、学校、通勤与住房",
+ "meta_description": "按片区讲清 Palo Alto 的住房、PAUSD 按地址查校、Caltrain 与铁路平交道、洪水与噪音图层，并附一条半天看区路线和看房核对清单。",
+ "hero": {
+  "tagline": "Caltrain 两站 · Stanford 相邻 · 老街区与 Eichler · Baylands 湿地",
+  "intro": "Palo Alto 在旧金山半岛南端，一侧挨着 Stanford 和山麓，一侧延伸到海湾边的 Baylands。城内有两个 Caltrain 车站、两条步行商业街和成片的老住宅区，水电燃气由市政府自营。取舍也很具体：房龄普遍偏大，铁路道口、洪水区和航线噪音要按地址核对，学校以 PAUSD 对门牌的安排为准。"
+ },
+ "card": "两个 Caltrain 站、两条步行商业街，老街区、Eichler 社区和 Baylands 湿地同在一城。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Santa Clara County"
+  },
+  {
+   "label": "轨道交通",
+   "value": "Caltrain：Palo Alto 站、California Avenue 站"
+  },
+  {
+   "label": "主要学区",
+   "value": "Palo Alto Unified School District（TK–12，学区边界与市界不完全重合）"
+  },
+  {
+   "label": "主要干道",
+   "value": "US-101、I-280、El Camino Real、Oregon Expressway / Page Mill Road"
+  }
+ ],
+ "background": {
+  "paragraphs": [
+   "按市政府历史保护页面的介绍，今天的 Palo Alto 一带原是 Ohlone 人生活的土地。1769 年 Portolá 探险队在 San Francisquito Creek 边的一棵高大红杉旁扎营，这棵 El Palo Alto 后来成了城市和 Stanford 共同的象征。19 世纪中叶，旧金山到 San Jose 的道路旁形成了 Mayfield 聚落，铁路在 1863 年通到这里。",
+   "Stanford University 于 1891 年开学，大学城的需求带动了北侧新镇的发展，Palo Alto 在 1894 年设市，1925 年并入 Mayfield，也就是今天 California Avenue 一带。这段历史解释了为什么城里有两个车站和两条商业街。",
+   "1938 至 1940 年间，Hewlett 与 Packard 在城内的一处住宅和车库里做出最早的产品，这处 Hewlett-Packard House and Garage 至今保留。1951 年 Stanford 与市政府合作设立 Stanford Industrial Park，即今天的 Stanford Research Park，园区称目前有 150 多家公司。战后住宅成片建设，Midtown 和南区的大量平房、Eichler 住宅就来自这一时期。对买房的人来说，这些背景的实际意义在于：就业点离住宅很近，而住宅本身多数已有相当的年头。"
+  ],
+  "timeline": [
+   {
+    "year": "1769",
+    "text": "Portolá 探险队在 El Palo Alto 红杉旁扎营，城市名称由此而来。"
+   },
+   {
+    "year": "1863",
+    "text": "旧金山至 San Jose 的铁路通到 Mayfield，即今天 California Avenue 一带。"
+   },
+   {
+    "year": "1891",
+    "text": "Leland Stanford Junior University 开学，首批学生 465 人。"
+   },
+   {
+    "year": "1894",
+    "text": "Palo Alto 设市。"
+   },
+   {
+    "year": "1925",
+    "text": "Mayfield 并入 Palo Alto。"
+   },
+   {
+    "year": "1951",
+    "text": "Stanford 与市政府合作设立 Stanford Industrial Park，后称 Stanford Research Park。"
+   }
+  ]
+ },
+ "position": {
+  "paragraphs": [
+   "Palo Alto 在旧金山半岛的南端，是 Santa Clara County 最靠北的城市。城区呈一条从海湾伸向山里的长带：东北端是 Baylands 湿地和 US-101，中间是 Caltrain 铁路、Alma Street 和 El Camino Real 之间及两侧的住宅区，西南越过 Foothill Expressway 和 I-280 后进入 Palo Alto Hills 与山麓保护区。北面隔着 San Francisquito Creek 是 Menlo Park 和 East Palo Alto，这两座城市属于 San Mateo County；南面沿 San Antonio Road 一带与 Mountain View、Los Altos 相接。",
+   "城内的东西向通行主要靠三条路：University Avenue、Embarcadero Road 和 Oregon Expressway（过 El Camino Real 后称 Page Mill Road，一直通到 I-280）。南北向则是 US-101、Middlefield Road、Alma Street、El Camino Real 和 Foothill Expressway。Caltrain 贯穿全城，城内有 Palo Alto 和 California Avenue 两个站，南端住户常用的 San Antonio 站在 Mountain View 境内。",
+   "日常生活半径大多在城内就能完成：买菜在 Downtown、Midtown 和 Town & Country Village，看病多去 Stanford 医疗园区，周末去 Baylands、Foothills Nature Preserve 或 Stanford Shopping Center。住在南区的家庭也常把 Mountain View 一侧 San Antonio Road 沿线的商业算进日常范围。"
+  ],
+  "neighbors": [
+   "Menlo Park",
+   "East Palo Alto",
+   "Stanford（未建制地区）",
+   "Mountain View",
+   "Los Altos",
+   "Los Altos Hills",
+   "Portola Valley"
+  ],
+  "note": "Stanford 校园是县辖未建制地区，不属于 Palo Alto 市，但 PAUSD 的 Escondido 和 Nixon 两所小学就在校园地址上；East Palo Alto 是 San Mateo County 的另一座城市；PAUSD 也提示部分 Palo Alto 地址不在学区内。地址写着 Palo Alto，不等于同时满足市政服务、学区和社区俗称三件事。"
+ },
+ "districts_intro": "下面按日常生活的重心把 Palo Alto 分成七个片区。这些名称多数是居民和市政文件里的惯称，用来帮助你比较生活方式，并不是法定边界，也不对应学校招生范围。具体到某一套房，仍要按门牌查学校、洪水区和停车许可。",
+ "districts": [
+  {
+   "name": "Downtown / University Ave",
+   "tag": "步行商业与 Caltrain 快车站 · 老房与公寓混合",
+   "where": "以 University Avenue 商业街和 Palo Alto Caltrain 站为中心，北到 San Francisquito Creek，南到 Embarcadero Road 一带。这里把两个常被单独提起的老住宅区也算在内：商业街南侧的 Professorville，以及东侧沿溪流展开的 Crescent Park。范围属于惯称；Professorville 另有历史街区的正式边界。",
+   "housing": "住房类型是全市最杂的一片：商业街周边有公寓和小型多户住宅，Professorville 以二十世纪初前后的木结构老宅为主，Crescent Park 多是大地块独立屋。Professorville Historic District 列入 National Register of Historic Places 和 Palo Alto Historic Inventory，市政府还指定了一块不在联邦名录内的本地扩展范围，区内外观改动要先了解历史审查的要求。老房常见没有车库或只有单车位、后院独立车库的情况。",
+   "daily": "步行可及的日常节点比较集中：Whole Foods Market 在 Emerson Street，Downtown Library 在 Forest Avenue，City Hall 在 Hamilton Avenue，Caltrain 站在商业街西端。往东南骑车或开车一小段是 Lucie Stern Community Center、Palo Alto Junior Museum & Zoo 和 Rinconada Park 这一组市立设施，都在 Middlefield Road 沿线。",
+   "commute_school": "Palo Alto 站有 Express、Limited 和 Local 列车停靠，Stanford 的 Marguerite 班车和 VTA 22、Rapid 522 也从车站旁的 Palo Alto Transit Center 出发。开车上 US-101 主要走 University Avenue 或 Embarcadero Road。学校全部按门牌在 PAUSD School Finder 查询；Addison Elementary 在 Addison Avenue，Palo Alto High School 在 Embarcadero Road，但“离得近”和“按地址安排到该校”是两件事。",
+   "tradeoffs": "换来步行生活的代价主要有三项。一是停车：这一带设有 Downtown 和 Crescent Park 两个 Residential Preferential Parking 许可区，住户和访客都要按规则办证或限时停车。二是洪水：市政府的洪水区说明指出，San Francisquito Creek 溢流形成的 AH 区主要在 Middlefield Road 和 Chaucer Street 附近，一直延伸到 Embarcadero 与 Bayshore 交汇处一带，1998 年和 2022 年除夕都发生过漫堤。三是火车：北端 Palo Alto Avenue 平交道的 Quiet Zone 设施已在 2026 年 1 月完工，但截至市政府页面的最新说明，联邦铁路管理局提出的补充整改尚未完成，静音区还没有正式生效。",
+   "visit": "建议工作日傍晚和周六上午各来一次。先在候选房门口记下路牌上的停车时限，再步行到 University Avenue 和车站，看过街是否顺畅；靠近铁路的房子，站在后院等两班车经过。Crescent Park 的房子要走到溪边看堤岸高度，并留意 Newell Road 桥自 2026 年 5 月起封闭施工对绕行的影响。"
+  },
+  {
+   "name": "Old Palo Alto",
+   "tag": "大地块老宅 · 树荫街道 · 临近 Paly",
+   "where": "通常指 Embarcadero Road 以南、Oregon Expressway 以北，Alma Street 与 Middlefield Road 之间的住宅区。这是居民惯称，市政府以同名设立了 Old Palo Alto 停车许可区，但许可区范围只覆盖其中靠近铁路和车站的一部分街段。",
+   "housing": "几乎全是独立屋，街道宽、行道树成熟，地块普遍比南区大。房子的年代跨度很大，早期老宅、战后平房和近年拆除重建的新宅并存。老宅常见的检查重点是地基、排水、旧管线和电路，以及历次加建是否有许可记录；个别房屋列入市历史名录，改建前要先向规划部门确认。",
+   "daily": "片区内部没有成片商业，日常要往外走：往南过 Oregon Expressway 是 Midtown 的 Safeway，往西南是 California Avenue 商业街和车站，往北是 Embarcadero Road 与 El Camino Real 路口的 Town & Country Village。Walter Hays Elementary、Lucie Stern Community Center 和 Rinconada Park 在片区东北角的 Middlefield Road 沿线。",
+   "commute_school": "两个 Caltrain 站都在骑车距离内：往北是有快车的 Palo Alto 站，往南是只停 Local 和 Limited 的 California Avenue 站。开车去 US-101 走 Oregon Expressway 或 Embarcadero Road，去 I-280 走 Page Mill Road。学校按门牌查 PAUSD School Finder；片区周边有 Walter Hays Elementary、Greene Middle School 和 Palo Alto High School，具体安排以查询结果和入学时的名额为准。",
+   "tradeoffs": "这里买的主要是土地和街道环境，房子本身往往需要投入。靠 Alma Street 一侧紧邻铁路，Churchill Avenue 平交道就在片区西北角，列车鸣笛、道口等候和未来立交工程的施工都集中在这一线；市议会 2025 年 12 月为 Churchill 选定的方案是机动车半下穿，并在 Seale Avenue 另设自行车与行人通道。靠 Oregon Expressway 和 Embarcadero Road 的房子则要评估车流噪音。",
+   "visit": "选一个上学日的早晨，从候选房走到或骑到最近的学校，再绕到 Churchill Avenue 道口看排队情况。之后沿 Alma Street 走一段，对比临街一排和往里两三条街的声音差别，并在门口确认是否属于停车许可街段。"
+  },
+  {
+   "name": "California Ave / College Terrace / Evergreen Park",
+   "tag": "第二个市中心 · 小地块老街区 · 贴近 Research Park",
+   "where": "以 California Avenue 商业街和同名 Caltrain 站为中心，也就是 1925 年并入的 Mayfield 旧镇。铁路与 El Camino Real 之间、商业街以北是 Evergreen Park，再往北到 Churchill Avenue 一带是 Southgate；El Camino Real 以西、紧贴 Stanford 校园和 Stanford Research Park 的方格街区是 College Terrace；商业街以南到 Lambert Avenue 是正在转型的 Ventura 一带。均为惯称。",
+   "housing": "College Terrace、Evergreen Park 和 Southgate 以小地块独立屋为主，房龄偏大，街道窄，不少房子车位有限。California Avenue 周边和 El Camino Real 沿线有公寓与联排。Page Mill Road、El Camino Real、Lambert Avenue 和铁路围合的范围属于 North Ventura Coordinated Area Plan，市议会已在 2024 年 8 月通过该规划，目标是把原 Fry's Electronics 所在的地块逐步改造成可步行的混合用途街区，未来几年这里的住宅类型会比现在更多。",
+   "daily": "California Avenue 是这一带的日常中心，餐饮、日用和车站都在一条街上。Stanford 校园和 Stanford Research Park 就在 El Camino Real 对面，Escondido Elementary 和 Nixon Elementary 都在校园一侧。买大件和逛街多去 Stanford Shopping Center 或 Town & Country Village。门店更替较快，具体营业情况建议到现场确认。",
+   "commute_school": "California Avenue 站停靠 Local 和 Limited 列车，Express 不停，赶快车要去 Palo Alto 站。去 Stanford Research Park 可以步行、骑车，或在车站换乘 Marguerite 的园区线路；开车上 I-280 走 Page Mill Road，上 US-101 走 Oregon Expressway。学校按门牌查 PAUSD School Finder。Escondido 设有全区抽签的 Spanish Dual Immersion 项目，住在附近并不等于进入该项目。",
+   "tradeoffs": "优点是步行和骑车能解决大部分事情，缺点集中在停车、车流和周边建设。这一带有 Evergreen Park–Mayfield、Southgate 和 College Terrace 三个停车许可区，说明外来停车压力长期存在。Page Mill Road 与 El Camino Real 路口车流很大，VTA 在 2026 年 6 月起还暂时关闭了该路口的公交站。靠铁路的街段有列车噪音，North Ventura 范围内及周边今后会有持续的施工期。",
+   "visit": "建议在工作日中午和晚饭时段各看一次 California Avenue 的人流与停车，再从候选房步行到车站计一次实际路线。到 College Terrace 时留意街边停车牌和 Stanford 方向的过街条件；到 Ventura 一带时看一下周边有没有已张贴的开发公告。"
+  },
+  {
+   "name": "Midtown / Mitchell Park",
+   "tag": "居中位置 · 战后平房 · 公园和图书馆在骑车范围",
+   "where": "Oregon Expressway 以南、East Meadow Drive 一带以北，铁路与 US-101 之间的大片住宅区，以 Middlefield Road 上的邻里商业为中心。南端的 Mitchell Park 是它和南区共用的活动中心。范围为惯称。",
+   "housing": "以二十世纪五六十年代的单层独立屋为主，地块规整，多数有车库或车棚；其中夹着若干 Eichler 街段，也有不少已扩建或重建成两层的房子。原始结构的房子常见检查重点是楼板、屋顶、排水、旧电路以及加建许可。靠 US-101 一侧、Embarcadero Road 以南的大片区域在 FEMA 图上属于 AE 洪水区，贷款买房时通常会被要求购买洪水保险。",
+   "daily": "Safeway 在 Middlefield Road 2811 号，是 Midtown 的买菜点。往南沿 Middlefield Road 是 Mitchell Park：公园本身约 21 英亩，有 Magical Bridge Playground、网球和 pickleball 场地，Mitchell Park Library 和 Community Center 在同一组建筑里。Ohlone Elementary、El Carmelo Elementary、Palo Verde Elementary 和 JLS Middle School 都在这一片或紧邻。",
+   "commute_school": "这里到两个 Caltrain 站都不算近，多数人骑车或开车去 California Avenue 站，或直接开车上 US-101（经 Oregon Expressway）和 I-280（经 Page Mill Road）。East Meadow Drive 和 Charleston Road 两处铁路平交道是往西去 El Camino Real 和 Gunn High School 方向的主要通道。学校按门牌查 PAUSD School Finder；Ohlone Elementary 是全区抽签的选择性学校，不按住址划片。",
+   "tradeoffs": "Midtown 的好处是去哪里都不远，代价是没有哪一样就在门口：车站要骑车，商业以邻里小中心为主。靠 Oregon Expressway、Middlefield Road 和 US-101 的房子有持续车流声，靠铁路的街段有列车声。东半部的洪水区会影响保险成本和改建方式，市政府明确说明特殊洪水危险区内的新建和大幅改建不能做地下室。",
+   "visit": "放学时段来一次，从候选房骑车或步行到 Mitchell Park 和最近的学校，记下要过几条主路、路口有没有信号灯。再开车在早高峰走一次到 Oregon Expressway 上 US-101 的路线。靠东的房子，先在 FEMA 地图上查好分区再去看房。"
+  },
+  {
+   "name": "Barron Park",
+   "tag": "El Camino 以西 · 街道不规整 · 靠近 Gunn 与 Research Park",
+   "where": "El Camino Real 以西、Stanford Research Park 以南、Arastradero Road 以北的住宅区，西侧靠近 Foothill Expressway。Barron Creek 和 Matadero Creek 从片区穿过。范围为惯称。",
+   "housing": "以独立屋为主，但和东侧整齐的战后小区不同，这里的街道走向、路宽和地块形状都不统一，不少街道没有人行道和路缘，房子的年代和体量差别很大。看房时除了常规检查，要特别核对地块边界、通行权或公用设施地役权、历次加建的许可，以及房子与溪流的距离。",
+   "daily": "Bol Park 是片区的公共活动中心，Barron Park Elementary 在 Barron Avenue，Juana Briones Elementary 在 Orme Street。买菜和吃饭主要靠 El Camino Real 沿线的商业，或往北去 California Avenue、往东过铁路去 Midtown。片区内步行可及的商业不多，生活方式更偏开车加骑车。",
+   "commute_school": "去 Stanford Research Park 和 Stanford 校园很近，可以骑车；开车上 I-280 走 Page Mill Road 或 Arastradero Road，上 US-101 则要穿过全城走 Oregon Expressway 或 Charleston Road、San Antonio Road。Fletcher Middle School 和 Gunn High School 都在 Arastradero Road 上。学校仍以 PAUSD School Finder 按门牌查询为准。",
+   "tradeoffs": "喜欢它的人看重的是不那么规整的街道和靠近山麓的位置，需要接受的是每套房差异大、可比成交少。市政府的洪水区说明提到 Matadero Creek 附近有小范围浅层漫流区，Matadero 和 Barron 两条溪的治理工程尚未反映到洪水图上。靠 El Camino Real 一排有车流噪音，这条走廊也是市里规划增加住宅的地段之一。",
+   "visit": "建议白天步行看一圈，注意街道有没有人行道、路灯和排水沟，雨后去更能看出问题。从候选房骑车到 Gunn High School 或 Research Park 走一次，再试一次早高峰开车去 US-101 的路线，体会穿城的距离。"
+  },
+  {
+   "name": "South Palo Alto（Greenmeadow / Fairmeadow / Palo Verde）",
+   "tag": "Eichler 社区集中 · 靠近 Mountain View · 两处平交道",
+   "where": "大致指 East Meadow Drive 以南到 San Antonio Road 市界之间的住宅区，包括铁路以东的 Fairmeadow、Greenmeadow、Charleston 一带，以及靠 US-101 一侧的 Palo Verde 方向。各小区名称来自最初的开发地块，属于惯称。",
+   "housing": "这一片是 Palo Alto 中世纪现代风格住宅最集中的地方，许多街段由 Joseph Eichler 的公司在战后开发：单层、平屋顶或缓坡屋顶、大面积玻璃、混凝土楼板直接落地。Greenmeadow Historic District 列入 National Register of Historic Places，是市政府列出的四个国家名录历史街区之一。买这类房子要请熟悉 Eichler 的检查师，重点看楼板内的地暖管和给排水管、屋顶防水、玻璃与保温，以及后期改建是否保留了原结构。San Antonio Road 沿线则有较新的公寓和联排。",
+   "daily": "Greenmeadow Community Association 在 Parkside Drive 303 号，有泳池和会所，官网说明社区内外的居民都可以申请成为会员。Cubberley Community Center 在 Middlefield Road 4000 号，Mitchell Park 和图书馆在北侧不远。Fairmeadow Elementary、Hoover Elementary 和 JLS Middle School 都在 East Meadow Drive 与 East Charleston Road 之间。大宗采购常去 Mountain View 一侧 San Antonio Road 沿线的商业。",
+   "commute_school": "这是全市去 Mountain View、Sunnyvale 和 US-101 南向最直接的位置，开车走 San Antonio Road 或 Charleston Road。坐 Caltrain 的话，最近的往往是 Mountain View 境内的 San Antonio 站。学校按门牌查 PAUSD School Finder；Hoover Elementary 是全区抽签的选择性学校，不按住址划片。",
+   "tradeoffs": "要一并考虑三件事。第一，Meadow Drive 和 Charleston Road 两处铁路平交道都在这一片，市里正在做立交的初步设计，Charleston 的方向是下穿、Meadow 是半高架的混合方案，今后若干年会经历设计、环评和施工。第二，San Antonio Road 走廊正在编制 Area Plan，范围内有 53 处 Housing Element 住房用地，沿线会逐步加密。第三，Cubberley 的改造取决于 2026 年 11 月的投票结果。Eichler 本身的维护方式也和普通木结构平房不同。",
+   "visit": "先在 East Meadow Drive 和 Charleston Road 两个道口各停一会儿，看高峰时段的排队和列车鸣笛。再走进 Greenmeadow 看街道和社区中心，了解会员办法。最后沿 San Antonio Road 开一段，看在建和待建的项目离候选房有多远。"
+  },
+  {
+   "name": "Palo Alto Hills 与山麓",
+   "tag": "Foothill Expressway 以西 · 大地块 · 山火分区",
+   "where": "Foothill Expressway / Junipero Serra Boulevard 以西，沿 Page Mill Road 和 Arastradero Road 越过 I-280 进入山里的部分，包括 Palo Alto Hills 住宅区和市属的山麓保护区。这部分面积大、住户少，与平地城区的生活方式差别明显。",
+   "housing": "以大地块独立屋为主，坡地多，车道长，房屋年代和形式不一。看房时要多核对几项平地房子较少遇到的内容：坡地排水与挡土结构、进出道路、是否接入市政下水道，以及房屋周边的植被管理要求。",
+   "daily": "这里几乎没有商业，买菜、上学和看病都要开车下山，常走 Page Mill Road 或 Arastradero Road 到 El Camino Real 一带。周末活动的优势明显：Foothills Nature Preserve 就在附近，按车辆收取当日入园费，也有年票，园内容量满时会限制进入。",
+   "commute_school": "I-280 就在旁边，去 Cupertino、Sand Hill Road 或南湾方向比从平地城区出发更直接；去 Caltrain 车站和 US-101 则要穿过整个城区。学校按门牌查询，这一带要特别留意学区边界：PAUSD 说明 Los Altos Hills 和 Portola Valley 的部分地区在学区范围内，而邻近地址也可能属于其他学区。",
+   "tradeoffs": "主要取舍是空间和景观对日常距离。州消防部门 2025 年发布的地方责任区山火危险分区图里，Foothill Expressway 以西的部分地区被划为 Moderate，Palo Alto Hills 一带为 High 或 Very High，对应的植被管理、建材要求和保险报价都要在出价前问清。市政府也说明山麓地区没有做过 FEMA 洪水研究，图上默认是 X 区。",
+   "visit": "白天和天黑后各开一次上下山的路，感受弯道、照明和手机信号。到房子后绕着建筑走一圈，看植被离外墙多近、车道能否让消防车通行，并向卖方索要保险续保记录。"
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车的骨架是两条高速加一条老路。US-101 在城市东缘，主要出入口在 University Avenue、Embarcadero Road / Oregon Expressway 和 San Antonio Road；I-280 在西侧山脚，主要经 Page Mill Road 进出；El Camino Real 贯穿中部，红绿灯多，更适合短途。连接两条高速的是 Oregon Expressway 和 Page Mill Road 这一条线，它也是进出 Stanford Research Park 的主通道，高峰时段是全城最慢的一段。",
+   "Caltrain 在城内设 Palo Alto 和 California Avenue 两站，同属 3 区。按 Caltrain 时刻表，Palo Alto 站有 Express、Limited 和 Local 列车停靠，California Avenue 站停 Local 和 Limited，Express 不停。南端住户常用的 San Antonio 站在 Mountain View。现在旧金山到 San Jose 之间由电力列车运营，具体班次以当期时刻表为准。",
+   "车站之后的最后一段有几种接法。Stanford 的 Marguerite 班车对公众免费开放，以 Palo Alto Transit Center 为枢纽连接校园、医疗中心和 Research Park。VTA 22 路和 Rapid 522 沿 El Camino Real 从 Palo Alto Transit Center 开往 San Jose 方向。Dumbarton Express 的 DB 和 DB1 两条线经 Dumbarton Bridge 连接东湾与 Palo Alto 的 Downtown、Stanford、Research Park 等地。需要提醒的是，市政府的预约式接驳车 Palo Alto Link 已公告在 2026 年 10 月 30 日停止服务，此后只对符合条件的长者、残障和低收入人群通过其他项目提供出行协助，不要把它算进长期通勤方案。",
+   "铁路是全城东西向出行绕不开的因素。Palo Alto Avenue、Churchill Avenue、Meadow Drive 和 Charleston Road 四处是平交道，其余靠 University Avenue、Embarcadero Road、Oregon Expressway 等立交通过。骑车在这里是正经的通勤方式：市政府称 Bryant Street 是全美第一条 bicycle boulevard，2026 年 6 月通过的新版自行车与步行规划仍以社区内的 bicycle boulevard 网络为主。停车方面，Downtown、Crescent Park、Old Palo Alto、Southgate、Evergreen Park–Mayfield 和 College Terrace 六个片区实行住户停车许可。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 Downtown / Professorville 到 San Francisco 市区",
+    "text": "步行或骑车到 Palo Alto 站，乘 Caltrain 北上到 San Francisco 终点站，再按办公室位置换乘 Muni 或步行。要核实的是三段：家门到站台的实际步行路线和过街点，你常坐的那一班是 Express、Limited 还是 Local，以及出站后到办公室的最后一段。开车则走 US-101 或 I-280 北上，两条路的拥堵时段不同，建议都试一次。"
+   },
+   {
+    "title": "从 South Palo Alto 到 Mountain View / Sunnyvale 的办公园区",
+    "text": "开车多走 San Antonio Road 或 Charleston Road 上 US-101 南向，或走 Middlefield Road、Central Expressway 等地面道路。出发前要确认是否需要过 Meadow Drive 或 Charleston Road 的铁路道口，以及公司园区的入口在哪一侧。坐火车的话从 San Antonio 站上车，该站在 Mountain View，停靠的车次类型要另查。不少人选择骑车，建议按公司入口实际骑一次。"
+   },
+   {
+    "title": "从 Midtown / Barron Park 到 Stanford 或 Stanford Research Park",
+    "text": "距离不远，关键在怎么过 El Camino Real 和 Page Mill Road。骑车可走社区内的 bicycle boulevard 和 California Avenue 的铁路下穿通道；开车走 Oregon Expressway 接 Page Mill Road，高峰时段路口等候时间长。从外地坐 Caltrain 来园区上班的同事，一般在 Palo Alto 站或 California Avenue 站换 Marguerite 的相应线路。"
+   }
+  ],
+  "verify": [
+   "在地图应用里输入候选房的门牌和办公室的具体入口，把出发时间设为你平时出门的时刻，分别查周二到周四的早晚高峰，记录给出的时间范围而不是单一数字。",
+   "坐 Caltrain 的话，打开 Caltrain 官网时刻表，确认你要坐的车次在 Palo Alto、California Avenue 或 San Antonio 哪个站停，再把家到站台、出站到办公室两段各实走一次。",
+   "住在铁路以东而学校或公司在以西的家庭，在上学时段亲自过一次 Churchill、Meadow 或 Charleston 道口，并到市政府 Rail Grade Separation 页面看立交方案和工期的最新进展。",
+   "看房当天在门口读清路牌，确认是否在停车许可区内，并到市政府 Parking for Residents 页面了解住户与访客许可的办理方式。",
+   "依赖班车的话，直接查 Marguerite、VTA 或 Dumbarton Express 当期的线路图和站点表，线路会按学期或年度调整。"
+  ],
+  "links": [
+   {
+    "label": "Caltrain 车站与分区",
+    "url": "https://www.caltrain.com/stations-zones"
+   },
+   {
+    "label": "Caltrain Palo Alto 站时刻",
+    "url": "https://www.caltrain.com/station/paloalto"
+   },
+   {
+    "label": "Caltrain California Avenue 站时刻",
+    "url": "https://www.caltrain.com/station/californiaave"
+   },
+   {
+    "label": "Stanford Marguerite 班车",
+    "url": "https://transportation.stanford.edu/marguerite"
+   },
+   {
+    "label": "VTA 22 路 / Rapid 522",
+    "url": "https://www.vta.org/go/routes/22"
+   },
+   {
+    "label": "Dumbarton Express",
+    "url": "https://dumbartonexpress.com/"
+   },
+   {
+    "label": "Palo Alto Rail Grade Separation 项目页",
+    "url": "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Rail-Grade-Separation"
+   },
+   {
+    "label": "Palo Alto 住户停车许可",
+    "url": "https://www.paloalto.gov/Departments/Transportation/Parking/Parking-for-Residents"
+   },
+   {
+    "label": "Palo Alto Link 停运与替代服务说明",
+    "url": "https://www.paloalto.gov/Departments/Transportation/Palo-Alto-Link"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "Palo Alto 的日常采购分成几个小中心，而不是一个大商圈。北边是 Downtown 的 Whole Foods Market 和 University Avenue 商业街；Embarcadero Road 与 El Camino Real 路口的 Town & Country Village 自称有七十多家商店、餐饮和服务；中部是 Middlefield Road 上的 Safeway；California Avenue 是第二条步行商业街；Stanford Shopping Center 则承担百货和品牌购物。住在南区的家庭还会用到 Mountain View 一侧 San Antonio Road 沿线的商业。",
+   "办事和带孩子的去处集中在 Middlefield Road 这条线上：北段有 Lucie Stern Community Center 和 Junior Museum & Zoo，南段有 Mitchell Park Library 与 Community Center、Cubberley Community Center。市图书馆在多个片区设有分馆，市政府还专门出过一份去各图书馆的步行与骑行路线图。看房时值得做的一件事，是从候选房出发，把买菜、图书馆和课后活动串成一条线实际走一遍，看哪些能步行或骑车完成、哪些必须开车。门店会更替，下面只列地址经过核对的地点。"
+  ],
+  "places": [
+   {
+    "name": "Whole Foods Market",
+    "kind": "超市",
+    "where": "774 Emerson Street，Downtown",
+    "note": "官网门店页列出每日营业时间，截至 2026 年 10 月"
+   },
+   {
+    "name": "Safeway",
+    "kind": "超市 / 药房",
+    "where": "2811 Middlefield Road，Midtown",
+    "note": "店内设药房，营业时间以官网门店页为准"
+   },
+   {
+    "name": "Town & Country Village",
+    "kind": "商业中心",
+    "where": "855 El Camino Real，Embarcadero Road 路口",
+    "note": "露天商业中心，紧邻 Palo Alto High School"
+   },
+   {
+    "name": "Stanford Shopping Center",
+    "kind": "商业中心",
+    "where": "660 Stanford Shopping Center，El Camino Real 与 Sand Hill Road 一带",
+    "note": "有 Bloomingdale's、Macy's、Nordstrom、Neiman Marcus 等百货"
+   },
+   {
+    "name": "University Avenue 商业街",
+    "kind": "商业街",
+    "where": "Downtown，Palo Alto 站以东",
+    "note": "餐饮和日用集中，周边为限时停车与许可区"
+   },
+   {
+    "name": "California Avenue 商业街",
+    "kind": "商业街",
+    "where": "California Avenue 站以西",
+    "note": "原 Mayfield 镇中心，门店情况建议现场确认"
+   },
+   {
+    "name": "Downtown Library",
+    "kind": "图书馆",
+    "where": "270 Forest Avenue",
+    "note": "Palo Alto City Library 分馆"
+   },
+   {
+    "name": "Mitchell Park Library & Community Center",
+    "kind": "图书馆 / 社区中心",
+    "where": "3700 Middlefield Road",
+    "note": "与 Mitchell Park 相连"
+   },
+   {
+    "name": "Lucie Stern Community Center",
+    "kind": "社区中心",
+    "where": "1305 Middlefield Road",
+    "note": "旁边是 Junior Museum & Zoo 和 Rinconada Park"
+   },
+   {
+    "name": "Palo Alto City Hall",
+    "kind": "市政办事",
+    "where": "250 Hamilton Avenue",
+    "note": "水电燃气账户、许可等事务的窗口所在"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "市政府的公园与开放空间名录列有三十多处场地，从街角小公园到大面积保护区都有。平地城区里使用率较高的是两处：北边的 Rinconada Park 连着 Lucie Stern Community Center 和 Junior Museum & Zoo，南边的 Mitchell Park 约 21 英亩，有 Magical Bridge Playground、网球和 pickleball 场地，旁边就是图书馆和社区中心。",
+   "两端是两种完全不同的自然环境。东端的 Baylands Nature Preserve 约 1,940 英亩，市政府称它是旧金山湾现存较大的未受扰动湿地之一，有约 15 英里的多用途步道，适合散步、骑车和观鸟，Byxbee Park 也在保护区内。西端的 Foothills Nature Preserve 在山里，按车辆收取当日入园费，也可以买年票，园内容量满时即使持年票也可能进不去。公园的具体设施、场地预约和临时关闭信息以市政府页面为准。"
+  ],
+  "places": [
+   {
+    "name": "Mitchell Park",
+    "kind": "公园",
+    "where": "Middlefield Road 与 East Meadow Drive 一带",
+    "note": "约 21.4 英亩；Magical Bridge Playground、网球与 pickleball 场地"
+   },
+   {
+    "name": "Rinconada Park",
+    "kind": "公园",
+    "where": "Embarcadero Road 与 Newell Road 一带",
+    "note": "与 Lucie Stern Community Center、Junior Museum & Zoo 相邻"
+   },
+   {
+    "name": "Baylands Nature Preserve",
+    "kind": "保护区 / 步道",
+    "where": "2775 Embarcadero Road，US-101 以东",
+    "note": "约 1,940 英亩湿地，约 15 英里多用途步道"
+   },
+   {
+    "name": "Byxbee Park",
+    "kind": "公园 / 步道",
+    "where": "Baylands 保护区内",
+    "note": "步行与骑行步道；旁边是市里的 horizontal levee 试点项目"
+   },
+   {
+    "name": "Foothills Nature Preserve",
+    "kind": "保护区",
+    "where": "Page Mill Road 方向的山麓",
+    "note": "按车收当日入园费，另有年票；满员时限流"
+   },
+   {
+    "name": "Bol Park",
+    "kind": "公园",
+    "where": "Barron Park，Laguna Avenue 一带",
+    "note": "Barron Park 片区的主要公园"
+   },
+   {
+    "name": "Palo Alto Junior Museum & Zoo",
+    "kind": "儿童博物馆 / 动物园",
+    "where": "1451 Middlefield Road",
+    "note": "入场方式以官网为准"
+   },
+   {
+    "name": "Baylands Golf Links",
+    "kind": "高尔夫球场",
+    "where": "1875 Embarcadero Road",
+    "note": "市属球场，紧邻 Palo Alto Airport"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "Palo Alto 的医疗资源集中在西北角的 Stanford 医疗园区。Stanford Health Care 的成人急诊在 Welch Road 1199 号，官网称这是旧金山与南湾之间唯一的 Level 1 创伤中心；Lucile Packard Children's Hospital Stanford 在同一园区的 Welch Road 725 号。Dumbarton Express 的站点说明里还列有 Palo Alto VA Hospital。城内另有其他医疗集团的门诊，位置请按你的保险网络查询。",
+   "需要分清两件事。第一，医院离家近不等于在你的医保网络内，买房前建议用保险公司的查询工具核对常用的家庭医生、儿科和急诊。第二，去 Stanford 园区的路线在高峰时段并不轻松，住在南区或 Barron Park 的家庭可以在傍晚实际开一次，看从家到急诊入口要经过哪些拥堵路口、停车怎么安排。"
+  ],
+  "places": [
+   {
+    "name": "Stanford Health Care 成人急诊（Marc and Laura Andreessen Emergency Department）",
+    "kind": "医院 / 急诊",
+    "where": "Palo Alto，1199 Welch Road",
+    "note": "Level 1 创伤中心"
+   },
+   {
+    "name": "Lucile Packard Children's Hospital Stanford",
+    "kind": "儿童医院",
+    "where": "Palo Alto，725 Welch Road",
+    "note": "PAUSD 在院内设有住院学生的教学点"
+   },
+   {
+    "name": "VA Palo Alto（Palo Alto VA Hospital）",
+    "kind": "医院",
+    "where": "Palo Alto",
+    "note": "面向退伍军人的医疗系统，Dumbarton Express 设有站点"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "Palo Alto 的公立学校由 Palo Alto Unified School District（PAUSD）一个学区负责，从 TK 到 12 年级。学区官网列有 12 所小学、3 所初中（Fletcher、Greene、JLS）和 2 所综合高中（Gunn、Palo Alto High），另有 Greendell 等项目。城市边界和学区边界并不重合：PAUSD 在入学页面上写明，Palo Alto 的部分地区不在学区范围内，而 Los Altos Hills 和 Portola Valley 的部分地区在范围内；Escondido 和 Nixon 两所小学就设在 Stanford 校园地址上。市政府的上学路线图里也包含一份 Los Altos 学区 Santa Rita Elementary 的路线图，可见城内确有地址由邻近学区服务。所以第一步永远是把门牌输入官方 School Finder，先确认是否在 PAUSD 内。",
+   "在学区内，学校按住址安排，PAUSD 称之为 neighborhood school。官网同时说明：如果住址对应的学校已满，学生可能被安排到同一 cluster 内的另一所学校（overflow），并自动进入原学校的候补名单；Transitional Kindergarten 不按 neighborhood school 的方式安排；转到非住址学校只限特殊情况，并取决于名额。也就是说，School Finder 的结果告诉你住址对应哪所学校，实际就读还要看报名时该年级的名额。",
+   "入学需要证明家长或监护人实际居住在学区内，并且每年通过 Annual Data Update 更新居住声明；因装修等原因临时搬家，临时住址也必须在学区范围内。买房后的过户、入住时间和报名时间如何衔接，建议提前向 PAUSD Registration Services 问清。"
+  ],
+  "districts": [
+   {
+    "name": "Palo Alto Unified School District",
+    "short": "PAUSD",
+    "grades": "TK–12",
+    "covers": "覆盖 Palo Alto 绝大部分住宅区、Stanford 校园，以及 Los Altos Hills 和 Portola Valley 的部分地区；Palo Alto 有少数地址不在学区内。",
+    "locator_url": "https://residency.school/v2/map/pausd/",
+    "map_url": "https://residency.school/v2/map/pausd/",
+    "enroll_url": "https://www.pausd.org/enrollment/registration",
+    "note": "School Finder 给出的是住址对应的 neighborhood school。学校满员时可能被 overflow 到同一 cluster 的其他学校并进入候补；TK 不按住址学校安排。查询请使用学区菜单和学校安排页面所指向的 School Finder（residency.school）。"
+   }
+  ],
+  "programs": [
+   "PAUSD 的小学选择性项目：Hoover Elementary 和 Ohlone Elementary 两所学校各有自己的教学方式，全区申请；Ohlone 另设 Mandarin Chinese Dual Immersion，Escondido Elementary 设 Spanish Dual Immersion，两者都从 Kindergarten 开始到五年级。",
+   "PAUSD 的初中选择性项目：JLS Middle School 的 Connections，Greene Middle School 的 Mandarin Bridge 和 Spanish Bridge（三年制），以及 Fletcher Middle School 的 Sustainability for All（6–8 年级）。",
+   "课后照护：非营利机构 Palo Alto Community Child Care（PACCC）在 Addison、Barron Park、Duveneck、El Carmelo、Escondido、Hoover、Juana Briones、Ohlone、Palo Verde、Walter Hays 等处开设 Afterschool Kids' Clubs，另有婴幼儿中心、幼儿园和夏令营；名额和报名时间直接向 PACCC 查询。",
+   "Palo Alto Middle College High School 设在 Los Altos Hills 的 Foothill College 校园地址上，是 PAUSD 学校名录里的另一种高中路径。",
+   "Voluntary Transfer Program（Tinsley）面向居住在 Ravenswood City School District 范围内的学生，与在 Palo Alto 买房后的入学不是一回事。"
+  ],
+  "choice_note": "选择性项目和按住址安排的学校是两条线。PAUSD 说明，申请人数超过名额时抽签，抽签对象是即将入读 Kindergarten 和六年级的学生，每个学生只能申请一个项目；其他年级只能排候补。接受选择性项目的名额后，住址学校的名额即放弃。因此住在 Ohlone、Hoover 或 Escondido 旁边，并不代表孩子就读这些学校或其中的语言项目。2026–27 学年的申请期是 2026 年 1 月 20 日至 2 月 20 日，下一年度的日期以学区公布为准。",
+  "dashboard_note": "在 caschooldashboard.org 搜索 Palo Alto Unified 或具体学校，可以看到学业、出勤、停学率、英语学习者进步等多项指标及各学生群体的情况。截至 2026 年 10 月 8 日，最新可查的是 2025 Dashboard；加州教育部公告 2026 Dashboard 定于 2026 年 10 月 15 日发布，之后请以新一期为准。看数据时注意年份，并把多项指标放在一起读，不要用单一分数概括一所学校。",
+  "trustee_note": "",
+  "safe_routes": {
+   "text": "Palo Alto 市交通办公室为全市公立学校制作了 Walk and Roll 建议路线图，覆盖 12 所小学、3 所初中和 2 所高中，多数图件的文件名标注为 2026 年版，部分学校有西班牙文或中文版。路线图标的是步行和骑车上学的建议路径与过街点，不能用来判断某个地址的入学归属。选定候选房后，可以拿着对应学校的路线图在上学时段实际走一次。",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Safe-Routes-to-School/Walk-and-Roll-Suggested-Route-Maps"
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "Palo Alto 的住宅以独立屋为主，而且多数有年头。北边的 Downtown、Professorville、Crescent Park 和 Old Palo Alto 有不少二十世纪上半叶的老宅；按市政府的城市史，人口在战后到 1960 年间翻了一倍多，Midtown、Barron Park 和南区的大片平房、Eichler 住宅就是那时建的。近几十年的新增住房主要是拆旧建新的独立屋，以及 El Camino Real、San Antonio Road、California Avenue 周边的公寓和联排。",
+   "老房的检查重点因类型而异。木结构老宅要看地基、排水、旧电路和给排水管，以及历次加建有没有许可；Eichler 要看混凝土楼板里的地暖管和水管、平屋顶防水和大玻璃的保温；列入历史名录或位于 Professorville 等历史街区的房子，外观改动要先问清审查要求。车位也值得单独看：老街区常见单车库、后院车库甚至没有车库，再叠加停车许可区的规则，家里有两辆车以上要提前想好。",
+   "改建空间受地块所在的图层影响很大。市政府说明，在 FEMA 特殊洪水危险区内，新建和达到“大幅改建”标准的工程必须把最低楼层抬高到洪水基准高程以上，而且实际上不能做地下室；改建费用超过房屋市值一半时，整栋房子都要按现行标准处理。打算买旧房再扩建或重建的话，这些要在出价前就弄清楚。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "全市都有，是住房主体。北区多为大树街道上的老宅和重建新宅，地块较大；Midtown 和南区多为战后单层平房与 Eichler；Barron Park 和山麓的地块形状、道路条件不统一。共同点是房龄大，检查报告、许可记录和地块所在的洪水或历史图层比装修更值得花时间。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "数量不多，主要在 El Camino Real、San Antonio Road 沿线和 California Avenue 周边的较新项目里。要看 HOA 费用与储备金、访客车位、楼梯层数，以及离铁路或主干道的距离。North Ventura 和 San Antonio Road 两个规划范围内今后会有新的供应。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "集中在 Downtown、California Avenue 一带和 El Camino Real、San Antonio Road 走廊，楼龄从几十年的老楼到近年新盘都有。老楼重点看 HOA 文件、近期特别摊派和建筑维修计划；车站附近的公寓还要确认车位数量和街边停车许可的适用范围。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "房产税以加州 Prop 13 的基础税率为底，再加上税单上逐项列出的地方债券和特别征收，具体数字只能看这套房的税单。Palo Alto 的学校地块税有一个需要留意的时间点：PAUSD 官网说明，现行的 Measure O 从 2021–22 财年起生效、为期六年，自住独立屋的 65 岁以上业主以及领取 SSI 或 SSDI 的业主可以申请豁免；学区在 2026 年 6 月提出的续期方案 Measure B，据 EdSource 报道得票没有达到三分之二的通过门槛。此后是否会有新的提案，买房时请向学区和产权公司确认。另外，市议会已把为 Cubberley 改造筹资的 Measure J 列入 2026 年 11 月 3 日的选票，那是一项销售税，不在房产税单上。",
+   "水、电、燃气和污水都由市政府的 City of Palo Alto Utilities 提供，市政府称自己是加州唯一拥有并运营全套公用事业的城市，所以这里的账单结构和费率与周边使用 PG&E 的城市不同，建议向卖方要过去十二个月的账单。市里还在分片试点自营的光纤入户，第一片在 Embarcadero Road、Louis Road、Colorado Avenue、Greer Road 和 West Bayshore Road 之间，其余片区尚未开放，能否接入要按地址查询。",
+   "保险要分开问。位于 FEMA 特殊洪水危险区的房子，用联邦背景的贷款时会被要求买洪水保险；市政府提示 Palo Alto 在 FEMA 的 Community Rating System 中是 Class 6 社区，投保时可以向保险公司提出相应折扣。山麓的房子要单独询问山火相关的承保条件。老房的维修预算、公寓和联排的 HOA，以及每天过道口、过桥或停车的通勤成本，也都应该算进长期持有成本，不要套用全市统一的比例。"
+  ],
+  "checklist": [
+   "最近一期完整的房产税单，逐项看基础税之外的债券、地块税和特别征收，并问清学校地块税的现状与豁免条件。",
+   "过去十二个月的 City of Palo Alto Utilities 账单（电、燃气、水、污水），以及房屋是否已做电气化改造或电表扩容。",
+   "FEMA 洪水分区查询结果、现有洪水保险保单和保费，必要时索取 Elevation Certificate。",
+   "历次加建和改建的许可记录；房屋是否在历史名录或历史街区内，是否受单层限制等规划条件约束。",
+   "公寓和联排的 HOA 预算、储备金报告、近三年会议纪要和特别摊派记录。",
+   "所在街段是否属于住户停车许可区，许可的数量限制与年度办理方式。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "气候上，Palo Alto 夹在海湾和山脉之间，夏天比旧金山和海岸一侧暖和干燥，又比更靠内陆的南湾城市温和一些，下午常有从海湾方向来的风；冬季是雨季，溪流和排水的问题也集中在这几个月。树荫是北区老街道的一大特点，买房时要顺带看大树与屋顶、地基和下水管的关系。",
+   "洪水是这座城市最需要按地址核对的一项。市政府说明全市都在某一类 FEMA 洪水分区内，多数是 X 区，其余为特殊洪水危险区，来源有两个：一是海湾高潮位漫过 Baylands 堤防的风险，对应 Embarcadero Road 以南、靠海湾一侧的大片 AE 区，西界大致到 Middlefield Road；二是 San Francisquito Creek 溢流形成的 AH 区，主要在 Middlefield Road 和 Chaucer Street 附近。这条溪在 1998 年造成过严重水灾，2022 年 12 月 31 日再次漫堤，流域联合机构 SFCJPA 称那是有记录以来第二大的流量，并据此把河道过流能力的估算下调了约四分之一。下游从海湾到 US-101 一段的工程已在 2019 年完成；US-101 到 Middlefield Road 的上游段还在推进，其中 Newell Road 桥自 2026 年 5 月封闭重建，预计 2027 年春完工，Pope-Chaucer 桥的更换要等下游各项完成之后。海平面方面，市里做过 2022 年的脆弱性评估，县里牵头的分区域岸线适应规划在 2026 年初启动，预计 2029 年完成。",
+   "噪音主要有三个来源。第一是铁路：Caltrain 纵贯全城，四处平交道按规定鸣笛。Palo Alto Avenue 道口的静音区设施已建成但尚未生效；Churchill、Meadow 和 Charleston 三处，市议会在 2025 年 11 月同意采用四象限栏杆的方案，目前在找资金和启动设计，属于多年期的工作。第二是飞机：市政府称有三条 SFO 进场航线影响 Palo Alto，并在持续向 SFO 和 FAA 交涉；东端还有市属的 Palo Alto Airport，是一个单跑道的通用航空机场。第三是 US-101、Oregon Expressway、El Camino Real 等干道的车流声。这三样都建议在不同时段到现场听。",
+   "地震方面，可以用加州地质调查局的 EQ Zapp 按地址查看是否位于已划定的断层破裂带、液化区或地震诱发滑坡区；靠海湾的低地和山麓坡地分别是通常需要看液化和滑坡图层的位置。山火方面，州消防部门 2025 年发布的地方责任区分区图把 Junipero Serra Boulevard / Foothill Expressway 以西的部分地区划为 Moderate，Palo Alto Hills 一带为 High 或 Very High，平地城区不在这些分区内。以上图层说明的是需要进一步了解的事项，不能直接推断某套房安全或危险。"
+  ],
+  "tools": [
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示地址所在的洪水分区。Palo Alto 靠海湾一侧的 AE 区、San Francisquito Creek 沿线的 AH 区，以及 Matadero Creek 附近的小范围分区尤其需要查看；现行图件日期为 2009 年 5 月 18 日。"
+   },
+   {
+    "label": "Palo Alto 市 Floodplain Management",
+    "url": "https://www.paloalto.gov/Departments/Public-Works/Engineering-Services/Floodplain-Management",
+    "what": "市政府对各洪水分区的文字说明、地块洪水区查询与洪水区证明函的办理方式，以及洪水区内建房和改建的规定。"
+   },
+   {
+    "label": "CGS EQ Zapp 地震危险区查询",
+    "url": "https://maps.conservation.ca.gov/cgs/EQZApp/app/",
+    "what": "按地址显示是否位于州划定的断层破裂带、液化区或地震诱发滑坡区，也会标出尚未评估的区域。"
+   },
+   {
+    "label": "CAL FIRE / OSFM 山火危险分区",
+    "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+    "what": "按地址查询 Fire Hazard Severity Zone。Palo Alto 主要涉及 Foothill Expressway 以西和 Palo Alto Hills。"
+   },
+   {
+    "label": "SFCJPA San Francisquito Creek 上游段工程",
+    "url": "https://sfcjpa.specialdistrict.org/reach-2-upstream-project",
+    "what": "Middlefield Road 到 US-101 之间的防洪工程内容与进度，包括 Newell Road 桥、河道拓宽、堤顶防洪墙和 Pope-Chaucer 桥。"
+   },
+   {
+    "label": "Palo Alto 机场与 SFO 航线噪音",
+    "url": "https://www.paloalto.gov/Departments/Public-Works/Palo-Alto-Airport/Regional-SFO-Airport-CoordinationAirplane-Noise",
+    "what": "市政府关于 SFO 进场航线的说明、历次交涉文件和噪音投诉电话。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "未来几年对居住影响最大的是铁路。Churchill Avenue、Meadow Drive 和 Charleston Road 三处平交道的立交工程处在初步工程与环评阶段，由 Caltrain 牵头、市政府作为项目发起方。市议会在 2025 年 12 月确认的方向是：Churchill 做机动车半下穿，并在 Seale Avenue 另设自行车与行人通道；Meadow 采用混合方案；Charleston 做带直接匝道的下穿。按市政府项目页，三处的 15% 设计已在 2026 年 7 至 9 月完成，8 月开过两场社区会议，并安排在 9 月 28 日提请市议会同意进入 35% 设计与环评，环评文件预计 2027 年秋完成。之后还有最终设计、筹资和施工，周期很长。对沿线住户来说，这意味着长期的施工影响和征地范围的不确定，也意味着建成后道口等候和鸣笛的消失。",
+   "住房方面，Palo Alto 的 2023–2031 Housing Element 在 2024 年 4 月由市议会通过、同年 8 月 20 日获州住房部门认证，八年期内的住房需求分配约为 6,086 套。新增住房主要引导到几个范围：已在 2024 年 8 月通过的 North Ventura Coordinated Area Plan，正在编制、计划 2028 年完成的 San Antonio Road Area Plan，以及仍在进行中的 Downtown Housing Plan。住在这些范围附近，要预期周边建筑会逐步变高变密，同时商业和步行条件也会随之改变。",
+   "公共设施里最大的一项是南区的 Cubberley Community Center。市政府与 PAUSD 在 2024 年 12 月就市里购入 7 英亩校区用地达成一致，使市属部分增至 15 英亩；市议会在 2026 年 5 月 18 日通过概念性总体规划，第一期设想包括康体中心与体育馆、剧场和表演艺术设施等。筹资用的 Measure J 将在 2026 年 11 月 3 日交由选民表决，截至 2026 年 10 月 8 日结果未定。"
+  ],
+  "items": [
+   {
+    "name": "铁路平交道立交（Churchill / Meadow / Charleston）",
+    "status": "截至 2026 年 10 月：初步工程与环评阶段，15% 设计已完成，环评预计 2027 年秋完成",
+    "text": "三处道口分别位于 Old Palo Alto 西北角和南区。方案确定后会涉及沿线部分地块、Alma Street 的交通组织和多年施工。买在铁路两侧几条街以内的房子，建议先看项目页上的最新平面图。",
+    "url": "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Rail-Grade-Separation"
+   },
+   {
+    "name": "铁路 Quiet Zone",
+    "status": "截至 2026 年 10 月：Palo Alto Avenue 道口设施已于 2026 年 1 月完工，尚待联邦铁路管理局要求的整改完成后生效；其余三处在筹资和启动设计",
+    "text": "静音区生效后，列车通过道口时不再例行鸣笛。Palo Alto Avenue 道口在 Downtown 北端；Churchill、Meadow、Charleston 三处采用四象限栏杆方案，是多年期工作。",
+    "url": "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Quiet-Zone-Studies/Palo-Alto-AvenueAlma-Street-Crossing"
+   },
+   {
+    "name": "Cubberley Community Center 改造",
+    "status": "概念性总体规划已于 2026 年 5 月 18 日通过；筹资的 Measure J 定于 2026 年 11 月 3 日表决",
+    "text": "位于 Middlefield Road 4000 号。规划分期建设康体中心、剧场、教育和艺术空间等。投票结果决定第一期能否启动，对 Greenmeadow、Charleston 一带的日常活动设施和施工期交通都有影响。",
+    "url": "https://www.paloalto.gov/ImproveCubberley"
+   },
+   {
+    "name": "San Antonio Road Area Plan",
+    "status": "编制中；按市政府进度表，2026 年 7 至 10 月为优选方案分析阶段，计划 2028 年完成",
+    "text": "范围约 275 英亩，沿 San Antonio Road 分布，含 53 处 Housing Element 住房用地，是南区今后住宅加密的主要地段，规划同时处理交通衔接和公共设施。",
+    "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Housing-Policies-Projects/San-Antonio-Road-Area-Plan"
+   },
+   {
+    "name": "Newell Road 桥重建与 San Francisquito Creek 防洪",
+    "status": "桥梁自 2026 年 5 月 22 日封闭施工，市政府 6 月的更新仍预计 2027 年春完工",
+    "text": "新桥替换 1911 年的旧桥，是溪流上游段防洪工程的一部分。施工期间 Crescent Park 往 East Palo Alto 方向需要绕行；Pope-Chaucer 桥的更换排在下游各项完成之后。",
+    "url": "https://www.paloalto.gov/Departments/Public-Works/Engineering-Services/Engineering-Projects/Newell-Road"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "下面这条路线从北到南，半天可以走完，建议选一个上学日，上午从 Downtown 开始，下午放学时段到南区。带上候选房的门牌清单，提前在 PAUSD School Finder 和 FEMA 地图上查好每个地址，现场只做观察和记录。",
+  "stops": [
+   {
+    "name": "第1站 Palo Alto 站与 University Avenue",
+    "text": "从车站走到商业街，再走到 Whole Foods 和 Downtown Library。记录步行路线、过街等待和街边停车牌上的时限。靠铁路的候选房，在这里等两班车听声音。"
+   },
+   {
+    "name": "第2站 Professorville 与 Crescent Park",
+    "text": "先在 Addison Avenue 一带看历史街区的老宅和车位情况，再往东到溪边的 Chaucer Street 附近，看堤岸与街面的高差，并留意 Newell Road 桥封闭后的绕行路线。"
+   },
+   {
+    "name": "第3站 Lucie Stern Community Center 与 Rinconada Park",
+    "text": "看市立设施的停车和课程公告，体会从 Crescent Park、Old Palo Alto 骑车过来的路线。Junior Museum & Zoo 就在旁边。"
+   },
+   {
+    "name": "第4站 Old Palo Alto 与 Churchill Avenue 道口",
+    "text": "在片区里步行几条街，对比 Alma Street 一排和内部街道的环境，再到 Churchill Avenue 道口看列车通过时的排队情况。"
+   },
+   {
+    "name": "第5站 California Avenue",
+    "text": "看商业街的人流、车站站台和铁路下穿通道，再过 El Camino Real 到 College Terrace 走一段，留意停车许可牌和通往 Stanford 的过街点。"
+   },
+   {
+    "name": "第6站 Midtown 与 Mitchell Park",
+    "text": "先到 Middlefield Road 的 Safeway 看邻里商业，再往南到 Mitchell Park、图书馆和社区中心。放学时段观察学校周边的接送车流和骑车的学生。"
+   },
+   {
+    "name": "第7站 南区与 Barron Park",
+    "text": "经 East Meadow Drive 和 Charleston Road 两个道口，到 Greenmeadow 和 Cubberley 看一圈，然后过 El Camino Real 到 Barron Park 的 Bol Park，体会两边街道形态的差别。"
+   }
+  ],
+  "questions": [
+   "这个门牌在 PAUSD School Finder 里对应哪三所学校？目标年级今年有没有 overflow 的情况？",
+   "这块地在 FEMA 图上是什么分区？现有洪水保险保费多少？以后扩建或重建会受哪些限制？",
+   "离最近的铁路道口有多远？在院子里和卧室里听到的列车和飞机声是否可以接受？",
+   "这条街是否在停车许可区内？家里的车和访客的车各停在哪里？",
+   "房子有哪些加建和改建？是否都有许可记录？是否在历史名录或历史街区内？",
+   "如果是 Eichler，地暖和楼板内的管线目前状况如何？屋顶上次更换是什么时候？",
+   "附近有没有已批准或正在审查的开发项目、道口立交工程或防洪工程，施工期会怎样影响进出？"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Mountain View",
+   "slug": "mountain-view",
+   "text": "两城相邻，都在 Caltrain 沿线。Mountain View 的联排和公寓选择更多，离 North Bayshore 办公区更近；Palo Alto 的老独立屋街区更成片。两城学区不同，San Antonio Road 交界处要按门牌核对。"
+  },
+  {
+   "city": "Cupertino",
+   "slug": "cupertino",
+   "text": "Cupertino 没有 Caltrain，日常以开车为主，学校分属 CUSD 与 FUHSD；Palo Alto 有两个车站和步行商业街，由 PAUSD 一个学区负责。办公室在 I-280 沿线的话，要比较从 Palo Alto 平地穿城上 I-280 的那一段。"
+  },
+  {
+   "city": "Sunnyvale",
+   "slug": "sunnyvale",
+   "text": "Sunnyvale 较新的联排项目多，城内涉及不止一个学区，要先确定学区再看学校；Palo Alto 是单一学区加上普遍较老的房子。办公室在南湾，从 Sunnyvale 出发少走一段 US-101；Palo Alto 则离 Stanford 和半岛更近。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "Palo Alto Station",
+    "system": "Caltrain",
+    "address": "95 University Avenue, Palo Alto, CA"
+   },
+   {
+    "name": "California Avenue Station",
+    "system": "Caltrain",
+    "address": "101 California Avenue, Palo Alto, CA"
+   },
+   {
+    "name": "San Antonio Station",
+    "system": "Caltrain",
+    "address": "190 Showers Drive, Mountain View, CA"
+   }
+  ],
+  "pois": [
+   {
+    "name": "Whole Foods Market",
+    "category": "grocery",
+    "address": "774 Emerson Street, Palo Alto, CA",
+    "district": "Downtown / University Ave"
+   },
+   {
+    "name": "Downtown Library",
+    "category": "library",
+    "address": "270 Forest Avenue, Palo Alto, CA",
+    "district": "Downtown / University Ave"
+   },
+   {
+    "name": "Palo Alto City Hall",
+    "category": "community",
+    "address": "250 Hamilton Avenue, Palo Alto, CA",
+    "district": "Downtown / University Ave"
+   },
+   {
+    "name": "Lucie Stern Community Center",
+    "category": "community",
+    "address": "1305 Middlefield Road, Palo Alto, CA",
+    "district": "Downtown / University Ave"
+   },
+   {
+    "name": "Palo Alto Junior Museum & Zoo",
+    "category": "community",
+    "address": "1451 Middlefield Road, Palo Alto, CA",
+    "district": "Downtown / University Ave"
+   },
+   {
+    "name": "Rinconada Park",
+    "category": "park",
+    "address": "777 Embarcadero Road, Palo Alto, CA",
+    "district": "Downtown / University Ave"
+   },
+   {
+    "name": "Town & Country Village",
+    "category": "shopping",
+    "address": "855 El Camino Real, Palo Alto, CA",
+    "district": ""
+   },
+   {
+    "name": "Palo Alto Unified School District Office",
+    "category": "school_admin",
+    "address": "25 Churchill Avenue, Palo Alto, CA",
+    "district": "California Ave / College Terrace / Evergreen Park"
+   },
+   {
+    "name": "Stanford Shopping Center",
+    "category": "shopping",
+    "address": "660 Stanford Shopping Center, Palo Alto, CA",
+    "district": ""
+   },
+   {
+    "name": "Stanford Hospital Emergency Department",
+    "category": "hospital",
+    "address": "1199 Welch Road, Palo Alto, CA",
+    "district": ""
+   },
+   {
+    "name": "Lucile Packard Children's Hospital Stanford",
+    "category": "hospital",
+    "address": "725 Welch Road, Palo Alto, CA",
+    "district": ""
+   },
+   {
+    "name": "Safeway",
+    "category": "grocery",
+    "address": "2811 Middlefield Road, Palo Alto, CA",
+    "district": "Midtown / Mitchell Park"
+   },
+   {
+    "name": "Mitchell Park Library",
+    "category": "library",
+    "address": "3700 Middlefield Road, Palo Alto, CA",
+    "district": "Midtown / Mitchell Park"
+   },
+   {
+    "name": "Mitchell Park Community Center",
+    "category": "community",
+    "address": "3700 Middlefield Road, Palo Alto, CA",
+    "district": "Midtown / Mitchell Park"
+   },
+   {
+    "name": "Cubberley Community Center",
+    "category": "community",
+    "address": "4000 Middlefield Road, Palo Alto, CA",
+    "district": "South Palo Alto（Greenmeadow / Fairmeadow / Palo Verde）"
+   },
+   {
+    "name": "Greenmeadow Community Association",
+    "category": "community",
+    "address": "303 Parkside Drive, Palo Alto, CA",
+    "district": "South Palo Alto（Greenmeadow / Fairmeadow / Palo Verde）"
+   },
+   {
+    "name": "Bol Park",
+    "category": "park",
+    "address": "3590 Laguna Avenue, Palo Alto, CA",
+    "district": "Barron Park"
+   },
+   {
+    "name": "Baylands Nature Preserve",
+    "category": "trailhead",
+    "address": "2775 Embarcadero Road, Palo Alto, CA",
+    "district": ""
+   },
+   {
+    "name": "Baylands Golf Links",
+    "category": "park",
+    "address": "1875 Embarcadero Road, Palo Alto, CA",
+    "district": ""
+   },
+   {
+    "name": "Foothills Nature Preserve",
+    "category": "trailhead",
+    "address": "11799 Page Mill Road, Los Altos Hills, CA",
+    "district": "Palo Alto Hills 与山麓"
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "Downtown / University Ave",
+    "anchor": "University Ave & Emerson St, Palo Alto, CA"
+   },
+   {
+    "district": "Old Palo Alto",
+    "anchor": "Waverley St & Seale Ave, Palo Alto, CA"
+   },
+   {
+    "district": "California Ave / College Terrace / Evergreen Park",
+    "anchor": "California Ave & El Camino Real, Palo Alto, CA"
+   },
+   {
+    "district": "Midtown / Mitchell Park",
+    "anchor": "Middlefield Rd & Colorado Ave, Palo Alto, CA"
+   },
+   {
+    "district": "Barron Park",
+    "anchor": "Barron Ave & La Donna Ave, Palo Alto, CA"
+   },
+   {
+    "district": "South Palo Alto（Greenmeadow / Fairmeadow / Palo Verde）",
+    "anchor": "Middlefield Rd & E Charleston Rd, Palo Alto, CA"
+   },
+   {
+    "district": "Palo Alto Hills 与山麓",
+    "anchor": "Page Mill Rd & Arastradero Rd, Palo Alto, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "PAUSD School Finder（按地址查学区与学校）",
+    "kind": "school_boundary",
+    "url": "https://residency.school/v2/map/pausd/",
+    "note": "PAUSD 官网“Find your neighborhood school”所指向的工具；2026 年 10 月核对"
+   },
+   {
+    "label": "Palo Alto Walk and Roll 建议上学路线图",
+    "kind": "safe_routes",
+    "url": "https://www.paloalto.gov/Departments/Transportation/Safe-Routes-to-School/Walk-and-Roll-Suggested-Route-Maps",
+    "note": "City of Palo Alto Office of Transportation；多数图件文件名标注 2026"
+   },
+   {
+    "label": "Palo Alto My Neighborhood 地图（公园、图书馆等设施）",
+    "kind": "city_gis",
+    "url": "https://www.paloalto.gov/Residents/My-Neighborhood",
+    "note": "City of Palo Alto；交互地图"
+   },
+   {
+    "label": "Palo Alto 公园与开放空间名录",
+    "kind": "parks",
+    "url": "https://www.paloalto.gov/Residents/My-Neighborhood/Open-Spaces-and-Parks",
+    "note": "City of Palo Alto Community Services"
+   },
+   {
+    "label": "Housing Element 住房用地地图",
+    "kind": "zoning",
+    "url": "https://experience.arcgis.com/experience/7a1f0356697345479bc63099e4e1b83d/",
+    "note": "City of Palo Alto；2023–2031 Housing Element Site Inventory"
+   },
+   {
+    "label": "2026 Bicycle and Pedestrian Transportation Plan",
+    "kind": "bike",
+    "url": "https://www.paloalto.gov/Departments/Transportation/Bicycling-Walking/bikepedplan",
+    "note": "City of Palo Alto；市议会 2026 年 6 月 15 日通过"
+   },
+   {
+    "label": "Caltrain 车站与分区图",
+    "kind": "transit",
+    "url": "https://www.caltrain.com/stations-zones",
+    "note": "Caltrain"
+   },
+   {
+    "label": "Palo Alto Floodplain Management（洪水分区说明）",
+    "kind": "city_gis",
+    "url": "https://www.paloalto.gov/Departments/Public-Works/Engineering-Services/Floodplain-Management",
+    "note": "City of Palo Alto Public Works；引用 2009 年 5 月 18 日 FEMA 图件"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Palo Alto 城市史",
+   "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Historic-Preservation/History-of-Palo-Alto",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "历史街区名录（四个 National Register 街区）",
+   "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Historic-Preservation/Historic-Districts",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "历史保护项目总览",
+   "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Historic-Preservation",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stanford Research Park 简介",
+   "url": "https://stanfordresearchpark.com/about",
+   "org": "Stanford Research Park",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PAUSD 入学与学区范围说明",
+   "url": "https://www.pausd.org/enrollment/registration",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PAUSD 学校安排、overflow 与转学",
+   "url": "https://www.pausd.org/enrollment/registration/enrollment-process/school-placement-transfers",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PAUSD 选择性项目",
+   "url": "https://www.pausd.org/enrollment/registration/enrollment-process/choice-programs",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PAUSD 居住证明要求",
+   "url": "https://www.pausd.org/enrollment/registration/enrollment-process/residency",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PAUSD 学校名录与地址",
+   "url": "https://www.pausd.org/schools",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PAUSD School Finder（由 pausd.org/fs/pages/6493 跳转确认）",
+   "url": "https://residency.school/v2/map/pausd/",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "PAUSD 地块税与豁免",
+   "url": "https://www.pausd.org/about-us/funding/parcel-tax",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PAUSD 2026 地块税续期方案（Measure B）",
+   "url": "https://www.pausd.org/about-us/funding/parcel-tax/parcel-tax-renewal-2026",
+   "org": "Palo Alto Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "2026 年 6 月学校税收表决结果报道",
+   "url": "https://edsource.org/2026/california-school-tax-trends/762605",
+   "org": "EdSource",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "PACCC 课后照护与托育",
+   "url": "https://www.paccc.org/",
+   "org": "Palo Alto Community Child Care",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Walk and Roll 建议上学路线图",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Safe-Routes-to-School/Walk-and-Roll-Suggested-Route-Maps",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "California School Dashboard 发布安排",
+   "url": "https://www.cde.ca.gov/ta/ac/cm/dashboardtoolkit.asp",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain 车站与分区",
+   "url": "https://www.caltrain.com/stations-zones",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain Palo Alto 站",
+   "url": "https://www.caltrain.com/station/paloalto",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain California Avenue 站",
+   "url": "https://www.caltrain.com/station/californiaave",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain 电气化项目页",
+   "url": "https://www.caltrain.com/projects/electrification",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stanford Marguerite 班车",
+   "url": "https://transportation.stanford.edu/marguerite",
+   "org": "Stanford Transportation",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dumbarton Express",
+   "url": "https://dumbartonexpress.com/",
+   "org": "Dumbarton Express / AC Transit",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA 22 路与 Rapid 522",
+   "url": "https://www.vta.org/go/routes/22",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Palo Alto Link 停运公告",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Palo-Alto-Link",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Palo Alto Link 停运后的替代服务",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Palo-Alto-Link-PATMA-Transportation-Services-Partnership-Transition",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Rail Grade Separation 项目页",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Rail-Grade-Separation",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "铁路安全工作进展（2026 年 2 月 24 日）",
+   "url": "https://www.paloalto.gov/News-Articles/City-Manager/Status-Update-on-Rail-Safety-Priorities",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Palo Alto Avenue 道口 Quiet Zone",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Quiet-Zone-Studies/Palo-Alto-AvenueAlma-Street-Crossing",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Churchill / Meadow / Charleston 道口 Quiet Zone",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Transportation-Projects/Quiet-Zone-Studies/Churchill-Avenue-Meadow-Drive-Charleston-Road-Crossings",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "住户停车许可区",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Parking/Parking-for-Residents",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "2026 自行车与步行交通规划",
+   "url": "https://www.paloalto.gov/Departments/Transportation/Bicycling-Walking/bikepedplan",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "交通部门项目索引",
+   "url": "https://www.paloalto.gov/Departments/Transportation",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Floodplain Management（洪水分区与 CRS）",
+   "url": "https://www.paloalto.gov/Departments/Public-Works/Engineering-Services/Floodplain-Management",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "洪水区与洪水保险常见问题",
+   "url": "https://www.paloalto.gov/Departments/Public-Works/Engineering-Services/Floodplain-Management/FAQ-Flood-Zones-and-Insurance",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Francisquito Creek 上游段工程",
+   "url": "https://sfcjpa.specialdistrict.org/reach-2-upstream-project",
+   "org": "San Francisquito Creek Joint Powers Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Newell Road 桥重建项目页",
+   "url": "https://www.paloalto.gov/Departments/Public-Works/Engineering-Services/Engineering-Projects/Newell-Road",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Newell Road 桥项目进展（2025 年 6 月）",
+   "url": "https://www.paloalto.gov/News-Articles/Public-Works/Newell-Road-Bridge-Replacement-Project-Status-June-2025",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "海平面上升规划",
+   "url": "https://www.paloalto.gov/Departments/Public-Works/Watershed-Protection/Sea-Level-Rise-Planning",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Palo Alto Airport",
+   "url": "https://www.paloalto.gov/Departments/Public-Works/Palo-Alto-Airport",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SFO 航线与飞机噪音",
+   "url": "https://www.paloalto.gov/Departments/Public-Works/Palo-Alto-Airport/Regional-SFO-Airport-CoordinationAirplane-Noise",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "山火危险分区公告（2025 年 4 月）",
+   "url": "https://www.paloalto.gov/News-Articles/City-Manager/Palo-Alto-Begins-Wildfire-Preparedness-Public-Discussions",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CGS EQ Zapp 说明",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "City of Palo Alto Utilities",
+   "url": "https://www.paloalto.gov/Departments/Utilities",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Palo Alto Fiber 试点",
+   "url": "https://fiberpilot.paloalto.gov/",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "住房政策与 Housing Element",
+   "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Housing-Policies-Projects",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Housing Element 获认证公告",
+   "url": "https://www.paloalto.gov/News-Articles/City-Manager/Palo-Altos-2023-2031-Housing-Element-Certified",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Antonio Road Area Plan",
+   "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Housing-Policies-Projects/San-Antonio-Road-Area-Plan",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "North Ventura Coordinated Area Plan",
+   "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Housing-Policies-Projects/NVCAP",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Downtown Housing Plan",
+   "url": "https://www.paloalto.gov/Departments/Planning-Development-Services/Housing-Policies-Projects/Downtown-Housing-Plan",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cubberley 改造项目",
+   "url": "https://www.paloalto.gov/ImproveCubberley",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市政设施地址目录",
+   "url": "https://www.paloalto.gov/City-Hall/Phone-Directory",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "公园与开放空间名录",
+   "url": "https://www.paloalto.gov/Residents/My-Neighborhood/Open-Spaces-and-Parks",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Mitchell Park",
+   "url": "https://www.paloalto.gov/Departments/Community-Services/Parks-Open-Space-Golf-Division/Neighborhood-Parks/Mitchell-Park",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Baylands Nature Preserve",
+   "url": "https://www.paloalto.gov/Departments/Community-Services/Parks-Open-Space-Golf-Division/Neighborhood-Parks/Baylands-Nature-Preserve",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Foothills Nature Preserve 入园与年票",
+   "url": "https://www.paloalto.gov/Residents/Recreation/Foothills-Nature-Preserve-Annual-Pass",
+   "org": "City of Palo Alto",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Palo Alto City Library（Downtown 分馆地址）",
+   "url": "https://paloalto.bibliocommons.com/locations/",
+   "org": "Palo Alto City Library",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Greenmeadow Community Association",
+   "url": "https://www.greenmeadow.org/",
+   "org": "Greenmeadow Community Association",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Whole Foods Market Palo Alto 门店",
+   "url": "https://www.wholefoodsmarket.com/stores/paloalto",
+   "org": "Whole Foods Market",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Safeway Middlefield Road 门店",
+   "url": "https://local.safeway.com/safeway/ca/palo-alto/2811-middlefield-rd.html",
+   "org": "Safeway",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Town & Country Village",
+   "url": "https://www.tandcvillage.com/",
+   "org": "Town & Country Village",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stanford Shopping Center",
+   "url": "https://www.simon.com/mall/stanford-shopping-center",
+   "org": "Simon Property Group",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stanford Health Care 成人急诊",
+   "url": "https://stanfordhealthcare.org/medical-clinics/emergency-department.html",
+   "org": "Stanford Health Care",
+   "accessed": "2026-10-08",
+   "opened": true
+  }
+ ]
+}

@@ -1,0 +1,1013 @@
+{
+ "slug": "milpitas",
+ "name": "Milpitas",
+ "county": "Santa Clara County",
+ "meta_title": "Milpitas 城市生活指南｜BART 接驳、片区、学校与住房",
+ "meta_description": "从 Milpitas Transit Center 的 BART 与轻轨接驳讲起，比较站区、Main Street、北侧住宅区、东侧山麓和 I-880 以西五个片区，说明 MUSD 按地址查校、新联排的车位与 HOA，以及气味、洪水等环境事项怎么核实。",
+ "hero": {
+  "tagline": "BART 与轻轨同站换乘 · I-880 与 I-680 之间 · 站区新联排 · 东侧山麓",
+  "intro": "Milpitas 在 Santa Clara County 东北角，北接 Fremont，南、西两面是 San Jose，I-880 与 I-680 在此并行。南端的 Milpitas Transit Center 同站可乘 BART 和 VTA 轻轨，周围是较新的联排和公寓；往北是较早的独立屋社区，往东进入山麓。主要取舍是站区住房的车位与 HOA、横穿 Calaveras Blvd 的拥堵，以及要按地址和时段核实的气味。"
+ },
+ "card": "BART 与 VTA 轻轨同站换乘，站区新联排、中部老独立屋和东侧山麓各有不同的日常节奏。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Santa Clara County"
+  },
+  {
+   "label": "轨道交通",
+   "value": "BART Milpitas 站；VTA 轻轨 Orange Line 的 Milpitas、Great Mall、Alder 站"
+  },
+  {
+   "label": "主要学区",
+   "value": "Milpitas Unified School District（TK–12）"
+  },
+  {
+   "label": "主要干道",
+   "value": "I-880、I-680、SR-237／Calaveras Blvd、Montague Expressway"
+  }
+ ],
+ "position": {
+  "paragraphs": [
+   "Milpitas 位于南湾与东湾的交接处：北面是 Fremont，南面是 San Jose，西北角与 San Jose 的 Alviso 相邻，西界大致沿 Coyote Creek，东面是山地和 Calaveras Reservoir 方向的未开发坡地。I-880 和 I-680 都从城里南北穿过，往北到 Fremont，往南到 San Jose；SR-237 从 Milpitas 起向西到 Sunnyvale 和 Mountain View。东西向的主要道路是 Dixon Landing Road、Jacklin Road、Calaveras Boulevard 和 Montague Expressway／Landess Avenue。",
+   "两条高速把城市分成三条南北向的带：I-880 以西以商业和产业用地为主；两条高速之间，南段是产业区和 Great Mall、BART 站区，北段是住宅；I-680 以东是住宅和山麓。很多日常安排取决于你住在哪一条带上、每天要不要横穿高速。Calaveras Blvd 是穿过两条高速的主要通道，也是去 SR-237 的入口，早晚高峰在这条路上的体验值得单独去看一次。",
+   "生活半径方面，日常买菜、图书馆、社区中心和运动设施在城内都能解决；综合医院的急诊在 Fremont 和 San Jose；上班方向多为 North San Jose 的 Tasman 走廊、SR-237 沿线、Fremont 的产业区，或者乘 BART 北上东湾和 San Francisco。"
+  ],
+  "neighbors": [
+   "Fremont",
+   "San Jose",
+   "Alviso（San Jose 的社区）"
+  ],
+  "note": "Milpitas 是独立建制的城市，南侧和西侧紧贴 San Jose 的 Berryessa、North San Jose 和 Alviso；靠近市界的房源要以县 Assessor 的地块记录和市政府确认的行政归属为准，不要只看房源描述里的社区名称。"
+ },
+ "districts_intro": "下面按两条高速和市里的规划文件分成五个生活片区。Milpitas Metro 和 Gateway–Main Street 是市议会通过的 Specific Plan 名称，其余是按高速和主路划分的惯称，都不是学校招生边界或法定社区边界。",
+ "districts": [
+  {
+   "name": "Milpitas Metro（BART / Great Mall 周边）",
+   "tag": "南端站区 · 新建联排与公寓",
+   "where": "城市南端，围绕 Milpitas Transit Center、Great Mall Parkway 和 Montague Expressway。范围来自市议会 2023 年 2 月 7 日通过的 Milpitas Metro Specific Plan，它取代了 2008 年的 Transit Area Specific Plan，规划面积约 510 英亩，分为 Great Mall、McCandless、Piper、Tango 和 Innovation 五个分区。",
+   "housing": "以 2010 年代以后建成的联排和多层公寓为主，联排多为三层以上、车库在底层，公寓多带集中车库。这类房子的日常差别主要在车位形式（并排还是前后停放）、访客车位数量、楼梯层数和 HOA 管理范围。规划文件说明站区新住宅设有 Community Facilities District，按户征收特别税，用于公共服务与维护。",
+   "daily": "Great Mall（447 Great Mall Dr）是站区最大的室内商业，旁边就是轻轨 Great Mall 站；McCandless Park 紧邻 Mabel Mattos Elementary（1750 McCandless Dr）；Piper 分区有 Bob McGuire Park（791 Garden St）；Tango 分区的 Augustus Rathbone Park 已部分建成。规划文件还记载 Penitencia Creek 沿线步道已完成改善。站区内步行可达的范围因小区出入口位置差别很大，要从具体门牌走一遍。",
+   "commute_school": "BART Milpitas 站（1755 S Milpitas Blvd）有往 Richmond 和往 Daly City 两条线，同站可换 VTA 轻轨 Orange Line 和 VTA、AC Transit 公交。开车主要走 Montague Expressway 接 I-880 或 I-680。学校属于 Milpitas Unified；地址对应哪所小学、初中要用学区的 School Finder 查。学区在转学页面上写明 Mattos Elementary 因容量原因不接受转入申请，所以住在学校旁边和被分到该校是两件事，需要按地址向学区确认。",
+   "tradeoffs": "站区的好处是轨道和商场集中，代价是 HOA 加特别税的持有成本、相对紧的车位，以及 Montague Expressway、Great Mall Parkway 和轨道带来的交通噪音。片区仍在按规划继续建设，附近的空地和商业地块今后可能变成住宅或办公楼，施工期和建成后的车流都要考虑。BART 所在位置在 Valley Water 的资料中属于 Berryessa Creek 洪泛范围，买房时要查该地址的 FEMA 分区和贷款方的洪水保险要求。",
+   "visit": "选一个工作日早高峰，从候选房的家门步行到 BART 站台：记下小区出口在哪一侧、要不要过 Montague Expressway 或 Great Mall Parkway、是否能用跨 Montague 的人行天桥、信号灯等待和夜间照明。再在晚上回来看一次访客车位和路边停车。"
+  },
+  {
+   "name": "Midtown / Main Street（Gateway–Main Street 规划区）",
+   "tag": "老城核心 · 图书馆与 Main Street",
+   "where": "I-880 与铁路以东、沿 Main Street 和 Abel Street 的老城部分，是 Milpitas 最早发展的区域。市里原有 Midtown Specific Plan，更新后改名为 Gateway–Main Street Specific Plan，分为 Gateway、Crossroads、Main Street 和 Abbott 四个分区，重点是 Main Street、Calaveras Boulevard 和 I-880 旁的 Abbott Avenue；新边界不再包含 Great Mall Parkway 以南原属 Midtown 的地块。",
+   "housing": "房型比较混合：有较早的小地块独立屋和老公寓，也有近年在 Main Street 和 Abel Street 沿线建成的联排与公寓项目。老房要看地基、管线、电力容量和屋顶的更新记录；新项目要看 HOA 文件和车位安排。",
+   "daily": "Milpitas Library（160 N Main St）属于 Santa Clara County Library District，有儿童区、青少年区和可预约的会议室。Main Street 沿线是小型商铺和餐饮。往东过 Calaveras 高架就是 City Hall 所在的 Civic Center 和 E Calaveras Blvd 上的 Safeway（555 E Calaveras Blvd）；往南沿 Main Street 或 Abel Street 可到 Great Mall。",
+   "commute_school": "开车上 I-880 最近，Calaveras Blvd 西行即 SR-237。去 BART 可以开车、骑车到 Milpitas Transit Center，或者从 Great Mall 站坐一站轻轨。学校属于 Milpitas Unified，用 School Finder 按地址查；不要因为离某所学校近就默认可以入读。",
+   "tradeoffs": "这里离高速和图书馆近，但也靠近 I-880、Calaveras 高架和铁路，噪音与车流是主要变量。Gateway–Main Street 规划允许沿主街建更高密度的建筑，环评文件把交通噪音和车辆行驶里程列为无法完全缓解的影响，今后几年街道面貌和施工情况都会变化。",
+   "visit": "在工作日傍晚沿 Main Street 从图书馆走到 Serra Way 一带，看人行道连续性、沿街空置地块和在建项目；在候选房屋门口停留一段时间，听有没有列车和高架的声音，并留意风向带来的气味。"
+  },
+  {
+   "name": "两条高速之间的北侧住宅区（Civic Center 以北，含 Sunnyhills 一带）",
+   "tag": "成熟社区 · 平层独立屋为主",
+   "where": "I-880 与 I-680 之间、Calaveras Blvd 以北直到 Dixon Landing Road 方向的住宅带，中间有 Jacklin Road 等东西向街道。南端是 City Hall 所在的 Civic Center（Milpitas Blvd 与 Calaveras Blvd 路口）。Sunnyhills 是当地对其中较早一批社区的惯称，没有法定边界。",
+   "housing": "以二十世纪中后期建成的独立屋为主，单层占比较高，带前后院和附属车库，也夹有一些联排和公寓小区。这类房子楼梯少、地块规整，但要重点看地基、屋顶、管线、电路和窗户的更新，以及加建部分有没有许可记录。",
+   "daily": "Barbara Lee Senior Center（40 N Milpitas Blvd）和 Milpitas Community Center 都在 Civic Center 一带；Safeway 在 555 E Calaveras Blvd；Ben Rodgers Park（2056 Seacliff Dr）是片区内的社区公园之一。市里共有三十多处公园，开放时间为日出到日落。去图书馆要过 Calaveras 高架到 Main Street。",
+   "commute_school": "往南北走可以选 I-880 或 I-680，取决于住得靠哪一侧；去 SR-237 要经 Calaveras Blvd 或从北面绕 Dixon Landing Road 上 I-880。去 BART 需要开车、骑车或用市里的 Milpitas SMART 预约车接驳。学校属于 Milpitas Unified，小学和初中的归属随地址变化，用 School Finder 查。",
+   "tradeoffs": "生活设施齐全、房型实用，但房龄较大，维护和更新的预算要算进去。靠近任一条高速的街道有持续的车流声。片区的西北方向是 Newby Island 填埋场和 San Jose 的污水处理设施，气味感受与风向、季节和时段有关，同一片区不同街道的反馈也不一样。",
+   "visit": "安排两次：一次在上学时段，看学校周边的接送车流和过街点；一次在傍晚或清晨，在候选街道上停留，记录气味和高速噪音。顺便开一趟 Calaveras Blvd，从 I-680 一侧到 I-880 一侧，感受高峰时横穿的情况。"
+  },
+  {
+   "name": "I-680 以东 · 山麓住宅区",
+   "tag": "东侧山麓 · 独立屋与坡地",
+   "where": "I-680 以东到山脚和山坡的住宅区，沿 E Calaveras Blvd、Piedmont Road 一线向南北展开，再往东是 Ed R. Levin County Park 和未开发的山地。属于按高速划分的惯称。",
+   "housing": "以独立屋为主，越靠山地块和房屋面积越大，坡上有带景观的大宅和封闭式小区。坡地房屋要额外关注挡土墙、排水、边坡稳定和车道坡度；山坡地块的加建与改造通常受市里的山坡开发规定约束，动工前要向 Planning 部门确认。",
+   "daily": "Alviso Adobe Park（2087 Alviso Adobe Ct）保留了早期牧场时期的历史建筑；Higuera Adobe Park 也在东侧；Ed R. Levin County Park 的主入口在 3100 Calaveras Rd，另有 Sandy Wool 入口（2699 Old Calaveras Rd）和 Spring Valley 入口（3001 Airpoint Trail）。Milpitas Sports Center 和学区办公室所在的 MUSD 园区在 E Calaveras Blvd 上。买菜一般要下到 Calaveras Blvd 的商业点或过 I-680 往西。",
+   "commute_school": "上 I-680 方便，往 Fremont、Pleasanton 方向或南下 San Jose 都走它；去 SR-237、I-880 和 North San Jose 要经 Calaveras Blvd 或 Montague Expressway 向西横穿。去 BART 基本靠开车到 Milpitas Transit Center 停车。学校属于 Milpitas Unified，按地址用 School Finder 查。",
+   "tradeoffs": "环境安静、离郊野公园近，但日常更依赖开车，横穿两条高速去西侧上班是固定成本。东侧山麓是查询地震断层带、地震诱发滑坡和山火危险分区时需要看的区域，结果因地块而异，保险报价也可能受影响。",
+   "visit": "白天从候选房开车到 Ed R. Levin County Park 入口和最近的超市各一趟，留意坡道和弯道；工作日早高峰从家门出发沿 Calaveras Blvd 向西开到 I-880，再用同一时刻的导航对比 Montague Expressway 的走法。"
+  },
+  {
+   "name": "I-880 以西（McCarthy Ranch 一带）",
+   "tag": "商业与产业为主 · 少量新住宅",
+   "where": "I-880 以西到 Coyote Creek 的部分，SR-237 从中间穿过。这一带以零售中心、办公和产业用地为主，住宅只占少数，属于按高速划分的惯称。",
+   "housing": "住宅以较新的联排和公寓小区为主，数量不多，通常带 HOA。选择这里的人多半看重离 SR-237 和 North San Jose 办公区近，房屋本身的车位、楼梯和储物空间要逐套比较。",
+   "daily": "McCarthy Ranch Marketplace 是 1994 年建成的大型零售中心；Milpitas Square 是 I-880 西侧的露天商业中心，餐饮集中。两处的具体门店变动较多，去之前先查当前营业情况。图书馆、社区中心和大部分公园都在 I-880 以东，需要开车过去。",
+   "commute_school": "SR-237 西行去 Sunnyvale、Mountain View，I-880 南下去 San Jose，位置直接。轨道方面要到 Tasman 走廊上的轻轨站或 Milpitas Transit Center。学校属于 Milpitas Unified，但住宅离学校普遍较远，接送路线要过 I-880，先用 School Finder 查归属，再实际开一次。",
+   "tradeoffs": "通勤去 SR-237 沿线最省事，但步行可达的居住配套少，周围是商业和产业地块。这里距离 Newby Island 填埋场和污水处理设施比城里其他片区更近，气味是需要重点实地核实的事项，SR-237 和 I-880 的交通噪音也要一并考虑。",
+   "visit": "分别在工作日傍晚、周末清晨各去一次，在小区内外停留一段时间记录气味和风向；同时看高峰时从小区出口并入 McCarthy Blvd 或 SR-237 匝道的排队情况。"
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车的骨架很清楚：I-880 和 I-680 负责南北向，SR-237 负责向西，Montague Expressway 和 Calaveras Blvd 负责东西向连接。难点集中在东西向：Calaveras Blvd 同时承担穿越两条高速、进出 SR-237 和本地购物的车流，中间还有跨铁路和 Main Street 的高架；Montague Expressway 则是去 North San Jose 的主要通道。住在 I-680 以东而在 SR-237 沿线上班的人，每天都要过这一段。",
+   "轨道集中在南端的 Milpitas Transit Center。BART Milpitas 站 2020 年 6 月通车，是 Santa Clara County 内最北的一个 BART 站，有往 Richmond 和往 Daly City 两条线，向南只到下一站 Berryessa／North San Jose。VTA 轻轨 Orange Line（Mountain View–Alum Rock）在同一处设 Milpitas 站，通过人行天桥与 BART 站房相连；这座轻轨站 2004 年开通时叫 Montague，2019 年底改名。Orange Line 在 Milpitas 一带的站依次是 Alder、Great Mall、Milpitas，往西经 Cisco、Baypointe 进入 Tasman 走廊。站区还有 VTA 和 AC Transit 的公交站台。",
+   "停车由 VTA 管理而不是 BART：官方页面列出一千六百多个车位，按日或按月付费，先到先得、不能预约，可用手机应用或站内缴费机付款。站内有自行车停放站和电子车柜。跨 Montague Expressway 有一座人行天桥连到停车楼二层。市政府还运营 Milpitas SMART 预约接驳车，截至 2026 年 10 月市府页面列出的服务时间是周一到周五清晨至晚间、周六白天，周日未列；2025 年 9 月市里宣布获得 VTA 拨款用于延续和扩大这项服务。它不是门到门的无障碍专车，出行前要在应用里确认当天是否有车。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 Milpitas Metro 到 Downtown San Francisco 或 Oakland",
+    "text": "步行或骑车到 BART Milpitas 站，往 Daly City 方向的列车直达 San Francisco 市区各站，往 Richmond 方向的列车经过 Oakland 市区。要核实的是：家门到站台的实际步行路线、你出发时刻的班次间隔、晚间回程的末班时间，以及到站后去办公室的最后一段。若需要开车到站，再确认到达时停车楼是否还有位。"
+   },
+   {
+    "title": "从 I-680 以东到 North San Jose 的 Tasman 走廊（Cisco 等园区）",
+    "text": "开车是沿 Calaveras Blvd 或 Montague Expressway 向西横穿两条高速，再转 Tasman Dr 或 Zanker Rd 一带。轨道方案是先到 Milpitas 站或 Great Mall 站，乘 Orange Line 往 Mountain View 方向，Cisco 站和 Baypointe 站都在这条线上。要比较的是横穿段的高峰拥堵与「开车到站加轻轨加园区内步行」哪一种更稳定。"
+   },
+   {
+    "title": "从北侧住宅区到 Fremont 南部的产业区",
+    "text": "开车走 I-880 或 I-680 北上，从 Dixon Landing Road 或 Jacklin Road 上高速，具体选哪条取决于目的地靠近哪一侧。乘 BART 则是从 Milpitas 站向北，再看出站后到厂区或办公室的接驳。需要核实的是你上班时段两条高速北向的实际车流，以及公司是否有班车或停车限制。"
+   }
+  ],
+  "verify": [
+   "在地图应用里输入候选房的门牌和办公室入口的地址，把出发时间设成你真实的上班和下班时刻，分别查工作日的周二到周四，记录给出的时间范围而不是单一数字。",
+   "在 BART 和 VTA 官网的行程规划里查同一时刻的班次，重点看换乘等待和末班车；到站后那一段路用步行导航单独查。",
+   "站区住房实地走一次家门到站台：记下过街次数、是否走天桥、雨天和夜间的照明情况，并在早高峰看一次停车楼的占用。",
+   "需要接送孩子的家庭，把「家—学校—办公室」连成一条路线查，尤其是要不要横穿 Calaveras Blvd 或高速。"
+  ],
+  "links": [
+   {
+    "label": "BART Milpitas 站（线路、停车、接驳）",
+    "url": "https://www.bart.gov/stations/mlpt"
+   },
+   {
+    "label": "VTA 轻轨 Orange Line 站点与时刻",
+    "url": "https://www.vta.org/go/routes/orange-line"
+   },
+   {
+    "label": "Milpitas SMART 预约接驳车",
+    "url": "https://www.milpitas.gov/smart"
+   },
+   {
+    "label": "VTA BART Silicon Valley Phase II 项目页",
+    "url": "https://www.vta.org/projects/bart-sv/phase-ii"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "日常采购和办事主要分布在三处：南端的 Great Mall 和站区、中部沿 Calaveras Blvd 的 Civic Center 一带、I-880 以西的大型零售中心。住在站区的人步行能解决一部分；住在北侧或东侧的人基本是开车沿 Milpitas Blvd、Calaveras Blvd 走。I-880 以西的商业中心餐饮集中，但从东侧过去要横穿高速，周末和晚餐时段停车场较满。",
+   "公共服务集中在两条高速之间：图书馆在 Main Street，老年中心和社区中心在 Civic Center。门店会更替，下面的商业中心只写了经核实仍在运营的场所本身，具体超市和餐厅请在出发前查当前营业状态。"
+  ],
+  "places": [
+   {
+    "name": "Great Mall",
+    "kind": "商业中心",
+    "where": "447 Great Mall Dr，Milpitas Metro 片区",
+    "note": "Simon 旗下的室内奥特莱斯型商场，官网列出一百六十多家店铺和多处室内娱乐；轻轨 Great Mall 站在旁边。"
+   },
+   {
+    "name": "Safeway（Calaveras Blvd）",
+    "kind": "超市",
+    "where": "555 E Calaveras Blvd，Civic Center 一带",
+    "note": "Safeway 官网列出的 Milpitas 门店。"
+   },
+   {
+    "name": "Milpitas Library",
+    "kind": "图书馆",
+    "where": "160 N Main St，Midtown",
+    "note": "Santa Clara County Library District 分馆；有儿童与青少年区、电脑、会议室和电动车充电位，开放时间以官网为准。"
+   },
+   {
+    "name": "Barbara Lee Senior Center",
+    "kind": "老年中心",
+    "where": "40 N Milpitas Blvd，Civic Center",
+    "note": "市政府设施目录列有活动场地和健身房。"
+   },
+   {
+    "name": "Milpitas Community Center",
+    "kind": "社区中心",
+    "where": "Civic Center，City Hall 旁",
+    "note": "市 Recreation & Community Services 的课程与活动报名点，课程见市里的 Activity Guide。"
+   },
+   {
+    "name": "McCarthy Ranch Marketplace",
+    "kind": "商业中心",
+    "where": "I-880 以西，SR-237 附近",
+    "note": "1994 年建成的大型零售中心，具体门店请查当前营业情况。"
+   },
+   {
+    "name": "Milpitas Square",
+    "kind": "商业中心",
+    "where": "I-880 以西，Barber Lane 一带",
+    "note": "露天商业中心，餐饮集中；高峰时段停车紧张，门店以现场为准。"
+   },
+   {
+    "name": "Main Street 商铺",
+    "kind": "商业街",
+    "where": "Midtown，Main Street 沿线",
+    "note": "小型商铺和餐饮，街道正按 Gateway–Main Street 规划逐步更新。"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "市政府管理三十多处公园，开放时间为日出到日落，设施包括球场、网球、篮球、野餐和烧烤区等，各公园的具体设施在市里的公园目录和场地预订系统里查。站区按 Metro 规划配建了几处新公园，老社区的公园则分散在住宅街道之间。",
+   "周末活动的重心是东侧山上的 Ed R. Levin County Park，由 Santa Clara County Parks 管理：有 Sandy Wool Lake、二十多英里的步道系统、滑翔伞与悬挂滑翔起飞区、野餐区和 Spring Valley Golf Course。车辆入园全年收费，费用以入口和县公园官网公布为准。"
+  ],
+  "places": [
+   {
+    "name": "Ed R. Levin County Park",
+    "kind": "郡立公园",
+    "where": "主入口 3100 Calaveras Rd，I-680 以东山上",
+    "note": "每天上午八点开放至日落，步道日出即开放；车辆入园全年收费；湖里不能游泳；部分步道允许骑车和骑马。"
+   },
+   {
+    "name": "Milpitas Dog Park（Ed R. Levin 园内）",
+    "kind": "宠物设施",
+    "where": "Ed R. Levin County Park 内",
+    "note": "大型犬和小型犬分区的无牵绳场地，由 City of Milpitas 拥有和运营；进入郡立公园需付车辆入园费。"
+   },
+   {
+    "name": "Alviso Adobe Park",
+    "kind": "公园／历史建筑",
+    "where": "2087 Alviso Adobe Ct，I-680 以东",
+    "note": "保留 Rancho Milpitas 时期的 adobe 建筑，可在市里的场地系统查询预订。"
+   },
+   {
+    "name": "McCandless Park",
+    "kind": "公园",
+    "where": "McCandless Dr，Milpitas Metro 片区",
+    "note": "紧邻 Mabel Mattos Elementary，是站区住户最近的活动场地之一。"
+   },
+   {
+    "name": "Bob McGuire Park",
+    "kind": "公园",
+    "where": "791 Garden St，Milpitas Metro 的 Piper 分区",
+    "note": "Metro 规划文件列为已建成的站区公园。"
+   },
+   {
+    "name": "Ben Rodgers Park",
+    "kind": "公园",
+    "where": "2056 Seacliff Dr，北侧住宅区",
+    "note": "市设施目录中的社区公园。"
+   },
+   {
+    "name": "Milpitas Sports Center",
+    "kind": "运动中心／泳池",
+    "where": "E Calaveras Blvd，I-680 以东",
+    "note": "市里的运动与游泳设施，开放时段、课程和泳道安排见 Activity Guide。"
+   },
+   {
+    "name": "Higuera Adobe Park",
+    "kind": "公园",
+    "where": "I-680 以东山麓",
+    "note": "东侧住宅区内的社区公园，设施以市公园目录为准。"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "Milpitas 市内以门诊为主，Kaiser Permanente 在市内设有 Medical Offices；设有急诊的综合医院在相邻城市，北面有 Fremont 的 Washington Health（原 Washington Hospital），其官网列有急诊和创伤中心服务，南面是 San Jose 方向的医院。",
+   "医院在附近不等于在你的医保网络内。选房时先确认自己保险计划指定的急诊、Urgent Care 和儿科门诊在哪里，再从候选地址在晚间和高峰各查一次路线。家里有老人或需要定期复诊的成员时，把这条路线和通勤路线同等对待。"
+  ],
+  "places": [
+   {
+    "name": "Kaiser Permanente Milpitas Medical Offices",
+    "kind": "门诊",
+    "where": "Milpitas 市内",
+    "note": "仅限 Kaiser 会员；科室和开放时间以 Kaiser 官网为准。"
+   },
+   {
+    "name": "Washington Health",
+    "kind": "医院／急诊",
+    "where": "Fremont，2000 Mowry Ave",
+    "note": "官网列有 Emergency Medicine、Trauma Center 和 Urgent Care。"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "Milpitas 的公立学校由 Milpitas Unified School District（MUSD）一个学区负责，从 TK 到 12 年级。学区列出的学校包括十所小学（Burnett、Curtner、Mabel Mattos、Pomeroy、Randall World Languages School、Rose、Sinnott、Spangler、Weller、Zanker）、两所初中（Rancho Milpitas、Thomas Russell）和 Milpitas High School，另有 Calaveras Hills High School、MUSD Middle College High School 以及设在学区园区内的 MHS Extension at MUSD Innovation Campus。全部十所小学都开设 TK。",
+   "入学按居住地址办理。学区的流程是先用 School Finder 输入门牌查出对应的小学和初中，再准备材料、在线登记，由学校核验文件后才算完成。学区在入学页面上说明目前学位紧张：开学第一天未到校的学生会失去该班级或学校的位置，可能被安排到学区内其他学校。跨校申请在每年三月集中受理，以随机抽签决定，且排在本学区居民学生安置之后；学区页面写明 Mattos Elementary 因容量原因不接受转入申请。外学区转入基本只限于少数政策规定的情形。",
+   "城市边界和学区边界要分开看。School Finder 只覆盖学区范围内的地址；房源在 Milpitas 与 San Jose 交界附近时，先用 Santa Clara County Office of Education 的 School District Locator 确认地址属于哪个学区，再进对应学区查学校。遇到边界上的地址应逐一核实。学校边界与安排可能调整，请以具体地址、入学学年和学区确认结果为准。"
+  ],
+  "districts": [
+   {
+    "name": "Milpitas Unified School District",
+    "short": "MUSD",
+    "grades": "TK–12",
+    "covers": "覆盖 Milpitas 市；交界处地址需按门牌确认",
+    "locator_url": "https://www.schfinder.com/MilpitasUSD/",
+    "map_url": "https://musd.org/243155_2",
+    "enroll_url": "https://musd.org/enrollment",
+    "note": "School Finder 由学区委托的软件商提供，页面标注最近更新于 2025 年 6 月，只覆盖学区内地址，查不到时联系学区办公室。查询结果是该地址对应的招生范围；学区说明学位紧张时学生可能被安排到其他学校。"
+   }
+  ],
+  "programs": [
+   "Randall World Languages School（MUSD，1300 Edsel Dr）：TK 到 6 年级的三语学校，提供英语、西班牙语和中文（Mandarin）课程；本学区居民在入学登记时选择参加，二年级以上及部分插班学生需要语言评估。",
+   "MHS Extension at MUSD Innovation Campus（1331 E Calaveras Blvd）：Milpitas High School 的延伸校区，以项目制学习和实习为特色，设有工程方向的 E-TECH Academy，学区提供与主校区之间的往返校车。",
+   "MUSD Middle College High School（1450 Escuela Pkwy）：高中阶段同时修读大学课程，方向包括教育与社会工作、工商管理与创业、健康科学；需单独申请。",
+   "Calaveras Hills High School（MUSD）：continuation high school，学区页面注明其获评 2024 年加州 Model Continuation High School。",
+   "MUSD Child Development Centers 提供学前阶段的照护；各小学的课后项目和学区的 Expanded Learning Opportunities Program 名额与时段需向所属学校确认。",
+   "Milpitas Adult Education（MUSD）开设成人 ESL、公民入籍和高中同等学历课程，新搬来的家庭成员可以利用。"
+  ],
+  "choice_note": "普通划片学校由地址决定。需要另外申请或选择的有：Randall World Languages School 的语言项目（入学登记时选择参加）、MUSD Middle College High School 和 MHS Extension at MUSD Innovation Campus（学区列为 Schools of Choice），以及每年三月的学区内跨校申请（抽签、不提供校车）。这些项目都有名额限制，不能当作买房时的既定条件。",
+  "dashboard_note": "在 California School Dashboard（caschooldashboard.org）搜索 Milpitas Unified 或具体学校名称，可以看到学业、英语学习者进步、长期缺勤、停学率、毕业率等多项指标及各学生群体的情况。Dashboard 每年发布一期，查询时在页面上选择最新的报告年份，并在比较学校时注明你看的是哪一年的数据。",
+  "trustee_note": "MUSD 董事会由五名 Trustee 组成。学区入学页面提供的是学校招生范围图和 School Finder；如果你在其他资料里看到与董事会选举有关的分区图，不要把它当成招生范围。",
+  "safe_routes": {
+   "text": "Milpitas 的 Safe Routes to School 由市政府推动：早期用县交通销售税（2016 Measure B）经费委托 Silicon Valley Bicycle Coalition 在个别小学开展步行和骑行教育；2024 年 9 月市政府宣布获得联邦 Safe Streets and Roads for All 拨款，用于改善 13 所公立学校周边的路口、标识和过街设施。各校的建议上学路线可以向学校或市政府交通部门询问，并在上学时段自己走一遍。",
+   "url": "https://www.milpitas.gov/Archive.aspx?ADID=1312"
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "Milpitas 的住房大致分成三个年代层次：两条高速之间北侧和 Midtown 的较早独立屋，I-680 以东随后发展的山麓独立屋，以及南端站区和 Main Street、Abel Street 沿线近十几年建成的联排与公寓。预算相同时，往往是在「老一些的平层独立屋加院子」与「新一些的多层联排加 HOA」之间做选择。",
+   "站区新联排的日常使用值得逐项看：车库是并排两车位还是前后停放，底层有没有卧室或只是车库加储物，主要生活层在二楼还是三楼，带老人或婴儿车时楼梯是否方便；访客车位数量和夜间路边停车规定直接影响亲友来访。公寓则要看车位是固定还是分配、电梯数量和快递收发。",
+   "老独立屋的检查重点在地基与排水、屋顶年限、供水与排污管线、电箱容量、窗户与保温，以及加建和车库改造是否有许可。山坡房屋再加上挡土墙、边坡和车道坡度。无论哪种房型，都建议把白天和夜间各看一次作为固定步骤。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "集中在两条高速之间的北侧住宅区和 I-680 以东。前者以单层为主、地块规整，后者越靠山面积越大。维护责任全部在业主，买前把检查报告里的地基、屋顶、管线和白蚁项目逐条过一遍。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "Milpitas Metro 站区和 Main Street、Abel Street 沿线最常见，多为三层以上、底层车库。要比较车位形式、楼梯层数、HOA 负责的范围（屋顶、外墙、道路）以及是否另有 CFD 特别税。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "主要在站区、Midtown 和 I-880 以西的新小区。重点看 HOA 的储备金报告、保险覆盖范围、车位与储物间的产权形式，以及楼栋朝向与主路、轨道的关系。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "持有成本要按具体房源的税单来算。加州房产税以 Prop 13 的基础税率为底，再加上地方选民通过的债券和各类特别评估，学区债券、县和水务方面的项目都会出现在税单上，不同地址的合计并不相同。",
+   "Milpitas Metro 规划文件说明，原 Transit Area Specific Plan 设立了 Community Facilities District，对站区新建住宅按户征收特别税，用于治安、消防、路灯、防洪等公共服务和维护。这类特别税通常单列在税单上，金额、是否逐年调整和有没有到期日，要以该地块的税单和产权公司出具的资料为准；不要把一个小区的数字套用到另一个小区。",
+   "联排和公寓还有 HOA 月费，覆盖范围差别很大。保险方面，洪水分区、东侧山麓的地质和山火分区都可能影响是否要另买保险以及报价。水费和排污费由市政府的公用事业部门按公布的费率收取。通勤成本则包括 BART 票价、站区停车费或者每天横穿高速的油耗与时间。"
+  ],
+  "checklist": [
+   "向卖方或产权公司要最近一期完整的房产税单，逐行看基础税、债券、CFD／Mello-Roos 和其他特别评估。",
+   "索取 HOA 的预算、储备金研究、会议记录和近期特别摊派记录，确认月费包含哪些保险与维护。",
+   "看 Natural Hazard Disclosure 报告，核对洪水、地震断层带、液化、滑坡和山火各项的勾选结果，并据此请保险经纪报价。",
+   "向市政府公用事业部门了解该地址的水、排污和垃圾收费方式，向卖方要近一年的账单。",
+   "确认车位和储物间写在产权文件里的形式，以及小区对访客停车和路边停车的规定。",
+   "按自己的通勤方式估算每月的 BART、停车或开车成本，和房贷一起放进预算。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "气候上，Milpitas 在 San Francisco Bay 南端的东岸，夏季比湾边的西侧城市略热，傍晚常有从湾区方向吹来的风；东侧山麓日照充足，坡上风更明显。",
+   "气味是这座城市需要单独核实的事项。Bay Area Air Quality Management District（BAAQMD）做过 South Bay Odor Attribution Study，研究对象包括 Newby Island Resource Recovery Park（填埋场、堆肥和回收设施）、San José–Santa Clara Regional Wastewater Facility 和 Zero Waste Energy Development；2024 年 3 月修订的最终报告认为，填埋气是社区气味投诉的主要来源，其他设施也有贡献。2015 年成立的 South Bay Odor Stakeholders Group 把 Milpitas 和 Fremont 市政府、监管机构与设施运营方放在一起定期开会，市议会也设有 Ad Hoc Odor Reduction Subcommittee。这些设施在城市西北方向，位于 San Jose 辖区内，扩容和许可由 San Jose 及州、区域监管机构审批；Milpitas 曾就填埋场扩容提出过法律挑战。气味的强弱取决于风向、季节和时段，同一条街不同日子差别也很大。实际做法是：在傍晚、清晨和周末各到候选地址停留一次；在 BAAQMD 的 Air Quality Complaint History 页面查看附近的投诉记录；闻到时可拨 BAAQMD 的 24 小时投诉电话 1-800-334-ODOR 或在线提交。",
+   "噪音来源主要是 I-880、I-680、SR-237、Montague Expressway 和 Calaveras Blvd 的车流，以及穿过城市的铁路和 BART、轻轨；San José Mineta 机场在南面，可以用机场的 WebTrak 查看候选地址上空的航迹。灾害图层方面：Valley Water 的资料显示，Upper Berryessa Creek 防洪工程（I-680 至 Calaveras Blvd 段）已于 2018 年完工，按百年一遇洪水设计，BART 站所在位置属于该洪泛范围，具体地址的洪水分区仍以 FEMA 现行地图为准；西侧低地要查液化图层，东侧山麓要查 Alquist-Priolo 断层带、地震诱发滑坡和山火危险分区。这些图层只说明需要进一步核实的事项，不能单凭图层判断一套房子的状况。"
+  ],
+  "tools": [
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示地址所在的洪水分区，影响贷款方是否要求洪水保险。Berryessa Creek、Penitencia Creek 沿线、站区和 I-880 以西的低地都应查询。"
+   },
+   {
+    "label": "CGS EQ Zapp 地震危险区查询",
+    "url": "https://maps.conservation.ca.gov/cgs/EQZApp/app/",
+    "what": "按地址显示是否位于 Alquist-Priolo 断层带、液化区或地震诱发滑坡区；东侧山麓和西侧低地分别对应不同图层。"
+   },
+   {
+    "label": "CAL FIRE／OSFM 山火危险分区",
+    "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+    "what": "查询地块是否在 Fire Hazard Severity Zone 内，主要与 I-680 以东靠山的房源有关。"
+   },
+   {
+    "label": "BAAQMD 空气质量投诉记录",
+    "url": "https://www.baaqmd.gov/en/Online-Services/Air-Pollution-Complaints/Air-Quality-Complaint-History",
+    "what": "查看区域内的气味等投诉历史；同一栏目下可在线提交投诉。"
+   },
+   {
+    "label": "SJC 机场 WebTrak 航迹查询",
+    "url": "https://www.flysanjose.com/noise/web-trak",
+    "what": "回放指定时段的航班轨迹和高度，用来判断候选地址是否在常用航线下方。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "未来变化最集中的是南端站区和老城 Main Street。Milpitas Metro Specific Plan 于 2023 年 2 月通过，预计规划区内还可增加约五千到七千套住宅，其中相当一部分设想在 Great Mall 地块上：规划把这座由 Simon 持有的商场定位为远期可改造成带街道网格和公共空间的混合用途街区，先从北端的地面停车场开始。这是规划容量和方向，不是已经获批的具体项目，时间取决于业主。站区东侧的 Innovation 分区定位为办公和研发用地。",
+   "老城方面，市议会在 2025 年 10 月 28 日一读通过了落实 Gateway–Main Street Specific Plan 的条例并认证了环评，二读排在同年 11 月；规划官网已把文件列为通过版本。新分区下建筑一般不超过五层，Crossroads 分区最高可到七层。对住在附近的人来说，这意味着 Main Street 沿线今后会陆续出现新建项目和街道改造。",
+   "区域交通上，BART 目前向南只到 Berryessa／North San Jose。VTA 的 BART Silicon Valley Phase II 计划再延伸约六英里、设四个站，进入 San Jose 市中心并到 Santa Clara；VTA 项目页按 2023 年秋季的估算把施工期列为 2024 至 2036 年，没有给出确定的通车日期。在它建成之前，从 Milpitas 乘 BART 去 San Jose 市中心仍要在 Berryessa 换乘 VTA。"
+  ],
+  "items": [
+   {
+    "name": "Milpitas Metro Specific Plan",
+    "status": "2023 年 2 月 7 日市议会通过，按规划逐步实施",
+    "text": "取代 2008 年的 Transit Area Specific Plan，规划区扩大到约 510 英亩，分 Great Mall、McCandless、Piper、Tango、Innovation 五个分区。Innovation 和 Great Mall 分区内还规划有新公园，Great Mall Parkway 上规划有带状公园。站区住户要预期周边地块继续建设。",
+    "url": "https://www.milpitas.gov/DocumentCenter/View/1173"
+   },
+   {
+    "name": "Gateway–Main Street Specific Plan（原 Midtown Specific Plan）",
+    "status": "2025 年 10 月 28 日市议会一读通过条例并认证环评，二读排在 2025 年 11 月",
+    "text": "覆盖 Main Street、Calaveras Blvd 门户段和 Abbott Avenue 一带，分 Gateway、Crossroads、Main Street、Abbott 四个分区，允许更高密度的混合用途开发，并以公共利益换取开发激励。后续还要制定街道公共空间改善方案和基础设施影响费。",
+    "url": "https://www.milpitasmainstreet.org/"
+   },
+   {
+    "name": "South Milpitas Boulevard 延伸与新公园",
+    "status": "据 2026 年 3 月的报道，计划 2026 年年中开工，桥和连接道路之后再建公园",
+    "text": "在站区内新建一座跨 Penitencia East Channel 的短桥和连接道路，把 Tarob Court 与 Sango Court 连起来，带自行车道和人行道；旁边规划一处约五英亩的公园。建成后站区东侧住宅去 BART 和 Great Mall 的步行、骑行路线会更直接，施工期间附近会有围挡。开工情况请向市政府工程部门确认。",
+    "url": "https://hoodline.com/2026/03/milpitas-plots-new-bridge-to-stitch-bart-hub-to-great-mall/"
+   },
+   {
+    "name": "Milpitas Transit Center 站区开发（VTA）",
+    "status": "VTA 于 2026 年 6 月 29 日至 8 月 21 日征集开发商方案，截至 2026 年 10 月未见公布结果",
+    "text": "VTA 计划在紧邻 BART 和轻轨的一块约 1.7 英亩空地上做混合用途开发，要求其中四分之一的住宅为可负担住房。紧邻该地块的房源今后会面对施工和新建筑。",
+    "url": "https://www.vta.org/projects/milpitas-transit-center-transit-oriented-development"
+   },
+   {
+    "name": "BART Silicon Valley Phase II",
+    "status": "施工中；VTA 项目页所列施工期为 2024–2036 年（2023 年秋季估算）",
+    "text": "从 Berryessa／North San Jose 向南延伸约六英里、新设四个站。建成后 Milpitas 站可以不换乘直达 San Jose 市中心，但时间较远，不宜作为近几年通勤安排的前提。",
+    "url": "https://www.vta.org/projects/bart-sv/phase-ii"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "这条半天路线从南端的站区开始，向北经过老城和 Civic Center，再向东上山麓，最后回到西侧。建议安排在工作日下午到傍晚，这样既能看到下班高峰的 Calaveras Blvd，也能在傍晚风向下感受气味。带上纸笔或手机备忘录，每一站只记事实：走了多久、过了几个路口、听到和闻到什么。",
+  "stops": [
+   {
+    "name": "第1站 Milpitas Transit Center",
+    "text": "从候选的站区小区门口出发，步行到 BART 站台和轻轨站台各一次。记录过街位置、是否走天桥、停车楼入口和自行车停放点。"
+   },
+   {
+    "name": "第2站 McCandless Park 与周边联排小区",
+    "text": "看公园、Mabel Mattos Elementary 和小区之间的步行连接；绕小区一圈，数访客车位，看车库门前的回转空间和路边停车标识。"
+   },
+   {
+    "name": "第3站 Great Mall 与 Great Mall 轻轨站",
+    "text": "从商场走到轻轨站，感受 Great Mall Parkway 的车流和过街等待；留意商场北端的大面积停车场，这是规划中远期可能改造的位置。"
+   },
+   {
+    "name": "第4站 Main Street 与 Milpitas Library",
+    "text": "停好车沿 Main Street 走一段，进图书馆看儿童区和自习空间；注意沿街空置地块、在建项目以及铁路和 Calaveras 高架的声音。"
+   },
+   {
+    "name": "第5站 Civic Center 与 E Calaveras Blvd",
+    "text": "看 City Hall、Barbara Lee Senior Center 和 Safeway 的相对位置，然后在高峰时沿 Calaveras Blvd 从 I-880 一侧开到 I-680 一侧，记录通过情况。"
+   },
+   {
+    "name": "第6站 I-680 以东：Alviso Adobe Park 到 Ed R. Levin County Park 入口",
+    "text": "沿山麓街道开一段，看坡度、车道和挡土墙；到郡立公园入口了解收费和开放时间，估一下周末从家到这里的路程。"
+   },
+   {
+    "name": "第7站 傍晚回到北侧或 I-880 以西的候选街道",
+    "text": "在候选房屋附近下车停留，记录风向、气味和高速噪音；如果当天没有异常，换一个清晨或周末再来一次。"
+   }
+  ],
+  "questions": [
+   "这个门牌在 MUSD School Finder 里对应哪所小学和初中？学区对该校当年的学位情况怎么说？",
+   "税单上除基础税以外有哪些债券、CFD 或特别评估？各自有没有到期日？",
+   "HOA 月费包含什么，储备金是否充足，近三年有没有特别摊派？",
+   "车位是什么形式，访客停在哪里，夜间路边停车有没有限制？",
+   "这个地址在 FEMA 洪水图、CGS 断层与液化图层、山火分区里分别是什么结果？保险报价是多少档？",
+   "在傍晚、清晨和周末各来一次，气味和噪音有没有差别？BAAQMD 的投诉记录里附近情况如何？",
+   "从家门到 BART 站台或到办公室入口，按你的真实出发时刻走一遍，结果能接受吗？"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Fremont",
+   "slug": "fremont",
+   "text": "两城沿 I-880、I-680 相接，都有 BART。Fremont 面积大、片区多，学区是 Fremont Unified，独立屋选择更广；Milpitas 更紧凑，BART 与轻轨同站，去 North San Jose 更近。比较时先把办公地点落在地图上。"
+  },
+  {
+   "city": "San Jose（Berryessa 一带）",
+   "slug": "san-jose",
+   "text": "Berryessa 紧邻 Milpitas 南界，同样有 BART 和 Orange Line，但属于 San Jose 市和另外的学区。两边房型相近，差别在学区归属、市政服务和街道环境；交界处房源先确认行政归属。"
+  },
+  {
+   "city": "Sunnyvale",
+   "slug": "sunnyvale",
+   "text": "办公室在 SR-237 西段或 Caltrain 沿线时，Sunnyvale 省去每天往返 SR-237 的一段，但同样预算的房子通常更小或更老。Milpitas 有 BART 和较新的联排，代价是东西向通勤和需要实地核实的气味。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "Milpitas",
+    "system": "BART",
+    "address": "1755 S Milpitas Blvd, Milpitas, CA 95035"
+   },
+   {
+    "name": "Milpitas Station",
+    "system": "VTA Light Rail",
+    "address": "Milpitas Transit Center, E Capitol Ave & Montague Expy, Milpitas, CA 95035"
+   },
+   {
+    "name": "Great Mall Station",
+    "system": "VTA Light Rail",
+    "address": "Great Mall Pkwy, Milpitas, CA 95035"
+   },
+   {
+    "name": "Alder Station",
+    "system": "VTA Light Rail",
+    "address": "Tasman Dr & Alder Dr, Milpitas, CA 95035"
+   }
+  ],
+  "pois": [
+   {
+    "name": "Great Mall",
+    "category": "shopping",
+    "address": "447 Great Mall Dr, Milpitas, CA 95035",
+    "district": "Milpitas Metro（BART / Great Mall 周边）"
+   },
+   {
+    "name": "McCandless Park",
+    "category": "park",
+    "address": "McCandless Dr, Milpitas, CA 95035",
+    "district": "Milpitas Metro（BART / Great Mall 周边）"
+   },
+   {
+    "name": "Bob McGuire Park",
+    "category": "park",
+    "address": "791 Garden St, Milpitas, CA 95035",
+    "district": "Milpitas Metro（BART / Great Mall 周边）"
+   },
+   {
+    "name": "Milpitas Library",
+    "category": "library",
+    "address": "160 N Main St, Milpitas, CA 95035",
+    "district": "Midtown / Main Street（Gateway–Main Street 规划区）"
+   },
+   {
+    "name": "Barbara Lee Senior Center",
+    "category": "community",
+    "address": "40 N Milpitas Blvd, Milpitas, CA 95035",
+    "district": "两条高速之间的北侧住宅区（Civic Center 以北，含 Sunnyhills 一带）"
+   },
+   {
+    "name": "Milpitas Community Center",
+    "category": "community",
+    "address": "457 E Calaveras Blvd, Milpitas, CA 95035",
+    "district": "两条高速之间的北侧住宅区（Civic Center 以北，含 Sunnyhills 一带）"
+   },
+   {
+    "name": "Safeway",
+    "category": "grocery",
+    "address": "555 E Calaveras Blvd, Milpitas, CA 95035",
+    "district": "两条高速之间的北侧住宅区（Civic Center 以北，含 Sunnyhills 一带）"
+   },
+   {
+    "name": "Ben Rodgers Park",
+    "category": "park",
+    "address": "2056 Seacliff Dr, Milpitas, CA 95035",
+    "district": "两条高速之间的北侧住宅区（Civic Center 以北，含 Sunnyhills 一带）"
+   },
+   {
+    "name": "Milpitas Unified School District Office",
+    "category": "school_admin",
+    "address": "1331 E Calaveras Blvd, Milpitas, CA 95035",
+    "district": "I-680 以东 · 山麓住宅区"
+   },
+   {
+    "name": "Milpitas Sports Center",
+    "category": "community",
+    "address": "1325 E Calaveras Blvd, Milpitas, CA 95035",
+    "district": "I-680 以东 · 山麓住宅区"
+   },
+   {
+    "name": "Alviso Adobe Park",
+    "category": "park",
+    "address": "2087 Alviso Adobe Ct, Milpitas, CA 95035",
+    "district": "I-680 以东 · 山麓住宅区"
+   },
+   {
+    "name": "Ed R. Levin County Park",
+    "category": "park",
+    "address": "3100 Calaveras Rd, Milpitas, CA 95035",
+    "district": "I-680 以东 · 山麓住宅区"
+   },
+   {
+    "name": "Sandy Wool Lake",
+    "category": "trailhead",
+    "address": "2699 Old Calaveras Rd, Milpitas, CA 95035",
+    "district": "I-680 以东 · 山麓住宅区"
+   },
+   {
+    "name": "Spring Valley Golf Course",
+    "category": "park",
+    "address": "3001 Airpoint Trail, Milpitas, CA 95035",
+    "district": "I-680 以东 · 山麓住宅区"
+   },
+   {
+    "name": "McCarthy Ranch Marketplace",
+    "category": "shopping",
+    "address": "McCarthy Ranch, Ranch Dr, Milpitas, CA 95035",
+    "district": "I-880 以西（McCarthy Ranch 一带）"
+   },
+   {
+    "name": "Milpitas Square",
+    "category": "shopping",
+    "address": "Barber Ln, Milpitas, CA 95035",
+    "district": "I-880 以西（McCarthy Ranch 一带）"
+   },
+   {
+    "name": "Washington Hospital",
+    "category": "hospital",
+    "address": "2000 Mowry Ave, Fremont, CA 94538",
+    "district": ""
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "Milpitas Metro（BART / Great Mall 周边）",
+    "anchor": "Milpitas BART Station, 1755 S Milpitas Blvd, Milpitas, CA"
+   },
+   {
+    "district": "Midtown / Main Street（Gateway–Main Street 规划区）",
+    "anchor": "Milpitas Library, 160 N Main St, Milpitas, CA"
+   },
+   {
+    "district": "两条高速之间的北侧住宅区（Civic Center 以北，含 Sunnyhills 一带）",
+    "anchor": "N Milpitas Blvd & Jacklin Rd, Milpitas, CA"
+   },
+   {
+    "district": "I-680 以东 · 山麓住宅区",
+    "anchor": "E Calaveras Blvd & Piedmont Rd, Milpitas, CA"
+   },
+   {
+    "district": "I-880 以西（McCarthy Ranch 一带）",
+    "anchor": "McCarthy Blvd & Ranch Dr, Milpitas, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "MUSD 学校招生范围图",
+    "kind": "school_boundary",
+    "url": "https://musd.org/243155_2",
+    "note": "Milpitas Unified School District 官网嵌入的互动地图，页面未标注图件日期"
+   },
+   {
+    "label": "MUSD School Finder（按地址查学校）",
+    "kind": "school_boundary",
+    "url": "https://www.schfinder.com/MilpitasUSD/",
+    "note": "学区委托 SchoolVision Software 提供，页面标注最近更新 2025-06-06"
+   },
+   {
+    "label": "Milpitas Metro Specific Plan（含分区与土地用途图）",
+    "kind": "zoning",
+    "url": "https://www.milpitas.gov/DocumentCenter/View/1173",
+    "note": "City of Milpitas，2023 年 2 月 7 日通过"
+   },
+   {
+    "label": "Gateway–Main Street Specific Plan 文件",
+    "kind": "zoning",
+    "url": "https://www.milpitasmainstreet.org/documents",
+    "note": "City of Milpitas 规划项目网站，2025 年文件"
+   },
+   {
+    "label": "VTA 轻轨 Orange Line 线路图",
+    "kind": "transit",
+    "url": "https://www.vta.org/go/routes/orange-line",
+    "note": "Santa Clara Valley Transportation Authority"
+   },
+   {
+    "label": "BART Milpitas 站页面与站区图",
+    "kind": "transit",
+    "url": "https://www.bart.gov/stations/mlpt",
+    "note": "BART；停车由 VTA 管理"
+   },
+   {
+    "label": "Ed R. Levin County Park 公园与步道图",
+    "kind": "parks",
+    "url": "https://parks.santaclaracounty.gov/locations/ed-r-levin-county-park",
+    "note": "Santa Clara County Parks"
+   },
+   {
+    "label": "Milpitas 市设施与公园目录",
+    "kind": "parks",
+    "url": "https://www.milpitas.gov/Facilities",
+    "note": "City of Milpitas，含列表与地图两种视图"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "MUSD 入学流程、学校名单、Schools of Choice、TK",
+   "url": "https://musd.org/enrollment",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MUSD 学校招生范围图页面",
+   "url": "https://musd.org/243155_2",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MUSD School Finder",
+   "url": "https://www.schfinder.com/MilpitasUSD/",
+   "org": "Milpitas Unified School District / SchoolVision Software",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MUSD 学区内与跨学区转学规定",
+   "url": "https://musd.org/243380_2",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MUSD 董事会成员页面",
+   "url": "https://musd.org/243223_2",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Randall World Languages School",
+   "url": "https://randall.musd.org",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MHS Extension at MUSD Innovation Campus",
+   "url": "https://mhsinnovation.musd.org",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MUSD Middle College High School",
+   "url": "https://mmchs.musd.org",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Mabel Mattos Elementary School",
+   "url": "https://mattos.musd.org",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MUSD Expanded Learning Opportunities Plan 页面",
+   "url": "https://musd.org/167726_3",
+   "org": "Milpitas Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "县教育局 School District Locator 入口",
+   "url": "https://www.sccoe.org/resources/families/Pages/default.aspx",
+   "org": "Santa Clara County Office of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "California School Dashboard",
+   "url": "https://www.caschooldashboard.org/",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART Milpitas 站：地址、线路、停车、接驳",
+   "url": "https://www.bart.gov/stations/mlpt",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Orange Line 站点顺序",
+   "url": "https://www.vta.org/go/routes/orange-line",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas 站通车日期、轻轨站更名与天桥",
+   "url": "https://en.wikipedia.org/wiki/Milpitas_station",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas SMART 服务说明",
+   "url": "https://www.milpitas.gov/smart",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas SMART 获 VTA 拨款新闻稿（2025-09-11）",
+   "url": "https://www.milpitas.gov/DocumentCenter/View/8552/Press-Release-SMARTGrant_PR_91125_",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "2016 Measure B：Milpitas SMART 经费页",
+   "url": "https://2016measureb.vta.org/projects/milpitas-smart-on-demand-service",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas Metro Specific Plan 全文",
+   "url": "https://www.milpitas.gov/DocumentCenter/View/1173",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas Connected 2023 春季刊（Metro Plan 通过情况）",
+   "url": "https://www.milpitas.gov/Archive.aspx?ADID=866",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "General Plan 2040 修订记录（含 2023–2031 Housing Element 通过）",
+   "url": "https://www.milpitas.gov/DocumentCenter/View/8168",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Gateway–Main Street Specific Plan 市府页面",
+   "url": "https://www.milpitas.gov/350/Gateway-Main-Street-Specific-Plan-former",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Gateway–Main Street Specific Plan Final SEIR（2025-09）",
+   "url": "https://www.milpitas.gov/DocumentCenter/View/8606/Milpitas-Gateway-Main-Street-Specific-Plan_Final_SEIR_091525",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Gateway–Main Street Specific Plan 项目网站",
+   "url": "https://www.milpitasmainstreet.org/",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市议会 2025-10-28 审议 Gateway–Main Street 条例的会议摘要",
+   "url": "https://citizenportal.ai/articles/6707636/Milpitas/Santa-Clara-County/California/Milpitas-council-approves-ordinance-to-implement-Gateway-Main-Street-specific-plan-and-certifies-supplemental-EIR",
+   "org": "Citizen Portal",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "South Milpitas Blvd 延伸桥与公园报道（2026-03）",
+   "url": "https://hoodline.com/2026/03/milpitas-plots-new-bridge-to-stitch-bart-hub-to-great-mall/",
+   "org": "Hoodline",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas Transit Center 站区开发",
+   "url": "https://www.vta.org/projects/milpitas-transit-center-transit-oriented-development",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART Silicon Valley Phase II 项目页",
+   "url": "https://www.vta.org/projects/bart-sv/phase-ii",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市公园概况（三十多处公园、开放时间）",
+   "url": "https://milpitas.gov/831/Parks",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市设施目录（部分设施地址）",
+   "url": "https://www.milpitas.gov/Facilities",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Ed R. Levin County Park",
+   "url": "https://parks.santaclaracounty.gov/locations/ed-r-levin-county-park",
+   "org": "Santa Clara County Parks",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas Library",
+   "url": "https://sccld.org/locations/milpitas/",
+   "org": "Santa Clara County Library District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Great Mall 商场信息",
+   "url": "https://www.simon.com/mall/great-mall",
+   "org": "Simon Property Group",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Safeway Milpitas 门店",
+   "url": "https://local.safeway.com/safeway/ca/milpitas.html",
+   "org": "Safeway",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Washington Health（Fremont）",
+   "url": "https://www.washingtonhealth.com/",
+   "org": "Washington Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas 城市概况：相邻城市、道路、片区、商业中心、气味背景",
+   "url": "https://en.wikipedia.org/wiki/Milpitas,_California",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "South Bay Odor Attribution Study",
+   "url": "https://www.baaqmd.gov/About-Air-Quality/Air-Quality-Measurement/Special-Air-Monitoring-Projects/South-Bay-Odor-Attribution-Study",
+   "org": "Bay Area Air Quality Management District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BAAQMD 空气污染投诉入口与电话",
+   "url": "https://www.baaqmd.gov/en/Online-Services/Air-Pollution-Complaints",
+   "org": "Bay Area Air Quality Management District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BAAQMD 投诉记录页面",
+   "url": "https://www.baaqmd.gov/en/Online-Services/Air-Pollution-Complaints/Air-Quality-Complaint-History",
+   "org": "Bay Area Air Quality Management District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "South Bay Odor Stakeholders Group",
+   "url": "https://sbosg.info/",
+   "org": "South Bay Odor Stakeholders Group",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市议会 Ad Hoc Odor Reduction Subcommittee",
+   "url": "https://www.milpitas.gov/621/Ad-Hoc-Odor-Reduction-Subcommittee",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Upper Berryessa Creek 防洪工程",
+   "url": "https://www.valleywater.org/project-updates/creek-river-projects/upper-berryessa-creek-flood-protection",
+   "org": "Valley Water",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CGS EQ Zapp 说明页",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FEMA Flood Map Service Center",
+   "url": "https://msc.fema.gov/portal/home",
+   "org": "FEMA",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CAL FIRE／OSFM 山火危险分区",
+   "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+   "org": "CAL FIRE Office of the State Fire Marshal",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "SJC 机场噪音与航迹工具",
+   "url": "https://www.flysanjose.com/noise",
+   "org": "San José Mineta International Airport",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市府新闻：Safe Routes to School 联邦拨款（2024-09）",
+   "url": "https://www.milpitas.gov/Archive.aspx?ADID=1312",
+   "org": "City of Milpitas",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Milpitas Safe Routes to School 项目介绍（2023-02）",
+   "url": "https://bikesiliconvalley.org/news/2023/2/zk88nydpwu53zil6bpwtota06bpskb",
+   "org": "Silicon Valley Bicycle Coalition",
+   "accessed": "2026-10-08",
+   "opened": true
+  }
+ ]
+}

@@ -1,0 +1,1054 @@
+{
+ "slug": "fremont",
+ "name": "Fremont",
+ "county": "Alameda County",
+ "meta_title": "Fremont 城市生活指南｜片区、学校、通勤与住房",
+ "meta_description": "按 Ardenwood、Centerville、Niles、Central、Irvington、Mission San Jose、Warm Springs 七个片区，比较 Fremont 的过桥与 BART 通勤、日常配套、Fremont Unified 学校查询方法，以及税单、地质与噪音的核对事项。",
+ "hero": {
+  "tagline": "两座 BART 站 · Dumbarton Bridge 东端 · 五镇合并 · Mission Peak 山麓",
+  "intro": "Fremont 在东湾南端，西临海湾，东靠 Mission Peak 山麓，由 I-880、I-680 和 Dumbarton Bridge 连向 Peninsula、南湾与 Tri-Valley。城市由 1956 年合并的五个镇发展而来，各片区的通勤方向、买菜地点和房屋年代差别明显。先定工作地点和出行方式，再选片区，并按地址核对学校安排、地质图层和税单。"
+ },
+ "card": "东湾南端的大城市，两座 BART 站加 Dumbarton Bridge；片区通勤方向各不相同，先定办公地点再选片区。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Alameda County"
+  },
+  {
+   "label": "轨道交通",
+   "value": "BART（Fremont、Warm Springs/South Fremont 两站）；ACE 与 Capitol Corridor（Fremont-Centerville 站）"
+  },
+  {
+   "label": "公立学区",
+   "value": "Fremont Unified School District（TK–12，不是南湾的 Fremont Union High School District）"
+  },
+  {
+   "label": "主要干道与桥",
+   "value": "I-880、I-680、SR-84 Dumbarton Bridge、SR-238 Mission Blvd、Fremont Blvd、Paseo Padre Pkwy"
+  }
+ ],
+ "position": {
+  "paragraphs": [
+   "Fremont 在 Alameda County 的最南端，北面是 Union City，西北面是 Newark，南面与 Milpitas 相接，三者中 Fremont、Newark、Union City 常被合称 Tri-City。城市西缘是海湾湿地和 Don Edwards San Francisco Bay National Wildlife Refuge，东缘是以 Mission Peak 为代表的山地开放空间，住宅主要集中在中间的平地和东侧山脚。",
+   "对外交通有三个方向。向西：SR-84 经 Dumbarton Bridge 到 Menlo Park 和 Peninsula，桥的东端就在 Fremont 西北角。向南北：I-880 贴着城市西侧，连接 Oakland 与 Milpitas、San Jose；I-680 从东南侧经过，向北翻 Sunol 一带去 Pleasanton、Dublin，向南去 Milpitas 和 San Jose 东侧。SR-262（Mission Blvd 南段）在 Warm Springs 把 I-880 和 I-680 连起来。轨道方面，BART 在城内有 Fremont 和 Warm Springs/South Fremont 两站，向北去 Oakland、San Francisco 和 Richmond，向南到 Milpitas 和 Berryessa/North San Jose；ACE 和 Capitol Corridor 列车停靠 Centerville 的 Fremont-Centerville 站。",
+   "Fremont 的生活半径大多留在城内：日常采购在 Fremont Hub、Pacific Commons 和各片区的邻里商场，就医集中在 City Center 一带，周末去 Central Park、Quarry Lakes、Coyote Hills 或 Mission Peak。会出城的通常是上班，以及去 Newark 的 NewPark Mall 一带、Union City 或 Milpitas 购物。因为城市南北跨度大，住在 Ardenwood 和住在 Warm Springs 的人，常去的超市、上的高速、用的 BART 站都不一样。"
+  ],
+  "neighbors": [
+   "Union City",
+   "Newark",
+   "Milpitas"
+  ],
+  "note": "Fremont 的片区名（Niles、Centerville、Irvington、Mission San Jose、Warm Springs 等）来自合并前的老镇和市规划文件，不是独立城市；另外 Fremont Unified School District 的服务范围与市界并不完全重合，学校归属要按具体地址查询。"
+ },
+ "districts_intro": "Fremont 于 1956 年由 Centerville、Niles、Irvington、Mission San Jose、Warm Springs 五镇合并建市，后来形成 Central 和 North Fremont。以下七个片区沿用这些惯称，范围只是大致描述，不是法定边界，也不等于学校招生范围。",
+ "districts": [
+  {
+   "name": "Ardenwood / North Fremont",
+   "tag": "Dumbarton Bridge 桥头 · 去 Peninsula 的出发点",
+   "where": "城市西北角，SR-84 与 I-880 交会处以西和以北，与 Union City、Newark 及 Coyote Hills Regional Park 相邻。North Fremont 是市规划文件中的分区名，Ardenwood 是其中知名度较高的社区名，区内还有 Northgate 等社区。",
+   "housing": "以成片开发的独立屋为主，另有联排和公寓社区；整体建造年代晚于 Centerville 和 Irvington 的老街区，街道规整，多数房屋带附属车库。部分社区设有 HOA，靠近 SR-84 和 I-880 的房屋要留意隔音。",
+   "daily": "Ardenwood Historic Farm（34600 Ardenwood Blvd）是东湾区域公园系统经营的农场，需购票入场，周一休息。Coyote Hills Regional Park（8000 Patterson Ranch Rd）在片区西侧，有湿地步道和游客中心，停车收费。Ardenwood Technology Park 是市政府列出的就业片区之一。日常买菜可用片区内的邻里商场，也可以开车去 Newark 或 Fremont Hub。",
+   "commute_school": "去 Peninsula 的结构是：上 SR-84 过 Dumbarton Bridge，西行方向收过桥费，过桥后分流去 Menlo Park、Palo Alto 等地。不开车的选择是 Dumbarton Express 的 DB、DB1 线，从 Union City BART 出发，经 Ardenwood Park & Ride 过桥到 Peninsula，只在工作日运行。去南湾走 I-880 南行。学校属于 Fremont Unified；学区说明过，新建社区在学校拥挤时可能被标为 unassigned，官方页面点名的例子是 Patterson Ranch，所以这里的新房尤其要用 School Locator 按地址查，并直接向学区确认。",
+   "tradeoffs": "这里到 Dumbarton Bridge 的距离在全市最短，但早晚高峰桥头和 SR-84 与 I-880 交会处的排队也集中在这里。片区离 Fremont BART 站有一段距离，去 San Francisco 需要先开车或坐公交到站。房屋相对新、街区整齐，换来的是离 Central Park、市中心医院和主图书馆更远。",
+   "visit": "工作日早上在 Ardenwood Blvd 与 SR-84 入口附近停留一段时间，看上桥排队延伸到哪里；到 Ardenwood Park & Ride 看车位占用和班车候车位置；傍晚回到候选房屋，在后院听 SR-84 或 I-880 的车流声。"
+  },
+  {
+   "name": "Centerville",
+   "tag": "老镇核心 · ACE 与 Capitol Corridor 车站",
+   "where": "城市中北部，大致在 Mowry Ave 以北、Decoto Rd 以南、I-880 以东、BART 轨道以西。区内常被单独提起的社区有 Glenmoor Gardens（Central Ave、Fremont Blvd、Mowry Ave、I-880 之间）、Cabrillo Park 和 Brookvale。",
+   "housing": "以单层独立屋为主的成熟街区，房龄普遍较长，不少房屋经过加建或翻新；Fremont Blvd 沿线有公寓和较新的联排。老房要重点看屋顶、管线、电路和地基，加建部分要核对是否有许可记录。",
+   "daily": "Fremont-Centerville 站（37260 Fremont Blvd）是片区的地标，站房周边是老镇的商业街段。Fremont Blvd 和 Thornton Ave 沿线有超市、餐馆和日常服务。Quarry Lakes Regional Recreation Area（2100 Isherwood Way）在片区东北侧，可游泳、钓鱼和划船，停车与沙滩另收费。往南开一小段就是 Fremont Hub 和 City Center 的医院。",
+   "commute_school": "Fremont-Centerville 站有 ACE 和 Capitol Corridor 列车。ACE 只在工作日运行，早上往 San Jose 方向、下午傍晚往 Stockton 方向，沿途停 Great America、Santa Clara 和 San Jose，适合在这几个站附近上班的人。开车走 I-880，去 Peninsula 则沿 Fremont Blvd 或 Decoto Rd 上 SR-84。片区内有 Washington High、American High 以及 Centerville、Thornton 两所初中，但某个地址对应哪所学校要用 FUSD School Locator 查。",
+   "tradeoffs": "位置居中，去 I-880、Dumbarton Bridge 和 Fremont BART 都不算远，但都需要开车。铁路穿过片区，靠近轨道和平交道口的房屋会听到列车和鸣笛声。老房的地块和单层格局好用，维护和更新的投入也要算进预算。",
+   "visit": "在工作日早上列车进站时段到 Fremont-Centerville 站，看停车场占用和接驳公交；沿 Fremont Blvd 走一段老镇街段；在候选房屋附近留意铁路道口的位置和列车经过时的声音。"
+  },
+  {
+   "name": "Niles",
+   "tag": "Niles Canyon 口的老镇 · 步道与采石湖",
+   "where": "城市东北角，Mission Blvd（SR-238）在东和北，Alameda Creek 在南，Union Pacific 铁路在西和东南，Quarry Lakes 在西南。范围小而清楚，是合并前五镇之一。",
+   "housing": "老镇街区里有年代较早的小地块独立屋，周边也有后来建的住宅小区和山脚地块。老房的格局、车库和停车条件差别很大，买之前要逐套看结构、排水和历年改建记录。",
+   "daily": "Niles Blvd 是老镇主街，有古董店、餐馆、邮局和图书馆分馆，Niles Essanay Silent Film Museum 和 Niles Canyon Railway 也在这里。Alameda Creek Regional Trail 从 Niles Canyon 口出发向西通到海湾，全长约 12 英里，南岸铺装适合骑车和跑步，北岸为土路。Quarry Lakes 就在片区西南。大宗采购要开车去 Fremont Hub 或 Mowry Ave 沿线。",
+   "commute_school": "Niles 没有轨道车站，通勤要先沿 Mission Blvd 或 Niles Blvd 出片区：去 Fremont BART 或 Union City BART 乘车，或经 Mowry Ave、Decoto Rd 上 I-880。SR-84 经 Niles Canyon 通往 Sunol 和 I-680，是去 Tri-Valley 的一条路，但峡谷路段为双向单车道。AC Transit 216 线连接 Niles 与 Union City BART。学校属于 Fremont Unified，区内有 Niles Elementary，具体归属按地址查。",
+   "tradeoffs": "主街、步道和湖区都在步行或骑车范围内，这种老镇尺度在 Fremont 不多见；代价是离 I-880 和 Dumbarton Bridge 较远，日常采购依赖开车。铁路紧贴片区，货运和观光列车的声音要亲自听。片区靠近 Hayward Fault 和山脚，地质图层要按地址查。",
+   "visit": "周末上午走一遍 Niles Blvd，再从 Niles Staging Area 上 Alameda Creek Regional Trail 走一段；工作日早上从候选房屋开到 Fremont BART 或 I-880 入口，记录沿途的平交道口和红绿灯。"
+  },
+  {
+   "name": "Central / Downtown",
+   "tag": "Fremont BART · Central Park · 医院集中",
+   "where": "城市中部。市规划的 Downtown 约 110 英亩，夹在 Mowry Ave、Fremont Blvd、Walnut Ave 和 Paseo Padre Pkwy 之间；外圈的 City Center 包含 Fremont BART 站、医院群，再往东南是 Central Park 和 Lake Elizabeth。",
+   "housing": "这是全市公寓和联排最集中的地方，Downtown 和 BART 站周边有近年建成的多层公寓和联排社区，外围仍是独立屋街区。新社区通常有 HOA，要看车位数量、访客停车和楼梯层数。",
+   "daily": "Fremont Hub 是 Downtown 的主要购物中心。Fremont Main Library（2400 Stevenson Blvd）紧邻 Central Park，Lake Elizabeth 环湖步道是居民日常散步和跑步的地方。Washington Hospital（2000 Mowry Ave）以及 Kaiser Permanente、Sutter Health 的设施都在 City Center。Capitol Ave 已延伸接到 Fremont Blvd，是 Downtown 的主街。",
+   "commute_school": "Fremont BART 站（2000 BART Way）有两条线：一条往 Richmond，一条经 Oakland、San Francisco 到 Daly City，两条线向南都到 Berryessa/North San Jose。站内有收费停车，AC Transit 多条线路在此接驳，包括过 Dumbarton Bridge 去 Stanford 的 Transbay U 线。开车去 I-880 走 Mowry Ave 或 Stevenson Blvd，去 I-680 走 Mission Blvd。学校按地址在 FUSD School Locator 查询。",
+   "tradeoffs": "BART、医院、图书馆和公园都近，适合不想天天开车的人；但离两条高速都要先走一段市区道路，高峰期 Mowry Ave、Stevenson Blvd 和 Paseo Padre Pkwy 的红绿灯会拖慢出城。Hayward Fault 从市中心一带经过，买房前要查地震断层带图层。公寓和联排的 HOA 费用与规定要逐个社区看。",
+   "visit": "工作日早上从候选房屋步行或骑车到 Fremont BART 站，看过街条件和实际路线；傍晚在 Lake Elizabeth 走一圈；晚上回到候选社区看访客车位是否够用。"
+  },
+  {
+   "name": "Irvington",
+   "tag": "Five Corners 老镇 · 两座 BART 站之间",
+   "where": "城市中南部，大致在 Mowry Ave 以南、Auto Mall Pkwy 以北、I-880 以东到 BART 轨道一线（不含 Central）。老镇中心是 Fremont Blvd 与 Washington Blvd 交会的 Five Corners，区内社区名有 Sundale、28 Palms、Blacow、Grimmer 等。",
+   "housing": "以独立屋街区为主，建造年代跨度大，老镇中心周边有较新的联排和公寓。靠近 I-880 一侧和靠近铁路一侧的噪音条件不同，要分开看。",
+   "daily": "Five Corners 周边是老镇商业。Irvington Farmers' Market 每周日上午在 Bay St（4039 Bay St）举行，全年开放，主办方提醒不要把车停进旁边购物中心的停车场。往南到 Auto Mall Pkwy 西侧就是 Pacific Commons，有 Costco、Lowe's 和电影院。往北到 Central Park 和主图书馆也不远。",
+   "commute_school": "BART 轨道穿过 Irvington，但截至2026年10月这里没有车站，要去北面的 Fremont 站或南面的 Warm Springs/South Fremont 站上车。规划中的 Irvington 站位于 Washington Blvd 与 Osgood Rd 一带，目前仍在设计阶段，资金没有落实，开工和通车时间都没有确定，不应作为买房的前提。开车可经 Auto Mall Pkwy 或 Fremont Blvd 上 I-880，经 Washington Blvd、Mission Blvd 上 I-680。片区内有 Irvington High、Kennedy High 和 Horner Middle，地址归属以 School Locator 为准。",
+   "tradeoffs": "位置在城市中间偏南，去 I-880 和 I-680 都可行，去南湾比 Centerville、Niles 更顺；但目前没有步行可达的轨道站。Hayward Fault 也经过这一带。老街区的房屋状况参差，要逐套判断。",
+   "visit": "周日上午去 Bay St 的农夫市集，顺便看 Five Corners 的路口和停车；工作日早上分别试开到 Fremont 站和 Warm Springs/South Fremont 站，比较哪个更顺；到 Washington Blvd 与 Osgood Rd 看规划车站的位置与铁路的关系。"
+  },
+  {
+   "name": "Mission San Jose",
+   "tag": "Mission Blvd 山脚 · Ohlone College 与 Mission Peak",
+   "where": "城市东侧山脚，沿 Mission Blvd 展开，背后是 Mission Peak。老镇中心在 Mission San José 教堂和 Ohlone College（43600 Mission Blvd）一带，I-680 从片区西南侧经过。",
+   "housing": "独立屋为主，山脚和坡上有地块较大的房屋，也有平地上的成片住宅小区。坡地房屋要看挡土墙、排水、车道坡度和地基，并核对是否位于滑坡或断层相关图层内。",
+   "daily": "Mission Blvd 老镇段有小型商铺和餐馆，Olive Hyde Art Gallery 也在这里。Mission Peak Regional Preserve 有两个入口：Ohlone College 一侧路线较缓，停车需付费；Stanford Ave 入口更陡，停车场周末和节假日很满，周边街道在周末和法定假日实行居民许可停车。大宗采购要开车下到 Fremont Blvd、Warm Springs 或 Pacific Commons。",
+   "commute_school": "开车主要走 I-680：向南去 Milpitas 和 San Jose，向北过 Sunol 去 Pleasanton、Dublin，这一段设有 express lanes。去 BART 要开车或坐公交到 Fremont 站或 Warm Springs/South Fremont 站，AC Transit 210 线连接 Ohlone College 与 Fremont Blvd。片区内有 Mission San Jose High 和 Hopkins Middle；学校位置不等于招生范围，要按具体地址在 School Locator 查，并留意学区关于学位已满时另行安置的说明。",
+   "tradeoffs": "靠山、安静、离步道近，房屋和地块偏大；日常采购、就医和 BART 都要开车。Mission Blvd 在高峰期会被 I-680 与 I-880 之间的过境车流占用。Mission Peak 入口附近的街道周末访客多，停车受限。坡地房屋的保险和维护要单独询价。",
+   "visit": "工作日早上在 Mission Blvd 与 I-680 入口附近观察排队；周末上午到 Stanford Ave 一带看登山访客对街道的影响；在候选房屋看车道坡度、挡土墙和雨后排水痕迹。"
+  },
+  {
+   "name": "Warm Springs / South Fremont",
+   "tag": "最南端 · BART 站与 Tesla 工厂旁的新社区",
+   "where": "城市最南端，与 Milpitas 相接。Warm Springs 老区以 Warm Springs Blvd 与 Mission Blvd 路口为中心；South Fremont 指 I-880 与 I-680 之间、Auto Mall Pkwy 以南的地带，Tesla 工厂和 Warm Springs/South Fremont BART 站在这里，市政府把工厂周边定为 Innovation District。",
+   "housing": "两种住房并存：东侧山脚方向是较早的独立屋街区；BART 站西侧和周边是近年按车站社区规划建设的联排和公寓，密度高、层数多，普遍有 HOA。新社区要逐套核对税单上是否有社区设施区（CFD，俗称 Mello-Roos）等特别征收。",
+   "daily": "Warm Springs Blvd 和 Mission Blvd 沿线有邻里商场和餐馆。Pacific Commons 在 I-880 西侧，有 Costco、Lowe's 和电影院。BART 站西侧有一座 2022 年启用的人行与自行车桥，把站厅和轨道西侧的社区连起来。Mission Peak 的 Stanford Ave 入口在东北方向。",
+   "commute_school": "Warm Springs/South Fremont BART 站（45193 Warm Springs Blvd）2017 年启用，有两千多个收费车位，向南下一站是 Milpitas，再到 Berryessa/North San Jose；向北去 Oakland、San Francisco 和 Richmond。开车去 Milpitas、North San Jose 走 I-880 或 I-680，两条高速之间由 SR-262 Mission Blvd 连接。AC Transit 231、239 线向南通到 Milpitas。学校属于 Fremont Unified，区内有 Warm Springs Elementary 等学校；新建社区的学校安排尤其要向学区确认。",
+   "tradeoffs": "去南湾的距离在全市最短，BART 向南也只有一两站；但 SR-262、Fremont Blvd 南段和 Auto Mall Pkwy 在高峰期同时承受工厂上下班和过境车流。新房好用、设备新，但持有成本里多了 HOA 和可能的特别征收。铁路货运线、BART 和工业区就在旁边，声音和夜间灯光要现场确认。",
+   "visit": "在工厂换班时段和工作日傍晚各来一次，看 Fremont Blvd、Warm Springs Blvd 和 SR-262 的车流；从候选房屋步行到 BART 站台，走一次西侧人行桥；向卖方或建商索取当年的税单和 HOA 文件。"
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车的骨架是两条高速加一座桥。I-880 在西侧，南北向贯穿 Bayside 工业带，是去 Oakland 和 San Jose 的主路，沿线设有需要 FasTrak 的 express lanes。I-680 在东南侧，向北经 Sunol 去 Tri-Valley，向南去 Milpitas 和 San Jose 东侧，Sunol 段同样有 express lanes。SR-84 向西过 Dumbarton Bridge 到 Peninsula，西行收过桥费，费率会调整，请以 Bay Area FasTrak 公布的为准。城内南北向靠 Fremont Blvd、Paseo Padre Pkwy 和 Mission Blvd（SR-238），东西向靠 Decoto Rd、Thornton Ave、Mowry Ave、Stevenson Blvd 和 Auto Mall Pkwy。SR-262 是 I-880 与 I-680 之间的短连接，高峰期常是全城较拥堵的一段。",
+   "轨道有三种。BART 在 Fremont 站和 Warm Springs/South Fremont 站各有两条线：Richmond 至 Berryessa/North San Jose，以及 Berryessa/North San Jose 至 Daly City（经 Oakland 和 San Francisco 市区）。两站都有收费停车场，BART 页面显示的车位状况是全天有空位，但这会随时间变化。ACE 在 Fremont-Centerville 站停靠，只在工作日运行，早上四班往 San Jose、下午傍晚四班往 Stockton。Capitol Corridor 也停同一个站，连接 San Jose 与 Oakland、Sacramento 方向。车站无人值守，两个停车场属于市政府，工作日停车收费。",
+   "公交由 AC Transit 运营。2025 年 8 月 10 日 AC Transit 实施了名为 Realign 的线网调整，Fremont 一带新增和改动了多条线路。截至2026年10月官网列出的本地线包括 200、210、211、216、231、239、251、281，另有连接各高中和初中的 600 系列上学线路，以及从 Fremont BART 经 Dumbarton Bridge 到 Stanford 的 Transbay U 线。Dumbarton Express 的 DB 和 DB1 线从 Union City BART 出发，经 Ardenwood Park & Ride 过桥到 Stanford Research Park 等地，周末不运行。不少大公司还有自己的员工班车，是否在 Fremont 设站要向雇主确认。",
+   "市政府把就业集中地分为四处：Warm Springs/South Fremont（Tesla 工厂及周边的 Innovation District）、I-880 西侧的 Bayside Industrial Zone（含 Pacific Commons）、西北角的 Ardenwood Technology Park，以及 Downtown 与 City Center（市政府和几家医院）。如果你在 Fremont 本地上班，先看办公地点属于哪一处，再反推住哪个片区。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 Ardenwood 到 Peninsula（Menlo Park、Palo Alto、Stanford）",
+    "text": "开车：从 Ardenwood Blvd 或 Paseo Padre Pkwy 上 SR-84 西行，过 Dumbarton Bridge 收费站，过桥后按目的地分流。要核实的是早上桥头排队的起点、傍晚回程在 Peninsula 一侧上桥前的拥堵，以及公司是否有停车位。不开车：到 Ardenwood Park & Ride 乘 Dumbarton Express DB 或 DB1，或公司班车；要查清班车在 Peninsula 一侧的下车点离办公室还有多远，以及末班车时间。"
+   },
+   {
+    "title": "从 Warm Springs 到 Milpitas / North San Jose",
+    "text": "开车：经 Warm Springs Blvd 或 Fremont Blvd 上 I-880 南行，或经 Mission Blvd 上 I-680 南行，两条路的选择取决于办公室靠哪一侧。乘车：从 Warm Springs/South Fremont 站坐 BART 向南到 Milpitas 站，在那里换乘 VTA 轻轨或公交，或继续到 Berryessa/North San Jose 站。要核实的是出站后到办公室的最后一段怎么走，以及从家到站台是步行、骑车还是开车停车。"
+   },
+   {
+    "title": "从 Central Fremont 到 San Francisco 市区",
+    "text": "从 Fremont 站乘 Berryessa/North San Jose 至 Daly City 这条线，不换乘可到 San Francisco 市区各站。要核实的是你出门时段这条线的班次间隔、晚间和周末是否需要换乘、从家到车站的方式（步行、骑车、AC Transit 或开车停车），以及下车后到办公室的步行路线。开车进城要过海湾大桥并在市区停车，通常只作为备用方案。"
+   }
+  ],
+  "verify": [
+   "把候选房屋的地址和办公室地址输入地图软件，把出发时间设为你实际出门的工作日时刻，分别查去程和回程，并在不同的工作日重复几次，记下波动范围。",
+   "乘 BART 的话，在 bart.gov 的行程规划里输入起讫站和时刻，确认是否直达、末班车时间，并另外计算从家门到站台、从出站到办公室的两段。",
+   "过 Dumbarton Bridge 的通勤，至少在周二到周四的早高峰实际开一次，并把过桥费和公司停车费算进每月成本。",
+   "有孩子的家庭，把「家—学校—办公室」作为一条路线来试，因为 Fremont 的学校安置有可能不在离家最近的那一所。"
+  ],
+  "links": [
+   {
+    "label": "BART Fremont 站",
+    "url": "https://www.bart.gov/stations/frmt"
+   },
+   {
+    "label": "BART Warm Springs/South Fremont 站",
+    "url": "https://www.bart.gov/stations/warm"
+   },
+   {
+    "label": "Capitol Corridor：Fremont-Centerville 站",
+    "url": "https://www.capitolcorridor.org/stations/fremontcenterville/"
+   },
+   {
+    "label": "ACE 列车（511.org 说明页）",
+    "url": "https://511.org/transit/agencies/altamont-corridor-express"
+   },
+   {
+    "label": "AC Transit 线路图与时刻",
+    "url": "https://www.actransit.org/maps-schedules"
+   },
+   {
+    "label": "Dumbarton Express",
+    "url": "https://dumbartonexpress.com/about-the-dbx/"
+   },
+   {
+    "label": "Fremont 市政府：就业片区",
+    "url": "https://www.fremont.gov/government/departments/economic-development/local-economy-overview/employment-hubs"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "Fremont 没有一个承担全部功能的市中心，买菜办事是分片区完成的。Downtown 的 Fremont Hub 和 I-880 西侧的 Pacific Commons 是两个规模较大的购物中心，后者有 Costco、Lowe's 和 Century 电影院。Fremont Blvd、Mowry Ave、Mission Blvd 和 Warm Springs Blvd 沿线分布着邻里商场，里面有各类超市、亚洲超市、餐馆和药房。门店会开会关，看区时请以当时实际营业的为准，并从候选房屋实际开一次。",
+   "老镇街段各有特点：Niles Blvd 以古董店和小餐馆为主，Centerville 围绕火车站，Irvington 的 Five Corners 周日有农夫市集，Mission San Jose 的 Mission Blvd 老镇段规模较小。图书馆由 Alameda County Library 运营，Fremont Main Library 在 Central Park 旁，是全市主馆，每周七天开放，各天时段不同；Niles 等老镇另有分馆，开放时间以图书馆官网为准。"
+  ],
+  "places": [
+   {
+    "name": "Fremont Hub",
+    "kind": "购物中心",
+    "where": "Downtown，Fremont Blvd 与 Mowry Ave 一带",
+    "note": "Downtown 的主要购物中心，步行可到 Capitol Ave"
+   },
+   {
+    "name": "Pacific Commons",
+    "kind": "购物中心",
+    "where": "I-880 西侧，Auto Mall Pkwy 出口附近",
+    "note": "截至2026年10月官网名录列有 Costco、Lowe's、Burlington、Century Theatre；名录中也列出 H Mart，报道称该店预计 2026 年底才动工，开业前请勿当作现有超市"
+   },
+   {
+    "name": "Fremont Main Library",
+    "kind": "图书馆",
+    "where": "2400 Stevenson Blvd，Central Park 旁",
+    "note": "Alameda County Library 主馆，每周七天开放"
+   },
+   {
+    "name": "Niles Blvd 老镇主街",
+    "kind": "商业街",
+    "where": "Niles",
+    "note": "古董店、餐馆、邮局、图书馆分馆和 Niles Essanay Silent Film Museum"
+   },
+   {
+    "name": "Irvington Farmers' Market",
+    "kind": "农夫市集",
+    "where": "4039 Bay St，Irvington",
+    "note": "周日 9:00–14:00，全年；停车用 Bay St、Trimboli Way 等路边车位"
+   },
+   {
+    "name": "Fremont-Centerville 站周边",
+    "kind": "老镇商业",
+    "where": "37260 Fremont Blvd，Centerville",
+    "note": "站房有室内候车区，周边是 Centerville 老镇街段"
+   },
+   {
+    "name": "Mission Blvd 老镇段",
+    "kind": "商业街",
+    "where": "Mission San Jose，Ohlone College 附近",
+    "note": "小型商铺与 Olive Hyde Art Gallery"
+   },
+   {
+    "name": "City Center 医疗与办事区",
+    "kind": "医院/办事",
+    "where": "Mowry Ave、Paseo Padre Pkwy、Stevenson Blvd 一带",
+    "note": "市政府、医院和大量诊所集中在这里"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "Fremont 的户外资源分成三类。城里是 Central Park 和 Lake Elizabeth，位于城市正中，环湖步道、草地和运动场是多数居民的日常去处。西侧是海湾湿地：Coyote Hills Regional Park 和 Don Edwards San Francisco Bay National Wildlife Refuge，地势平坦，适合骑车和观鸟。东侧是山：Mission Peak Regional Preserve 和 Vargas Plateau Regional Park，坡度大，夏天日晒强。",
+   "把东西两侧连起来的是 Alameda Creek Regional Trail，从 Niles Canyon 口沿河到海湾，并与 Coyote Hills 的步道相接。East Bay Regional Park District 的多数公园停车收费，Quarry Lakes 和 Coyote Hills 都是如此；Ardenwood Historic Farm 需要购票。Mission Peak 的两个入口规则不同，去之前请看公园页面的当日提示。"
+  ],
+  "places": [
+   {
+    "name": "Central Park / Lake Elizabeth",
+    "kind": "城市公园",
+    "where": "Central，Paseo Padre Pkwy 与 Stevenson Blvd 之间",
+    "note": "环湖步道、草地与运动场地，主图书馆在公园一角"
+   },
+   {
+    "name": "Mission Peak Regional Preserve",
+    "kind": "保护区/步道",
+    "where": "Mission San Jose；入口在 Ohlone College（43600 Mission Blvd）和 Stanford Ave 东端",
+    "note": "Ohlone College 入口路线较缓，停车需购买学院停车许可；Stanford Ave 入口更陡，周边街道周末和法定假日为居民许可停车；公园开放时间严格执行"
+   },
+   {
+    "name": "Quarry Lakes Regional Recreation Area",
+    "kind": "湖区/游泳/钓鱼",
+    "where": "2100 Isherwood Way，Centerville 与 Niles 之间",
+    "note": "停车收费，沙滩泳区季节性开放并另收费，钓鱼需当日许可；公园不收现金；水质提示以公园页面为准"
+   },
+   {
+    "name": "Coyote Hills Regional Park",
+    "kind": "区域公园",
+    "where": "8000 Patterson Ranch Rd，North Fremont 西侧",
+    "note": "湿地栈道、游客中心、Red Hill；停车收费；步道连到 Alameda Creek Trail 和野生动物保护区"
+   },
+   {
+    "name": "Alameda Creek Regional Trail",
+    "kind": "步道/自行车道",
+    "where": "Niles Canyon 口至 San Francisco Bay",
+    "note": "约 12 英里，南岸铺装，北岸土路；Isherwood Staging Area 停车场因清淤工程预计在 2026 年 7 月至 11 月的周一至周六关闭"
+   },
+   {
+    "name": "Ardenwood Historic Farm",
+    "kind": "历史农场",
+    "where": "34600 Ardenwood Blvd，Ardenwood",
+    "note": "周二至周日开放，需购票，停车免费，不收现金"
+   },
+   {
+    "name": "Vargas Plateau Regional Park",
+    "kind": "山地步道",
+    "where": "2536 Morrison Canyon Rd",
+    "note": "停车位很少且不可路边停车，没有饮用水"
+   },
+   {
+    "name": "Don Edwards San Francisco Bay National Wildlife Refuge",
+    "kind": "野生动物保护区",
+    "where": "Dumbarton Bridge 收费站南侧海湾边",
+    "note": "可从 Coyote Hills 的 Apay Way 步道跨过 SR-84 到达游客中心一带"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "Fremont 的医疗设施集中在 City Center。Washington Hospital（Washington Health，2000 Mowry Ave）设有急诊，并有 Level II 创伤中心，创伤中心于 2024 年 7 月 1 日启用。市政府的就业片区说明中，Kaiser Permanente 和 Sutter Health 的设施也都在 City Center，周围还有大量私人诊所、牙科和眼科。",
+   "对住在 Ardenwood、Niles 或 Warm Springs 的家庭来说，这意味着就医基本都要开车到市中心。请记住，离医院近不等于在你的医保网络内：Kaiser 的设施只接受 Kaiser 会员，其他医院和诊所也要按你的保险计划逐一确认。看房时可以从候选房屋开一次到你实际会用的急诊和门诊。"
+  ],
+  "places": [
+   {
+    "name": "Washington Hospital（Washington Health）",
+    "kind": "医院/急诊/创伤中心",
+    "where": "Fremont，2000 Mowry Ave",
+    "note": "Level II 创伤中心，2024 年 7 月启用"
+   },
+   {
+    "name": "Kaiser Permanente Fremont Medical Center",
+    "kind": "医院/门诊",
+    "where": "Fremont，City Center 片区",
+    "note": "仅限 Kaiser 会员；具体科室与急诊安排以 Kaiser 官网为准"
+   },
+   {
+    "name": "Sutter Health 在 Fremont 的门诊设施",
+    "kind": "门诊",
+    "where": "Fremont，City Center 片区",
+    "note": "科室和是否接受你的保险请向 Sutter 确认"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "Fremont 的公立学校属于 Fremont Unified School District（FUSD），覆盖 TK 到 12 年级，一个学区管到底。请注意它和 Fremont Union High School District（FUHSD）是两个完全不同的学区：FUHSD 在南湾，服务 Cupertino、Sunnyvale 等地的高中，和 Fremont 这座城市没有关系。网上搜索学校信息时，这两个名字很容易混在一起。",
+   "FUSD 把全市分成五个 attendance area，各以区内的高中命名：American、Irvington、Kennedy、Mission San Jose、Washington。每个区包含一所高中、一所初中和若干小学。学区官网列出 29 所小学、5 所初中（Centerville、Hopkins、Horner、Thornton、Walters）、5 所综合高中，另有一所 continuation 高中和一所 alternative 高中。学区在 2014 年决定改为 middle school 模式，目前的入学页面按 TK/K、1–5 年级、6–12 年级分组；孩子具体在哪个年级转入初中，请以学区对当年入学年份的说明为准。",
+   "按地址查学校要用学区的 School Locator。但查询结果只是住址对应的 home school，学区在学校名录页写明，安置在 home school 并不是必然的；入学页面也写着，学生可能因名额情况被安排到住址学校以外的学校。学区把这种情况称为 overload：被 overload 的学生由学区安排到有空位的学校，家庭不能自选。另外，学区对部分新建住宅社区使用 unassigned 标记，即在周边学校拥挤时不预先指定学校。所以在 Fremont，片区里有某所学校、甚至 School Locator 显示某所学校，都不等于孩子一定能入读，买房前请带着具体地址、入学学年和年级直接向学区 Student Support Services 确认。"
+  ],
+  "districts": [
+   {
+    "name": "Fremont Unified School District",
+    "short": "FUSD",
+    "grades": "TK–12",
+    "covers": "Fremont 市内的公立学校都由 FUSD 运营；学区边界与市界并不完全重合，边缘地址请用官方工具确认。",
+    "locator_url": "https://woolpertinc.maps.arcgis.com/apps/instant/lookup/index.html?appid=14e0706cb08a429180c9b35c958afb95",
+    "map_url": "https://fremontunified.org/about/schools/",
+    "enroll_url": "https://fremontunified.org/enroll",
+    "note": "School Locator 给出的是住址对应的 home school，不是录取结果。学区说明学生可能因名额被安置到其他学校（overload），新建社区可能被标为 unassigned。"
+   }
+  ],
+  "programs": [
+   "FUSD 的 Spanish Dual Immersion 项目集中设在 Blacow Elementary。",
+   "FUSD 的 Mandarin Immersion 设在 Lila Bringhurst Elementary（TK–5），2026–27 学年起 Gomes Elementary 增设 TK 和 K 班级；Mandarin 项目的具体校址由学区安排。",
+   "两个 immersion 项目覆盖 TK–8，需在入读 FUSD 之外另行申请，名额取决于空位；2 年级及以上入读要求具备英语和目标语言的读写能力。",
+   "课前课后照护由各校指定的合作机构提供，学区页面列出的小学阶段机构有 Adventure Time、Champions、Stay After School、Think Together、Right At School、AlphaBEST、Forxa 和 YMCA，初中为 City of Fremont 的 After School Academy；每所学校对应哪家机构、名额和收费要逐校确认。",
+   "符合条件的学生可通过学区的 Expanded Learning Opportunities Program（ELO-P）免费参加课前课后项目，资格每学年需重新申请。",
+   "AC Transit 开行 621、623、624、625、641 等上学线路，分别服务 American、Irvington、Mission San Jose、Washington 等高中和相应的初中。"
+  ],
+  "choice_note": "Fremont 的选择性安排主要有三种：语言 immersion 项目（单独申请，按空位录取）、每年限期开放的 open enrollment（申请转到有空位的其他 FUSD 学校），以及在读学生的 intra-district transfer。它们都不随房屋地址自动获得，不能当作买某一套房的前提。",
+  "dashboard_note": "学校和学区的多指标数据可在 California School Dashboard（caschooldashboard.org）查询：搜索 Fremont Unified 或具体校名，可以看到学业、缺勤、停学、英语学习者进步等指标及各学生群体的情况。Dashboard 通常每年秋冬更新，请在页面上确认你看到的是哪一年的报告，并且比较时使用同一年份。请确认搜到的是 Alameda County 的 Fremont Unified，而不是 Santa Clara County 的 Fremont Union High。",
+  "trustee_note": "FUSD 的校董按 Trustee Area 分区选举，现行地图在 2021 年调整。学区明确写着 Trustee Area 与学校 attendance area 是两回事，调整选举区不影响学校边界；看图时不要拿选举区地图判断学校归属。",
+  "safe_routes": {
+   "text": "Fremont 市政府的 Safe Routes to School 项目与 FUSD、Alameda CTC 合作，在 2017 至 2019 年对全市 40 所公立学校做了安全评估，并为每所学校制作了建议步行和骑车路线图，可在市政府页面按学校选取。市政府正在编制 Active Transportation Plan，届时路线会更新。路线图只说明怎么走，不代表入学资格。",
+   "url": "https://fremont.gov/government/departments/transportation-engineering/walking-bicycling/safe-routes-to-school"
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "Fremont 的住房大致按建造阶段分布。五个老镇的中心保留着年代较早的小地块房屋；建市后大规模开发的平地街区（Centerville 的 Glenmoor Gardens、Cabrillo Park，Irvington 的 Sundale、28 Palms 等）以单层独立屋为主；North Fremont 和 Ardenwood 是更晚成片开发的社区；最新的一批是 Downtown、Fremont BART 周边和 Warm Springs/South Fremont BART 站周边的联排与公寓。",
+   "老独立屋的优点是单层、有院子、车库和车道停车方便；检查重点是屋顶、供水和排污管线、电路容量、地基与排水，以及加建部分有没有许可记录。坡地房屋（Mission San Jose 和 Niles 山脚）要看挡土墙、车道坡度和排水。新联排多为三层，卧室和客厅分在不同楼层，车库常为前后停放的两车位，访客车位有限；有老人或幼儿同住时，楼梯数量是需要认真考虑的使用问题。",
+   "同样的预算，在 Fremont 通常是在几种组合之间选：靠近 BART 或桥头的较新联排和公寓，换来通勤便利和较低的维护量，但有 HOA 且空间紧凑；平地老街区的独立屋，换来地块和单层格局，但要预留更新费用；山脚的独立屋，换来环境和空间，但日常都要开车。价格随时间和具体房源变化，当期同类房屋的成交情况可以和陈靖一起看。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "全市最常见的房型。Centerville、Irvington 和 Niles 多为房龄较长的单层房屋；Ardenwood、North Fremont 的街区相对新；Mission San Jose 和 Warm Springs 山脚方向有地块较大的房屋。老房看结构与管线，坡地房看排水与挡土墙。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "集中在 Warm Springs/South Fremont BART 站周边、Downtown 和 Fremont Blvd 沿线的新社区，Ardenwood 也有较早的联排社区。重点核对 HOA 费用与储备金、车库尺寸、访客停车和楼梯层数，新社区还要看税单上的特别征收。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "主要在 Downtown、City Center 和两座 BART 站附近，也有分布在主干道沿线的较早社区。要看 HOA 涵盖的项目、楼栋保险、车位归属，以及贷款对社区自住比例和诉讼情况的要求。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "房价之外，先看税单。加州房产税以 Prop 13 的基础税率 1% 为底，再加上选民批准的地方债和各类固定收费，实际数字每套房不同，要看 Alameda County 出具的具体税单。Fremont 有一项容易忽略的内容：Union Sanitary District 的污水服务费不单独寄账单，而是每年随房产税单一起收取，在税单上显示为一行 Union Sewer Svc.，它是服务收费，不按房屋估值计算。自来水由 Alameda County Water District 供应，另行计费。",
+   "新建社区（尤其是 Warm Springs/South Fremont BART 站周边和其他近年开发的社区）可能设有社区设施区 CFD，也就是常说的 Mello-Roos，再加上 HOA 月费，持有成本会明显高于同价位的老独立屋。是否有 CFD、每年多少、何时到期，只能以该套房的税单和产权报告为准，不能套用别的社区。老房则要把屋顶、管线、电路、地基的更新费用算进去。位于地震断层带、液化区或坡地的房屋，地震保险和火险报价可能不同，请在出价前就向保险经纪询价。",
+   "通勤成本也属于持有成本：Dumbarton Bridge 的过桥费、I-880 和 I-680 express lanes 的浮动收费、BART 票价和车站停车费、公司一侧的停车费。这些都会调整，请用你自己的通勤频率按当期公布的费率计算。"
+  ],
+  "checklist": [
+   "向卖方或产权公司索取最近一年的完整房产税单，逐行看清基础税、地方债、Union Sewer Svc. 以及是否有 CFD 或其他特别评估。",
+   "有 HOA 的社区，索取月费明细、储备金报告、近期是否有特别摊派（special assessment）及会议纪要。",
+   "索取 Natural Hazard Disclosure 报告，核对是否位于 Alquist-Priolo 地震断层带、液化区、滑坡区、FEMA 洪水区或山火危险区。",
+   "在出价前取得房屋保险和地震保险报价，而不是过户前才询价。",
+   "老房索取历年许可记录，核对加建、改电、换屋顶是否有许可并已结案。",
+   "把过桥费、express lanes、BART 与停车费按你每周的通勤天数折算成每月数字。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "气候上，Fremont 位于海湾东岸内侧，夏天比 San Francisco 和 Peninsula 沿海一侧暖，下午常有从海湾吹来的风；靠近湿地的西侧风更明显，东侧山脚日晒强。山上的步道几乎没有树荫。",
+   "噪音来源主要有四类：I-880 和 I-680 两条高速；SR-84 和 Dumbarton Bridge 引道；铁路，包括 Union Pacific 货运线、ACE 和 Capitol Corridor 经过的 Niles、Centerville 路段，以及纵贯 Central、Irvington 到 Warm Springs 的 BART 轨道；还有 South Fremont 的工厂与物流车流。铁路平交道口附近会有鸣笛。这些都需要在早晚高峰和夜间各去现场听一次。",
+   "地质和水文方面，Fremont 需要看的图层比较多。Hayward Fault 自北向南穿过城市，途经 Niles、Central 和 Irvington 一带，沿线划有 Alquist-Priolo 地震断层带；靠海湾的平地有液化区图层；东侧山坡有地震诱发滑坡区图层。西侧海湾边缘和部分河道、水道沿线可能位于 FEMA 洪水区。东侧山地与城市交界处还要看山火危险分区。这些图层只说明该地址需要进一步了解什么，不能据此直接判断某套房安全或危险；位于断层带或其他法定区域内的房屋，卖方有披露义务，建房和改建也可能需要地质勘察。"
+  ],
+  "tools": [
+   {
+    "label": "CGS EQ Zapp（地震危险区，按地址）",
+    "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+    "what": "California Geological Survey 的查询工具，显示地址是否位于 Alquist-Priolo 地震断层带、液化区或地震诱发滑坡区。Niles、Central、Irvington 一带看断层带，西侧平地看液化，东侧山坡看滑坡。"
+   },
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示地址是否位于 FEMA 划定的洪水区，关系到贷款是否要求洪水保险。海湾边缘和水道沿线的房屋需要查看。"
+   },
+   {
+    "label": "CAL FIRE 山火危险分区",
+    "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+    "what": "州消防部门发布的 Fire Hazard Severity Zones。Mission San Jose、Niles 和 Warm Springs 靠山一侧的房屋需要查看，并留意图件版本。"
+   },
+   {
+    "label": "East Bay Regional Park District：Quarry Lakes 水质与开放提示",
+    "url": "https://www.ebparks.org/parks/quarry-lakes",
+    "what": "湖区的蓝绿藻提示、泳区开放季节和闸门时间会变化，住在附近并打算常用湖区的家庭可以定期查看。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "Fremont 近年的变化集中在三处。第一是两座 BART 站周边：Warm Springs/South Fremont 站一带按车站社区规划持续建设，BART 还计划在 2029 至 2033 年间为该站的地面停车场征集开发商；Downtown 以 Capitol Ave 为主街逐步成形。第二是就业片区：市政府资料显示 Ardenwood Technology Park 有大型园区扩建计划，South Fremont 的工厂周边被定为 Innovation District。第三是零售：Pacific Commons 的官网名录已列出 H Mart，2026 年 1 月的报道称该店预计 2026 年底动工。",
+   "最需要谨慎对待的是 Irvington BART 站。这个站规划多年，位置在 Washington Blvd 与 Osgood Rd 一带，Alameda County 的 Measure BB 已为它划拨专项资金，但按 Alameda CTC 的项目说明，总费用中超过一半尚无来源。Alameda CTC 在 2025 年春季的项目说明中把开工、完工和通车时间都列为待定；BART 董事会主席在 2026 年 1 月 28 日的公开信中表示，设计完成度不到八成，所需 17 处地产中市政府已取得 14 处，而 BART 因自身财政缺口无法承诺资金。市政府项目页面上的「2031 年底通车」是较早的目标。截至2026年10月，这个站既没有开工也没有确定的时间表。",
+   "还有一个影响全城通勤的不确定因素：BART 在同一封信中提到，如果 2026 年 11 月的区域交通资金措施未获通过，2027 年可能出现大幅减班和关闭部分车站的情况。把 BART 作为主要通勤方式的买家，建议在投票结果出来后再确认一次服务安排。"
+  ],
+  "items": [
+   {
+    "name": "Irvington BART Station",
+    "status": "截至2026年10月：设计阶段，资金未落实，开工与通车时间未定",
+    "text": "规划中的加站，位于 Fremont 站与 Warm Springs/South Fremont 站之间的 Washington Blvd 与 Osgood Rd 一带。若建成，Irvington 将有步行可达的 BART；但目前不应把它计入买房理由。住在站址附近的人反而要留意将来可能的施工影响。",
+    "url": "https://fremont.gov/government/departments/public-works/public-works-projects/irvington-bart-station-project"
+   },
+   {
+    "name": "Warm Springs/South Fremont 车站社区",
+    "status": "持续建设中；BART 计划 2029–2033 年间为车站停车场征集开发商",
+    "text": "车站周边约 880 英亩被规划为较高密度的车站社区，西侧人行与自行车桥已在 2022 年启用。对居住的含义是：周边还会继续有新楼盘和施工，车站地面停车场将来可能改变形式，道路车流会随入住增加。",
+    "url": "https://www.bart.gov/stations/warm"
+   },
+   {
+    "name": "Pacific Commons 新增 H Mart",
+    "status": "2026 年 1 月报道：预计 2026 年底动工，开业时间未公布",
+    "text": "购物中心官网名录已列出该店。建成后 Irvington、Warm Springs 一带会多一个大型超市选择，但在开业前不应计入日常采购安排。",
+    "url": "https://pacificcommons.com/directory/"
+   },
+   {
+    "name": "Active Transportation Plan 与上学路线更新",
+    "status": "编制中，完成时间未公布",
+    "text": "市政府正在编制新的步行与自行车规划，各校建议上学路线会随之更新。打算让孩子步行或骑车上学的家庭，可以关注所在学校周边的过街和自行车道改造。",
+    "url": "https://fremont.gov/government/departments/transportation-engineering/walking-bicycling/safe-routes-to-school"
+   },
+   {
+    "name": "BART 服务与 2026 年 11 月区域交通资金措施",
+    "status": "2026 年 1 月 BART 公开信：若措施未通过，2027 年可能大幅减班并关闭部分车站",
+    "text": "这不是 Fremont 独有的项目，但直接关系到以 BART 通勤的住户。建议在投票结果公布后查看 BART 对 Fremont 两站服务的最新安排。",
+    "url": "https://www.bart.gov/sites/default/files/2026-01/Senator%20Wahab%20-%20BART%20Irvington%20Station%201.28.26.pdf"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "Fremont 南北跨度大，半天看不完七个片区。下面这条路线从西北到东南，沿 Fremont Blvd 和 Mission Blvd 串起主要节点，建议安排在工作日，上午出发，这样能看到通勤时段的桥头和车站。如果你已经确定了通勤方向，可以只走相关的三四站，把省下的时间用来在候选街区步行。",
+  "stops": [
+   {
+    "name": "第1站：Ardenwood 与 Dumbarton Bridge 桥头",
+    "text": "早高峰到 Ardenwood Blvd 与 SR-84 入口附近，看上桥排队；到 Ardenwood Park & Ride 看车位和班车候车点。记录从候选街区开到桥头的实际路线。"
+   },
+   {
+    "name": "第2站：Centerville 与 Fremont-Centerville 站",
+    "text": "看车站停车场、站房和 Fremont Blvd 老镇街段；留意铁路道口位置，等一班列车经过听声音。"
+   },
+   {
+    "name": "第3站：Niles Blvd 与 Alameda Creek Trail",
+    "text": "走一段主街，再到 Niles Staging Area 看步道入口。记录从 Niles 开到 Mowry Ave 或 Mission Blvd 的路况。"
+   },
+   {
+    "name": "第4站：Fremont BART、Downtown 与 Central Park",
+    "text": "到 Fremont 站看停车场、公交站和进站路线；沿 Capitol Ave 看 Downtown 的新公寓和 Fremont Hub；到 Lake Elizabeth 和主图书馆停一下。"
+   },
+   {
+    "name": "第5站：Irvington 的 Five Corners",
+    "text": "看 Fremont Blvd 与 Washington Blvd 路口和 Bay St；再到 Washington Blvd 与 Osgood Rd 看规划中的 BART 站址和铁路。"
+   },
+   {
+    "name": "第6站：Mission San Jose 与 Ohlone College",
+    "text": "沿 Mission Blvd 看老镇段和山脚街区，留意坡度和车道；到 Ohlone College 一侧看 Mission Peak 入口和停车安排。"
+   },
+   {
+    "name": "第7站：Warm Springs/South Fremont BART 与周边新社区",
+    "text": "傍晚到站，走一次西侧人行桥，看新联排的车库、访客车位和楼梯；观察 Warm Springs Blvd、Fremont Blvd 和 SR-262 的晚高峰车流。"
+   }
+  ],
+  "questions": [
+   "这个地址在 FUSD School Locator 上对应哪三所学校？我孩子入学的那一年、那个年级，学区是否确认有位置，还是可能被 overload 到其他学校？",
+   "这个社区是否被学区标为 unassigned？",
+   "税单上除基础税以外有哪些项目？是否有 CFD，每年多少，何时到期？",
+   "房屋是否位于 Alquist-Priolo 地震断层带、液化区、滑坡区或 FEMA 洪水区？Natural Hazard Disclosure 报告怎么写？",
+   "离最近的铁路、BART 轨道、高速公路和平交道口各有多远？夜间和清晨的声音如何？",
+   "从这里到我实际要用的 BART 站、桥头或高速入口，在我出门的那个时刻走哪条路，沿途哪里会排队？",
+   "HOA 月费包含什么？储备金是否充足，近几年有没有特别摊派？访客车位规定如何？"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Milpitas",
+   "slug": "milpitas",
+   "text": "Milpitas 紧邻 Fremont 南侧，是 BART 向南的下一站。办公室在 North San Jose 的人住 Milpitas 更近；Fremont 规模更大，片区和房型选择更多，城内有 Central Park 和 Mission Peak。两城分属不同的县和学区，税单与学校要分开核对。"
+  },
+  {
+   "city": "Dublin",
+   "slug": "dublin",
+   "text": "两城都有 BART，方向不同：Dublin 的车站在 I-580 沿线，Fremont 的两站在通往 Milpitas 和 San Jose 的线上。去南湾或过 Dumbarton Bridge 上班，Fremont 更顺；去 Tri-Valley 上班则 Dublin 更近，从 Fremont 过去要走 I-680 经 Sunol。"
+  },
+  {
+   "city": "Union City / Newark",
+   "slug": "",
+   "text": "两城与 Fremont 相邻，共用 I-880、Dumbarton Bridge、AC Transit 和 Union Sanitary District。Dumbarton Express 从 Union City BART 发车。它们各有自己的学区，适合和 Ardenwood、Centerville 放在一起比较房型与地块。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "Fremont",
+    "system": "BART",
+    "address": "2000 BART Way, Fremont, CA 94536"
+   },
+   {
+    "name": "Warm Springs/South Fremont",
+    "system": "BART",
+    "address": "45193 Warm Springs Blvd, Fremont, CA 94539"
+   },
+   {
+    "name": "Fremont-Centerville",
+    "system": "ACE",
+    "address": "37260 Fremont Blvd, Fremont, CA 94536"
+   },
+   {
+    "name": "Fremont-Centerville",
+    "system": "Capitol Corridor",
+    "address": "37260 Fremont Blvd, Fremont, CA 94536"
+   }
+  ],
+  "pois": [
+   {
+    "name": "Ardenwood Historic Farm",
+    "category": "park",
+    "address": "34600 Ardenwood Blvd, Fremont, CA 94555",
+    "district": "Ardenwood / North Fremont"
+   },
+   {
+    "name": "Coyote Hills Regional Park",
+    "category": "park",
+    "address": "8000 Patterson Ranch Rd, Fremont, CA 94555",
+    "district": "Ardenwood / North Fremont"
+   },
+   {
+    "name": "Ardenwood Park & Ride",
+    "category": "community",
+    "address": "Ardenwood Blvd & SR-84, Fremont, CA",
+    "district": "Ardenwood / North Fremont"
+   },
+   {
+    "name": "Fremont-Centerville Station",
+    "category": "community",
+    "address": "37260 Fremont Blvd, Fremont, CA 94536",
+    "district": "Centerville"
+   },
+   {
+    "name": "Quarry Lakes Regional Recreation Area",
+    "category": "park",
+    "address": "2100 Isherwood Way, Fremont, CA 94536",
+    "district": "Centerville"
+   },
+   {
+    "name": "Alameda Creek Regional Trail - Isherwood Staging Area",
+    "category": "trailhead",
+    "address": "2250 Isherwood Way, Fremont, CA 94536",
+    "district": "Centerville"
+   },
+   {
+    "name": "Niles Boulevard (Old Town Niles)",
+    "category": "shopping",
+    "address": "Niles Blvd, Fremont, CA 94536",
+    "district": "Niles"
+   },
+   {
+    "name": "Alameda Creek Regional Trail - Niles Staging Area",
+    "category": "trailhead",
+    "address": "Old Canyon Rd, Fremont, CA 94536",
+    "district": "Niles"
+   },
+   {
+    "name": "Fremont Main Library",
+    "category": "library",
+    "address": "2400 Stevenson Blvd, Fremont, CA 94538",
+    "district": "Central / Downtown"
+   },
+   {
+    "name": "Central Park (Lake Elizabeth)",
+    "category": "park",
+    "address": "Paseo Padre Pkwy & Stevenson Blvd, Fremont, CA 94538",
+    "district": "Central / Downtown"
+   },
+   {
+    "name": "Fremont Hub",
+    "category": "shopping",
+    "address": "Fremont Blvd & Mowry Ave, Fremont, CA 94538",
+    "district": "Central / Downtown"
+   },
+   {
+    "name": "Washington Hospital",
+    "category": "hospital",
+    "address": "2000 Mowry Ave, Fremont, CA 94538",
+    "district": "Central / Downtown"
+   },
+   {
+    "name": "Irvington Farmers' Market",
+    "category": "grocery",
+    "address": "4039 Bay St, Fremont, CA 94538",
+    "district": "Irvington"
+   },
+   {
+    "name": "Pacific Commons",
+    "category": "shopping",
+    "address": "Auto Mall Pkwy & Pacific Commons Blvd, Fremont, CA 94538",
+    "district": "Irvington"
+   },
+   {
+    "name": "Ohlone College (Mission Peak trailhead)",
+    "category": "trailhead",
+    "address": "43600 Mission Blvd, Fremont, CA 94539",
+    "district": "Mission San Jose"
+   },
+   {
+    "name": "Mission Peak Regional Preserve - Stanford Avenue Staging Area",
+    "category": "trailhead",
+    "address": "Stanford Ave (east end), Fremont, CA 94539",
+    "district": "Mission San Jose"
+   },
+   {
+    "name": "Vargas Plateau Regional Park",
+    "category": "trailhead",
+    "address": "2536 Morrison Canyon Rd, Fremont, CA 94539",
+    "district": "Mission San Jose"
+   },
+   {
+    "name": "Warm Springs/South Fremont BART Station",
+    "category": "community",
+    "address": "45193 Warm Springs Blvd, Fremont, CA 94539",
+    "district": "Warm Springs / South Fremont"
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "Ardenwood / North Fremont",
+    "anchor": "Ardenwood Historic Farm, 34600 Ardenwood Blvd, Fremont, CA"
+   },
+   {
+    "district": "Centerville",
+    "anchor": "Fremont-Centerville Station, 37260 Fremont Blvd, Fremont, CA"
+   },
+   {
+    "district": "Niles",
+    "anchor": "Niles Blvd & H St, Fremont, CA"
+   },
+   {
+    "district": "Central / Downtown",
+    "anchor": "Fremont BART Station, 2000 BART Way, Fremont, CA"
+   },
+   {
+    "district": "Irvington",
+    "anchor": "Fremont Blvd & Washington Blvd, Fremont, CA"
+   },
+   {
+    "district": "Mission San Jose",
+    "anchor": "Ohlone College, 43600 Mission Blvd, Fremont, CA"
+   },
+   {
+    "district": "Warm Springs / South Fremont",
+    "anchor": "Warm Springs/South Fremont BART Station, 45193 Warm Springs Blvd, Fremont, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "FUSD School Locator（按地址查 home school）",
+    "kind": "school_boundary",
+    "url": "https://woolpertinc.maps.arcgis.com/apps/instant/lookup/index.html?appid=14e0706cb08a429180c9b35c958afb95",
+    "note": "Fremont Unified School District 提供；结果为住址对应学校，不是录取确认"
+   },
+   {
+    "label": "FUSD Trustee Area 地图（校董选举区）",
+    "kind": "school_boundary",
+    "url": "https://arcg.is/0Dv5r5",
+    "note": "Fremont Unified School District，2021 年采用；仅用于校董选举，与招生范围无关"
+   },
+   {
+    "label": "Fremont Safe Routes to School 各校评估与路线图",
+    "kind": "safe_routes",
+    "url": "https://fremont.gov/government/departments/transportation-engineering/walking-bicycling/safe-routes-to-school",
+    "note": "City of Fremont；评估完成于 2017–2019 年，路线将随 Active Transportation Plan 更新"
+   },
+   {
+    "label": "AC Transit 线路图与时刻",
+    "kind": "transit",
+    "url": "https://www.actransit.org/maps-schedules",
+    "note": "AC Transit；2025 年 8 月 Realign 之后的线网"
+   },
+   {
+    "label": "BART 车站与线路",
+    "kind": "transit",
+    "url": "https://www.bart.gov/stations",
+    "note": "BART；含停车、接驳与行程规划"
+   },
+   {
+    "label": "Mission Peak Regional Preserve 公园页面与地图",
+    "kind": "parks",
+    "url": "https://www.ebparks.org/parks/mission-peak",
+    "note": "East Bay Regional Park District；含入口、停车规则与开放时间"
+   },
+   {
+    "label": "Alameda Creek Regional Trail",
+    "kind": "bike",
+    "url": "https://www.ebparks.org/trails/interpark/alameda-creek",
+    "note": "East Bay Regional Park District；含各停车点与临时关闭提示"
+   },
+   {
+    "label": "CGS EQ Zapp 地震危险区",
+    "kind": "city_gis",
+    "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+    "note": "California Geological Survey；州级图层，按地址查询"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Fremont 市政府：城市历史（五镇合并）",
+   "url": "https://fremont.gov/about/history",
+   "org": "City of Fremont",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Fremont 市政府：就业片区",
+   "url": "https://www.fremont.gov/government/departments/economic-development/local-economy-overview/employment-hubs",
+   "org": "City of Fremont",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Fremont 市政府：Irvington BART Station 项目页",
+   "url": "https://fremont.gov/government/departments/public-works/public-works-projects/irvington-bart-station-project",
+   "org": "City of Fremont",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Fremont 市政府：Safe Routes to School",
+   "url": "https://fremont.gov/government/departments/transportation-engineering/walking-bicycling/safe-routes-to-school",
+   "org": "City of Fremont",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alameda CTC：Irvington BART Station 项目说明（2025 年春）",
+   "url": "https://www.alamedactc.org/wp-content/uploads/2025/07/1432000_Irvington_BART_Station_20250214.pdf",
+   "org": "Alameda County Transportation Commission",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART 董事会主席致 Wahab 参议员的信（2026-01-28）",
+   "url": "https://www.bart.gov/sites/default/files/2026-01/Senator%20Wahab%20-%20BART%20Irvington%20Station%201.28.26.pdf",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "KQED 报道：Irvington 站资金争议（2026-01-28）",
+   "url": "https://www.kqed.org/news/12071302/aisha-wahab-lambasts-bart-for-failing-to-build-shovel-ready-irvington-station-in-fremont",
+   "org": "KQED",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART Fremont 站",
+   "url": "https://www.bart.gov/stations/frmt",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART Warm Springs/South Fremont 站",
+   "url": "https://www.bart.gov/stations/warm",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART 车站总览",
+   "url": "https://www.bart.gov/stations",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "Capitol Corridor：Fremont-Centerville 站",
+   "url": "https://www.capitolcorridor.org/stations/fremontcenterville/",
+   "org": "Capitol Corridor JPA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "511.org：ACE 列车说明",
+   "url": "https://511.org/transit/agencies/altamont-corridor-express",
+   "org": "MTC 511",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "AC Transit 线路与时刻",
+   "url": "https://www.actransit.org/maps-schedules",
+   "org": "AC Transit",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "AC Transit：Realign 2025 年 8 月 10 日实施",
+   "url": "https://www.actransit.org/press-release/ac-transit-realign-updating-104-bus-lines-starting-august-10",
+   "org": "AC Transit",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dumbarton Express 简介",
+   "url": "https://dumbartonexpress.com/about-the-dbx/",
+   "org": "Dumbarton Express / AC Transit",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "MTC：I-880 Express Lanes 说明",
+   "url": "https://es.mtc.ca.gov/sites/default/files/I-880_Fact_Sheet.pdf",
+   "org": "Metropolitan Transportation Commission",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alameda CTC：Express Lanes 说明（I-680 Sunol）",
+   "url": "https://www.alamedactc.org/wp-content/uploads/2025/07/Express_Lanes_FS_20250312.pdf",
+   "org": "Alameda County Transportation Commission",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD 学校名录与 School Locator 入口",
+   "url": "https://fremontunified.org/about/schools/",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD 学区概况（学校数量、五个 attendance area）",
+   "url": "https://fremontunified.org/about/",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD 入学与注册",
+   "url": "https://fremontunified.org/enroll",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD School Locator",
+   "url": "https://woolpertinc.maps.arcgis.com/apps/instant/lookup/index.html?appid=14e0706cb08a429180c9b35c958afb95",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "FUSD：新建社区 unassigned 标记与 overload 说明",
+   "url": "https://fremontunified.org/about/sped-student-support/student-support-services/enrollment-registration/new-developments-designation-unassigned/",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD：Dual Immersion 项目",
+   "url": "https://fremontunified.org/about/instructional-services/federal-state-programs/dual-immersion/",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD：ELO-P 课前课后项目",
+   "url": "https://fremontunified.org/about/instructional-services/federal-state-programs/elop/",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD：Middle School FAQ",
+   "url": "https://fremontunified.org/?p=65807",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD：Trustee Areas 说明",
+   "url": "https://fremontunified.org/about/board/board-of-education-members/trustee-areas-used-for-governing-board-elections/",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUSD Trustee Area 地图",
+   "url": "https://arcg.is/0Dv5r5",
+   "org": "Fremont Unified School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "California School Dashboard",
+   "url": "https://www.caschooldashboard.org/",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Mission Peak Regional Preserve",
+   "url": "https://www.ebparks.org/parks/mission-peak",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Quarry Lakes Regional Recreation Area",
+   "url": "https://www.ebparks.org/parks/quarry-lakes",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Coyote Hills Regional Park",
+   "url": "https://www.ebparks.org/parks/coyote-hills",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Ardenwood Historic Farm",
+   "url": "https://www.ebparks.org/parks/ardenwood",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alameda Creek Regional Trail",
+   "url": "https://www.ebparks.org/trails/interpark/alameda-creek",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Vargas Plateau Regional Park",
+   "url": "https://www.ebparks.org/parks/vargas-plateau",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Fremont Main Library",
+   "url": "https://aclibrary.org/locations/FRM/",
+   "org": "Alameda County Library",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Irvington Farmers' Market",
+   "url": "https://www.pcfma.org/irvington",
+   "org": "Pacific Coast Farmers' Market Association",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Pacific Commons 商户名录",
+   "url": "https://pacificcommons.com/directory/",
+   "org": "Pacific Commons",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "报道：H Mart 将在 Pacific Commons 开店（2026-01-20）",
+   "url": "https://www.connectcre.com/stories/h-mart-will-open-its-largest-u-s-location-in-fremont/",
+   "org": "Connect CRE",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Washington Health（Washington Hospital）",
+   "url": "https://www.washingtonhealth.com/locations/washington-hospital",
+   "org": "Washington Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Washington Health 创伤中心",
+   "url": "https://www.washingtonhealth.com/services/trauma-center",
+   "org": "Washington Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Union Sanitary District：污水服务费随房产税单收取",
+   "url": "https://www.unionsanitary.ca.gov/sewer-service-charges",
+   "org": "Union Sanitary District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alameda County Water District",
+   "url": "https://www.acwd.org/",
+   "org": "Alameda County Water District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CGS EQ Zapp",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FEMA Flood Map Service Center",
+   "url": "https://msc.fema.gov/portal/home",
+   "org": "FEMA",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CAL FIRE / OSFM 山火危险分区",
+   "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+   "org": "CAL FIRE Office of the State Fire Marshal",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "Wikipedia：Fremont, California（建市日期、片区范围、相邻城市，作为辅助参考）",
+   "url": "https://en.wikipedia.org/wiki/Fremont,_California",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Wikipedia：Warm Springs/South Fremont station（开通日期、人行桥、车位数，作为辅助参考）",
+   "url": "https://en.wikipedia.org/wiki/Warm_Springs/South_Fremont_station",
+   "org": "Wikipedia",
+   "accessed": "2026-10-08",
+   "opened": true
+  }
+ ]
+}

@@ -1,0 +1,1140 @@
+{
+ "slug": "san-ramon",
+ "name": "San Ramon",
+ "county": "Contra Costa County",
+ "meta_title": "San Ramon 城市生活指南｜片区、学校、通勤与住房",
+ "meta_description": "San Ramon 城内没有 BART 站，日常围绕 I-680、Bollinger Canyon Rd 和 Bishop Ranch 展开。本页按片区讲住房类型、SRVUSD 学校如何按地址核验、去 BART 的接驳方式，以及买菜、公园、就医和持有成本。",
+ "hero": {
+  "tagline": "I-680 沿线 · 城内无 BART · Bishop Ranch 办公与商业核心 · Iron Horse Trail",
+  "intro": "San Ramon 位于 Contra Costa County 南端，北接 Danville，南接 Dublin。西半部沿 I-680 展开，是较早建成的住宅区和 Bishop Ranch 办公园区；东半部的 Dougherty Valley 是较新的规划社区，联排和公寓更多。城内没有轨道站，去 San Francisco 或南湾都要先开车或坐公交接驳，这一段要算进每天的行程。"
+ },
+ "card": "沿 I-680 的谷地城市：西侧老社区靠近 Bishop Ranch，东侧 Dougherty Valley 房子更新，去 BART 要先接驳。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Contra Costa County"
+  },
+  {
+   "label": "轨道交通",
+   "value": "城内无车站；最近的是 Dublin/Pleasanton、West Dublin/Pleasanton 与 Walnut Creek BART"
+  },
+  {
+   "label": "主要学区",
+   "value": "San Ramon Valley Unified School District（TK–12，跨多个城镇）"
+  },
+  {
+   "label": "主要干道",
+   "value": "I-680、Crow Canyon Rd、Bollinger Canyon Rd、Alcosta Blvd、Dougherty Rd"
+  }
+ ],
+ "position": {
+  "paragraphs": [
+   "San Ramon 在东湾内陆的 Tri-Valley 北部，I-680 南北向穿过城市西半部。沿 I-680 向北是 Danville、Alamo 和 Walnut Creek，向南进入 Alameda County 的 Dublin 和 Pleasanton，再往南经 Sunol 去 Fremont 和南湾。向西没有高速直通，East Bay Regional Park District 给出的路线是走 Crow Canyon Rd 翻过山口到 Castro Valley 一侧的 I-580。",
+   "城市内部主要靠三条东西向道路串起来：北边的 Crow Canyon Rd、中间的 Bollinger Canyon Rd 和南边的 Alcosta Blvd 一线。Bollinger Canyon Rd 向东一直通到 Dougherty Valley，是东西两半城区之间每天都要走的路；Dougherty Rd 则从 Dougherty Valley 向南通往 Dublin 和 Dublin/Pleasanton BART 站，County Connection 的 35 路就沿这条线运行。",
+   "生活半径上，日常购物、看电影和健身多数可以在 City Center Bishop Ranch 和各片区的邻里商业中心完成；轨道交通、部分大型商场和一些专科医疗在 Dublin、Pleasanton 或 Walnut Creek。也就是说，这座城市本身能满足平日大部分需求，但通勤和少数专门需求会把你带到相邻城市，选片区时要先看自己更常往北走还是往南走。"
+  ],
+  "neighbors": [
+   "Danville",
+   "Dublin",
+   "Contra Costa County 未建制地区（Camino Tassajara、Blackhawk 方向）",
+   "Alameda County 未建制地区（Crow Canyon Rd 往 Castro Valley 方向）"
+  ],
+  "note": "城西多用 94583 邮编，Dougherty Valley 一侧的市政设施地址用 94582；另外 San Ramon Valley Unified School District 和 San Ramon Valley High School 的名称指的是整片谷地，并不等于 San Ramon 市的行政范围，市区边缘还有个别未并入城市的地块，具体地址要分别核对所属城市与学校。"
+ },
+ "districts_intro": "下面以 I-680、Crow Canyon Rd、Bollinger Canyon Rd、Alcosta Blvd 为参照，并借用市政府文件里的 Dougherty Valley、City Core 等名称，把全城分成五个生活片区。它们只为方便比较，不是法定边界，也不对应学校招生范围。",
+ "districts": [
+  {
+   "name": "City Center / Bishop Ranch 核心",
+   "tag": "办公园区转型中 · 新建联排与公寓",
+   "where": "I-680 以东、Bollinger Canyon Rd 两侧，沿 Camino Ramon、Executive Pkwy 和 Bishop Dr 一带，Iron Horse Trail 从中间穿过。市政府把其中一部分称作 City Core，并在分区上使用 Downtown Mixed Use 的名称；Bishop Ranch 是 Sunset Development 经营的办公园区名。",
+   "housing": "这里原本以办公楼为主，住宅是近几年才出现的。市政府 2026年1月28日的项目清单里，2400–2440 Camino Ramon 的 404 户出售型住宅已发建筑许可（Bishop Ranch 官网称这个社区为 City Village，由 SummerHill Homes 开发并在售），6131 和 6200 Bollinger Canyon Rd 各有一个已获批的公寓项目。住房形态以联排、小地块独立屋和多层公寓为主，车库多为并排或前后双车位，访客车位和 HOA 规则要逐个社区看。",
+   "daily": "City Center Bishop Ranch（6000 Bollinger Canyon Rd）是城里最集中的购物餐饮点，市政府介绍它由 Renzo Piano Building Workshop 设计，主力是十个影厅的 THE LOT 和 Equinox；San Ramon City Hall 在 7000 Bollinger Canyon Rd，San Ramon Library 在 100 Montgomery St，Central Park 和 San Ramon Community Center 在 12501 Alcosta Blvd。这几处之间可以走 Iron Horse Trail 和 2025年7月开放的 Bollinger Canyon Rd 跨线桥，不必在平面路口等灯。",
+   "commute_school": "在 Bishop Ranch 上班的话可以步行或骑车。San Ramon Transit Center（7051 Executive Pkwy）就在片区内，County Connection 的 21、35 路和 95X、96X、97X 快线从这里去 Walnut Creek BART 或 Dublin/Pleasanton BART。开车上 I-680 走 Bollinger Canyon Rd 或 Crow Canyon Rd 匝道。新建住宅的学校归属不要凭楼盘宣传判断，请把具体门牌输入 SRVUSD 的 Schoolsite Locator，并向学区确认该年级是否有名额。",
+   "tradeoffs": "好处是买菜以外的大多数日常需求都在步行或短途骑行范围内，房子新、维护压力小。要接受的是：周边还有多个项目处在审批或施工阶段，未来几年工地、围挡和交通组织会持续变化；新社区通常有 HOA，税单上是否有附加项目要逐套核对；独立屋的院子普遍不大。",
+   "visit": "建议工作日傍晚和周六中午各来一次：看 Bollinger Canyon Rd 与 Camino Ramon 路口的排队情况，从候选社区步行到 City Center 和 Iron Horse Trail 实际要过几个路口，再记录社区内访客车位晚上的占用情况，以及相邻地块是否挂有开发申请公告。"
+  },
+  {
+   "name": "南 San Ramon 与 I-680 西侧老社区",
+   "tag": "较早建成 · 独立屋为主 · 靠近 Dublin",
+   "where": "大致指 Bollinger Canyon Rd 以南、沿 San Ramon Valley Blvd 和 Alcosta Blvd 的住宅区，南端与 Dublin 接壤，西侧靠着山坡。市政府的 San Ramon Village Specific Plan 覆盖其中一部分商业地块；“南 San Ramon”是居民的惯称。",
+   "housing": "这是城里较早开发的部分，以单层和两层独立屋为主，也有一些较早的联排和公寓社区。地块通常比东侧新社区宽，树木成熟，但房屋的屋顶、管线、电路、窗户和地基排水都要按房龄逐项检查，翻新程度在同一条街上也会差别很大。靠西的房子有的建在坡地上，要留意挡土墙、排水和院子的可用面积。",
+   "daily": "Alcosta Senior & Community Center 在 9300 Alcosta Blvd，平日有面向长者的活动；San Ramon Olympic Pool & Aquatic Park 在 9900 Broadmoor Dr，有 50 米池、25 码池和带滑梯的戏水池；Forest Home Farms Historic Park 在 19953 San Ramon Valley Blvd；Memorial Park 在 Bollinger Canyon Rd 与 San Ramon Valley Blvd 路口，内有市政府列出的狗公园；Bishop Ranch Regional Open Space Preserve 的步行入口在 Morgan Dr，沿街免费停车。",
+   "commute_school": "往南去 Dublin、Pleasanton 和南湾，可以从 Alcosta Blvd 或 Bollinger Canyon Rd 上 I-680；去 BART 多数人会开车到 West Dublin/Pleasanton 或 Dublin/Pleasanton 站。市政府 TRAFFIX 校车项目列出的学校中，California HS、Pine Valley MS、Country Club ES、Neil Armstrong ES、Walt Disney ES 等在 San Ramon 西侧，但校车覆盖哪条街、当年是否还有座位要向项目方确认。学校归属一律用 Schoolsite Locator 按门牌查，不要以“离某校近”来推断。",
+   "tradeoffs": "同样是独立屋，这里的地块和街道感受与东侧新社区不同，离 I-680 和 Dublin 的设施也更近。取舍在于房龄带来的维修和升级预算、靠近 I-680 或 San Ramon Valley Blvd 的房子有持续的车流声，以及坡地房屋在地质和排水方面需要更细的检查。",
+   "visit": "挑一个工作日上学时段，在 California High School 和 Olympic Pool 所在的 Broadmoor Dr 一带看接送车流；再到候选房子的后院停留一会儿，听 I-680 的声音；坡地房屋绕到侧面和下坡方向看挡土墙与排水沟的状况。"
+  },
+  {
+   "name": "Crow Canyon / 北 San Ramon 与西侧山麓",
+   "tag": "北向通勤 · 商业走廊加山麓住宅",
+   "where": "以 Crow Canyon Rd 为轴，从 I-680 两侧的商业走廊向西延伸到 Bollinger Canyon 和 Norris Canyon 的山麓，向北接 Danville。Deerwood Rd、Twin Creeks 一带的住宅也常被归到这里；名称是惯称，市政府在这一带另有 Northwest Specific Plan 和 Westside Specific Plan。",
+   "housing": "山麓和 Twin Creeks 一带以独立屋为主，也有成片的联排；Crow Canyon Rd 走廊和 Deerwood Rd 附近则是商业、办公与住宅混合，市政府项目清单上有多个已批准或在审的联排、公寓项目（例如 3401 Crow Canyon Rd、2481 Deerwood Dr、500 Deerwood Rd、18 Crow Canyon Ct）。坡地独立屋视野开阔，但车道坡度、院子平整面积和山火防护空间要现场看。",
+   "daily": "Crow Canyon Commons（3181 Crow Canyon Pl）是这一带的邻里商业中心，市政府清单显示业主正申请提高非零售用途的比例；San Ramon Regional Medical Center 在 6001 Norris Canyon Rd；Crow Canyon Gardens 是市政府公园名录里的社区花园；Las Trampas Wilderness Regional Preserve 的主入口在 18012 Bollinger Canyon Rd，从 I-680 走 Crow Canyon Rd 向西再右转 Bollinger Canyon Rd 进入。",
+   "commute_school": "往北去 Danville、Walnut Creek 从 Crow Canyon Rd 上 I-680 最顺；往西去 Castro Valley、Hayward 一侧走 Crow Canyon Rd 到 I-580，这条路弯多、车道少，高峰时段要自己试开。公交方面，21 路和 95X、96X 快线去 Walnut Creek BART。学校归属用 Schoolsite Locator 查；山麓边缘的地址要同时确认所属城市，因为靠北的一些街道已经属于 Danville 或未建制地区。",
+   "tradeoffs": "这里对北向和西向通勤的人更省路，离医院和山野步道近。要接受的是 Crow Canyon Rd 与 I-680 交汇处在高峰时段的拥堵、商业走廊旁新增住宅带来的施工，以及山麓房屋在山火分区、滑坡和保险报价上需要逐个地址核实。",
+   "visit": "工作日早高峰从候选房子开到 Crow Canyon Rd 的 I-680 匝道，记录排队位置；周末去 Las Trampas 的 Bollinger 入口看停车情况；山麓房屋请在下午看西晒和风向，并沿社区边缘观察与开放山坡之间的植被间距。"
+  },
+  {
+   "name": "Canyon Lakes / Bollinger Canyon 中段",
+   "tag": "高尔夫球场周边 · 联排与公寓比例高",
+   "where": "指 Alcosta Blvd 以东、Bollinger Canyon Rd 两侧，介于 Bishop Ranch 与 Dougherty Valley 之间的丘陵地带，Canyon Lakes 是其中规模较大的规划社区名。这是惯称，边界以 Bollinger Canyon Rd、Canyon Lakes Dr 一带为参照。",
+   "housing": "这一带建成时间介于西侧老社区和 Dougherty Valley 之间，房型里联排和公寓的比例较高，也有围绕球场和山坡的独立屋。多数社区有 HOA，有的还叠加总协会和分协会两层收费，购买前要拿到两层协会的预算、储备金报告和规则。两层和三层的户型较多，卧室是否都在楼上、车库到厨房要走几级楼梯，对有老人同住的家庭影响很大。",
+   "daily": "向西沿 Bollinger Canyon Rd 可到 Central Park、San Ramon Community Center（12501 Alcosta Blvd）、San Ramon Library（100 Montgomery St）和 City Center Bishop Ranch；Market Place 上的 The Marketplace 购物中心就在 Bollinger Canyon Rd 与 Alcosta Blvd 附近，市议会已于 2023年3月批准把其中的超市等建筑改建为 40 户住宅并保留 Starbucks，现场是否已动工、原有门店是否仍营业需要到场确认。市政府步道名录里的 Bollinger Canyon Road Trail 以 Diablo Plaza 作为停车点。",
+   "commute_school": "通勤基本依赖 Bollinger Canyon Rd：向西上 I-680，向东再转 Dougherty Rd 去 Dublin/Pleasanton BART。County Connection 35 路沿 Bollinger Canyon Rd 运行，在 Talavera Dr 等路口设站。学校方面，这一带处在西侧学校和 Dougherty Valley 学校之间，更需要用 Schoolsite Locator 按门牌确认小学、初中、高中各自的归属，并询问该年级是否有名额。",
+   "tradeoffs": "位置居中，往两边的设施都不远，同样预算能买到的室内面积通常比独立屋多。取舍是 HOA 支出和规则较多、访客停车紧张的社区不少、楼梯多，以及几乎所有出行都要汇入 Bollinger Canyon Rd。部分坡地社区可能位于地质灾害防治区，要在税单和披露文件里核对。",
+   "visit": "工作日早上在候选社区出口看左转进入 Bollinger Canyon Rd 是否有信号灯和排队；晚上八点以后回来数访客车位；向卖方索取 HOA 文件前，先在社区里走一圈，看外墙、屋顶、栏杆和坡面排水的维护状态。"
+  },
+  {
+   "name": "Dougherty Valley（Gale Ranch 与 Windemere）",
+   "tag": "城东规划社区 · 房龄较新 · 往南去 Dublin",
+   "where": "Bollinger Canyon Rd 东段及其以东的谷地，按市政府的 Dougherty Valley Specific Plan 开发，由 Gale Ranch 和 Windemere 两个规划社区组成：靠西、靠近 Bollinger Canyon Rd 中段的一侧多属 Gale Ranch，靠东、沿 Windemere Pkwy 和 East Branch Pkwy 的一侧多属 Windemere。这里的市政设施地址使用 94582 邮编。",
+   "housing": "住房集中建于本世纪前二十年，独立屋、联排和公寓都有，联排和公寓占比明显高于城西。房子较新，户型以两层为主，车库直接入户；独立屋地块偏小，邻里间距近。几乎所有社区都有 HOA，税单上的附加项目在不同小区之间差别很大，需要拿到当年的实际税单逐行核对。",
+   "daily": "Dougherty Station Community Center（17011 Bollinger Canyon Rd）与 Dougherty Station Library（17017 Bollinger Canyon Rd）相邻，是东侧的活动中心；Dougherty Valley Aquatic Center 在 10550 Albion Rd，有 50 米泳池；Bark and Ride（1120 South Wedgewood Rd，Bollinger Canyon Rd 与 Stoneleaf Rd 路口）既是拼车停车场也带大小犬分区的狗公园；Rancho San Ramon Community Park 和 Tassajara Ridge Staging Area（Windemere Pkwy 旁）是周末常用的公园和步道起点。邻里商业中心沿 Bollinger Canyon Rd 分布，具体门店请以现场为准。",
+   "commute_school": "去 San Francisco 的常见做法是沿 Dougherty Rd 向南到 Dublin/Pleasanton BART；County Connection 35 路工作日从 San Ramon Transit Center 经 Bollinger Canyon Rd、East Branch Pkwy、Windemere Pkwy 一带到 Dublin/Pleasanton BART，周末是 335 路。去 I-680 要先向西走完整段 Bollinger Canyon Rd。Dougherty Valley High School、Gale Ranch Middle School、Windemere Ranch Middle School 都在这一片，但哪个地址对应哪所学校仍要用 Schoolsite Locator 查；学区官网提示许多学校和年级受到学生增长影响，学生未必能进入住址对应的学校。",
+   "tradeoffs": "优点是房屋新、公园和步道密、社区设施集中。要接受的是离 I-680 较远，西向出行高度依赖 Bollinger Canyon Rd；HOA 和税单附加项目使持有成本高于单看房价的印象；东缘和北缘靠着放牧的开放山坡，市政府提示 Tassajara Ridge 和 Dougherty Valley Ridge 步道每年 8 月至 11 月是牛群产犊季。",
+   "visit": "工作日早上七点到八点半之间，在 Bollinger Canyon Rd 与 Dougherty Rd 路口和 Dougherty Valley High School 附近各停留一会儿，看上学与通勤车流叠加的情况；再从候选房子实际开一次到 Dublin/Pleasanton BART 的停车场；傍晚走一段 Tassajara Ridge Trail，感受风和坡度。"
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车的骨架很简单：I-680 是唯一的高速，城内主要从 Crow Canyon Rd、Bollinger Canyon Rd 和 Alcosta Blvd 三处上下。向北去 Danville、Walnut Creek、Concord，向南经 Dublin、Pleasanton、Sunol 去 Fremont 和 San Jose。向西没有高速，Crow Canyon Rd 翻山到 Castro Valley 一侧接 I-580。Dougherty Valley 的住户去 I-580 和 Dublin 通常走 Dougherty Rd，而不是绕回 I-680。I-680 上合乘车道和收费快速车道的适用路段、时段和收费方式会调整，出发前请在 511.org 查当前规则。",
+   "城内没有 BART、ACE 或 Capitol Corridor 车站。最近的 BART 站是南边的 Dublin/Pleasanton（5801 Owens Dr, Pleasanton）和 West Dublin/Pleasanton（6501 Golden Gate Dr, Dublin），以及北边的 Walnut Creek。BART 官网显示 Dublin/Pleasanton 站的地面停车场在 Pleasanton 一侧，Dublin 一侧是停车楼，另有一个私人经营的收费停车场；West Dublin/Pleasanton 站两侧各有一座停车楼。停车规则和收费以 BART 官网和官方 App 为准。",
+   "公交由 County Connection 运营，枢纽是 San Ramon Transit Center（7051 Executive Pkwy，靠近 Camino Ramon，紧邻 Iron Horse Trail，市政府列出 54 个免费车位和 BikeLink 自行车柜）。截至2026年10月，County Connection 官网列出的相关线路有：21 路（工作日，Walnut Creek BART—Danville—San Ramon Transit Center）、35 路（工作日，San Ramon Transit Center—Bollinger Canyon Rd—Dougherty Rd—Dublin/Pleasanton BART）、周末的 321 路和 335 路，以及只在工作日高峰运行的快线 95X、96X（往 Walnut Creek BART）、97X（往 Dublin/Pleasanton BART）和 92X（往 Pleasanton 的 ACE 火车站，班次很少）。高峰以外班次明显变疏，晚间收车较早。",
+   "市政府另外列出两处拼车停车场：Bollinger Canyon Rd 与 San Ramon Valley Blvd 路口（约 100 个车位）和 Dougherty Valley 的 Bark and Ride（1120 South Wedgewood Rd）。骑车的话，Iron Horse Regional Trail 贯穿城市并一直通到 Dublin/Pleasanton BART 站；Bollinger Canyon Rd 上的步道跨线桥已于 2025年7月19日开放，Crow Canyon Rd 的跨线桥按市政府页面仍在设计阶段。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 Dougherty Valley 到 Downtown San Francisco",
+    "text": "先从家到 Dublin/Pleasanton BART：自己开车走 Dougherty Rd 向南，或在 Bollinger Canyon Rd、Windemere Pkwy 一带乘 County Connection 35 路。之后乘 BART 的 Dublin/Pleasanton—Daly City 线进城，不用换乘。要核实的环节是：你出门的时刻停车场是否好停、35 路首末班是否覆盖你的上下班时间，以及出站后到办公室的步行距离。"
+   },
+   {
+    "title": "从南 San Ramon 到南湾（North San Jose / Milpitas 方向）",
+    "text": "从 Alcosta Blvd 或 Bollinger Canyon Rd 上 I-680 向南，经过 I-580 交汇处、Pleasanton 和 Sunol 山口进入 Fremont，再按办公地点选择继续走 I-680 或转其他道路。这条线全程开车，瓶颈通常在 I-580 交汇处和 Sunol 一段，早晚方向差别很大。请用具体的出发时刻分别查去程和回程，并了解公司是否有从 Tri-Valley 出发的班车。"
+   },
+   {
+    "title": "住在城内、在 Bishop Ranch 上班",
+    "text": "从 City Center 周边可以步行或沿 Iron Horse Trail 骑车；从 Dougherty Valley 过来是沿 Bollinger Canyon Rd 向西，也可以乘 35 路到 San Ramon Transit Center；从城西老社区过来要穿过 I-680 下的 Bollinger Canyon Rd 或 Crow Canyon Rd 路段。距离不长，但 Bollinger Canyon Rd 在上学时段车多，值得在工作日早上实际走一次。"
+   },
+   {
+    "title": "从 Crow Canyon 一带到 Walnut Creek 或 Oakland",
+    "text": "开车从 Crow Canyon Rd 上 I-680 向北到 Walnut Creek；去 Oakland 可以在 Walnut Creek 换乘 BART，或继续开车转 CA-24。不开车的做法是到 San Ramon Transit Center 乘 95X、96X 快线或 21 路到 Walnut Creek BART。要核实快线只在高峰运行、回程末班车的时间，以及 Walnut Creek 站的停车规则。"
+   }
+  ],
+  "verify": [
+   "在地图应用里输入候选房屋的门牌和办公室的门牌，把出发时间分别设为你实际的上班和下班时刻，连续看几个工作日，而不是只看当下的路况。",
+   "打算开车到 BART 的，按你的出门时间实地去一次 Dublin/Pleasanton 或 West Dublin/Pleasanton 站，记录从家门到站台的全程，包括找车位和走到闸机的时间。",
+   "打算坐公交的，在 County Connection 官网打开 35 路或 95X/96X/97X 的当期时刻表，核对离你最近的站点、首末班和高峰以外的间隔；时刻表在每年 8 月前后常有调整。",
+   "有孩子的家庭把“家—学校—办公室”连成一条线来测，上学时段 Bollinger Canyon Rd 和学校周边的车流与平时差别很大。"
+  ],
+  "links": [
+   {
+    "label": "County Connection 线路与时刻",
+    "url": "https://countyconnection.com/routes/"
+   },
+   {
+    "label": "County Connection 35 路（San Ramon—Dublin/Pleasanton BART）",
+    "url": "https://countyconnection.com/routes/35/"
+   },
+   {
+    "label": "BART Dublin/Pleasanton 站",
+    "url": "https://www.bart.gov/stations/dubl"
+   },
+   {
+    "label": "BART West Dublin/Pleasanton 站",
+    "url": "https://www.bart.gov/stations/wdub"
+   },
+   {
+    "label": "San Ramon 市拼车停车场",
+    "url": "https://sanramon.ca.gov/our_city/departments_and_divisions/public_works/transportation/commute_options/park_ride_lots/"
+   },
+   {
+    "label": "Iron Horse Regional Trail（EBRPD）",
+    "url": "https://www.ebparks.org/trails/interpark/iron-horse"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "San Ramon 的日常采购是“片区中心”式的：每个片区都有自己的邻里商业中心，开车几个路口就到，但很少能从家门步行完成。City Center Bishop Ranch 是全城的餐饮和休闲集中地，官网目录里有 THE LOT 影院、Equinox、Sephora、Williams Sonoma、Pottery Barn 等零售和二十多家餐厅，但没有列出超市，所以它解决的是吃饭、看电影和逛街，买菜要去别处。",
+   "超市分布在 Crow Canyon Rd 走廊、Bollinger Canyon Rd 与 Alcosta Blvd 一带以及 Dougherty Valley 的邻里中心。门店会变化：例如 Market Place 上的 The Marketplace 已获批把超市等建筑改建为住宅，Crow Canyon Commons 的业主也在申请调整业态。看房时请把候选地址到你常去的超市、药房的实际路线开一遍，并当场确认门店仍在营业；需要特定食材的家庭，也要把去 Dublin、Pleasanton 采购的路程算进每周安排。",
+   "办事方面，市政府在 7000 Bollinger Canyon Rd；两座图书馆分别在城西的 100 Montgomery St 和 Dougherty Valley 的 17017 Bollinger Canyon Rd；社区中心有四处，其中 Alcosta Senior & Community Center 平日以长者活动为主。市政府网站设有 San Ramon Farmer's Market 的入口，开市日期和地点请在出发前到其官网确认。"
+  ],
+  "places": [
+   {
+    "name": "City Center Bishop Ranch",
+    "kind": "商业中心",
+    "where": "6000 Bollinger Canyon Rd，City Center / Bishop Ranch 核心",
+    "note": "餐饮、零售、THE LOT 影院和 Equinox；目录中没有超市"
+   },
+   {
+    "name": "Crow Canyon Commons",
+    "kind": "邻里商业中心",
+    "where": "3181 Crow Canyon Pl，Crow Canyon 走廊",
+    "note": "截至2026年1月，业主申请提高非零售用途比例，门店以现场为准"
+   },
+   {
+    "name": "The Marketplace",
+    "kind": "邻里商业中心",
+    "where": "130 Market Pl，Bollinger Canyon Rd 与 Alcosta Blvd 附近",
+    "note": "2023年3月获批改建为 40 户住宅并保留 Starbucks，现状需到场确认"
+   },
+   {
+    "name": "San Ramon Library",
+    "kind": "图书馆",
+    "where": "100 Montgomery St",
+    "note": "城西的公共图书馆"
+   },
+   {
+    "name": "Dougherty Station Library",
+    "kind": "图书馆",
+    "where": "17017 Bollinger Canyon Rd，Dougherty Valley",
+    "note": "与 Dougherty Station Community Center 相邻"
+   },
+   {
+    "name": "San Ramon Community Center at Central Park",
+    "kind": "社区中心",
+    "where": "12501 Alcosta Blvd",
+    "note": "有活动厅、会议室和两层的艺术展廊"
+   },
+   {
+    "name": "Dougherty Station Community Center",
+    "kind": "社区中心",
+    "where": "17011 Bollinger Canyon Rd，Dougherty Valley",
+    "note": "有舞蹈室、美术与音乐教室、Front Row Theater"
+   },
+   {
+    "name": "Alcosta Senior & Community Center",
+    "kind": "长者与社区中心",
+    "where": "9300 Alcosta Blvd，南 San Ramon",
+    "note": "平日为长者活动，晚间和周末可租用"
+   },
+   {
+    "name": "San Ramon City Hall",
+    "kind": "市政府",
+    "where": "7000 Bollinger Canyon Rd",
+    "note": "办理许可、领取 Clipper 卡等"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "市政府公园名录列出五十多处公园，其中不少是与学校共用的 School Park，放学后和周末对居民开放，所以多数住宅走几个街口就有草地和球场。公园从日出开放到日落，有灯光的球场在开灯或预约时可用到晚上十点。",
+   "游泳是这座城市比较突出的公共设施：城西的 San Ramon Olympic Pool & Aquatic Park 和城东的 Dougherty Valley Aquatic Center 各有一个 50 米池。市政府页面显示 2026 年的 Recreation Swim 已于 9 月 7 日结束，次年夏季恢复；泳道游泳、课程和泳卡请在市政府康乐网站查看当期安排。",
+   "想走山的话，西侧有 East Bay Regional Park District 的 Las Trampas 和 Bishop Ranch Regional Open Space Preserve，东侧有市政府管理的 Tassajara Ridge Trail 和 Dougherty Valley Ridge Trail。这些山坡步道坡度大、遮阴少，夏天午后很热；东侧步道与放牧区重叠，遇到牛群要保持距离并牵好狗。平路散步和骑车则以 Iron Horse Regional Trail 为主。"
+  ],
+  "places": [
+   {
+    "name": "Central Park",
+    "kind": "公园",
+    "where": "12501 Alcosta Blvd，Bollinger Canyon Rd 旁",
+    "note": "与 San Ramon Community Center 相连，有露天剧场、喷泉和玫瑰园；停车充足"
+   },
+   {
+    "name": "San Ramon Olympic Pool & Aquatic Park",
+    "kind": "泳池",
+    "where": "9900 Broadmoor Dr，南 San Ramon",
+    "note": "50 米池、25 码池、戏水池、滑梯和跳板；按次或泳卡入场"
+   },
+   {
+    "name": "Dougherty Valley Aquatic Center",
+    "kind": "泳池",
+    "where": "10550 Albion Rd，Dougherty Valley",
+    "note": "50 米池、戏水池、跳板和野餐区"
+   },
+   {
+    "name": "Forest Home Farms Historic Park",
+    "kind": "历史公园",
+    "where": "19953 San Ramon Valley Blvd",
+    "note": "户外农场博物馆，含 1877 年的 Glass House；对公众开放时间为周二至周六白天"
+   },
+   {
+    "name": "Las Trampas Wilderness Regional Preserve",
+    "kind": "保护区",
+    "where": "18012 Bollinger Canyon Rd",
+    "note": "EBRPD 管理，开放时间随季节变化；园方提示饮水供应不稳定，需自带"
+   },
+   {
+    "name": "Bishop Ranch Regional Open Space Preserve",
+    "kind": "保护区",
+    "where": "Morgan Dr 步行入口",
+    "note": "EBRPD 管理，沿 Morgan Dr 免费路边停车，除步道外没有设施，坡度较大"
+   },
+   {
+    "name": "Tassajara Ridge Trail",
+    "kind": "步道",
+    "where": "Tassajara Ridge Staging Area，Windemere Pkwy 旁",
+    "note": "市政府列为难度较高的山脊步道；8 月至 11 月为牛群产犊季"
+   },
+   {
+    "name": "Iron Horse Regional Trail",
+    "kind": "步道",
+    "where": "南北向贯穿城市，经 Bishop Ranch",
+    "note": "向南通到 Dublin/Pleasanton BART；Bollinger Canyon Rd 跨线桥 2025年7月开放"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "城内的综合医院是 San Ramon Regional Medical Center（6001 Norris Canyon Rd），设有急诊和产科的 Family Birthing Center。John Muir Health 官网把它列为 Partner Hospital；你的保险是否签约，要直接向医院和保险公司确认。医院官网在 2026 年秋季提示，Health Net、WellCare、Ambetter 的会员自 2027年1月1日起可能面临网络内资格变化。",
+   "Kaiser Permanente 在 San Ramon 设有门诊性质的 Medical Offices，Kaiser 会员的住院和急诊通常要去其他城市的 Kaiser 医院，地点请在 Kaiser 官网按保单查询。往北，County Connection 周末的 321 路可到 Walnut Creek 的 John Muir Medical Center。",
+   "医疗设施离家近不等于它在你的医保网络内。买房前请用自己的保单在保险公司网站上查网络内的家庭医生、儿科、急诊和常去的专科各在哪里，再从候选地址实际开一次。"
+  ],
+  "places": [
+   {
+    "name": "San Ramon Regional Medical Center",
+    "kind": "医院 / 急诊",
+    "where": "San Ramon，6001 Norris Canyon Rd",
+    "note": "John Muir Health 列为 Partner Hospital；提供急诊在线登记"
+   },
+   {
+    "name": "Family Birthing Center（San Ramon Regional Medical Center）",
+    "kind": "产科",
+    "where": "San Ramon，6001 Norris Canyon Rd",
+    "note": "位于医院院区内"
+   },
+   {
+    "name": "Kaiser Permanente San Ramon Medical Offices",
+    "kind": "门诊",
+    "where": "San Ramon，地址与科室以 Kaiser 官网为准",
+    "note": "仅限 Kaiser 会员；不是住院医院"
+   },
+   {
+    "name": "John Muir Medical Center, Walnut Creek",
+    "kind": "医院",
+    "where": "Walnut Creek",
+    "note": "County Connection 321 路周末可达"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "San Ramon 的公立学校属于 San Ramon Valley Unified School District（SRVUSD），学区办公室在 Danville 的 699 Old Orchard Dr。这个学区是 TK–12 的统一学区，范围覆盖整片 San Ramon Valley 的多个城镇和未建制社区，学区官网列出 22 所小学、8 所初中和 5 所高中以及 Venture Independent Study。因此“在 San Ramon 市”只能说明地址在这个学区内，不能说明孩子上哪一所学校；反过来，学区里名字带 San Ramon Valley 的学校也不一定服务 San Ramon 市的地址。",
+   "具体学校要按门牌查。学区的 Find Your School 页面提供 Schoolsite Locator 实时查询，以及全学区、小学、初中、高中四张静态 PDF 边界图。静态图适合看空间关系，其中高中图的底图版权标注为 2010 年，不能当作当前边界使用，请以 Schoolsite Locator 的结果和学校的答复为准。小学、初中、高中的范围各自独立，不能用高中范围去推断小学。",
+   "学区在同一页面上写明：许多学校和年级受学生增长影响，学生可能无法进入住址对应的学校，并建议家长联系住址对应的学校确认。学区的转学规则里把这种因校舍容量而安排到其他学校的做法称为 diversion。TK 和 Kindergarten 每年 11 月有优先报名窗口，学区称这是在住址对应学校取得名额的较好时机，之后按先到先得处理。所以买房时除了查边界，还要问清楚孩子所在年级当年是否有名额。"
+  ],
+  "districts": [
+   {
+    "name": "San Ramon Valley Unified School District",
+    "short": "SRVUSD",
+    "grades": "TK–12",
+    "covers": "覆盖 San Ramon 全市，同时覆盖 Danville 以及谷地内的其他社区；市政府公园名录中的学校公园显示，California High School、Dougherty Valley High School，Iron Horse、Pine Valley、Gale Ranch、Windemere Ranch 四所初中和十余所小学位于 San Ramon 市内",
+    "locator_url": "https://www.schoolsitelocator.com/apps/sanramon/",
+    "map_url": "https://www.srvusd.net/Departments/Facilities/Find-Your-School/index.html",
+    "enroll_url": "https://www.srvusd.net/Departments/Educational-Services/Enrollment-Info/Enrollment/index.html",
+    "note": "Schoolsite Locator 给出的是住址对应的学校；学区提示许多学校和年级受增长影响，可能被安排到其他学校（diversion）。边界问题可致电学区 Educational Services，最终安排以学区和学校确认为准。"
+   }
+  ],
+  "programs": [
+   "SRVUSD 官网说明，学区每一所小学都在校内提供课前和课后托管，由 Kids' Country、AlphaBEST、YMCA、Right at School 等机构承办，各校的承办方、时间和名额需向该机构确认。",
+   "六年级的课后去处，学区列出的是 City of San Ramon Teen Center，对应 Gale Ranch、Iron Horse、Pine Valley 和 Windemere Ranch 四所初中。",
+   "SRVUSD 2026–27 学年的 TK 面向 9 月 1 日前满 4 岁的孩子，Kindergarten 面向 9 月 1 日前满 5 岁的孩子；TK 和 K 的优先报名窗口在每年 11 月。",
+   "SRVUSD 的 Language School Program 允许高中生在学区认可的校外语言学校修读本校未开设的语言并获得学分，认可名单中包括教授中文的 Tzu Chi Academy, Tri-Valley；这类学分不计入加权成绩，也不能用于 State Seal of Biliteracy。",
+   "SRVUSD 设有 Expanded Learning Opportunity Program（ELO-P）、GATE、Career Technical Education 和 Dual Enrollment 等项目页面，具体哪所学校开设哪些内容要向学校确认。",
+   "上下学交通方面，TRAFFIX 校车项目由 San Ramon 市、Danville 镇、Contra Costa County 和 SRVUSD 合办，资金来自 Measure J 和家长缴费；市政府页面列出的服务学校包括 California HS、Pine Valley MS、Country Club ES、Coyote Creek ES、Neil Armstrong ES、Walt Disney ES 等，名单中没有 Dougherty Valley 的初中和高中。"
+  ],
+  "choice_note": "SRVUSD 的常规入学按住址划片。想去住址以外的学校，要走 Intradistrict Transfer / Open Enrollment 申请下一学年的名额，学区先安置本范围内的学生，确认该年级有空位后才考虑转入，并按既定优先顺序排队；转入的学生升初中或高中时要回到住址对应的学校。学区另有 Kindergarten Lotteries 的说明页面，以及 Venture Independent Study 和 Del Amigo High School 这类非划片的就读形式。这些都不随房屋地址自动获得，不能作为买房时的确定条件。",
+  "dashboard_note": "在 California School Dashboard（caschooldashboard.org）搜索 San Ramon Valley Unified 或具体学校名，可以看到学业、出勤、停学率、英语学习者进展、毕业率等多项指标及各学生群体的情况。Dashboard 每年更新一次，请以页面上标明的报告年份为准，引用或比较时写下年份，并把同一年的数据放在一起看，不要用单一指标概括一所学校。",
+  "trustee_note": "SRVUSD 自 2019 年起改为按 Trustee Area 分区选举校董，现行选区图于 2022年2月22日通过。Trustee Area 只决定你投票选哪一位校董，与孩子上哪所学校无关，查学校请用 Schoolsite Locator 而不是选区图。",
+  "safe_routes": {
+   "text": "San Ramon 市交通部门的 Commute Options 页面汇总了与上下学有关的资源：收费的 TRAFFIX 校车（每年春季开始办理下一学年的乘车证）、面向学生的 Pass2Class 公交激励，以及 County Connection 按学校铃声时间运行的 600 系列线路（如服务 California High 和 Pine Valley Middle 的 622 路、服务 Windemere Ranch、Gale Ranch Middle 和 Dougherty Valley High 的 635 路）。这些线路和名额每学年会调整，请在开学前核对；步行或骑车上学的路线建议在上学时段亲自走一次。",
+   "url": "https://sanramon.ca.gov/our_city/departments_and_divisions/public_works/transportation/commute_options/"
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "San Ramon 的住房大致分成三个年代层。I-680 两侧和南部的社区较早建成，以独立屋为主；Bollinger Canyon Rd 中段的 Canyon Lakes 等规划社区稍晚，联排和公寓的比例上升；Dougherty Valley 的 Gale Ranch 和 Windemere 是本世纪的规划社区，房龄新、密度更高。最近几年，Bishop Ranch 办公园区内开始出现新建的联排、小地块独立屋和多层公寓。",
+   "老房子的检查重点在屋顶寿命、给排水管材、电箱容量、窗户、空调以及地基周围的排水；坡地房屋加看挡土墙和坡面。较新的规划社区结构问题相对少，但地块小、楼梯多，三层联排的卧室和车库常常不在同一层，访客停车要看 HOA 规则。夏季内陆气温高，空调和屋顶太阳能是否为自有设备、合同能否转让，也要在交易前问清。",
+   "这座城市里有 HOA 的住宅比例很高。HOA 费用覆盖的范围在各社区差别很大，有的含屋顶和外墙，有的只管公共绿化和泳池；规划社区还可能有总协会加分协会两层。比较房源时，把月供、税单、HOA、保险放在一张表里看，比只比较挂牌价更接近实际支出。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "南 San Ramon、I-680 西侧和 Crow Canyon 山麓的独立屋地块较宽、房龄较长，翻新程度不一；Dougherty Valley 的独立屋较新、多为两层，院子偏小、邻居间距近。坡地独立屋要单独评估排水、挡土墙和山火防护空间。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "集中在 Canyon Lakes 一带、Dougherty Valley 以及 Bishop Ranch 的新建社区。常见两到三层、车库入户；要核对 HOA 负责的维修范围、储备金是否充足、访客车位数量和出租限制。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "Canyon Lakes 一带和 Dougherty Valley 有不少出售型公寓，Bishop Ranch 新批的多层项目里有相当一部分是出租公寓。买公寓要看楼层与电梯、车位是否专属、HOA 的保险与诉讼情况，以及贷款机构对该社区的认可状态。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "房产税以加州 Prop 13 的基础税率为底，再加上地方债券和各类固定收费，实际数字只能看具体房屋的 Contra Costa County 税单。和学校有关的项目里，SRVUSD 有一项按地块征收的 Measure Q 教育地块税，自 2025年7月1日起为期九年，符合条件的 65 岁以上自住业主等可向学区申请豁免；学区的设施债券也按评估值计入税单，学区官网显示校董会正在考虑把一项债券延续案列入 2026年11月的选票，结果请以选举后的公告为准。",
+   "Dougherty Valley 和其他较新的规划社区，税单上常见的附加项目比城西老社区多，可能包括基础设施特别税、县服务区收费、景观照明评估以及地质灾害防治区（GHAD）评估等。哪些项目适用、是否有到期年份，不同小区甚至不同期的房子都不一样，不能用一个统一比例估算，请向卖方索取最近一年的完整税单。",
+   "HOA 是另一项大的固定支出，城内多数联排、公寓和相当一部分独立屋社区都有。保险方面，靠近山坡的地址要提前询价，因为山火分区和坡地条件可能影响承保和保费。供水机构在城内并不统一，西侧和 Dougherty Valley 的地址可能分属不同的水务机构，费率结构不同，请让卖方提供近十二个月的水电账单。此外，城内没有轨道站，每天开车到 BART 的油费、停车费或第二辆车的开销，也应计入长期成本。"
+  ],
+  "checklist": [
+   "最近一年的 Contra Costa County 房产税单全文，逐行标出债券、地块税、特别税和各类评估，并询问有无到期年份。",
+   "HOA 的月费、当年预算、储备金研究报告、近十二个月会议纪要，以及是否有总协会与分协会两层收费、是否有已通过或讨论中的特别摊派。",
+   "Natural Hazard Disclosure 报告中关于地震断层带、滑坡、洪水和山火分区的结论，以及该地址是否在某个 GHAD 范围内。",
+   "至少两家保险公司的书面报价，坡地和山麓房屋尤其要在出价前拿到。",
+   "卖方近十二个月的水、电、燃气账单，确认供水机构，以及屋顶太阳能是自有、租赁还是购电协议。",
+   "按你的通勤方式估算的每月交通支出，包括 BART 停车、过桥或快速车道收费。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "San Ramon 在内陆谷地，海风和雾的影响比湾边城市弱，夏季午后明显更热，早晚降温也快；山脊和 Dougherty Valley 东缘的开阔地带风更大。房子的朝向、遮阴和空调状况对夏天的舒适度影响很直接，建议在下午看房。",
+   "持续的噪音来源主要是 I-680，其次是 Crow Canyon Rd、Bollinger Canyon Rd、San Ramon Valley Blvd 等干道，以及学校和球场在特定时段的活动声。城内没有铁路穿过。靠近 Bishop Ranch 的地址未来几年还要考虑施工噪音。",
+   "自然灾害方面，这一带需要查的图层有四类：加州地质调查局划定的地震断层带和滑坡、液化区（San Ramon Valley 沿线有活动断层通过，本地小震群并不少见，西侧山麓和东侧丘陵都有需要评估的坡地）；CAL FIRE 的山火危险分区，主要涉及城市与开放山坡交界的边缘；FEMA 洪水图，主要沿溪流和排水通道；以及部分坡地社区设立的地质灾害防治区。这些图层回答的是“这个地址需要进一步核实什么”，不能据此断定某个片区安全或危险，结论以具体地址的披露报告和专业检查为准。"
+  ],
+  "tools": [
+   {
+    "label": "CGS 地震灾害分区查询（EQ Zapp）",
+    "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+    "what": "输入地址查看是否位于 Alquist-Priolo 断层带、滑坡或液化调查区；I-680 沿线和山麓的地址尤其要查。"
+   },
+   {
+    "label": "CAL FIRE 山火危险分区",
+    "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+    "what": "显示州和地方责任区的山火危险等级；西侧山麓、Bollinger Canyon 和 Dougherty Valley 靠开放山坡的边缘需要看。"
+   },
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示联邦洪水保险图上的特殊洪水危险区；城内范围有限，主要看溪流和排水通道两侧的地址。"
+   },
+   {
+    "label": "San Ramon 分区条例与分区图",
+    "url": "https://www.sanramon.ca.gov/business/zoning_ordinance_map",
+    "what": "市政府的分区图入口，可看候选地址周边地块允许的用途和密度，判断隔壁未来可能建什么。"
+   },
+   {
+    "label": "San Ramon 步道与开放空间互动地图",
+    "url": "https://sanramon.maps.arcgis.com/apps/webappviewer/index.html?id=ee09bbc201454cf2aca73982e402fd0c",
+    "what": "市政府的步道图，可看住宅与开放山坡、放牧区和步道入口的相对位置。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "未来十年 San Ramon 变化最大的地方是 Bishop Ranch。市议会于 2023年12月12日通过 General Plan 2040，并同步调整了园区内若干地块的分区；此前 2023年1月30日通过的 2023–2031 Housing Element 在同年 2月27日获州住房与社区发展部认定基本符合州法。在这个框架下，办公园区正逐块改为住宅和混合用途。",
+   "按市政府 2026年1月28日的项目清单：2400–2440 Camino Ramon 的 404 户出售型住宅已发建筑许可，Belmont Village 长者公寓已发建筑许可（Bishop Ranch 官网显示正在招租），6131 Bollinger Canyon Rd 的 383 户公寓和 6200 Bollinger Canyon Rd 的 457 户 AvalonBay 公寓已获批，City Center 旁一座 169 间客房的酒店已获批；原 Chevron Park 改名 The Orchards，其整体开发方案和一个 100 户的可负担公寓项目仍在审查中；3000 和 4000 Executive Pkwy 各有一个四百户上下的住宅申请刚刚提交。Crow Canyon Rd 和 Deerwood Rd 一带也有数个已批准的联排项目。",
+   "对买房的含义有两面：住在 Bishop Ranch 周边，步行可达的设施会越来越多，但施工期长，Bollinger Canyon Rd 和 Camino Ramon 的车流会随入住增加；同一地段不断有新盘入市，也意味着你买的房子将来转售时会面对更新的竞争房源。项目状态变化快，出价前请在市政府的 Current Project List 和 Pending Housing Projects 页面查最新一版。"
+  ],
+  "items": [
+   {
+    "name": "Bishop Ranch 住宅化（CityWalk Master Plan 范围）",
+    "status": "截至2026年1月市政府清单：首批出售型住宅已发建筑许可并在售，两个公寓项目已获批，另有新申请提交",
+    "text": "在 Bollinger Canyon Rd、Camino Ramon、Executive Pkwy 一带把办公地块逐步改为联排、独立屋和公寓。附近住户会得到更多步行可达的配套，也要面对多年的施工和增加的车流。",
+    "url": "https://www.sanramon.ca.gov/business/current_project_list"
+   },
+   {
+    "name": "The Orchards（原 Chevron Park）",
+    "status": "截至2026年10月：整体开发方案在审；100 户可负担公寓申请已于2026年2月认定资料齐备，环境审查未完成",
+    "text": "位于 6001 Bollinger Canyon Rd 的 92 英亩原 Chevron 园区，Sunset Development 于 2022 年购入，计划改为以住宅为主的混合用途社区。最终户数和开工时间尚未确定，住在 Bollinger Canyon Rd 沿线的人要持续关注。",
+    "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/bishop_ranch_chevron_park/"
+   },
+   {
+    "name": "Iron Horse Trail 跨线桥",
+    "status": "Bollinger Canyon Rd 跨线桥已于2025年7月19日开放；Crow Canyon Rd 跨线桥按市政府页面为 2025–2027 年设计、2028–2030 年施工（取决于资金）",
+    "text": "让步行和骑车的人不必在两条最繁忙的东西向干道上等红灯。对想骑车去 Bishop Ranch、City Center 或继续向南去 Dublin/Pleasanton BART 的住户有直接影响。",
+    "url": "https://sanramon.ca.gov/iht-overcrossings"
+   },
+   {
+    "name": "The Marketplace 改建",
+    "status": "2023年3月14日市议会批准；现场进度需到场确认",
+    "text": "130 Market Pl 的购物中心获批拆除超市等约五万多平方英尺的商业建筑，改建 40 户独立式住宅并保留 Starbucks。附近住户的日常买菜去处会因此改变。",
+    "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/marketplace/"
+   },
+   {
+    "name": "General Plan 2040 与 Housing Element",
+    "status": "General Plan 2040 于2023年12月12日通过；Housing Element 于2023年2月27日获州认定",
+    "text": "确定了未来住宅增长主要放在 Bishop Ranch 和 Crow Canyon 一带的商业与办公地块，同时废止了 North Camino Ramon Specific Plan 并修订了 San Ramon Village Specific Plan。想了解某个地块将来的用途，可从这里查起。",
+    "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/general_plan_and_housing_element_update/"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "这条路线从城西走到城东，再向南到 BART，大约需要半天。建议选一个工作日，早上七点半前后出发，这样能同时看到上学和通勤时段的路况；如果只能周末来，请另找一个工作日早上单独试一次通勤路线。",
+  "stops": [
+   {
+    "name": "第1站：Crow Canyon Rd 与 I-680 匝道",
+    "text": "早高峰先在这里看南北两个方向的匝道排队，顺路经过 Crow Canyon Commons，记录往北通勤的人每天要面对的路口。"
+   },
+   {
+    "name": "第2站：City Center Bishop Ranch 与 Iron Horse Trail",
+    "text": "把车停在 City Center，步行上 Bollinger Canyon Rd 的步道跨线桥，看周边在建和围挡的地块，感受从新建住宅走到商场和 San Ramon Transit Center 的实际距离。"
+   },
+   {
+    "name": "第3站：Central Park 与 San Ramon Library",
+    "text": "在 12501 Alcosta Blvd 的社区中心拿一份当季活动手册，看公园和图书馆的使用情况；顺便到 Market Place 看 The Marketplace 的现状。"
+   },
+   {
+    "name": "第4站：南 San Ramon 的 Broadmoor Dr 一带",
+    "text": "经过 San Ramon Olympic Pool 和 California High School，在附近的住宅街道上停车走一段，对比房龄、地块宽度和 I-680 的声音。"
+   },
+   {
+    "name": "第5站：沿 Bollinger Canyon Rd 向东穿过 Canyon Lakes",
+    "text": "不下车也可以，重点是体会从城西到城东的这段路：信号灯数量、坡度和各社区出口的位置。挑一个联排社区进去看访客车位。"
+   },
+   {
+    "name": "第6站：Dougherty Station 与 Dougherty Valley Aquatic Center",
+    "text": "在 17011 Bollinger Canyon Rd 停车，看社区中心和图书馆，再到 Albion Rd 的泳池和附近的公园，观察 Gale Ranch 与 Windemere 两侧的街道和房型差别。"
+   },
+   {
+    "name": "第7站：Dougherty Rd 到 Dublin/Pleasanton BART",
+    "text": "从 Dougherty Valley 实际开到 BART 停车场，记录全程和找车位的情况；这是住在城东去 San Francisco 的每日路线。"
+   }
+  ],
+  "questions": [
+   "这个门牌在 Schoolsite Locator 上对应的小学、初中、高中分别是哪所？孩子所在年级今年是否有名额，还是可能被安排到其他学校？",
+   "最近一年的税单上除基础税以外有哪些项目，各自什么时候到期？",
+   "HOA 有几层，各自管什么、月费多少、储备金是否充足、近期有没有特别摊派？",
+   "这个地址是否在地震断层带、滑坡区、山火危险分区或 GHAD 范围内？披露报告怎么写？",
+   "相邻的空地、停车场或办公楼有没有已提交或已批准的开发申请？",
+   "从家门到 BART 站台、到办公室门口，在我实际出门的时刻各要怎么走？",
+   "供水机构是哪一家，夏季的水电账单大概是什么水平？屋顶太阳能的权属如何？"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Dublin",
+   "slug": "dublin",
+   "text": "Dublin 城内有两个 BART 站，坐 BART 的人少一段接驳；学校属于 Dublin Unified，与 SRVUSD 是两个学区。两城东侧都有大量较新的联排和公寓，比较时把学区、到车站的最后一段路、税单附加项目和 HOA 放在一起看。"
+  },
+  {
+   "city": "Pleasanton",
+   "slug": "pleasanton",
+   "text": "Pleasanton 有可步行的老城主街和 ACE 火车站，BART 站在与 Dublin 的交界处，往南湾少走一段 I-680。San Ramon 的新规划社区和 Bishop Ranch 配套更集中。两城分属不同的县和学区，税单构成不同。"
+  },
+  {
+   "city": "Danville",
+   "slug": "",
+   "text": "Danville 与 San Ramon 同属 SRVUSD，向北通勤更近，住房以独立屋为主。San Ramon 的联排、公寓和新房选择更多，离 Dublin 方向的 BART 更近。同一学区不等于同一所学校，两地都要按门牌查。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "Dublin/Pleasanton",
+    "system": "BART",
+    "address": "5801 Owens Dr, Pleasanton, CA 94588"
+   },
+   {
+    "name": "West Dublin/Pleasanton",
+    "system": "BART",
+    "address": "6501 Golden Gate Dr, Dublin, CA 94568"
+   }
+  ],
+  "pois": [
+   {
+    "name": "City Center Bishop Ranch",
+    "category": "shopping",
+    "address": "6000 Bollinger Canyon Rd, San Ramon, CA 94583",
+    "district": "City Center / Bishop Ranch 核心"
+   },
+   {
+    "name": "San Ramon City Hall",
+    "category": "community",
+    "address": "7000 Bollinger Canyon Rd, San Ramon, CA 94583",
+    "district": "City Center / Bishop Ranch 核心"
+   },
+   {
+    "name": "San Ramon Library",
+    "category": "library",
+    "address": "100 Montgomery St, San Ramon, CA 94583",
+    "district": "City Center / Bishop Ranch 核心"
+   },
+   {
+    "name": "San Ramon Community Center",
+    "category": "community",
+    "address": "12501 Alcosta Blvd, San Ramon, CA 94583",
+    "district": "City Center / Bishop Ranch 核心"
+   },
+   {
+    "name": "Central Park",
+    "category": "park",
+    "address": "12501 Alcosta Blvd, San Ramon, CA 94583",
+    "district": "City Center / Bishop Ranch 核心"
+   },
+   {
+    "name": "San Ramon Transit Center",
+    "category": "community",
+    "address": "7051 Executive Pkwy, San Ramon, CA 94583",
+    "district": "City Center / Bishop Ranch 核心"
+   },
+   {
+    "name": "Alcosta Senior & Community Center",
+    "category": "community",
+    "address": "9300 Alcosta Blvd, San Ramon, CA 94583",
+    "district": "南 San Ramon 与 I-680 西侧老社区"
+   },
+   {
+    "name": "San Ramon Olympic Pool & Aquatic Park",
+    "category": "park",
+    "address": "9900 Broadmoor Dr, San Ramon, CA 94583",
+    "district": "南 San Ramon 与 I-680 西侧老社区"
+   },
+   {
+    "name": "Forest Home Farms Historic Park",
+    "category": "park",
+    "address": "19953 San Ramon Valley Blvd, San Ramon, CA 94583",
+    "district": "南 San Ramon 与 I-680 西侧老社区"
+   },
+   {
+    "name": "Memorial Park",
+    "category": "park",
+    "address": "Bollinger Canyon Rd & San Ramon Valley Blvd, San Ramon, CA 94583",
+    "district": "南 San Ramon 与 I-680 西侧老社区"
+   },
+   {
+    "name": "Bishop Ranch Regional Open Space Preserve",
+    "category": "trailhead",
+    "address": "Morgan Dr, San Ramon, CA 94583",
+    "district": "南 San Ramon 与 I-680 西侧老社区"
+   },
+   {
+    "name": "Crow Canyon Commons",
+    "category": "shopping",
+    "address": "3181 Crow Canyon Pl, San Ramon, CA 94583",
+    "district": "Crow Canyon / 北 San Ramon 与西侧山麓"
+   },
+   {
+    "name": "San Ramon Regional Medical Center",
+    "category": "hospital",
+    "address": "6001 Norris Canyon Rd, San Ramon, CA 94583",
+    "district": "Crow Canyon / 北 San Ramon 与西侧山麓"
+   },
+   {
+    "name": "Las Trampas Wilderness Regional Preserve",
+    "category": "trailhead",
+    "address": "18012 Bollinger Canyon Rd, San Ramon, CA 94583",
+    "district": "Crow Canyon / 北 San Ramon 与西侧山麓"
+   },
+   {
+    "name": "The Marketplace",
+    "category": "shopping",
+    "address": "130 Market Pl, San Ramon, CA 94583",
+    "district": "Canyon Lakes / Bollinger Canyon 中段"
+   },
+   {
+    "name": "Dougherty Station Community Center",
+    "category": "community",
+    "address": "17011 Bollinger Canyon Rd, San Ramon, CA 94582",
+    "district": "Dougherty Valley（Gale Ranch 与 Windemere）"
+   },
+   {
+    "name": "Dougherty Station Library",
+    "category": "library",
+    "address": "17017 Bollinger Canyon Rd, San Ramon, CA 94582",
+    "district": "Dougherty Valley（Gale Ranch 与 Windemere）"
+   },
+   {
+    "name": "Dougherty Valley Aquatic Center",
+    "category": "park",
+    "address": "10550 Albion Rd, San Ramon, CA 94582",
+    "district": "Dougherty Valley（Gale Ranch 与 Windemere）"
+   },
+   {
+    "name": "Bark and Ride",
+    "category": "park",
+    "address": "1120 South Wedgewood Rd, San Ramon, CA 94582",
+    "district": "Dougherty Valley（Gale Ranch 与 Windemere）"
+   },
+   {
+    "name": "San Ramon Valley Unified School District Office",
+    "category": "school_admin",
+    "address": "699 Old Orchard Dr, Danville, CA 94526",
+    "district": ""
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "City Center / Bishop Ranch 核心",
+    "anchor": "City Center Bishop Ranch, 6000 Bollinger Canyon Rd, San Ramon, CA"
+   },
+   {
+    "district": "南 San Ramon 与 I-680 西侧老社区",
+    "anchor": "Alcosta Senior & Community Center, 9300 Alcosta Blvd, San Ramon, CA"
+   },
+   {
+    "district": "Crow Canyon / 北 San Ramon 与西侧山麓",
+    "anchor": "Crow Canyon Commons, 3181 Crow Canyon Pl, San Ramon, CA"
+   },
+   {
+    "district": "Canyon Lakes / Bollinger Canyon 中段",
+    "anchor": "Bollinger Canyon Rd & Canyon Lakes Dr, San Ramon, CA"
+   },
+   {
+    "district": "Dougherty Valley（Gale Ranch 与 Windemere）",
+    "anchor": "Dougherty Station Community Center, 17011 Bollinger Canyon Rd, San Ramon, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "SRVUSD Schoolsite Locator（按地址查学校）",
+    "kind": "school_boundary",
+    "url": "https://www.schoolsitelocator.com/apps/sanramon/",
+    "note": "SRVUSD 官网链接的实时查询工具；结果仍需向学校确认名额"
+   },
+   {
+    "label": "SRVUSD 全学区地图（PDF）",
+    "kind": "school_boundary",
+    "url": "https://www.srvusd.net/documents/Departments/Facilities/Find-Your-School/SRVUSD-District-Map-PDF.pdf",
+    "note": "SRVUSD 提供的静态图，图件日期未标明，仅用于了解学区范围"
+   },
+   {
+    "label": "SRVUSD 小学招生范围图（PDF）",
+    "kind": "school_boundary",
+    "url": "https://www.srvusd.net/documents/Departments/Facilities/Find-Your-School/Elementary-School-boundary-map-PDF.pdf",
+    "note": "SRVUSD 静态图；以 Schoolsite Locator 为准"
+   },
+   {
+    "label": "SRVUSD 初中招生范围图（PDF）",
+    "kind": "school_boundary",
+    "url": "https://www.srvusd.net/documents/Departments/Facilities/Find-Your-School/Middle-School-boundary-map-PDF.pdf",
+    "note": "SRVUSD 静态图；以 Schoolsite Locator 为准"
+   },
+   {
+    "label": "SRVUSD 高中招生范围图（PDF）",
+    "kind": "school_boundary",
+    "url": "https://www.srvusd.net/documents/Departments/Facilities/Find-Your-School/High-School-boundary-map-PDF.pdf",
+    "note": "SRVUSD 静态图，底图版权标注 2010 年，不代表当前边界"
+   },
+   {
+    "label": "San Ramon 步道与开放空间互动地图",
+    "kind": "parks",
+    "url": "https://sanramon.maps.arcgis.com/apps/webappviewer/index.html?id=ee09bbc201454cf2aca73982e402fd0c",
+    "note": "City of San Ramon Parks & Community Services"
+   },
+   {
+    "label": "San Ramon 分区条例与分区图",
+    "kind": "zoning",
+    "url": "https://www.sanramon.ca.gov/business/zoning_ordinance_map",
+    "note": "City of San Ramon Community Development"
+   },
+   {
+    "label": "County Connection 线路图与时刻",
+    "kind": "transit",
+    "url": "https://countyconnection.com/routes/",
+    "note": "Central Contra Costa Transit Authority；2026年8月9日有一次服务调整"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "SRVUSD Find Your School：查询工具、静态图与名额提示",
+   "url": "https://www.srvusd.net/Departments/Facilities/Find-Your-School/index.html",
+   "org": "San Ramon Valley Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD Schoolsite Locator",
+   "url": "https://www.schoolsitelocator.com/apps/sanramon/",
+   "org": "SRVUSD / Schoolsite Locator",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "SRVUSD 高中边界静态图",
+   "url": "https://www.srvusd.net/documents/Departments/Facilities/Find-Your-School/High-School-boundary-map-PDF.pdf",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "SRVUSD 学校名录",
+   "url": "https://www.srvusd.net/our-schools",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 入学说明",
+   "url": "https://www.srvusd.net/Departments/Educational-Services/Enrollment-Info/Enrollment/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD TK/Kindergarten 说明",
+   "url": "https://www.srvusd.net/Departments/Educational-Services/Enrollment-Info/TK-Kindergarten-Information/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 学区内转学规则与 diversion",
+   "url": "https://www.srvusd.net/Departments/Educational-Services/Enrollment-Info/School-Transfers/Intra-District-Transfer-Practices-and-Priorities/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 课前课后托管",
+   "url": "https://www.srvusd.net/Departments/Educational-Services/Enrollment-Info/Child-Care/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD Language School Program",
+   "url": "https://www.srvusd.net/Students-and-Families/Resources/Personalized-Learning/Language-Schools/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 校董选区（Redistricting）",
+   "url": "https://www.srvusd.net/About-Us/Board-of-Education/Redistricting/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 地块税 Measure Q",
+   "url": "https://www.srvusd.net/Departments/Business-Services/Business-Services/Parcel-Tax-Information/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 拟议债券延续案",
+   "url": "https://www.srvusd.net/Departments/Facilities/Future-Bond-Measure/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 预算与财务页面",
+   "url": "https://www.srvusd.net/Departments/Business-Services/Business-Services/BudgetFiscal-Services/index.html",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SRVUSD 官网首页导航",
+   "url": "https://www.srvusd.net/",
+   "org": "SRVUSD",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Ramon 市政府首页导航",
+   "url": "https://www.sanramon.ca.gov/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "TRAFFIX 校车项目",
+   "url": "https://sanramon.ca.gov/our_city/departments_and_divisions/public_works/transportation/commute_options/traffix",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Commute Options 汇总页",
+   "url": "https://sanramon.ca.gov/our_city/departments_and_divisions/public_works/transportation/commute_options/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市政府公共交通说明",
+   "url": "https://sanramon.ca.gov/our_city/departments_and_divisions/public_works/transportation/commute_options/public_transit/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市政府拼车停车场",
+   "url": "https://sanramon.ca.gov/our_city/departments_and_divisions/public_works/transportation/commute_options/park_ride_lots/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Iron Horse Trail 跨线桥（Bollinger Canyon Rd）",
+   "url": "https://sanramon.ca.gov/iht-overcrossings",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Iron Horse Trail 跨线桥（Crow Canyon Rd）",
+   "url": "https://sanramon.ca.gov/IHT-Crow-Canyon",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市政府设施名录",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市政府公园名录",
+   "url": "https://www.sanramon.ca.gov/cms/One.aspx?portalId=10826130&pageId=11692961",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "图书馆地址",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities/libraries/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Ramon Community Center at Central Park",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities/san_ramon_community_center_at_central_park/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alcosta Senior & Community Center",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities/alcosta_senior_community_center/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dougherty Station Community Center",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities/dougherty_station_community_center/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Ramon Olympic Pool & Aquatic Park",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities/san_ramon_olympic_pool_aquatic_park/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dougherty Valley Aquatic Center",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities/dougherty_valley_aquatic_center/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Forest Home Farms Historic Park",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/facilities/forest_home_farms_historic_park/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "泳池开放与泳卡说明",
+   "url": "https://www.sanramon.ca.gov/visitors/aquatic_centers",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "狗公园名录",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/parks_facilities/dog_parks/unleashed_dog_parks/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "步道与开放空间（放牧提示）",
+   "url": "https://www.sanramon.ca.gov/visitors/trails",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "步道名录与地图入口",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/parks_community_services/trails_open_space/trail_map_information/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "City Center 介绍",
+   "url": "https://www.sanramon.ca.gov/residents/city_center",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Current Project List 页面",
+   "url": "https://www.sanramon.ca.gov/business/current_project_list",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Current Project List（2026年1月28日版 PDF）",
+   "url": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/File/Our%20City/Departments/Community%20Development/Planning/Current%20Project%20List/Current%20Project%20List%20as%20of%201.28.26.pdf",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "The Orchards（原 Chevron Park）",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/bishop_ranch_chevron_park/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CityWalk Master Plan EIR",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/city_walk_master_plan_e_i_r/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "General Plan 2040 与 Housing Element",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/general_plan_and_housing_element_update/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Specific Plans 名录",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/specific_plans/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "The Marketplace 改建项目",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/marketplace/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Pending Housing Projects",
+   "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/pending_housing_projects/",
+   "org": "City of San Ramon",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "County Connection 线路总表",
+   "url": "https://countyconnection.com/routes/",
+   "org": "County Connection",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "County Connection 35 路",
+   "url": "https://countyconnection.com/routes/35/",
+   "org": "County Connection",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "County Connection 2026年8月9日服务调整",
+   "url": "https://countyconnection.com/service-changes-effective-august-9-2026/",
+   "org": "County Connection",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART Dublin/Pleasanton 站",
+   "url": "https://www.bart.gov/stations/dubl",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART West Dublin/Pleasanton 站",
+   "url": "https://www.bart.gov/stations/wdub",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Iron Horse Regional Trail",
+   "url": "https://www.ebparks.org/trails/interpark/iron-horse",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Las Trampas Wilderness Regional Preserve",
+   "url": "https://www.ebparks.org/parks/las-trampas",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Bishop Ranch Regional Open Space Preserve",
+   "url": "https://www.ebparks.org/parks/bishop-ranch",
+   "org": "East Bay Regional Park District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Ramon Regional Medical Center 官网",
+   "url": "https://www.sanramonmedctr.com/",
+   "org": "San Ramon Regional Medical Center",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "John Muir Health：San Ramon Regional Medical Center",
+   "url": "https://www.johnmuirhealth.com/locations/san-ramon-regional-medical-center.html",
+   "org": "John Muir Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "City Center Bishop Ranch 商户目录",
+   "url": "https://www.citycenterbishopranch.com/directory/",
+   "org": "Sunset Development / City Center Bishop Ranch",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Bishop Ranch 住宅项目页",
+   "url": "https://www.bishopranch.com/residences/",
+   "org": "Sunset Development / Bishop Ranch",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "General Plan 2040 通过与 Bishop Ranch 分区调整的报道",
+   "url": "https://whatnow.com/?p=154888",
+   "org": "What Now San Francisco",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CityWalk Bishop Ranch 项目报道汇总",
+   "url": "https://sfyimby.com/category/citywalk-bishop-ranch",
+   "org": "SF YIMBY",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CGS EQ Zapp",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CAL FIRE 山火危险分区",
+   "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+   "org": "CAL FIRE / OSFM",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "FEMA Flood Map Service Center",
+   "url": "https://msc.fema.gov/portal/home",
+   "org": "FEMA",
+   "accessed": "2026-10-08",
+   "opened": false
+  }
+ ]
+}

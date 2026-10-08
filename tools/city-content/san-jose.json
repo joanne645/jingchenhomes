@@ -1,0 +1,1422 @@
+{
+ "slug": "san-jose",
+ "name": "San Jose",
+ "county": "Santa Clara County",
+ "meta_title": "San Jose 城市生活指南｜片区、学校、通勤与住房",
+ "meta_description": "San Jose 面积大、片区差别明显。本页先给出16个常用生活片区的索引，再讲全市的通勤骨架、十余个学区如何按地址核对、图书馆与公园、医院、环境图层、持有成本和在建项目，帮你先选片区，再去看具体房源。",
+ "hero": {
+  "tagline": "先选片区再看房 · 跨十余个学区 · VTA 轻轨与 BART · 山麓到湾岸",
+  "intro": "San Jose 是 Santa Clara County 面积居首的城市，从北端湾岸的 Alviso 延伸到南面的 Coyote Valley，东西两侧都是山麓。Willow Glen、Almaden Valley、Berryessa、Evergreen、West San Jose 之间的房型、学区和通勤方向差别很大，全市平均数帮不上忙，买房要先按办公地点和日常安排选定片区。"
+ },
+ "card": "南湾面积居首的城市，片区之间差别大：先按办公地点、学区归属和房型选定生活片区，再比较具体街道。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Santa Clara County"
+  },
+  {
+   "label": "轨道交通",
+   "value": "VTA 轻轨 Blue／Green／Orange 三线、BART Berryessa/North San José 站、Caltrain、ACE、Capitol Corridor（Diridon 站）"
+  },
+  {
+   "label": "主要学区",
+   "value": "San José Unified、East Side Union HSD 及其小学学区、Campbell Union HSD 及其小学学区，另有 Cupertino Union／Fremont Union HSD、Santa Clara Unified 等覆盖部分地址"
+  },
+  {
+   "label": "主要干道",
+   "value": "US-101、I-280、I-680、I-880、SR-87、SR-85、SR-237、SR-17，以及 Almaden、Capitol、San Tomas、Lawrence、Montague 等 Expressway"
+  }
+ ],
+ "position": {
+  "paragraphs": [
+   "San Jose 位于旧金山湾南端的 Santa Clara Valley。北面在 Alviso 一带接到湾岸湿地，西面与 Santa Clara、Cupertino、Saratoga、Campbell、Los Gatos 相接，东北是 Milpitas，南面经 Coyote Valley 通往 Morgan Hill；东侧是 Diablo Range 山麓，西南是 Santa Cruz Mountains 山麓。城市形状不规则，同样写着 San Jose 的两个地址，可能分别靠近 Cupertino 的 De Anza Blvd 和 Milpitas 的 Great Mall，生活半径几乎不重叠。",
+   "路网可以这样记：US-101 和 I-880 是通往半岛与东湾的两条南北主线；I-280 从 Downtown 向西北去 Cupertino、Los Altos 方向，I-680 从东侧去 Milpitas、Fremont 和 Tri-Valley；SR-87 把 Almaden、Downtown 和机场、North San Jose 串起来；SR-85 在南部画一条弧线连到 Cupertino、Mountain View；SR-237 在北端东西向连接 Milpitas 与 Sunnyvale；SR-17 向南翻山去 Santa Cruz。Almaden、Capitol、San Tomas、Lawrence、Montague 几条 Expressway 是县管的快速干道，很多片区每天出门先走的是它们。",
+   "轨道方面，San Jose Diridon 是 Caltrain、ACE、Capitol Corridor 和 VTA 轻轨交会的车站；BART 目前开到东北部的 Berryessa/North San José 站。日常采购和就医通常在片区内或相邻城市解决：West San Jose 的住户常去 Cupertino、Santa Clara，Berryessa 和 North San Jose 的住户常去 Milpitas，Cambrian 和 Almaden 的住户常去 Campbell、Los Gatos。"
+  ],
+  "neighbors": [
+   "Santa Clara",
+   "Cupertino",
+   "Saratoga",
+   "Campbell",
+   "Los Gatos",
+   "Milpitas",
+   "Fremont",
+   "Morgan Hill"
+  ],
+  "note": "邮寄地址写 San Jose 不等于在 San Jose 市界内：县属未并入地块（unincorporated）也常用 San Jose 作邮寄城市名，市政服务和规划由县政府负责；反过来，市界内的地址也可能划入名称里带 Cupertino、Campbell、Santa Clara 的学区。Alviso 属于 San Jose 市，但沿用自己的地名。"
+ },
+ "districts_intro": "San Jose 太大，全市平均值没有参考意义，先选生活片区。市政府的划分工具是10个 Council District、规划文件里的 planning area 和各 neighborhood association；Willow Glen、Cambrian 这类名称是惯称，没有法定边界。下面索引列出16个常用片区，其中6个代表性片区另有详细介绍。",
+ "districts": [],
+ "district_index": [
+  {
+   "name": "Downtown",
+   "area": "市中心",
+   "one_line": "SR-87 与 Coyote Creek 之间，高层公寓与老街区并存，Diridon 站和图书馆总馆在此",
+   "detailed": false
+  },
+  {
+   "name": "Japantown / Northside",
+   "area": "市中心以北",
+   "one_line": "Downtown 北侧老街区，独立屋与新公寓混合，靠近 North First St 轻轨",
+   "detailed": false
+  },
+  {
+   "name": "Rose Garden / Shasta-Hanchett",
+   "area": "中部偏西",
+   "one_line": "Downtown 西侧的早期住宅区，老独立屋为主，围绕 Municipal Rose Garden",
+   "detailed": false
+  },
+  {
+   "name": "Willow Glen",
+   "area": "中部偏西南",
+   "one_line": "Downtown 西南的成熟住宅区，Lincoln Ave 是日常中心，各年代独立屋并存",
+   "detailed": true
+  },
+  {
+   "name": "West San Jose",
+   "area": "西部",
+   "one_line": "紧邻 Cupertino、Santa Clara、Saratoga，中世纪平房为主，学区随地址变化",
+   "detailed": true
+  },
+  {
+   "name": "Cambrian",
+   "area": "西南部",
+   "one_line": "SR-85 与 SR-17 之间，靠近 Campbell 和 Los Gatos，单层 ranch 独立屋多",
+   "detailed": true
+  },
+  {
+   "name": "Almaden Valley",
+   "area": "南部山谷",
+   "one_line": "Almaden Expy 向南的山谷，独立屋与较大地块为主，背靠山麓公园，出行靠开车",
+   "detailed": true
+  },
+  {
+   "name": "Blossom Valley",
+   "area": "南部",
+   "one_line": "Blossom Hill Rd 沿线的南部住宅区，战后独立屋和联排较多，邻近 Oakridge 商圈",
+   "detailed": false
+  },
+  {
+   "name": "Santa Teresa",
+   "area": "最南端",
+   "one_line": "轻轨 Blue Line 南端一带，背靠 Santa Teresa County Park，靠近 SR-85 与 US-101",
+   "detailed": false
+  },
+  {
+   "name": "Edenvale",
+   "area": "南部偏东",
+   "one_line": "Monterey Rd 与 US-101 之间，住宅与产业园相邻，Caltrain 南线从这里经过",
+   "detailed": false
+  },
+  {
+   "name": "Evergreen",
+   "area": "东南部",
+   "one_line": "US-101 以东的东南片区，八十年代以后的独立屋社区较多，离轨道较远",
+   "detailed": true
+  },
+  {
+   "name": "Silver Creek",
+   "area": "东南山麓",
+   "one_line": "Evergreen 南侧山麓，较新的独立屋与 HOA 规划社区为主，坡地事项要按地址看",
+   "detailed": false
+  },
+  {
+   "name": "Berryessa",
+   "area": "东北部",
+   "one_line": "I-680 两侧的东北片区，六七十年代独立屋与新公寓并存，西缘有 BART 站",
+   "detailed": true
+  },
+  {
+   "name": "North San Jose",
+   "area": "北部",
+   "one_line": "US-101 以北的办公区，轻轨沿 North First St，住房以较新的公寓和联排为主",
+   "detailed": false
+  },
+  {
+   "name": "Alum Rock / East Foothills",
+   "area": "东部",
+   "one_line": "I-680 以东到山麓，平地老街区与坡上独立屋差别大，有 Alum Rock Park",
+   "detailed": false
+  },
+  {
+   "name": "Alviso",
+   "area": "最北端湾岸",
+   "one_line": "SR-237 以北、紧邻湾岸湿地的小社区，地势低，买房前先看洪水图层",
+   "detailed": false
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车是多数片区的主要方式，所以选片区时要先看自己每天上哪条高速、从哪个匝道上。去 North San Jose、Santa Clara、Sunnyvale 的办公区，南部片区多走 SR-87 或 SR-85 接 US-101／SR-237，东部片区走 I-680、Capitol Expy 或 Montague Expy；去 Cupertino、Mountain View 走 I-280 或 SR-85；去半岛走 US-101 或 I-280；去 Fremont、Tri-Valley 走 I-880 或 I-680。几条高速的交汇处（101／280／680、87／280、85／87、101／880）在高峰时段的排队情况差别很大，值得用自己的出发时刻单独查。",
+   "VTA 轻轨有三条线：Blue Line 从 Santa Teresa 经 Downtown、North First St 到 Baypointe；Green Line 从 Campbell 的 Winchester 经 Diridon、Downtown 到 Santa Clara 的 Old Ironsides；Orange Line 从 Alum Rock 经 Milpitas 到 Mountain View。轻轨覆盖的是一条走廊，离站台步行可达的住宅有限，多数人需要开车、骑车或坐公交到站。VTA 还有几条 Rapid 公交，其中 Rapid 500 往返 Diridon 与 Berryessa BART，Rapid 522 沿 El Camino／Santa Clara St／Alum Rock 走廊连接 Palo Alto 与 Eastridge。",
+   "BART 在本市目前只有 Berryessa/North San José 一站（1620 Berryessa Rd，2020年随 Milpitas 站一同开通），可直达 Fremont、Oakland、旧金山市区和 Richmond 方向；站内停车场由 VTA 经营，收费，先到先停。Caltrain 的主要车站是 San Jose Diridon 和 Tamien；College Park 只有极少数班次停靠；Capitol、Blossom Hill 两站只由往返 Gilroy 的 South County Connector 列车服务，工作日早上往北、傍晚往南，班次很少。ACE 从 Diridon 往 Tri-Valley、Stockton 方向，Capitol Corridor 从 Diridon 往 Oakland、Sacramento、Auburn 方向。San José Mineta International Airport（SJC）紧挨 Downtown 北侧，从多数片区走 SR-87 或 I-880 可到。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 Almaden Valley 到 North San Jose 办公区",
+    "text": "开车的基本结构是 Almaden Expy 向北接 SR-87，一路过 Downtown 和机场，再转 US-101、North First St 或 SR-237 到园区。要核实的是 Almaden Expy 上 SR-85 前后的几个路口，以及 SR-87 接近 I-280 一段的早高峰状况。想用轻轨的话，Blue Line 的 Ohlone/Chynoweth 站在 SR-85／SR-87 交汇处附近，沿 North First St 可到 Tasman、Baypointe，要自己确认家到车站的停车和园区下车后的最后一段。"
+   },
+   {
+    "title": "从 Berryessa 到旧金山市区",
+    "text": "从 Berryessa/North San José 站上车，有往 Daly City 方向的直达列车，经 Fremont、Oakland 过海湾到旧金山市区各站，中途不必换乘。需要核实的是从家到车站的方式（步行、骑车、VTA 公交或开车停在 VTA 收费停车场）、目标车次的首末班与间隔，以及出站后到办公室的步行距离。"
+   },
+   {
+    "title": "从 West San Jose 到 Cupertino 的 Apple 园区",
+    "text": "两地相邻，常走地面道路：Stevens Creek Blvd、Bollinger Rd、Lawrence Expy 或 De Anza Blvd，也可以上一小段 I-280。影响体验的主要是 I-280 匝道附近和 Lawrence Expy、Wolfe Rd 几个大路口的排队，以及园区具体入口在哪条路上。骑车可行与否，要沿实际路线看自行车道是否连续。"
+   },
+   {
+    "title": "从 Evergreen 到 Milpitas 或 Fremont",
+    "text": "开车一般从 Capitol Expy、Tully Rd 或 Aborn Rd 出来，上 US-101 北行转 I-680，或直接走 I-680 北上；到 Fremont 南部还可以比较 I-880。Evergreen 片区内没有轨道站，想用公共交通需要先到 Alum Rock 的 Orange Line 或 Berryessa BART，接驳这一段要实际走一遍再决定。"
+   }
+  ],
+  "verify": [
+   "在地图应用里输入候选房源地址和办公室的具体入口地址，把出发时间设为你平时出门的工作日时刻，分别看周二到周四早晚两个方向；同一条路线换两三个出发时刻再看一遍。",
+   "打算坐 BART、Caltrain 或轻轨的话，先在官方时刻表里找到你要坐的那一班，再倒推从家门到站台需要怎么走、车停在哪里、停车是否收费或需要月票。",
+   "Capitol、Blossom Hill、College Park 这类班次很少的车站，不要按“家附近有 Caltrain 站”来算，要以当前时刻表上实际停靠的车次为准。",
+   "有接送孩子的家庭，把“家—学校—办公室”连成一条路线来查，学校上学时段周边的拥堵往往比高速更影响每天的安排。"
+  ],
+  "links": [
+   {
+    "label": "VTA 线路与时刻（轻轨、Rapid、普通公交）",
+    "url": "https://www.vta.org/go/routes"
+   },
+   {
+    "label": "VTA 车站与停车换乘",
+    "url": "https://www.vta.org/go/stations"
+   },
+   {
+    "label": "BART Berryessa/North San José 站",
+    "url": "https://www.bart.gov/stations/bery"
+   },
+   {
+    "label": "Caltrain 车站与时刻",
+    "url": "https://www.caltrain.com/stations-zones"
+   },
+   {
+    "label": "ACE 车站",
+    "url": "https://acerail.com/stations/"
+   },
+   {
+    "label": "Capitol Corridor 车站",
+    "url": "https://www.capitolcorridor.org/stations/"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "San Jose 没有一个全市共用的商业中心，日常采购基本在各自片区解决，所以看房时要问的是“这个地址平时去哪里买菜、办事”。全市层面常被提到的几个节点是：西侧 Stevens Creek Blvd 上相邻的 Santana Row 与 Westfield Valley Fair，Downtown 的 San Pedro Square 餐饮街区，Downtown 北面的 Japantown，West San Jose 的 Westgate，南部的 Oakridge，东部的 Eastridge，以及 Curtner Ave 与 Monterey Rd 一带的 The Plant。具体门店会调整，去之前请查当前营业情况。",
+   "公共设施方面，San José Public Library 的馆舍表列出25处馆舍，总馆是 Downtown 的 Dr. Martin Luther King, Jr. Library（150 E San Fernando St），其余分布在各片区，例如 Willow Glen、Almaden、Cambrian、Berryessa、Evergreen、West Valley、Rose Garden、Joyce Ellington、Vineland、Edenvale、Santa Teresa、Dr. Roberto Cruz Alum Rock 和 Alviso 等分馆。分馆通常与公园或社区中心相邻，是判断一个片区日常生活节点在哪里的好线索。看区时可以从候选房源出发，实际走一次或开一次到最近的分馆和超市，记录过街、停车和返程是否顺手。"
+  ],
+  "places": [
+   {
+    "name": "Santana Row",
+    "kind": "商业街区",
+    "where": "Stevens Creek Blvd 与 Winchester Blvd 一带，West San Jose 东缘",
+    "note": "露天商业街，含餐饮与零售；周末停车紧张"
+   },
+   {
+    "name": "Westfield Valley Fair",
+    "kind": "商业中心",
+    "where": "Stevens Creek Blvd，跨 San Jose 与 Santa Clara 市界",
+    "note": "室内购物中心，与 Santana Row 隔街相对"
+   },
+   {
+    "name": "San Pedro Square",
+    "kind": "餐饮街区",
+    "where": "Downtown，N San Pedro St 一带",
+    "note": "步行可达 Downtown 轻轨各站"
+   },
+   {
+    "name": "Japantown",
+    "kind": "社区商业街",
+    "where": "Downtown 以北，Jackson St 一带",
+    "note": "小型餐饮与店铺集中的老街区"
+   },
+   {
+    "name": "Westgate",
+    "kind": "商业中心",
+    "where": "West San Jose，Saratoga Ave 与 Campbell Ave 一带",
+    "note": ""
+   },
+   {
+    "name": "Oakridge",
+    "kind": "商业中心",
+    "where": "Blossom Hill Rd 与 Santa Teresa Blvd 一带",
+    "note": "南部片区的主要购物中心"
+   },
+   {
+    "name": "Eastridge",
+    "kind": "商业中心",
+    "where": "Tully Rd 与 Capitol Expy 一带",
+    "note": "VTA Rapid 522 的东端终点"
+   },
+   {
+    "name": "The Plant",
+    "kind": "商业中心",
+    "where": "Curtner Ave 与 Monterey Rd 一带",
+    "note": "大型零售店集中的露天购物中心"
+   },
+   {
+    "name": "Dr. Martin Luther King, Jr. Library",
+    "kind": "图书馆（总馆）",
+    "where": "Downtown，150 E San Fernando St",
+    "note": "San José Public Library 总馆"
+   },
+   {
+    "name": "San José Public Library 各分馆",
+    "kind": "图书馆",
+    "where": "各片区，官方馆舍表共列25处",
+    "note": "按地址查最近分馆与开放时间"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "户外活动大致分三类。第一类是东西两侧的山麓公园：东边的 Alum Rock Park，西南的 Almaden Quicksilver County Park，南端的 Santa Teresa County Park，适合徒步、骑车，坡度和夏季日晒都要考虑。第二类是沿溪流的平地步道：Guadalupe River Park 穿过 Downtown，Los Gatos Creek Trail 连接 Willow Glen、Campbell 与 Los Gatos，Coyote Creek Trail 沿城市东南侧延伸，这几条步道并不是全程贯通，中间有断点，日常想用来骑车通勤要按自己的起终点确认。第三类是市立的区域公园和亲子设施，如 Lake Cunningham、Municipal Rose Garden 和 Kelley Park 内的 Happy Hollow。",
+   "县立公园的规则可以在县公园局页面查到：Almaden Quicksilver 免入园费，Santa Teresa County Park 全年收取车辆入园费。市立区域公园的停车收费、开放时间和临时关闭信息会调整，去之前请以市公园部门页面为准。"
+  ],
+  "places": [
+   {
+    "name": "Almaden Quicksilver County Park",
+    "kind": "县立公园／步道",
+    "where": "Almaden Valley 南端，主入口 Hacienda 在 21785 Almaden Rd",
+    "note": "县公园局资料：徒步步道超过37英里，另有骑马与自行车线路；免入园费；狗须牵绳；每日早8点至日落开放"
+   },
+   {
+    "name": "Santa Teresa County Park",
+    "kind": "县立公园／步道",
+    "where": "Santa Teresa，主入口 260 Bernal Rd",
+    "note": "县公园局资料：未铺装步道超过17英里，Coyote Peak 一带较陡；全年收取车辆入园费；园内有高尔夫球场和射箭场"
+   },
+   {
+    "name": "Alum Rock Park",
+    "kind": "市立区域公园",
+    "where": "East Foothills，Alum Rock Ave 与 Penitencia Creek Rd 方向",
+    "note": "峡谷地形的山麓公园；停车收费与开放情况以市公园部门页面为准"
+   },
+   {
+    "name": "Guadalupe River Park",
+    "kind": "河滨公园／步道",
+    "where": "Downtown，沿 Guadalupe River",
+    "note": "沿河步道连接 Downtown 与机场方向"
+   },
+   {
+    "name": "Los Gatos Creek Trail",
+    "kind": "步道",
+    "where": "Willow Glen 至 Campbell、Los Gatos",
+    "note": "铺装步道，分段连接，Downtown 一端不完全贯通"
+   },
+   {
+    "name": "Coyote Creek Trail",
+    "kind": "步道",
+    "where": "沿 Coyote Creek，城市东南侧至南端",
+    "note": "分段开放，使用前查看当前开放区段"
+   },
+   {
+    "name": "Lake Cunningham Park",
+    "kind": "市立区域公园",
+    "where": "Tully Rd 与 Capitol Expy 一带，Evergreen 北缘",
+    "note": "环湖步道与运动设施；停车收费以市公园部门页面为准"
+   },
+   {
+    "name": "Municipal Rose Garden",
+    "kind": "公园",
+    "where": "Rose Garden 片区，Naglee Ave 一带",
+    "note": "玫瑰园与草坪，周边是住宅街道，路边停车"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "市内的综合医院分布在几个方向。县立的 Santa Clara Valley Healthcare 系统在 San Jose 有三家医院：South Bascom Ave 的 Santa Clara Valley Medical Center，Forest Ave 的 O'Connor Hospital，以及东部 North Jackson Ave 的 Regional Medical Center。Regional Medical Center 原属 HCA，县政府于2025年4月1日接手，医院官网列明它设有二级创伤中心和全天急诊。西南部有 HCA 旗下的 Good Samaritan Hospital；南端 Santa Teresa 一带有 Kaiser Permanente San Jose Medical Center；Sutter／Palo Alto Medical Foundation 和 Stanford 系统在南湾也设有门诊，具体地点和科室请在各自官网查询。",
+   "医院离家近不等于你的保险能在那里就诊。Kaiser 会员基本在 Kaiser 体系内看诊；其他保险计划要逐一核对医院和医生是否在网络内。看房时可以把“家到最近急诊”和“家到自己常去的门诊”两条路线都查一下。"
+  ],
+  "places": [
+   {
+    "name": "Santa Clara Valley Medical Center",
+    "kind": "医院／急诊／创伤中心",
+    "where": "San Jose，751 S Bascom Ave",
+    "note": "县立医院，官网列有急诊、创伤中心、烧伤中心、儿科等"
+   },
+   {
+    "name": "Regional Medical Center",
+    "kind": "医院／急诊／创伤中心",
+    "where": "San Jose，225 N Jackson Ave",
+    "note": "2025年4月1日起由县政府接手，属 Santa Clara Valley Healthcare；二级创伤中心"
+   },
+   {
+    "name": "O'Connor Hospital",
+    "kind": "医院／急诊",
+    "where": "San Jose，2105 Forest Ave",
+    "note": "属 Santa Clara Valley Healthcare，靠近 Rose Garden 与 West San Jose"
+   },
+   {
+    "name": "Good Samaritan Hospital",
+    "kind": "医院／急诊",
+    "where": "San Jose，2425 Samaritan Dr",
+    "note": "靠近 Cambrian 与 Los Gatos，SR-85 旁；官网列有全天急诊、产科与新生儿重症监护"
+   },
+   {
+    "name": "Kaiser Permanente San Jose Medical Center",
+    "kind": "医院／急诊",
+    "where": "San Jose 南部，Santa Teresa 一带",
+    "note": "Kaiser 会员体系内使用，地址与科室以 Kaiser 官网为准"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "San Jose 市界与学区边界完全不重合。市政府规划文件按片区列出的学区就有17个：统一学区 San José Unified；高中学区 East Side Union、Campbell Union、Fremont Union；小学／初中学区 Alum Rock、Berryessa Union、Evergreen、Franklin-McKinley、Mt. Pleasant、Oak Grove、Cambrian、Union、Moreland、Campbell Union、Cupertino Union；以及跨进本市的 Santa Clara Unified 和 Morgan Hill Unified。此外通常还会提到 Orchard、Luther Burbank 两个小型学区。同一条街的两侧可能分属不同学区，“住在 San Jose”本身不能说明孩子上哪所学校。",
+   "大致的对应关系是：Downtown、Willow Glen 到 Almaden Valley 这一条属于 San José Unified（TK–12）；东部和南部多数地址是“小学学区 + East Side Union HSD”的组合；Cambrian 和 West San Jose 南半部多为“Cambrian、Union、Moreland 或 Campbell Union 小学学区 + Campbell Union HSD”；West San Jose 靠 Cupertino 的部分属 Cupertino Union（TK–8）加 Fremont Union HSD（9–12，这是南湾的高中学区，不是 Fremont 市的 Fremont Unified）；North San Jose 部分地址属 Santa Clara Unified；最南端 Coyote Valley 方向部分地址属 Morgan Hill Unified。查询分两步：先在 Santa Clara County Office of Education 的 School District Locator 页面按指引（通过县 Assessor 的地块资料）确定地址属于哪个学区，再到该学区自己的地址查询工具查具体学校。",
+   "近两年多个学区因入学人数下降关闭或合并学校，买房时要按孩子入学的那个学年核对学校是否仍在运营、招生范围是否已改。已经做出的决定包括：Alum Rock Union 董事会2024年12月2日表决，自2025–26学年起关闭或合并多所学校；Berryessa Union 2024年12月18日表决，自2025–26学年起关闭 Cherrywood、Toyon、Laneview 三所小学；Franklin-McKinley 2025年2月25日表决关闭 Los Arboles、Ramblewood、McKinley 三所学校；San José Unified 的“Schools of Tomorrow”方案于2026年3月26日通过，Empire Gardens、Lowell、Gardner、Canoas、Terrell 五所小学在2025–26学年结束后关闭，新的招生边界从2027–28学年起适用于新入学的学生，学区为2026–27和2027–28以后分别提供了两套地址查询工具。"
+  ],
+  "districts": [
+   {
+    "name": "San José Unified School District",
+    "short": "SJUSD",
+    "grades": "TK–12",
+    "covers": "从 Downtown 向南经 Willow Glen 到 Almaden Valley 的狭长地带",
+    "locator_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=518f5af99e51456aabcb4cd44ca5ad3e",
+    "map_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=46b668b6d10842e58a044b14d051947f",
+    "enroll_url": "https://www.sjusd.org/enrollment",
+    "note": "学区为 2026–27 学年和 2027–28 学年以后分别提供了地址查询工具，两者的结果可能不同，请按孩子入学的学年选用。学区说明：划片学校该年级满员时，学生可能被安排到最近有名额的学校并进入候补；magnet 学校不参与这种安置。",
+    "locator_label": "2026–27 学年地址查询",
+    "map_label": "2027–28 学年及以后地址查询"
+   },
+   {
+    "name": "East Side Union High School District",
+    "short": "ESUHSD",
+    "grades": "9–12",
+    "covers": "东部与南部大片地区，包括 Berryessa、Alum Rock、Evergreen、Silver Creek、Edenvale、Santa Teresa 等片区的高中",
+    "locator_url": "http://www.myschoollocation.com/eastsideHSD/",
+    "map_url": "https://www.esuhsd.org/Community/Boundaries/index.html",
+    "enroll_url": "https://www.esuhsd.org/Students--Parents/New-Students/index.html",
+    "note": "学区说明 Attendance Area Locator 对靠近边界的地址更准确。学区内转学按名额审批，Evergreen Valley、Piedmont Hills、Santa Teresa、Silver Creek 四所被列为已满员（impacted）学校，转入申请通常直接被拒。小学和初中要另查所属小学学区。"
+   },
+   {
+    "name": "Campbell Union High School District",
+    "short": "CUHSD",
+    "grades": "9–12",
+    "covers": "Cambrian、West San Jose 南半部及相邻的 Campbell 等地的高中（Branham、Leigh、Prospect、Westmont、Del Mar 等）",
+    "locator_url": "http://campbellhighdistrictexplorer.azurewebsites.net/",
+    "map_url": "https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=443126&type=d&pREC_ID=955487",
+    "enroll_url": "https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=2735701&type=d&pREC_ID=2296801",
+    "note": "只管高中。小学和初中属 Cambrian、Union、Moreland、Campbell Union 等小学学区，需分别查询。"
+   },
+   {
+    "name": "Cupertino Union School District",
+    "short": "CUSD",
+    "grades": "TK–8",
+    "covers": "West San Jose 靠近 Cupertino 的部分地址",
+    "locator_url": "https://www.cusdk8.org/registration/locator",
+    "map_url": "https://www.cusdk8.org/about-us/district-map",
+    "enroll_url": "https://www.cusdk8.org/registration/locator",
+    "note": "查询结果为初步分配，正式安排以学区 Student Assignment 的确认为准。"
+   },
+   {
+    "name": "Fremont Union High School District",
+    "short": "FUHSD",
+    "grades": "9–12",
+    "covers": "与 Cupertino Union 重叠的 West San Jose 部分地址的高中",
+    "locator_url": "https://www.fuhsd.org/about-us/general-information/district-boundary-maps",
+    "map_url": "https://www.fuhsd.org/about-us/general-information/district-boundary-maps",
+    "enroll_url": "",
+    "note": "南湾高中学区，与 Fremont 市的 Fremont Unified School District 无关。"
+   },
+   {
+    "name": "Santa Clara Unified School District",
+    "short": "SCUSD",
+    "grades": "TK–12",
+    "covers": "North San Jose 部分地址",
+    "locator_url": "https://www.santaclarausd.org/enrollment/school-locator",
+    "map_url": "https://locator.pea.powerschool.com/?StudyID=217157",
+    "enroll_url": "https://www.santaclarausd.org/enrollment",
+    "note": "North San Jose 的地址可能分属几个不同学区，一定按门牌查询。"
+   },
+   {
+    "name": "Berryessa Union School District",
+    "short": "BUSD",
+    "grades": "TK–8",
+    "covers": "Berryessa 片区的小学与初中；高中属 East Side Union HSD",
+    "locator_url": "https://www.berryessa.k12.ca.us/Our-Schools",
+    "map_url": "",
+    "enroll_url": "https://www.berryessa.k12.ca.us/Departments/Education-Services/Enrollment-Information/index.html",
+    "note": "2025–26学年起三所小学关闭，招生范围随之调整；具体地址对应的学校请向学区确认。",
+    "locator_label": "学区学校名录"
+   },
+   {
+    "name": "Evergreen School District",
+    "short": "ESD",
+    "grades": "TK–8",
+    "covers": "Evergreen 与 Silver Creek 一带的小学与初中；高中属 East Side Union HSD",
+    "locator_url": "https://locator.pea.powerschool.com/?StudyID=235017",
+    "map_url": "https://locator.decisioninsite.com/?StudyID=235017",
+    "enroll_url": "https://www.eesd.org/district/enrollment",
+    "note": "官网入口名为“What Is My School of Residence?”。"
+   },
+   {
+    "name": "Oak Grove School District",
+    "short": "OGSD",
+    "grades": "TK–8",
+    "covers": "南部 Blossom Valley、Santa Teresa、Edenvale 一带部分地址；高中属 East Side Union HSD",
+    "locator_url": "http://www.schfinder.com/ogsd/",
+    "map_url": "https://www.ogsd.net/enrollment/school-boundaries",
+    "enroll_url": "https://www.ogsd.net/enrollment/registration",
+    "note": ""
+   },
+   {
+    "name": "Union School District",
+    "short": "USD",
+    "grades": "K–8",
+    "covers": "Cambrian 东南部及靠近 Los Gatos 的部分地址；高中属 Campbell Union HSD",
+    "locator_url": "https://www.unionsd.org/about/usd-schools",
+    "map_url": "",
+    "enroll_url": "https://www.unionsd.org/families/enroll-in-usd",
+    "note": "官网称该入口为 Find Your School Map Tool。"
+   },
+   {
+    "name": "Cambrian School District",
+    "short": "CSD",
+    "grades": "TK–8",
+    "covers": "Cambrian 片区中部；高中属 Campbell Union HSD",
+    "locator_url": "https://cambrianschooldistrictexplorer.azurewebsites.net/",
+    "map_url": "",
+    "enroll_url": "https://www.cambriansd.org/register-or-enroll",
+    "note": "官网另有 Transfers、Lottery Information 和 Waiting List 页面，Steindorf STEAM Magnet School 等项目的入读方式请看这些页面。"
+   },
+   {
+    "name": "Moreland School District",
+    "short": "MSD",
+    "grades": "TK–8",
+    "covers": "West San Jose 南半部部分地址；高中属 Campbell Union HSD",
+    "locator_url": "https://locator.decisioninsite.com/?StudyID=162014",
+    "map_url": "https://www.moreland.org/apps/pages/index.jsp?uREC_ID=427272&type=d&pREC_ID=932302",
+    "enroll_url": "https://www.moreland.org/apps/pages/index.jsp?uREC_ID=427279&type=d&pREC_ID=932325",
+    "note": ""
+   }
+  ],
+  "programs": [
+   "San José Unified 设有 magnet 学校，学校名录中包括 River Glen K-8、Hacienda Science/Environmental Magnet 和 Hammer Montessori；Hammer Montessori 自2026–27学年起迁至 Gardner 校址。",
+   "San José Unified 的 Transitional Kindergarten 要求孩子在入学当年9月1日或之前满4岁，下一学年的报名从12月初开始。",
+   "East Side Union HSD 各高中设有 CTE pathway（学区称为 Magnet），学区说明对某个 pathway 感兴趣并不意味着转学申请会获批；Calero、Foothill、Apollo、Pegasus、Phoenix 等 alternative 学校各有单独的申请条件。",
+   "Cambrian School District 设有 Steindorf STEAM Magnet School，并在官网单列 Lottery Information 页面。",
+   "Alum Rock Union 在2024年12月的合并方案中保留了英语—越南语双语沉浸项目，随 Ben Painter Elementary 并入 William Sheppard Middle School 校址。",
+   "Campbell Union School District 和 Moreland School District 官网均列有学前班（preschool）项目，名额与年龄要求以学区页面为准。"
+  ],
+  "choice_note": "划片学校由住址决定；magnet、Montessori、双语沉浸和 alternative 学校属于选择性项目，需要另行申请，可能抽签或候补，住在附近不等于可以入读。高中方面，East Side Union HSD 的学区内转学按名额审批，新学年的申请窗口每年3月1日开放，已满员的学校基本不接收转入，所以买房时应按划片高中来做决定，不要把转学当作前提。",
+  "dashboard_note": "在 California School Dashboard（caschooldashboard.org）搜索学区或学校名称，可以看到学业表现、长期缺勤、停学率、英语学习者进步、毕业率等多项指标及不同学生群体的情况。Dashboard 每年更新一次，打开后请先看页面标注的报告年份，再和学区比较时使用同一年份的数据。San Jose 涉及学区多，请分别查看小学学区和高中学区。",
+  "trustee_note": "不少学区按 Trustee Area 分区选举校董，这类地图只用于选举，与学校招生范围无关；查学校时请使用上面的地址查询工具。",
+  "safe_routes": {
+   "text": "上学路线要按具体学校来看。San Jose 的学校很多位于 Expressway 或四到六车道的干道旁，建议在上学时段从候选房源实际走一次或骑一次，留意过街信号、是否有导护人员、校门开在哪条街。市交通部门有面向学校的步行与骑行安全项目，各校是否参与、是否有建议路线图，可向学校或市交通部门询问。",
+   "url": ""
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "San Jose 的住房按建造年代大致分成几圈。Downtown、Japantown、Rose Garden、Shasta-Hanchett 和 Willow Glen 的核心地带保留了不少二十世纪前半叶的独立屋，木结构、抬高地基、独立车库或没有车库的情况常见，检查重点在地基与抗震加固、老电线和老水管、屋顶以及历年加建是否有许可。Cambrian、West San Jose、Blossom Valley、Berryessa 等片区以五十到七十年代的单层 ranch 独立屋为主，地块规整，多为双车位车库，常见问题是原始下水管、单层玻璃、屋顶和暖通设备的更新程度；部分街区有 Eichler 等中世纪现代风格住宅，平屋顶和地暖系统需要专门检查。",
+   "Evergreen、Silver Creek、Santa Teresa 和 Almaden Valley 的一部分是八十年代以后开发的，两层独立屋多，卧室通常在楼上，家里有老人同住时要看一楼是否有卧室和完整卫浴；较新的规划社区多带 HOA。North San Jose、Downtown 和各轨道站周边集中了近二十年建成的公寓与联排，使用上要看的是车位数量与形式（并排还是前后）、访客停车、楼梯层数、储物空间和 HOA 的收费与储备金状况。",
+   "山麓地带（Almaden、Silver Creek、East Foothills）的坡地住宅要多看几项：挡土墙与排水、车道坡度、地质与山火分区，以及保险能否顺利报价。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "各片区都有，年代差别大：市中心周边多为战前老屋，Cambrian、West San Jose、Berryessa、Blossom Valley 多为五十到七十年代单层 ranch，Evergreen、Silver Creek、Almaden 部分区域是较新的两层住宅。老屋重点看地基、管线、屋顶和加建许可；坡地住宅加看排水与挡土墙。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "七八十年代的联排散布在 Blossom Valley、Berryessa、West San Jose 等片区；较新的三层联排集中在 North San Jose、Berryessa BART 周边和南部新开发地块。常见取舍是楼梯多、车库前后停放、院子小，换来较新的结构和设备；HOA 文件要完整阅读。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "Downtown 有高层公寓，North San Jose 和 Santana Row 周边以中层公寓为主。要核对车位归属、访客停车、电梯与公共设施的维护、HOA 月费包含哪些项目、是否有未结诉讼或特别摊派，以及贷款对该楼盘是否有限制。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "房价之外的持有成本要按具体房源来算。房产税以成交价为基础，加州 Prop 13 规定的基础税率之上，还有所在学区、社区学院区和其他机构的债券与特别评估，San Jose 跨多个学区，不同地址的税单附加项并不相同；过户后县里还会按新旧评估值的差额补发一张 supplemental tax bill。较新的开发社区可能设有 Mello-Roos／Community Facilities District，是否存在、每年多少、何时到期，只能从该房源的税单和产权报告里确认。",
+   "San Jose 有两项本市特有的因素。一是电力：多数住户的发电服务默认由市政府运营的 San José Clean Energy 提供，输配电和账单仍由 PG&E 负责，可在几个方案之间选择或退出。二是水：全市由几家不同的供水机构分区服务，San Jose Water 是受加州公用事业委员会（CPUC）监管的私营公用事业公司，市政府另有自营的 Municipal Water System 服务部分片区，费率结构不同，要按地址确认。",
+   "另外，San Jose 的 Measure E 对高额不动产转让征收市级转让税，起征点和分级税率会定期调整，请以市政府现行税表为准；由买方还是卖方承担在合同中约定。保险方面，山麓和靠近开放空间的地址建议在出价前先拿到报价；位于 FEMA 特殊洪水危险区且有贷款的房屋通常需要另购洪水险。"
+  ],
+  "checklist": [
+   "向卖方或产权公司索取最近一期完整房产税单，逐项看基础税之外的债券、特别评估和 CFD／Mello-Roos 条目。",
+   "有 HOA 的房源，索取月费明细、储备金报告、近期会议纪要，以及是否有特别摊派或未结诉讼。",
+   "确认该地址的供水机构、电力方案，以及垃圾和污水费用的收取方式（部分项目随房产税单收取）。",
+   "成交价可能达到 Measure E 起征点时，请产权公司按现行税表估算转让税，并在合同里写明由谁承担。",
+   "出价前取得房屋保险报价；山麓地址同时问清山火相关条款，低洼地址查看洪水险要求。",
+   "按自己的通勤方式估算每月的油费、过桥费、车站停车或月票支出，把它和不同片区的房价差放在一起比较。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "气候上，San Jose 处在内陆山谷，夏季比半岛沿湾城市更热、日照更多，雾少；北端的 Alviso 和 North San Jose 受湾风影响稍凉，南面的 Almaden、Santa Teresa 和东面的 Evergreen 下午更热。西晒房间、屋顶隔热和空调状况在这里比在半岛更值得看。",
+   "噪音来源主要有三类。SJC 机场紧邻 Downtown，起降航线经过 Downtown、Rose Garden、Japantown 以及机场南北延长线上的街区，机场 Noise Office 提供航迹查询（WebTrak）和投诉渠道，机场有夜间限飞（curfew）规定。铁路方面，Caltrain 与货运列车沿 Monterey Rd 走廊穿过 Tamien、Edenvale、Blossom Hill，Diridon 以北沿 Stockton Ave 一线，轻轨沿 North First St、SR-87 和 Capitol Ave 运行。高速公路噪音则与房屋相对路面的高低、是否有隔音墙关系很大，要到现场在早晚高峰各听一次。",
+   "自然灾害图层要按地址查。洪水：Coyote Creek 沿线在2017年2月发生过洪水，Guadalupe River 沿线和地势低的 Alviso 也是 FEMA 洪水图上需要看的区域；Anderson Dam 位于上游的 Morgan Hill，水库因抗震原因自2020年底起按联邦监管机构要求维持在极低水位，Valley Water 于2026年7月授出抗震改造工程合同，计划2027年初开工，工期数年。地震：东侧山麓有 Hayward 和 Calaveras 断层系，加州地质调查局（CGS）的图层同时标出断层带、液化区和滑坡区，谷底平地常见液化区，Almaden 和东侧山麓常见滑坡区。山火：山麓与开放空间交界处要看 CAL FIRE 的 Fire Hazard Severity Zone，地方管辖区的新版地图于2025年2月至3月分批发布。这些图层说明的是需要进一步核实的事项，不能直接推断某一栋房子的安全程度。"
+  ],
+  "tools": [
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示地址是否位于 FEMA 特殊洪水危险区，关系到贷款是否要求洪水险。Coyote Creek、Guadalupe River 沿线和 Alviso 的房源都应查询。"
+   },
+   {
+    "label": "Valley Water 洪水区查询",
+    "url": "https://www.valleywater.org/floodzone",
+    "what": "Santa Clara County 的水务机构提供的按地址查询入口，并有防洪准备资料；可与 FEMA 地图对照。"
+   },
+   {
+    "label": "CGS EQ Zapp 地震危险区查询",
+    "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+    "what": "按地址显示是否位于 Alquist-Priolo 断层带、液化区或地震诱发滑坡区。东侧山麓、Almaden 一带和谷底平地的房源都建议查询。"
+   },
+   {
+    "label": "CAL FIRE 山火危险分区查询",
+    "url": "https://experience.arcgis.com/experience/5065c998b4b0462f9ec3c6c226c610a9",
+    "what": "州消防部门的 Fire Hazard Severity Zone 地图。Almaden、Silver Creek、Evergreen 山麓和 East Foothills 靠近开放空间的地址需要查看，并向市政府确认本地采用的版本。"
+   },
+   {
+    "label": "SJC 机场噪音与航迹查询",
+    "url": "https://www.flysanjose.com/noise",
+    "what": "机场 Noise Office 页面，含 WebTrak 航迹查询和噪音投诉方式。Downtown、Rose Garden、Japantown 及机场延长线上的房源可以查看实际航迹。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "对居住影响最大的在建项目是 BART Silicon Valley Phase II：从 Berryessa/North San José 站向南、向西延伸约六英里，设四座车站，经 Downtown 和 Diridon 到 Santa Clara。VTA 项目网站在2026年10月的资料中列出的施工期为2024至2035年，2035至2037年进行系统测试并以通车为目标。也就是说，今天买在 Downtown 或 Diridon 附近，未来十年左右要面对的是施工围挡、车道调整和停车场临时关闭，通车带来的便利则在更后面，时间表仍可能调整。",
+   "市政府的总体规划 Envision San José 2040 把新增住房集中引导到 Downtown、North San Jose、Diridon 车站周边和各处 Urban Village（多位于轨道站、主要商业街和旧购物中心地块）。对买房的含义是：靠近这些地点的独立屋街区，未来几年附近出现中高层公寓和商业改建的可能性更高，交通和街景都会变化。具体到某个地址，可以在市规划部门的许可查询系统里看周边已申请和已批准的项目。",
+   "公共设施方面有两项已经落地的变化值得知道：东部的 Regional Medical Center 自2025年4月起由县政府接手运营；San José Unified 的学校合并已在2026年生效，新的招生边界将从2027–28学年起适用于新生。南端的 Coyote Valley 近年由市政府与保护机构购地保育，定位是开放空间而非新的住宅区。"
+  ],
+  "items": [
+   {
+    "name": "BART Silicon Valley Phase II",
+    "status": "截至2026年10月：施工中；VTA 项目网站列出施工期2024–2035年，2035–2037年系统测试并以通车为目标",
+    "text": "从 Berryessa/North San José 站延伸约六英里、四座车站，其中三座为地下站，经 Downtown、Diridon 到 Santa Clara，采用单洞隧道方案。沿线街区在施工期内会有围挡、改道和停车调整，Diridon 站已有停车场临时关闭。",
+    "url": "https://www.vtabart.org/"
+   },
+   {
+    "name": "Anderson Dam 抗震改造",
+    "status": "截至2026年10月：Valley Water 于2026年7月24日授出施工合同，计划2027年1月开工；配套的排水隧道工程预计2026年内完成",
+    "text": "Anderson Dam 位于 Morgan Hill 的 Coyote Creek 上游。水库自2020年底起维持在约3%库容，库区在工程期间不开放游憩。工程关系到 Coyote Creek 下游沿线（包括 San Jose 市区段）的长期防洪与供水，项目计划表显示持续到2034财年。",
+    "url": "https://www.valleywater.org/anderson-dam-project"
+   },
+   {
+    "name": "San José Unified“Schools of Tomorrow”学校合并与边界调整",
+    "status": "2026年3月26日董事会通过；五所小学在2025–26学年后关闭；新边界自2027–28学年起适用于新入学学生",
+    "text": "Empire Gardens、Lowell、Gardner、Canoas、Terrell 五所小学关闭，学生分别并入 Anne Darling、Washington、Horace Mann、Ernesto Galarza、Rachel Carson；Hammer Montessori 迁至 Gardner 校址。2026–27学年在读的学生可留在现校读完小学。买在 Downtown、Willow Glen 一带的家庭要用学区的两套查询工具分别核对。",
+    "url": "https://sjusd.org/about/schools-of-tomorrow"
+   },
+   {
+    "name": "Regional Medical Center 转为县立医院",
+    "status": "2025年4月1日起由 Santa Clara County 接手",
+    "text": "位于 225 N Jackson Ave，接手后恢复了创伤中心、卒中和心脏急救服务，现属 Santa Clara Valley Healthcare。对 Alum Rock、Berryessa、Evergreen 等东部片区而言，这是距离最近的综合急诊之一。",
+    "url": "https://rmc.scvh.org/"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "San Jose 不适合一次看完。下面这条路线的目的是用半天时间感受几个片区之间的差别，帮你决定之后把时间花在哪里：从 Downtown 出发，先向西，再向南，最后绕到东侧，每站停留时间不必长，重点是记下街道、房型和出行方式的不同。各站都选在公共图书馆或车站，方便停车和上洗手间。",
+  "stops": [
+   {
+    "name": "Dr. Martin Luther King, Jr. Library（Downtown）",
+    "text": "从总馆出发，步行看一圈 Downtown：高层公寓的出入口和车库、轻轨站位置、BART 施工围挡对街道的影响。留意头顶的飞机航线和频率。"
+   },
+   {
+    "name": "Rose Garden Branch Library 与 Municipal Rose Garden",
+    "text": "沿 Naglee Ave 看老独立屋街区：房龄、路边停车、树荫。记录飞机噪音和 I-880 方向的车流声，与 Downtown 作比较。"
+   },
+   {
+    "name": "Willow Glen Branch Library 与 Lincoln Ave",
+    "text": "从 Minnesota Ave 的分馆走到 Lincoln Ave 商业街，看步行是否顺、过街是否方便。注意同一条街上不同年代房屋的差别，以及离 Caltrain／货运铁路线的远近。"
+   },
+   {
+    "name": "Cambrian Branch Library（Hillsdale Ave）",
+    "text": "看五六十年代单层 ranch 街区的地块和车库形式。打开学区查询工具，体会隔几条街学区就变化的情况；顺路看 SR-85、SR-17 匝道的位置。"
+   },
+   {
+    "name": "Almaden Branch Library（Camden Ave）",
+    "text": "分馆与社区中心相邻。沿 Almaden Expy 开一段，感受从这里出发到 SR-85、SR-87 的路程；远望山坡上的住宅，留意坡度和出入道路数量。"
+   },
+   {
+    "name": "Evergreen Branch Library（Aborn Rd）",
+    "text": "经 SR-85、US-101 和 Capitol Expy 到东南片区，这段路本身就是通勤体验的一部分。看两层独立屋社区的街道宽度、访客停车，以及到 US-101 的出口。"
+   },
+   {
+    "name": "Berryessa/North San José BART 站",
+    "text": "最后到 1620 Berryessa Rd 的车站：看停车场的使用情况、公交接驳、车站周边新公寓与老独立屋街区的关系。如果你打算坐 BART，在这里查一次目标车次。"
+   }
+  ],
+  "questions": [
+   "这个地址在 San Jose 市界内，还是县属未并入地块？市政服务和许可由谁负责？",
+   "小学、初中、高中分别属于哪个学区、哪所学校？孩子入学那一年学校是否仍在运营、边界是否已调整？",
+   "每天上班走哪个匝道或哪个车站？用你的实际出发时刻查过吗？",
+   "房子在 FEMA 洪水区、CGS 断层／液化／滑坡区或山火危险分区内吗？保险报价拿到了吗？",
+   "税单上除基础税外还有哪些债券、特别评估或 CFD？有没有 HOA，月费包含什么？",
+   "早晚高峰和夜间各到现场听过一次吗？飞机、铁路、高速各自的影响如何？",
+   "周边有没有已批准或在建的大型项目（BART 施工、Urban Village 内的公寓或商业改建）？"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Sunnyvale",
+   "slug": "sunnyvale",
+   "text": "Sunnyvale（及相邻的 Cupertino）离 Mountain View 一带的办公区更近，并有 Caltrain 站；West San Jose 的中世纪平房街区选择更多，Santana Row、Westgate 就在片区内。West San Jose 部分地址与 Cupertino 共用学区，两边都要逐个地址核对。"
+  },
+  {
+   "city": "Milpitas",
+   "slug": "milpitas",
+   "text": "Berryessa、North San Jose 与 Milpitas 相邻，都靠近 I-680、I-880 和 BART。Milpitas 城市小，车站周边新公寓和联排集中；Berryessa 的独立屋街区更大，小学和高中分属两个学区。往北的 Fremont 可按办公地点一并比较。"
+  },
+  {
+   "city": "Campbell / Los Gatos",
+   "slug": "",
+   "text": "看 Cambrian、Willow Glen 的买家常同时比较 Campbell 和 Los Gatos。三地共用 SR-17、SR-85 和 Los Gatos Creek Trail；Campbell、Los Gatos 各有可步行的小型市中心，Cambrian 以住宅街区和规整地块见长，日常多靠开车。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "San Jose Diridon",
+    "system": "Caltrain / ACE / Capitol Corridor / VTA Light Rail",
+    "address": "65 Cahill St, San Jose, CA 95110"
+   },
+   {
+    "name": "Tamien",
+    "system": "Caltrain / VTA Light Rail",
+    "address": "Lick Ave & W Alma Ave, San Jose, CA"
+   },
+   {
+    "name": "College Park",
+    "system": "Caltrain",
+    "address": "Stockton Ave & Emory St, San Jose, CA"
+   },
+   {
+    "name": "Capitol",
+    "system": "Caltrain",
+    "address": "Monterey Rd & Fehren Dr, San Jose, CA"
+   },
+   {
+    "name": "Blossom Hill",
+    "system": "Caltrain",
+    "address": "Monterey Rd & Ford Rd, San Jose, CA"
+   },
+   {
+    "name": "Berryessa/North San José",
+    "system": "BART",
+    "address": "1620 Berryessa Rd, San Jose, CA 95133"
+   },
+   {
+    "name": "Convention Center",
+    "system": "VTA Light Rail",
+    "address": "W San Carlos St & Almaden Blvd, San Jose, CA"
+   },
+   {
+    "name": "Santa Clara",
+    "system": "VTA Light Rail",
+    "address": "S 1st St & E Santa Clara St, San Jose, CA"
+   },
+   {
+    "name": "Civic Center",
+    "system": "VTA Light Rail",
+    "address": "N 1st St & W Mission St, San Jose, CA"
+   },
+   {
+    "name": "Tasman",
+    "system": "VTA Light Rail",
+    "address": "N 1st St & Tasman Dr, San Jose, CA"
+   },
+   {
+    "name": "Baypointe",
+    "system": "VTA Light Rail",
+    "address": "Tasman Dr & Baypointe Pkwy, San Jose, CA"
+   },
+   {
+    "name": "Ohlone/Chynoweth",
+    "system": "VTA Light Rail",
+    "address": "Chynoweth Ave & Pearl Ave, San Jose, CA"
+   },
+   {
+    "name": "Santa Teresa",
+    "system": "VTA Light Rail",
+    "address": "Santa Teresa Blvd & Miyuki Dr, San Jose, CA"
+   },
+   {
+    "name": "Alum Rock",
+    "system": "VTA Light Rail",
+    "address": "N Capitol Ave & Alum Rock Ave, San Jose, CA"
+   },
+   {
+    "name": "Winchester",
+    "system": "VTA Light Rail",
+    "address": "Winchester Blvd & Budd Ave, Campbell, CA"
+   }
+  ],
+  "pois": [
+   {
+    "name": "Dr. Martin Luther King, Jr. Library",
+    "category": "library",
+    "address": "150 East San Fernando Street, San Jose, CA 95112",
+    "district": "Downtown"
+   },
+   {
+    "name": "Joyce Ellington Branch Library",
+    "category": "library",
+    "address": "491 East Empire Street, San Jose, CA 95112",
+    "district": "Japantown / Northside"
+   },
+   {
+    "name": "Rose Garden Branch Library",
+    "category": "library",
+    "address": "1580 Naglee Avenue, San Jose, CA 95126",
+    "district": "Rose Garden / Shasta-Hanchett"
+   },
+   {
+    "name": "Willow Glen Branch Library",
+    "category": "library",
+    "address": "1157 Minnesota Avenue, San Jose, CA 95125",
+    "district": "Willow Glen"
+   },
+   {
+    "name": "West Valley Branch Library",
+    "category": "library",
+    "address": "1243 San Tomas Aquino Road, San Jose, CA 95117",
+    "district": "West San Jose"
+   },
+   {
+    "name": "Cambrian Branch Library",
+    "category": "library",
+    "address": "1780 Hillsdale Avenue, San Jose, CA 95124",
+    "district": "Cambrian"
+   },
+   {
+    "name": "Almaden Branch Library",
+    "category": "library",
+    "address": "6445 Camden Avenue, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Vineland Branch Library",
+    "category": "library",
+    "address": "1450 Blossom Hill Road, San Jose, CA 95118",
+    "district": "Blossom Valley"
+   },
+   {
+    "name": "Santa Teresa Branch Library",
+    "category": "library",
+    "address": "290 International Circle, San Jose, CA 95119",
+    "district": "Santa Teresa"
+   },
+   {
+    "name": "Edenvale Branch Library",
+    "category": "library",
+    "address": "101 Branham Lane East, San Jose, CA 95111",
+    "district": "Edenvale"
+   },
+   {
+    "name": "Evergreen Branch Library",
+    "category": "library",
+    "address": "2635 Aborn Road, San Jose, CA 95121",
+    "district": "Evergreen"
+   },
+   {
+    "name": "Berryessa Branch Library",
+    "category": "library",
+    "address": "3355 Noble Avenue, San Jose, CA 95132",
+    "district": "Berryessa"
+   },
+   {
+    "name": "Dr. Roberto Cruz Alum Rock Branch Library",
+    "category": "library",
+    "address": "3090 Alum Rock Avenue, San Jose, CA 95127",
+    "district": "Alum Rock / East Foothills"
+   },
+   {
+    "name": "Alviso Branch Library",
+    "category": "library",
+    "address": "5050 N 1st St, San Jose, CA 95002",
+    "district": "Alviso"
+   },
+   {
+    "name": "Santa Clara Valley Medical Center",
+    "category": "hospital",
+    "address": "751 S Bascom Ave, San Jose, CA 95128",
+    "district": ""
+   },
+   {
+    "name": "O'Connor Hospital",
+    "category": "hospital",
+    "address": "2105 Forest Ave, San Jose, CA 95128",
+    "district": "Rose Garden / Shasta-Hanchett"
+   },
+   {
+    "name": "Regional Medical Center",
+    "category": "hospital",
+    "address": "225 North Jackson Ave, San Jose, CA 95116",
+    "district": "Alum Rock / East Foothills"
+   },
+   {
+    "name": "Good Samaritan Hospital",
+    "category": "hospital",
+    "address": "2425 Samaritan Dr, San Jose, CA 95124",
+    "district": "Cambrian"
+   },
+   {
+    "name": "Almaden Quicksilver County Park",
+    "category": "trailhead",
+    "address": "21785 Almaden Road, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Santa Teresa County Park",
+    "category": "park",
+    "address": "260 Bernal Road, San Jose, CA 95119",
+    "district": "Santa Teresa"
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "Downtown",
+    "anchor": "Dr. Martin Luther King, Jr. Library, 150 E San Fernando St, San Jose, CA"
+   },
+   {
+    "district": "Japantown / Northside",
+    "anchor": "Joyce Ellington Branch Library, 491 E Empire St, San Jose, CA"
+   },
+   {
+    "district": "Rose Garden / Shasta-Hanchett",
+    "anchor": "Rose Garden Branch Library, 1580 Naglee Ave, San Jose, CA"
+   },
+   {
+    "district": "Willow Glen",
+    "anchor": "Willow Glen Branch Library, 1157 Minnesota Ave, San Jose, CA"
+   },
+   {
+    "district": "West San Jose",
+    "anchor": "West Valley Branch Library, 1243 San Tomas Aquino Rd, San Jose, CA"
+   },
+   {
+    "district": "Cambrian",
+    "anchor": "Cambrian Branch Library, 1780 Hillsdale Ave, San Jose, CA"
+   },
+   {
+    "district": "Almaden Valley",
+    "anchor": "Almaden Branch Library, 6445 Camden Ave, San Jose, CA"
+   },
+   {
+    "district": "Blossom Valley",
+    "anchor": "Vineland Branch Library, 1450 Blossom Hill Rd, San Jose, CA"
+   },
+   {
+    "district": "Santa Teresa",
+    "anchor": "Santa Teresa Branch Library, 290 International Circle, San Jose, CA"
+   },
+   {
+    "district": "Edenvale",
+    "anchor": "Edenvale Branch Library, 101 Branham Lane East, San Jose, CA"
+   },
+   {
+    "district": "Evergreen",
+    "anchor": "Evergreen Branch Library, 2635 Aborn Rd, San Jose, CA"
+   },
+   {
+    "district": "Silver Creek",
+    "anchor": "Silver Creek Valley Rd & Yerba Buena Rd, San Jose, CA"
+   },
+   {
+    "district": "Berryessa",
+    "anchor": "Berryessa Branch Library, 3355 Noble Ave, San Jose, CA"
+   },
+   {
+    "district": "North San Jose",
+    "anchor": "N 1st St & Tasman Dr, San Jose, CA"
+   },
+   {
+    "district": "Alum Rock / East Foothills",
+    "anchor": "Dr. Roberto Cruz Alum Rock Branch Library, 3090 Alum Rock Ave, San Jose, CA"
+   },
+   {
+    "district": "Alviso",
+    "anchor": "Alviso Branch Library, 5050 N 1st St, San Jose, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "SCCOE School District Locator（先确定学区）",
+    "kind": "school_boundary",
+    "url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx",
+    "note": "Santa Clara County Office of Education；页面指引通过县 Assessor 的地块资料确定学区，再联系学区确认学校"
+   },
+   {
+    "label": "San José Unified 2026–27 学校查询",
+    "kind": "school_boundary",
+    "url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=518f5af99e51456aabcb4cd44ca5ad3e",
+    "note": "San José Unified；适用于2026–27学年"
+   },
+   {
+    "label": "San José Unified 2027–28 及以后学校查询",
+    "kind": "school_boundary",
+    "url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=46b668b6d10842e58a044b14d051947f",
+    "note": "San José Unified；2026年3月通过的新边界，适用于2027–28学年起的新生"
+   },
+   {
+    "label": "East Side Union HSD Attendance Area Locator",
+    "kind": "school_boundary",
+    "url": "http://www.myschoollocation.com/eastsideHSD/",
+    "note": "East Side Union High School District；学区称其对边界附近地址更准确"
+   },
+   {
+    "label": "Campbell Union HSD School Locator",
+    "kind": "school_boundary",
+    "url": "http://campbellhighdistrictexplorer.azurewebsites.net/",
+    "note": "Campbell Union High School District；仅高中"
+   },
+   {
+    "label": "Santa Clara Unified School Locator",
+    "kind": "school_boundary",
+    "url": "https://www.santaclarausd.org/enrollment/school-locator",
+    "note": "Santa Clara Unified；North San Jose 部分地址适用"
+   },
+   {
+    "label": "VTA 线路图与时刻",
+    "kind": "transit",
+    "url": "https://www.vta.org/go/routes",
+    "note": "Santa Clara Valley Transportation Authority；轻轨三线与 Rapid、普通公交"
+   },
+   {
+    "label": "Santa Clara County Parks：Almaden Quicksilver",
+    "kind": "parks",
+    "url": "https://parks.santaclaracounty.gov/locations/almaden-quicksilver-county-park",
+    "note": "县公园局；入口、步道与开放时间"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "SCCOE 家庭资源页（School District Locator 入口）",
+   "url": "https://www.sccoe.org/resources/families/Pages/default.aspx",
+   "org": "Santa Clara County Office of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SCCOE School District Locator 说明页",
+   "url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx",
+   "org": "Santa Clara County Office of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市政府 Greenprint 2009 附录 E：各规划片区的学校与学区",
+   "url": "https://sanjoseca.gov/home/showpublisheddocument/10233/636660872240630000",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "县第五选区学区介绍（SJUSD、CUHSD、Union 等的范围说明）",
+   "url": "https://d5.santaclaracounty.gov/5th-district/school-districts",
+   "org": "County of Santa Clara",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJUSD Schools of Tomorrow（合并学校、边界生效学年、两套查询工具）",
+   "url": "https://sjusd.org/about/schools-of-tomorrow",
+   "org": "San José Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJUSD 入学说明",
+   "url": "https://www.sjusd.org/enrollment",
+   "org": "San José Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJUSD 官网首页（学校名录与查询入口）",
+   "url": "https://www.sjusd.org/",
+   "org": "San José Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJUSD 董事会表决关闭五所小学的报道（2026-03-27）",
+   "url": "https://localnewsmatters.org/2026/03/27/san-jose-unified-board-approves-closure-of-five-elementary-schools-in-divided-vote/",
+   "org": "Bay City News / Local News Matters",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alum Rock Union 关闭与合并学校的报道（2024年12月）",
+   "url": "https://sanjosespotlight.com/east-san-jose-school-district-to-close-six-campuses-next-year/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Berryessa Union 关闭三所小学的报道（2024年12月）",
+   "url": "https://sanjosespotlight.com/san-jose-berryessa-union-school-district-to-close-three-campuses/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Franklin-McKinley 关闭三所学校的报道（2025年2月）",
+   "url": "https://sanjosespotlight.com/san-jose-franklin-mckinley-district-will-close-three-schools/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Franklin-McKinley 合并建议的报道（2025年2月）",
+   "url": "https://sanjosespotlight.com/another-san-jose-district-plans-to-close-schools/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "ESUHSD 学区内转学说明",
+   "url": "https://esuhsd.org/Students--Parents/Student-Services/Transfers/Intradistrict-Transfer-Process/index.html",
+   "org": "East Side Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "ESUHSD 边界与 Attendance Area Locator 入口",
+   "url": "https://www.esuhsd.org/Community/Boundaries/index.html",
+   "org": "East Side Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "ESUHSD 官网首页",
+   "url": "https://www.esuhsd.org/",
+   "org": "East Side Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "ESUHSD 边界地图使用指引",
+   "url": "https://www.esuhsd.org/documents/Community/Facilities/Operations/Boundary-Map-Guide.pdf",
+   "org": "East Side Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Campbell Union HSD 官网首页",
+   "url": "https://www.cuhsd.org/",
+   "org": "Campbell Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Santa Clara Unified 官网首页",
+   "url": "https://www.santaclarausd.org/",
+   "org": "Santa Clara Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Berryessa Union 官网首页",
+   "url": "https://www.berryessa.k12.ca.us/",
+   "org": "Berryessa Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Evergreen School District 官网首页",
+   "url": "https://www.eesd.org/",
+   "org": "Evergreen School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Oak Grove School District 官网首页",
+   "url": "https://www.ogsd.net/",
+   "org": "Oak Grove School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Union School District 官网首页",
+   "url": "https://www.unionsd.org/",
+   "org": "Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cambrian School District 官网首页",
+   "url": "https://www.cambriansd.org/",
+   "org": "Cambrian School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Moreland School District 官网首页",
+   "url": "https://www.moreland.org/",
+   "org": "Moreland School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Campbell Union School District 官网首页",
+   "url": "https://www.campbellusd.org/",
+   "org": "Campbell Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Alum Rock Union 官网首页",
+   "url": "https://www.arusd.org/",
+   "org": "Alum Rock Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Franklin-McKinley 官网首页",
+   "url": "https://www.fmsd.org/",
+   "org": "Franklin-McKinley School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Morgan Hill Unified 官网首页",
+   "url": "https://www.mhusd.org/",
+   "org": "Morgan Hill Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Union 地址查询",
+   "url": "https://www.cusdk8.org/registration/locator",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "Fremont Union HSD 高中边界地图",
+   "url": "https://www.fuhsd.org/about-us/general-information/district-boundary-maps",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "California School Dashboard",
+   "url": "https://www.caschooldashboard.org/",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA 线路列表（轻轨三线与 Rapid 线路起讫点）",
+   "url": "https://www.vta.org/go/routes",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA 车站与停车换乘",
+   "url": "https://www.vta.org/go/stations",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Berryessa Transit Center",
+   "url": "https://www.vta.org/go/stations/berryessa-transit-center",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART Berryessa/North San José 站",
+   "url": "https://www.bart.gov/stations/bery",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain 车站、分区与时刻表",
+   "url": "https://www.caltrain.com/stations-zones",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain Tamien 站页面",
+   "url": "https://www.caltrain.com/station/tamien",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain Capitol 站页面",
+   "url": "https://www.caltrain.com/station/capitol",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "ACE 车站列表",
+   "url": "https://acerail.com/stations/",
+   "org": "Altamont Corridor Express",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Capitol Corridor 车站列表",
+   "url": "https://www.capitolcorridor.org/stations/",
+   "org": "Capitol Corridor Joint Powers Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA BART Silicon Valley Phase II 项目页",
+   "url": "https://www.vta.org/projects/bart-sv/phase-ii",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA BART Phase II 项目网站（2026年10月施工月报）",
+   "url": "https://www.vtabart.org/",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San José Public Library 馆舍与开放时间表",
+   "url": "https://www.sjpl.org/locations-table/",
+   "org": "San José Public Library",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Almaden Quicksilver County Park",
+   "url": "https://parks.santaclaracounty.gov/locations/almaden-quicksilver-county-park",
+   "org": "Santa Clara County Parks",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Santa Teresa County Park",
+   "url": "https://parks.santaclaracounty.gov/locations/santa-teresa-county-park",
+   "org": "Santa Clara County Parks",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Santa Clara Valley Medical Center",
+   "url": "https://scvmc.scvh.org/",
+   "org": "Santa Clara Valley Healthcare",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Regional Medical Center",
+   "url": "https://rmc.scvh.org/",
+   "org": "Santa Clara Valley Healthcare",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "O'Connor Hospital",
+   "url": "https://och.scvh.org/",
+   "org": "Santa Clara Valley Healthcare",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "县政府接手 Regional Medical Center 的报道（2025年4月）",
+   "url": "https://kqed.org/news/12033787/east-san-jose-hospital-trauma-center-restored-first-day-public-ownership",
+   "org": "KQED",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Good Samaritan Hospital",
+   "url": "https://www.goodsamsanjose.com/",
+   "org": "HCA Healthcare",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Anderson Dam 项目页",
+   "url": "https://www.valleywater.org/anderson-dam-project",
+   "org": "Valley Water",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Anderson Dam 抗震改造合同报道（2026年8月）",
+   "url": "https://www.undergroundinfrastructure.com/news/2026/august/valley-water-awards-188-billion-contract-for-anderson-dam-seismic-retrofit",
+   "org": "Underground Infrastructure",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Valley Water 防洪准备与洪水区查询",
+   "url": "https://www.valleywater.org/floodready",
+   "org": "Valley Water",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FEMA Flood Map Service Center",
+   "url": "https://msc.fema.gov/portal/home",
+   "org": "FEMA",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CGS EQ Zapp",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CAL FIRE／OSFM Fire Hazard Severity Zones",
+   "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones",
+   "org": "CAL FIRE Office of the State Fire Marshal",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJC 机场噪音办公室",
+   "url": "https://www.flysanjose.com/noise",
+   "org": "San José Mineta International Airport",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San José Clean Energy",
+   "url": "https://sanjosecleanenergy.org/",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "San Jose Water",
+   "url": "https://www.sjwater.com/",
+   "org": "San Jose Water",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市财政部门税费页面（Measure E 转让税起征点）",
+   "url": "https://www.sanjoseca.gov/your-government/departments-offices/finance/tax-forms-permits-resources",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "City of San José 官网首页",
+   "url": "https://www.sanjoseca.gov/",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  }
+ ]
+}

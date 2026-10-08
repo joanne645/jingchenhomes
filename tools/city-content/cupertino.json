@@ -1,0 +1,1319 @@
+{
+ "slug": "cupertino",
+ "name": "Cupertino",
+ "county": "Santa Clara County",
+ "meta_title": "Cupertino 城市生活指南｜片区、上学路线、通勤与住房",
+ "meta_description": "按六个生活片区介绍 Cupertino 的住房与日常，说明 CUSD 和 FUHSD 两个学区怎样按地址分别查询、没有轨道站的城市如何通勤，以及山麓环境图层和 The Rise 等规划进展。",
+ "hero": {
+  "tagline": "Santa Cruz 山麓 · 城内无轨道站 · I-280 与 SR-85 交汇 · 小学初中与高中分属两个学区",
+  "intro": "Cupertino 在 Silicon Valley 西缘，背靠 Santa Cruz Mountains 山麓。城里没有 Caltrain 或轻轨站，出行靠 I-280、SR-85 和 De Anza Blvd、Stevens Creek Blvd。TK–8 年级属 CUSD，高中属 FUHSD，两个学区要分别按地址查。住在这里，换来山麓步道和集中的生活配套，接受的是以开车为主的通勤和房龄偏老的独立屋。"
+ },
+ "card": "背靠山麓、没有轨道站的南湾小城，日常沿 Stevens Creek Blvd 展开，上学路线、买菜和高速通勤要一起安排。",
+ "facts": [
+  {
+   "label": "所属县",
+   "value": "Santa Clara County"
+  },
+  {
+   "label": "轨道交通",
+   "value": "城内无车站；较近的 Caltrain 站是 Sunnyvale 与 Lawrence"
+  },
+  {
+   "label": "主要学区",
+   "value": "Cupertino Union School District（TK–8）＋ Fremont Union High School District（9–12）"
+  },
+  {
+   "label": "主要干道",
+   "value": "I-280、SR-85、De Anza Blvd、Stevens Creek Blvd、Wolfe Rd、Lawrence Expressway"
+  }
+ ],
+ "position": {
+  "paragraphs": [
+   "Cupertino 位于 Santa Clara County 西侧，市政府的介绍是在 Silicon Valley 西缘、紧靠 Santa Cruz Mountains 山麓，距 San Francisco 约42英里。城市东西向被 Stevens Creek Blvd 串起来，南北向的主轴是 De Anza Blvd；I-280 横穿城市北部，SR-85 从西北斜向东南把城市分成两半。这两条高速既是出城的通道，也是城内步行和骑车时要专门找桥或地下通道才能跨过去的分隔线。",
+   "城里没有 Caltrain、BART 或 VTA 轻轨车站。去 San Francisco 半岛方向坐火车，通常先到 Sunnyvale 的 Sunnyvale 站或 Lawrence 站；公交主要是沿 Stevens Creek Blvd 和 De Anza Blvd 的 VTA 线路，另有市政府与 Santa Clara 合办的预约式接驳车 Silicon Valley Hopper。Apple Park（N Tantau Ave 一带）和 De Anza Blvd 北段的办公园区是城内最大的就业节点，所以早晚高峰 Wolfe Rd、De Anza Blvd 靠近 I-280 的路段是进城和出城车流叠在一起的。",
+   "生活半径方面，买菜、图书馆、社区中心和公园基本都能在城内解决，商店集中在 Stevens Creek Blvd、Wolfe Rd、De Anza Blvd 和 Homestead Rd 沿线。有急诊室的综合医院在城外，较近的是 Mountain View 的 El Camino Hospital；Caltrain 车站、大型商场和更多餐饮选择则在 Sunnyvale、Santa Clara 和 San Jose 西部。周末常去的 Rancho San Antonio、Stevens Creek County Park 和 Fremont Older 都在西侧山麓，从 Foothill Blvd 或 Stevens Canyon Rd 进去。"
+  ],
+  "neighbors": [
+   "Sunnyvale",
+   "Santa Clara",
+   "San Jose",
+   "Saratoga",
+   "Los Altos",
+   "Santa Clara County 未建制山麓地带"
+  ],
+  "note": "邮寄地址写 Cupertino 95014 的房子不一定在市界内，例如 General Plan 记载 Creston 一带仍属县辖未建制地块；反过来，CUSD 和 FUHSD 的范围比城市大得多，San Jose 95129、Sunnyvale、Saratoga 的部分地址也在这两个学区内，有几所学区学校（如 Muir、Murdock-Portal、Lynbrook High）校址就在 San Jose。城市、邮编、学区要分开核对。"
+ },
+ "districts_intro": "下面六个片区以市政府 General Plan 的 Planning Areas 名称为基础，按日常动线做了合并。它们是规划用名和本地惯称，不是法定边界，也不等于学校招生范围；Oak Valley、Homestead Villa 等北缘片区未单列。",
+ "districts": [
+  {
+   "name": "Monta Vista",
+   "tag": "SR-85 以西 · 山麓与谷底独立屋 · 三校相邻的上学路线",
+   "where": "大致指 SR-85 以西、Stevens Creek Blvd 以南到 Prospect Rd 的范围，对应 General Plan 中的 Monta Vista Village、Monta Vista North、Monta Vista South 以及西侧的 Inspiration Heights。Foothill Blvd／Stevens Canyon Rd 以西开始进入坡地。名称是规划文件用名和本地惯称。",
+   "housing": "以独立屋为主。谷底部分地块规整，General Plan 记载 Monta Vista South 东侧谷底地块约6,000平方英尺，西侧山坡地块常超过一英亩，Inspiration Heights 多为私家车道进出的大地块坡地房。Monta Vista Village 是老聚落，从1960年代起陆续并入城市、2004年完成，街道和管线条件比后来成片开发的小区参差，独立屋、小型多户住宅和小商铺混在一起。",
+   "daily": "Blackberry Farm（21979 San Fernando Ave，泳池与野餐区）和 McClellan Ranch Preserve（22221 McClellan Rd）在 Stevens Creek 沿岸相连，中间有铺装的步道通到 Stevens Creek Blvd；Monta Vista Park（22601 Voss Ave）有垒球场和网球场，Linda Vista Park 设有限时的放绳遛狗区。买菜要开车或骑车到 Stevens Creek Blvd 上的 Whole Foods Market 或 De Anza Blvd 一带，片区内部商业很少。",
+   "commute_school": "出行主要从 Stevens Creek Blvd 或 De Anza Blvd 上 SR-85，往北接 I-280 要先走 Foothill Blvd 或 SR-85。Lincoln Elementary、Kennedy Middle 和 Monta Vista High 三所学校集中在 McClellan Rd 与 Bubb Rd 一带，General Plan 称之为 tri-school area，上下学时段车流集中；McClellan Rd 已分三期建成隔离式自行车道（2020–2024年完工）。小学和初中用 CUSD School Locator 按地址查，高中另用 FUHSD 的地址查询工具，原 Regnart Elementary 已在2022–23学年关闭，旧资料上的学校名要重新核对。",
+   "tradeoffs": "住在这一侧，周末进山和去 Stevens Creek 步道很近，但离 Wolfe Rd 一带的超市、餐饮和 Lawrence Expressway 都要横穿全城。坡地房视野开阔，同时要多看几项：按地址查 CAL FIRE 山火分区和 CGS 断层、滑坡图层，问清保险报价，了解车道坡度和雨季排水。上下学时段 McClellan Rd、Bubb Rd 的拥堵会直接影响出门时间。",
+   "visit": "挑一个上学日早晨到 Bubb Rd 与 McClellan Rd 路口站一会儿，看车流、骑车学生和过街情况；再从候选房子实际开到 SR-85 入口。坡地房在傍晚看一次车道和街灯。General Plan 提到片区里有一条货运铁路支线，班次很少，但临线的房子建议自己到现场听一次。"
+  },
+  {
+   "name": "Garden Gate 与 Memorial Park 周边",
+   "tag": "Stevens Creek Blvd 以北、De Anza Blvd 以西 · 社区设施最集中",
+   "where": "General Plan 把 Garden Gate 划在 I-280、Mary Ave、Heart of the City（Stevens Creek Blvd 沿线）和 North De Anza 之间；本指南把紧邻的 Memorial Park、Quinlan Community Center、Sports Center、Senior Center 和 De Anza College 北缘一并算进来。",
+   "housing": "以独立屋为主，夹有双拼和公寓小区。General Plan 记载这一带开发于1950年代初，2001年才由县辖地并入城市，地块比不少其他片区大。老房多为单层，翻建或加建的房子与原始状态的房子并存，看房时要分别核对许可记录。",
+   "daily": "Memorial Park（21121 Stevens Creek Blvd）、Quinlan Community Center（10185 N Stelling Rd）、Cupertino Sports Center（21111 Stevens Creek Blvd）和 Senior Center（21251 Stevens Creek Blvd）几乎连成一片；Mary Avenue Dog Park 在 10309 Mary Ave。Whole Foods Market（20955 Stevens Creek Blvd）和 Target（20745 Stevens Creek Blvd）在片区南缘，周日上午 De Anza College 停车场有常年开放的农夫市集。住在片区中部，其中不少地方可以步行或骑车到达，但要过 Stelling Rd 或 Stevens Creek Blvd 这样的宽马路。",
+   "commute_school": "上 I-280 走 De Anza Blvd，上 SR-85 走 Stevens Creek Blvd；Mary Ave 北端有跨 I-280 的 Don Burnett 自行车步行桥通往 Sunnyvale 方向。VTA 23、25 路和 Rapid 523 在 De Anza College 与 Stevens Creek Blvd 沿线停靠。片区内有 Garden Gate Elementary，市政府为它提供了建议上学路线图；具体地址对应哪所小学、初中和高中，仍要分别在 CUSD 和 FUHSD 工具里查。",
+   "tradeoffs": "设施近是这片最实在的好处，代价是 Memorial Park 办大型活动时周边停车紧张，靠 I-280 一侧和 De Anza Blvd 一侧有持续的交通声。De Anza College 开学期间 Stelling Rd、Stevens Creek Blvd 的车流明显增加。地块虽大，房龄也老，地基、排水管和电路要按老房标准检查。",
+   "visit": "周末上午从候选房子走到 Memorial Park 和 Quinlan，记下要过几个红绿灯；工作日傍晚在 Stelling Rd 与 Stevens Creek Blvd 路口看左转排队。靠近 I-280 的街道，站在后院位置听一下高速声。"
+  },
+  {
+   "name": "Jollyman",
+   "tag": "SR-85 与 De Anza Blvd 之间 · 以独立屋为主的安静街区",
+   "where": "General Plan 的 Jollyman 片区在 Stevens Creek Blvd 以南，西到 SR-85，东到 De Anza Blvd，向南大致到 SR-85 与 De Anza Blvd 交汇处。Stelling Rd 和 McClellan Rd 是片区内部的两条主要通路。",
+   "housing": "主要是独立屋，另有四单元小楼、联排和公寓，多分布在靠主路的位置。街道以内向的住宅街为主，车库和路边停车条件比 Stevens Creek Blvd 沿线的新公寓宽松。",
+   "daily": "Jollyman Park（1000 S Stelling Rd）有足球场、棒球场和限时放绳遛狗区，是片区的活动中心。向北到 Stevens Creek Blvd 是 Whole Foods Market、Target 和 De Anza College，向东过 De Anza Blvd 是 Civic Center 和 Cupertino Library。Stelling Rd 沿线有几座教堂，周日上午停车和车流会多一些。",
+   "commute_school": "SR-85 的入口在 De Anza Blvd 和 Stevens Creek Blvd 两处，去 I-280 走 De Anza Blvd 向北。General Plan 把 McClellan Rd 称为这一带重要的上学通道，隔离式自行车道已延伸到 De Anza Blvd 并经 Pacifica Dr 接到 Torre Ave。片区内的 Faria Elementary 是 CUSD 的 alternative 项目学校，靠 Open Enrollment 抽签入读，不是按住址划片的学校；住在旁边不等于能就读，划片小学要用 School Locator 查。",
+   "tradeoffs": "这片的优点是街区完整、离公园和主要超市都近。需要接受的是：靠 SR-85 一侧有高速声，要到现场确认隔音墙位置和后院朝向；De Anza Blvd 是宽马路，孩子自己去图书馆要过大路口；片区内没有成规模的商业，日常采购仍要到北缘。",
+   "visit": "下午放学时段沿 McClellan Rd 走或骑一段，看自行车道与路口的衔接；周日上午看 Stelling Rd 的停车情况；在靠 SR-85 的街道尽头停留一会儿听声音。"
+  },
+  {
+   "name": "North Blaney 与 Main Street／Vallco 周边",
+   "tag": "城市东北 · 新公寓与老独立屋相邻 · 施工最集中的一片",
+   "where": "General Plan 的 North Blaney 片区在 De Anza Blvd 以东、I-280 以南、Stevens Creek Blvd 以北；再往东是 Vallco Shopping District（原 Vallco 商场，现为 The Rise 项目用地）和 Tantau Ave 一带的 Main Street Cupertino。I-280 以北的 North Vallco Park 有 Apple Park 和 Cupertino Village，本指南一并在这里说明。",
+   "housing": "North Blaney 内部以独立屋为主，靠高速一侧有双拼、联排和公寓。Stevens Creek Blvd 与 Vallco Pkwy 沿线是近十几年建的公寓和 loft（如 Main Street Cupertino 内的 Lofts），带电梯和车库，但多有 HOA 或以出租为主，买之前要确认产权形式。The Rise 获批的方案包含两千六百多套住宅，届时这一带的住房构成会明显改变。",
+   "daily": "Main Street Cupertino（19419 Stevens Creek Blvd 一带）集中了餐厅、咖啡、健身和一个 Town Square；El Camino Health 的 Urgent & Walk-In Care 在 19600 Vallco Pkwy。过 I-280 向北是 Cupertino Village（N Wolfe Rd），里面有 99 Ranch Market、烘焙店和多家餐馆。片区内的 Portal Park 是日常遛娃的地方。Stevens Creek Blvd 从 Tantau Ave 到 De Anza Blvd 已有隔离式自行车道。",
+   "commute_school": "I-280 的 Wolfe Rd 出入口就在旁边，去 Apple Park 可以走 Wolfe Rd 或 Tantau Ave。要注意 VTA 的 I-280／Wolfe Rd 立交改建已在2026年春季开工，预计持续到2032年前后，期间有匝道长期关闭和夜间施工。VTA 23 路和 Rapid 523 在 Stevens Creek Blvd 停靠。General Plan 提到片区内有 Collins Elementary 和 Lawson Middle；FUHSD 的转学项目说明里，把 Wolfe Rd／Miller Ave 以东的 Cupertino High 招生范围单列（Vallco Pkwy 除外），可见这一带的学校安排尤其要逐个地址确认。",
+   "tradeoffs": "步行可达的餐饮和超市是全城最多的，新公寓的楼龄和停车条件也好。取舍在于：未来几年要同时面对立交改建和 The Rise 的施工车辆、围挡和绕行；靠 I-280 和 Wolfe Rd 的住宅有交通声；周末 Cupertino Village 停车场经常很满。",
+   "visit": "工作日傍晚从 Wolfe Rd 上一次 I-280，体验当前的施工绕行；周六中午去 Cupertino Village 看停车和步行动线；从候选公寓步行到 Main Street 的 Town Square，记录过 Stevens Creek Blvd 的等灯情况。向卖方或 HOA 询问临近地块的在建和已批项目。"
+  },
+  {
+   "name": "South Blaney 与 Civic Center 周边",
+   "tag": "图书馆、City Hall 与 Regnart Creek Trail 串起的中部街区",
+   "where": "General Plan 的 South Blaney 片区在 Stevens Creek Blvd 以南、De Anza Blvd 以东，南到 Bollinger Rd，东到 Miller Ave。西北角的 Civic Center（City Hall、Community Hall、Cupertino Library）是片区的公共中心。",
+   "housing": "谷底平地上的独立屋为主，Miller Ave 和 Bollinger Rd 沿线有联排和双拼。街道平坦，适合步行和骑车；房龄以战后中期为主，单层房较多。靠 De Anza Blvd 和 Stevens Creek Blvd 一侧有商业和较新的多户住宅。",
+   "daily": "Cupertino Library（10800 Torre Ave）属于 Santa Clara County Library District，周一到周五开到晚间，周末也开放，是很多家庭放学后的固定去处。Wilson Park（19784 Wintergreen Dr）有棒球和足球场，Creekside Park（10455 Miller Ave）有三块足球场。0.8英里的 Regnart Creek Trail 把 Creekside Park、Wilson Park、City Hall 和图书馆连在一起，不必走大路。",
+   "commute_school": "向北走 De Anza Blvd 或 Wolfe Rd 上 I-280，向南走 De Anza Blvd 上 SR-85；向东经 Bollinger Rd 或 Stevens Creek Blvd 到 Lawrence Expressway。General Plan 提到片区内有 Eaton Elementary，市政府有它的建议上学路线图。小学、初中和高中仍要分别在 CUSD 和 FUHSD 工具里按地址确认。",
+   "tradeoffs": "这片的日常动线很顺：图书馆、公园和步道都在骑车范围内。需要权衡的是离两条高速的入口都要经过主路的红绿灯，高峰时段 De Anza Blvd 走得慢；Regnart Creek 和 Calabazas Creek 流经片区，临溪地址要查 FEMA 洪水图；靠 Bollinger Rd 的南缘已经贴近 San Jose 市界，市界两侧的市政服务不同。",
+   "visit": "放学时段沿 Regnart Creek Trail 从 Creekside Park 走到图书馆，看步道与街道交叉口的处理；晚上去一次图书馆停车场感受高峰；在 De Anza Blvd 与 Rodrigues Ave、Pacifica Dr 一带观察行人过街时间。"
+  },
+  {
+   "name": "Rancho Rinconada 与 Fairgrove",
+   "tag": "城市东缘 · 小地块老街区与 Eichler 街区 · 靠近 Lawrence Expressway",
+   "where": "General Plan 记载 Rancho Rinconada 在城市东南，以 Stevens Creek Blvd、Tantau Ave、Lawrence Expressway、Bollinger Rd 和 Fairgrove 为界；Fairgrove 则在 Phil Ln 以南、Tantau Ave 以西、Bollinger Rd 以北、Miller Ave 以东。两者相邻，本指南放在一起比较。",
+   "housing": "Rancho Rinconada 开发于1940年代末到1950年代初，原为县辖地，1999年并入城市，地块较小，以独立屋为主，也有少量双拼和公寓；街上原始小屋与后来重建的两层新屋并存，同一条街的房屋体量差别可能很大。Fairgrove 是1960年代初建成的 Eichler 街区，分区为 R1e，市政府另有 Eichler Design Handbook 引导外观；买 Eichler 要专门检查 slab 地基、地暖管、平屋顶和大面玻璃。",
+   "daily": "步行或骑车可到 Main Street Cupertino；Sterling Barnhart Park 是片区内的小公园，东侧沿 Saratoga Creek 的 Lawrence-Mitty Park 已完成设计、计划2026年底开工。向东过 Lawrence Expressway 就是 San Jose 和 Santa Clara 的商业区，日常采购的选择比城市西侧多。Creekside Park 在 Miller Ave 上，从 Fairgrove 过去很近。",
+   "commute_school": "Lawrence Expressway 是这片的主要南北通道，向北可到 Lawrence Caltrain 站和 US-101 方向，上 I-280 走 Lawrence Expressway 或 Stevens Creek Blvd。General Plan 提到片区周边有 Sedgwick Elementary、Hyde Middle 和 Cupertino High，市政府为这三所学校都提供了建议上学路线图。FUHSD 说明，Hyde 招生范围内的八年级学生可以申请 Lynbrook Supplemental School Assignment Program，名额有限并抽签，不能当作确定的高中安排。",
+   "tradeoffs": "这片离 Lawrence Expressway 和东侧商业近，进入门槛相对城市其他片区的大地块独立屋低一些，但要接受地块小、街道窄、路边停车紧的现实。重建多意味着施工噪音和邻居房屋高度变化；靠 Lawrence Expressway 的住宅有持续车流声。Saratoga Creek 沿线地址要查洪水图。",
+   "visit": "傍晚在 Rancho Rinconada 内部街道走一圈，看路边停车和新旧房屋的间距；从候选房子开到 Lawrence Expressway 与 Stevens Creek Blvd 路口体验晚高峰；Fairgrove 的 Eichler 看房时带上熟悉这类房屋的检查师。"
+  }
+ ],
+ "commute": {
+  "paragraphs": [
+   "开车是 Cupertino 通勤的基础。I-280 向西北通往 Los Altos、Palo Alto 和半岛，向东南进入 San Jose；SR-85 向北接 US-101 到 Mountain View，向南到 Los Gatos 和 San Jose 南部。城内的 De Anza Blvd 和 Wolfe Rd 负责把车流送上 I-280，Stevens Creek Blvd 负责东西向，东缘的 Lawrence Expressway 通往 Sunnyvale 北部和 Santa Clara。因为 Apple Park 和 De Anza Blvd 北段办公区就在城里，早高峰进城与出城的车流会在 Wolfe Rd、De Anza Blvd 的高速口叠加。",
+   "公共交通以 VTA 公交为主。VTA 把 23 路（De Anza College 经 Stevens Creek Blvd 到 Alum Rock）、25 路（De Anza College 经 Valley Medical Center 到 Alum Rock）列为 Frequent 线路；Rapid 523 沿 Stevens Creek Blvd 和 De Anza Blvd 运行，北端经 Sunnyvale Transit Center 到 Lockheed Martin，东端到 San Jose 市中心。55 路等 Local 线路连接 De Anza College 与 Sunnyvale、Santa Clara 方向。线路和班次会调整，出发前以 VTA 官网当期时刻表为准。",
+   "坐 Caltrain 要先出城。Sunnyvale 站有 Local、Limited 和部分 Express 列车停靠，Lawrence 站是 Local 和 Limited；从 Cupertino 过去可以开车、骑车、坐 Rapid 523 到 Sunnyvale Transit Center，或者约 Silicon Valley Hopper。Hopper 是 Cupertino 与 Santa Clara 合办、由 Via 运营的预约式合乘车，截至2026年10月市政府页面显示它周一到周五白天和周六运行、周日不运行，服务区覆盖 Cupertino 和 Santa Clara，并可到 Sunnyvale、Mountain View 的 Caltrain 站和 El Camino Hospital。州 TIRCP 拨款负担项目一半费用到2027年6月，之后是否延续要留意市政府公告，不宜把它当成长期固定的通勤方案。",
+   "最后一段路在这里很关键。车站停车是否有位、Hopper 高峰能否约到、公司班车在哪个路口上车，都会改变实际体验。城内骑车条件在改善：McClellan Rd、Stevens Creek Blvd（Tantau Ave 到 De Anza Blvd）已有隔离式自行车道，Mary Ave 有跨 I-280 的自行车步行桥，Regnart Creek Trail 连接 Civic Center 与东侧公园。"
+  ],
+  "scenarios": [
+   {
+    "title": "从 Monta Vista 到 Palo Alto／Stanford Research Park",
+    "text": "经 Foothill Blvd 或 SR-85 上 I-280 向北，在 Page Mill Rd 一带下高速。要核实的环节：早晨从家门到高速入口这一段要经过 McClellan Rd、Bubb Rd 的上学车流；I-280 在 Foothill Expressway 与 SR-85 汇入处的拥堵；回程晚高峰的出口排队。"
+   },
+   {
+    "title": "从 Main Street／North Blaney 周边到 San Francisco（Caltrain）",
+    "text": "先到 Sunnyvale 站：自驾走 Wolfe Rd 向北，或坐 Rapid 523 到 Sunnyvale Transit Center，或预约 Hopper。再乘 Caltrain 北上，到站后还有从车站到办公室的一段。要核实：你要坐的那班车在 Sunnyvale 是否停靠、车站停车情况、Hopper 在你出门时段的等车时间，以及 I-280／Wolfe Rd 立交施工期间的绕行。"
+   },
+   {
+    "title": "从 Rancho Rinconada 到 North San Jose／Santa Clara 办公区",
+    "text": "走 Lawrence Expressway 向北，再转 US-101、Central Expressway 或 Tasman Dr 方向；也可以走 I-280 向东再转 I-880 或 SR-87。要核实：Lawrence Expressway 各大路口的信号等待、公司是否提供班车及上车点，以及下班顺路接孩子时回到 Bollinger Rd、Miller Ave 一带的路线。"
+   }
+  ],
+  "verify": [
+   "在地图应用里输入候选房子的门牌和办公室的具体入口，把出发时间分别设为你平时出门和下班的时刻，连续查看周二到周四的结果，而不是只看一次。",
+   "需要接送孩子的家庭，把“家—学校—办公室”设成一条路线来查，并在上学日早晨实际开或走一次；市政府的 Safe Routes to School 地图标有落客规则。",
+   "打算坐 Caltrain 的，在 Caltrain 官网查你那班车停靠 Sunnyvale 还是 Lawrence，再到现场看一次早晨的停车和自行车停放。",
+   "想用 Hopper 接驳的，下载 SV Hopper 应用，在你的通勤时段试约两三次，记录等待情况；同时确认项目当前的服务区和运营时间。",
+   "在 VTA 的 I-280／Wolfe Road 项目页查看最新的匝道关闭和夜间施工通知。"
+  ],
+  "links": [
+   {
+    "label": "VTA 线路与时刻",
+    "url": "https://www.vta.org/go/routes"
+   },
+   {
+    "label": "VTA 23 路",
+    "url": "https://www.vta.org/go/routes/23"
+   },
+   {
+    "label": "VTA Rapid 523",
+    "url": "https://www.vta.org/go/routes/rapid-523"
+   },
+   {
+    "label": "Caltrain Sunnyvale 站",
+    "url": "https://www.caltrain.com/station/sunnyvale"
+   },
+   {
+    "label": "Caltrain Lawrence 站",
+    "url": "https://www.caltrain.com/station/lawrence"
+   },
+   {
+    "label": "Silicon Valley Hopper（市政府说明）",
+    "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/SV-Hopper"
+   },
+   {
+    "label": "I-280／Wolfe Road 立交改建（VTA）",
+    "url": "https://www.vta.org/280wolfe"
+   }
+  ]
+ },
+ "errands": {
+  "paragraphs": [
+   "市政府对购物分布的概括很直接：多数商店在 Stevens Creek Blvd、Wolfe Rd、De Anza Blvd 和 Homestead Rd 沿线或附近。换句话说，住宅街区内部基本没有商业，买菜和办事几乎都要回到这几条主路上。选房时值得看的是从家到最近一条主路要不要过高速、左转是否方便。",
+   "城市东北角的选择最密：Main Street Cupertino 以餐饮和咖啡为主，过 I-280 的 Cupertino Village 有 99 Ranch Market 和一批中餐、茶饮、烘焙店。城市中西部靠 De Anza College 一带，Whole Foods Market 和 Target 相邻，周日上午还有 De Anza College 停车场的农夫市集。Civic Center 的 Cupertino Library 和 Stelling Rd 上的 Quinlan Community Center 是办借书证、报课程和租场地的地方。以下门店和设施的营业状态均在2026年10月通过其官方页面核对，具体营业时间仍以当日公告为准。"
+  ],
+  "places": [
+   {
+    "name": "Main Street Cupertino",
+    "kind": "商业中心",
+    "where": "Stevens Creek Blvd 与 Tantau Ave 一带（19419 Stevens Creek Blvd）",
+    "note": "官方名录列有 Koi Palace、Haidilao Hotpot、Ippudo、85°C Cafe、Philz Coffee、Orangetheory Fitness 等，中心内有 Town Square。"
+   },
+   {
+    "name": "Cupertino Village",
+    "kind": "商业中心",
+    "where": "N Wolfe Rd，I-280 以北、Apple Park 对面",
+    "note": "Kimco 官方名录列有 99 Ranch Market、Sheng Kee Bakery、Ten Ren Tea 及多家餐馆；周末停车紧张。"
+   },
+   {
+    "name": "99 Ranch Market",
+    "kind": "超市",
+    "where": "10983 N Wolfe Rd（Cupertino Village 内）",
+    "note": ""
+   },
+   {
+    "name": "Whole Foods Market（Stevens Creek）",
+    "kind": "超市",
+    "where": "20955 Stevens Creek Blvd",
+    "note": "官网显示每日营业。"
+   },
+   {
+    "name": "Target（Cupertino De Anza Blvd）",
+    "kind": "百货与日用",
+    "where": "20745 Stevens Creek Blvd",
+    "note": "原 Main Street 内的小型 Target 已于2021年关闭，现在城内是这一家。"
+   },
+   {
+    "name": "De Anza College Farmers' Market",
+    "kind": "农夫市集",
+    "where": "21250 Stevens Creek Blvd，De Anza College 停车场（Stevens Creek Blvd 与 Stelling Rd）",
+    "note": "由 Pacific Coast Farmers' Market Association 运营，周日上午，全年开放。"
+   },
+   {
+    "name": "Cupertino Library",
+    "kind": "图书馆",
+    "where": "10800 Torre Ave，Civic Center",
+    "note": "Santa Clara County Library District 分馆；周一至周五开到晚间，周末开放；有儿童区、青少年区和可预约的会议室。"
+   },
+   {
+    "name": "Quinlan Community Center",
+    "kind": "社区中心",
+    "where": "10185 N Stelling Rd，Memorial Park 旁",
+    "note": "Parks and Recreation 的 Recreation Office 所在地，课程报名和场地预订在这里办理。"
+   },
+   {
+    "name": "Cupertino Senior Center",
+    "kind": "社区中心",
+    "where": "21251 Stevens Creek Blvd",
+    "note": "面向50岁及以上成人，工作日开放，会员制，另有访客证。"
+   }
+  ]
+ },
+ "parks": {
+  "paragraphs": [
+   "Cupertino 的户外活动分两层。城内是社区公园和运动场：Memorial Park 是办活动和打球的中心公园，Jollyman、Wilson、Creekside 以球场为主，西侧 Stevens Creek 沿岸的 Blackberry Farm 和 McClellan Ranch Preserve 则更接近自然。市政府的 Park Finder 地图可以按地址或活动类型搜索公园。",
+   "再往西就是山麓的开放空间。Rancho San Antonio 从 Foothill Blvd 转 Cristo Rey Dr 进入，Midpen 明确提示繁忙时段停车紧张，入口有实时车位显示，也可以在出门前上网查，Hopper 也能送到。Stevens Creek County Park 在 Stevens Canyon Rd 上，有水库和九英里多的步道，全年收取车辆入园费；它与 Fremont Older Open Space Preserve 的步道相通，后者主入口在 Prospect Rd，停车位很少。"
+  ],
+  "places": [
+   {
+    "name": "Memorial Park",
+    "kind": "公园",
+    "where": "21121 Stevens Creek Blvd",
+    "note": "约22英亩，有草坪、露天剧场、亮灯垒球场、网球与匹克球场和 Cupertino Veterans Memorial；Memorial Park Specific Plan 的最终概念方案已于2024年春季获批，页面未列施工时间。"
+   },
+   {
+    "name": "Cupertino Sports Center",
+    "kind": "运动中心",
+    "where": "21111 Stevens Creek Blvd",
+    "note": "17片网球场、8片匹克球场、壁球场和健身房；会员或日票，居民与非居民价格不同。"
+   },
+   {
+    "name": "Blackberry Farm",
+    "kind": "泳池与野餐公园",
+    "where": "21979 San Fernando Ave",
+    "note": "两个泳池、野餐区、沙排和滚球场；市政府页面显示2026年泳池只在周末开放，周二至周五场次到2027年前暂停。停车场满时可停 Monta Vista High School。旁边的 Blackberry Farm Golf Course 在 22100 Stevens Creek Blvd。"
+   },
+   {
+    "name": "McClellan Ranch Preserve",
+    "kind": "自然保护区",
+    "where": "22221 McClellan Rd",
+    "note": "18英亩，日出到日落开放；有 Environmental Education Center（周六开放）、铁匠铺、社区菜园；步道不允许带狗和骑车。铺装的无障碍步道沿 Stevens Creek 通到 Stevens Creek Blvd，往返约2英里。"
+   },
+   {
+    "name": "Jollyman Park",
+    "kind": "公园",
+    "where": "1000 S Stelling Rd",
+    "note": "足球场、棒球与足球共用场地；每天上午和傍晚有限时放绳遛狗时段。"
+   },
+   {
+    "name": "Creekside Park 与 Wilson Park",
+    "kind": "公园",
+    "where": "10455 Miller Ave；19784 Wintergreen Dr",
+    "note": "Creekside 有三块足球场，Wilson 有棒球和足球场；两者由0.8英里的 Regnart Creek Trail 连到 City Hall 和图书馆。"
+   },
+   {
+    "name": "Rancho San Antonio（County Park 与 Midpen Preserve）",
+    "kind": "保护区／步道",
+    "where": "Foothill Blvd 转 Cristo Rey Dr 进入",
+    "note": "日出前半小时到日落后半小时开放；不允许带狗；自行车仅限指定路线；Deer Hollow Farm 在保护区内。停车紧张，出发前查实时车位。"
+   },
+   {
+    "name": "Stevens Creek County Park",
+    "kind": "县立公园",
+    "where": "11401 Stevens Canyon Rd",
+    "note": "水库可划艇、钓鱼和限动力行船，步道与 Fremont Older 相连；全年收取车辆入园费，上午8点到日落开放。"
+   }
+  ]
+ },
+ "medical": {
+  "paragraphs": [
+   "Cupertino 城内没有带急诊室的综合医院。较近的急诊是 Mountain View 的 El Camino Hospital（2500 Grant Rd），全天开放；从城里过去通常走 SR-85 向北。城内日常小病可以去 El Camino Health 设在 Vallco Pkwy 的 Urgent & Walk-In Care，它是门诊性质，不是急诊室。",
+   "医疗设施离家近，不等于它在你的保险网络内。使用 Kaiser 等封闭式体系或特定医生集团的家庭，要先在保险公司官网查自己可用的医院、急诊和儿科门诊在哪里，再把这段路线放进选房的考虑。家里有老人或需要频繁复诊的成员时，建议实际开一次从候选房子到医院急诊入口的路线，留意高速入口和院区停车。"
+  ],
+  "places": [
+   {
+    "name": "El Camino Hospital Mountain View（Emergency Room）",
+    "kind": "医院／急诊",
+    "where": "Mountain View，2500 Grant Rd",
+    "note": "官网显示急诊全天开放。"
+   },
+   {
+    "name": "El Camino Health Urgent & Walk-In Care Cupertino",
+    "kind": "门诊（Urgent Care）",
+    "where": "Cupertino，19600 Vallco Pkwy",
+    "note": "官网显示每日白天开放；不是急诊室。"
+   },
+   {
+    "name": "El Camino Hospital Los Gatos（Emergency Room）",
+    "kind": "医院／急诊",
+    "where": "Los Gatos，815 Pollard Rd",
+    "note": "住在城市南部时可比较这条经 SR-85 向南的路线。"
+   }
+  ]
+ },
+ "schools": {
+  "summary": [
+   "Cupertino 的公立学校由两个互相独立的学区负责。Cupertino Union School District（CUSD）管 TK 到8年级，学区自述有17所小学、1所 TK–8 学校和5所初中，服务范围是 Cupertino 以及 Sunnyvale、San Jose、Saratoga、Los Altos、Santa Clara 的一部分。Fremont Union High School District（FUHSD）管9到12年级，有 Cupertino、Fremont、Homestead、Lynbrook、Monta Vista 五所综合高中，校址分布在 Cupertino、Sunnyvale 和 San Jose。它与 Fremont 市的 Fremont Unified School District 没有关系。",
+   "所以一个地址要查三次：先确认它在不在这两个学区内（城市北缘、东缘的个别地址建议先用 Santa Clara County Office of Education 的 School District Locator 确认学区），再用 CUSD 的 School Locator 查小学和初中，最后用 FUHSD 的地址查询工具查高中。CUSD 说明 Locator 给出的是初步结果，正式安排由 Student Assignment 在注册时确定，并且要在确认学校有空位之后才通知家庭；FUHSD 要求学生全时居住在所就读学校的招生范围内，并会核查居住真实性。",
+   "学校布局本身也在变。CUSD 董事会在2021年10月投票，自2022–23学年起关闭 Regnart Elementary 和 Meyerholz Elementary，并把 Muir Elementary 校址改作 Cupertino Language Immersion Program（CLIP）使用。旧的房源介绍、地图和 General Plan 里仍可能出现已关闭的学校名，买房时以学区当前的查询结果为准。学校边界与安排可能调整，请以具体地址、入学学年和学区确认结果为准。"
+  ],
+  "districts": [
+   {
+    "name": "Cupertino Union School District",
+    "short": "CUSD",
+    "grades": "TK–8",
+    "covers": "覆盖 Cupertino 市区绝大部分住宅片区，并延伸到 Sunnyvale、San Jose、Saratoga、Los Altos、Santa Clara 的部分地址；学区范围大于城市范围。",
+    "locator_url": "https://www.cusdk8.org/registration/locator",
+    "map_url": "https://www.cusdk8.org/about-us/district-map",
+    "enroll_url": "https://www.cusdk8.org/departments/new-student-assignment/student-registration/2026-2027-student-registration",
+    "note": "School Locator 显示的是按边界得出的初步学校，正式安排在注册时由 Student Assignment 提供。注册要求家庭已全时居住在学区地址内，不接受预先注册；工作人员确认有空位后才通知开学安排。学区的 Open Enrollment 说明提到部分学校已经满额。"
+   },
+   {
+    "name": "Fremont Union High School District",
+    "short": "FUHSD",
+    "grades": "9–12",
+    "covers": "覆盖 Cupertino 以及 Sunnyvale、San Jose 西部等地的部分地址；城内有 Cupertino High、Homestead High 和 Monta Vista High 三所校址，城市不同位置分属不同高中的招生范围。",
+    "locator_url": "https://www.fuhsd.org/about-us/general-information/district-boundry-maps",
+    "map_url": "https://www.fuhsd.org/about-us/general-information/district-boundry-maps",
+    "enroll_url": "https://www.fuhsd.org/departments/enrollment",
+    "note": "学区边界页提供 Address Check Tool，并建议在买房或租房前先用县教育局的 District Locator 确认学区。学生必须全时居住在所读学校的招生范围内；搬家要提前通知 Enrollment Residency Office，买房家庭可用 escrow 或产权公司文件办理地址核验。"
+   }
+  ],
+  "programs": [
+   "CUSD 的 Cupertino Language Immersion Program（CLIP）小学阶段设在 Muir Elementary 校址（San Jose），初中阶段在 Miller Middle School 延续，属于 alternative 项目。",
+   "CUSD 另有三所 alternative 学校：Faria Elementary（K–5，Cupertino）、Murdock-Portal Elementary（K–5，San Jose）和 Christa McAuliffe School（TK–8，Saratoga）。",
+   "CUSD 的 Expanded Learning Opportunities Program（ELO-P）在学生本校提供课前、课后时段及部分非教学日的活动，资格与报名办法见学区 ELO-P 页面。",
+   "CUSD Educational Services 设有 English Learners 专页，说明英语学习者的课程选项、ELPAC 测评和 reclassification 流程。",
+   "FUHSD 列出的学生支持与课程包括 AVID、English Learners 支持、Career Technical Education、Dual Enrollment 以及设在 De Anza College 校园的 Middle College。",
+   "FUHSD 自2025–26学年起采用电子方式核验住址，补交材料用的表格提供英文、西班牙文和中文版本。"
+  ],
+  "choice_note": "CUSD 的 alternative 学校和项目（CLIP、Faria、Murdock-Portal、McAuliffe）不按住址划片，而是通过每年一次的 Open Enrollment 随机抽签录取，申请前通常要参加学校的参观或家长说明会；住在这些学校隔壁并不意味着可以入读，例如 Jollyman 片区内的 Faria。Open Enrollment 也可以用来申请学区内其他有空位的学校，但学区说明不会因此挤占本招生范围学生的位置。高中阶段，FUHSD 董事会在2025年12月把两个平衡生源的项目延长到2026–27和2027–28学年：Lynbrook Supplemental School Assignment Program 面向 Miller（经学区内转学就读者）、McAuliffe 和 Hyde 招生范围的八年级学生，总名额上限75个；Monta Vista Supplemental School Assignment Program 面向住在 Homestead High 招生范围内的学生，名额30个。两者都有截止日期，超额时抽签，不提供交通，学生之后还须继续住在原资格范围内。",
+  "dashboard_note": "在 California School Dashboard（caschooldashboard.org）搜索 Cupertino Union 或 Fremont Union High，可以看到学区和每所学校在学业、英语学习者进步、长期缺勤、停学率、毕业率等指标上的表现，并能按学生群体展开。截至2026年10月，加州教育部页面标注的最新版本是 2025 Dashboard；引用任何数字时都要写明是哪一年的 Dashboard，并同时看“现状”和“变化”两个维度，不要把它折算成单一排名。",
+  "trustee_note": "FUHSD 在2024年4月通过了 Trustee Area 地图（Map Scenario 5 Revised），同年5月获县委员会批准，用于按区域选举校董。学区明确写明，这些选举区边界对现有学校招生范围没有影响。查学校时不要误用 Trustee Area 地图。",
+  "safe_routes": {
+   "text": "Cupertino 市政府的 Safe Routes to School 为市界内每所学校提供建议步行和骑车路线图，标出停车标志、人行横道、信号灯、交通协管员、过街旗和自行车道，并配有各校的接送落客规则图；页面标注更新于2026年7月。多数学校的地图有简体中文版，例如 Collins、Eaton、Faria、Lincoln、Sedgwick、Stevens Creek 小学，Hyde、Kennedy、Lawson 初中，以及 Cupertino、Homestead、Monta Vista 三所高中。路线图只说明怎么走，不能用来判断某个地址能否入读该校；市政府也提醒现场情况可能与图不同。",
+   "url": "https://www.cupertino.gov/schoolmaps"
+  }
+ },
+ "housing": {
+  "paragraphs": [
+   "Cupertino 的住宅以战后几十年间建成的独立屋为主体。General Plan 对各片区的描述可以当作一张年代地图：Rancho Rinconada 是1940年代末到1950年代初的小地块住宅，Garden Gate 是1950年代初的较大地块，Fairgrove 是1960年代初的 Eichler，西北角的 Oak Valley 则是1990年代末到2000年代初的独立屋小区。山麓的 Inspiration Heights 和 Monta Vista South 西侧是大地块坡地房。",
+   "老独立屋多为单层、附带车库，看房重点在看不见的部分：地基与排水、主下水管、电表容量和老线路、屋顶年限，以及加建部分是否有许可。Eichler 要另外看 slab 内的地暖管是否仍在使用、平屋顶的排水和保温、原始玻璃墙的状况。重建过的新屋体量大，要留意它与邻居的间距、二层窗户的朝向和车道长度。坡地房多一项地质和排水报告。",
+   "联排和公寓集中在主干道和高速附近：Stevens Creek Blvd、De Anza Blvd、Homestead Rd 沿线，以及 North Blaney 靠 I-280 一侧。它们的日常体验更多取决于具体小区：车位是独立车库还是共用车库、访客停在哪里、从车位到家门要走几层楼梯、HOA 管什么和储备金是否充足。The Rise 和 Housing Element 重新分区之后，这类住房在未来几年会增加。"
+  ],
+  "types": [
+   {
+    "type": "独立屋",
+    "text": "全城的主流房型。Monta Vista、Jollyman、South Blaney、Garden Gate 多为谷底平地上的单层老屋；Rancho Rinconada 地块小、新旧并存；Fairgrove 是受 R1e 分区和设计手册引导的 Eichler；山麓片区是大地块坡地房。维护重点依次是地基排水、管线、屋顶和未经许可的加建。"
+   },
+   {
+    "type": "联排 Townhouse",
+    "text": "多见于 Miller Ave、Bollinger Rd、Homestead Rd 沿线以及 North Blaney 和 Homestead Villa 的集合式小区。通常有附属车库和小院，多为两到三层，楼梯较多；购买前要读 HOA 的 CC&R、预算和储备金研究，并确认访客停车规则。"
+   },
+   {
+    "type": "公寓 Condo",
+    "text": "集中在 Stevens Creek Blvd、Vallco Pkwy、De Anza Blvd 一带的多户建筑，步行到商业方便。要确认是可售产权还是出租型物业、车位数量和位置、HOA 费用包含的项目，以及楼体保险和近期的特别征费记录。"
+   }
+  ]
+ },
+ "costs": {
+  "paragraphs": [
+   "房价之外，每年的固定支出要按具体房源逐项算。加州房产税以 Prop 13 的1%基础税率为底，再加上该地址所在各学区、社区学院区和其他机构经选民批准的债券与 parcel tax，具体条目以 Santa Clara County 的税单为准；买入后税基按成交价重新核定，不能沿用卖家现在的税额。CUSD 与 FUHSD 是两个独立征收单位，税单上会分别出现。",
+   "Cupertino 的住宅多为早年成片开发，是否有 Mello-Roos（CFD）或其他特别评估，只能逐个地址在税单和产权初步报告里确认，不能按城市一概而论。联排和公寓要把 HOA 月费、储备金状况和可能的特别征费算进去。山麓地址的房屋保险要尽早询价：市政府转述的说法是 CAL FIRE 的分区图本身不直接决定保费，保险公司使用自己的模型，所以只有拿到实际报价才算数。",
+   "老房的维修预算要现实。主下水管更换、屋顶、电路升级、地基排水，以及 Eichler 的地暖和屋面，都是一次性金额较大的项目。通勤成本也是持有成本的一部分：这里没有轨道站，多数家庭要按两辆车来估算油费、保险和停车。"
+  ],
+  "checklist": [
+   "向产权公司索取最近一期完整税单，逐行看清基础税、各项债券、parcel tax 和特别评估，再按预计成交价估算新的税额。",
+   "联排和公寓：索取 HOA 的预算、储备金研究、近两年会议纪要、保险凭证和特别征费记录。",
+   "坡地或靠近山麓的地址：在出价前拿到至少一份房屋保险的书面报价，并询问续保条件。",
+   "要求卖方提供许可历史，对照市政府记录核对加建、车库改造和重建部分。",
+   "安排主下水管内窥、屋顶和地基排水检查；Eichler 另请熟悉 slab 与地暖的检查师。",
+   "在 Natural Hazard Disclosure 报告之外，自己用 FEMA、CGS 和 CAL FIRE 的官方工具按地址再查一次。"
+  ]
+ },
+ "environment": {
+  "paragraphs": [
+   "Cupertino 在 Santa Clara Valley 的西侧内缘，市政府用“阳光充足”来形容这里的天气。它离海湾比 Sunnyvale、Mountain View 北部远，又有山挡在西面，夏季午后通常比湾边热一些，早晚凉；山麓的房子入夜降温更明显。老房是否有空调和隔热，夏天的居住感受差别不小。",
+   "噪音方面，General Plan 的 Health and Safety Element 指出交通是城里最大的噪音来源，主要是 I-280 和 SR-85，其次是 Stevens Creek Blvd、De Anza Blvd、Homestead Rd、Foothill Blvd 等主路；该文件同时说明 Cupertino 不在任何机场的噪音等值线范围内。它还提到服务山麓采石场和水泥厂的重型卡车以及穿过 Monta Vista 的一条货运铁路支线。Lehigh（Permanente）水泥厂的窑炉自2020年起停用，2023年县政府与业主签署了具有约束力的协议，确认不再重启；采石场的 reclamation plan 修订仍在县政府的程序中，场地修复预计要持续很多年。西北侧靠近 Foothill Blvd 的地址，可以向县规划部门了解最新进度和可能的运土车流。",
+   "自然灾害图层要按地址查。General Plan 记载 Sargent-Berrocal 断层和 Monta Vista–Shannon 断层系统穿过城市西部，San Andreas 断层在更西边；城市把地质条件分成断层破裂、坡体不稳定、山坡、液化与淹没、谷底平地几类，谷底平地被描述为地质风险相对较低，但这不是对某个地址的结论。山火方面，CAL FIRE 在2025年发布了新的 Local Responsibility Area 分区图（Cupertino 图件日期为2025年2月24日），市政府在2025年3月至4月做了公开征求意见，并说明城市必须通过与之相符的条例，部分以前不在分区内的住宅可能被划入。洪水方面，Permanente、Stevens、Regnart、Calabazas 四条溪流流经城市，东缘还有 Saratoga Creek；Stevens Creek Reservoir 的溃坝淹没范围也在 General Plan 中有图。这些图层说明的是需要进一步核实的事项，不能据此断言某片区安全或危险。"
+  ],
+  "tools": [
+   {
+    "label": "FEMA 洪水地图（按地址）",
+    "url": "https://msc.fema.gov/portal/home",
+    "what": "显示地址是否在 FEMA 的 Special Flood Hazard Area 内，关系到贷款是否要求洪水保险。Stevens Creek、Regnart Creek、Calabazas Creek、Permanente Creek 和 Saratoga Creek 沿线的地址建议查。"
+   },
+   {
+    "label": "Valley Water 洪水区查询",
+    "url": "https://www.valleywater.org/floodzone",
+    "what": "Santa Clara Valley Water District 提供的入口，帮助确认住宅是否在 FEMA 划定的洪水区内，并可联系其 floodplain manager 协助读图。"
+   },
+   {
+    "label": "CGS EQ Zapp 地震危险区查询",
+    "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+    "what": "California Geological Survey 的官方工具，按地址显示是否位于 Alquist-Priolo 断层带、液化区或地震诱发滑坡区。城市西部山麓和溪流沿线尤其要查。"
+   },
+   {
+    "label": "Cupertino Fire Hazard Severity Zone 地图",
+    "url": "https://www.cupertino.gov/firehazardseverityzonemap",
+    "what": "市政府公布的 State Fire Marshal 分区图（LRA 图件日期2025年2月24日），区分 Moderate、High、Very High 三级。西侧和南侧靠山的地址要查，分区会影响建筑规范和售房披露要求。"
+   },
+   {
+    "label": "Cupertino Hazard Awareness App",
+    "url": "https://gis.cupertino.org/webmap/eoc_dashboard_public/",
+    "what": "市政府 GIS 的公开应用，设有洪水、山火、地震和疏散交通等页签，适合了解全城的应急信息布局；具体地质分区另见 General Plan 的 Health and Safety Element。"
+   }
+  ]
+ },
+ "planning": {
+  "paragraphs": [
+   "未来几年变化最大的地方在 Wolfe Rd 两侧。原 Vallco 商场地块上的 The Rise 是按 SB 35 审批的综合开发，市政府页面显示它在2018年获批后经过三次修改，最近一次于2026年2月27日批准，2026年8月24日又批准了针对 Blocks 1 和 2 的局部修改；紧邻的 I-280／Wolfe Rd 立交改建已在2026年春季开工，VTA 给出的工期到2032年冬季前后。两个项目叠加，意味着 North Blaney、Main Street 和 Cupertino Village 一带在相当长时间里要与施工共处，完工后则会多出大量住宅、办公和零售。",
+   "政策层面，Cupertino 的2023–2031年 Housing Element 于2024年5月14日通过，同年7月完成配套的分区修改，9月4日获州 HCD 认定合规。这为主干道沿线和若干指定地块提高住宅密度铺了路，具体到你关心的房子旁边是否有 Housing Element 地块或在审项目，可以在市政府 Planning 页面和 Property Information Map 上查。Stevens Creek Blvd 方面，多个机构合作的 Corridor Vision Study 已由 Cupertino 市议会在2025年9月有条件接受，它是愿景文件而非施工计划；已经落地的是隔离式自行车道的分期建设。",
+   "公共设施方面，东缘 Saratoga Creek 旁的 Lawrence-Mitty Park 已有施工时间表，Memorial Park 的 Specific Plan 已获批但尚未见施工排期。对买房的意义是：靠近这些项目的地址，短期要评估施工影响，长期要想清楚新增的公园、步道和人流车流是不是你想要的变化。"
+  ],
+  "items": [
+   {
+    "name": "The Rise（原 Vallco）",
+    "status": "截至2026年10月：项目状态为已批准；第三次修改于2026年2月27日获批，Blocks 1、2 的局部修改于2026年8月24日获批。开发商在2025年11月表示首期 Town Square West 将于2026年动工建设地上建筑，实际进度请以市政府项目页为准。",
+    "text": "位于 10123 N Wolfe Rd，约50英亩。市政府页面列出的第三次修改方案为2,669套住宅（其中356套为可负担住房）、约147.5万平方英尺办公和约22.7万平方英尺零售，建筑高度从约30英尺的联排到两百多英尺的办公楼不等。对周边居住的影响是长期施工、完工后的车流，以及新增的商业和开放空间。",
+    "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/Major-Projects/The-Rise-Vallco-SB35-Application"
+   },
+   {
+    "name": "I-280／Wolfe Road 立交改建",
+    "status": "截至2026年10月：施工中。2026年春季开工，预计到2032年冬季前后；Wolfe Rd 往北向 I-280 的一条入口匝道自2026年10月初起长期关闭约一年。",
+    "text": "VTA 会同 Cupertino 和 Caltrans 重建跨 I-280 的 Wolfe Rd 桥、匝道和周边路口，增设挡土墙和隔音墙，并改善自行车和行人设施。VTA 表示不计划完全封闭 Wolfe Rd，但有匝道临时或长期关闭和夜间作业。",
+    "url": "https://www.vta.org/280wolfe"
+   },
+   {
+    "name": "Lawrence-Mitty Park and Trail",
+    "status": "截至2026年10月：设计阶段后期。市政府时间表为2026年12月前后开工，2027年11月前后完工，并注明可能因栖息地保护要求调整。",
+    "text": "位于 Lawrence Expressway 以西、Saratoga Creek 以东的7.83英亩地块，原为县道路部门的堆料场，已由 San Jose 划入 Cupertino。方案包括延伸 San Tomas Aquino／Saratoga Creek Trail、自然游戏区和野餐树林，会给 Rancho Rinconada 一带增加一处就近的公园。",
+    "url": "https://www.cupertino.gov/lawrencemitty"
+   },
+   {
+    "name": "Stevens Creek Blvd 隔离式自行车道",
+    "status": "截至2026年9月10日的市政府更新：Phase 1（Wolfe Rd 至 Tantau Ave）已于2021年1月完成；Phase 2A（Wolfe Rd 至 De Anza Blvd）基本完工，自行车信号灯待启用；Phase 2B（De Anza Blvd 至 Mary Ave）未列时间表。",
+    "text": "在 Stevens Creek Blvd 两侧设置用混凝土隔离的自行车道并升级路口信号。对沿线居民来说，骑车去 Main Street、图书馆方向更连贯，同时部分路口的转弯方式和信号相位有变化。",
+    "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/Projects/Stevens-Creek-Boulevard-Class-IV-Bikeways"
+   },
+   {
+    "name": "Memorial Park Specific Plan",
+    "status": "截至2026年10月：最终概念方案已于2024年春季获批；市政府页面只提到报告中有分期建议，没有列出施工时间。",
+    "text": "针对约22英亩的 Memorial Park，目标包括恢复自然栖息地、增加树荫、完善步行和骑行道以及扩大活动空间。住在 Garden Gate 一带的家庭可以关注后续的预算和分期安排。",
+    "url": "https://cupertino.gov/Your-City/Departments/Public-Works/Capital-Improvement-Programs-Projects/Memorial-Park-Specific-Plan"
+   }
+  ]
+ },
+ "tour": {
+  "intro": "下面是一条从西到东、大约半天的看区路线，建议安排在上学日，上午从山麓开始，傍晚在 Wolfe Rd 一带结束，这样能同时看到上学时段、午间和晚高峰。每一站都带着候选房子的地址去看，重点记录从那套房子出发的实际路线。",
+  "stops": [
+   {
+    "name": "第1站 McClellan Ranch Preserve 与 Blackberry Farm",
+    "text": "早晨先到 22221 McClellan Rd，沿溪边铺装步道走一段，感受 Monta Vista 的山麓环境；留意 McClellan Rd 上学时段的车流和自行车道使用情况。"
+   },
+   {
+    "name": "第2站 Bubb Rd 与 McClellan Rd 路口",
+    "text": "在三所学校之间的路段停留，看接送车排队、过街协管和学生骑车的路线，对照市政府 Safe Routes to School 地图上的落客规则。"
+   },
+   {
+    "name": "第3站 Jollyman Park",
+    "text": "在 1000 S Stelling Rd 停车，走进周边住宅街，看房屋年代、路边停车和靠 SR-85 一侧的声音。记下从这里到 De Anza Blvd 上 SR-85 的路线。"
+   },
+   {
+    "name": "第4站 Memorial Park、Quinlan 与 Sports Center",
+    "text": "中午前后步行串起这几处设施，看课程公告和场地使用情况；顺路看 Whole Foods Market 和 Target 的停车，体会 Garden Gate 一带步行办事的可行性。"
+   },
+   {
+    "name": "第5站 Civic Center 与 Cupertino Library",
+    "text": "到 10800 Torre Ave 的图书馆看儿童区和自习座位，然后沿 Regnart Creek Trail 向东走到 Wilson Park，观察步道与街道的交叉口。"
+   },
+   {
+    "name": "第6站 Rancho Rinconada 与 Fairgrove",
+    "text": "下午放学后开车进入两个街区，对比小地块新旧并存的街道与 Eichler 街区的街面；在 Lawrence Expressway 与 Stevens Creek Blvd 路口看车流。"
+   },
+   {
+    "name": "第7站 Main Street Cupertino 与 Cupertino Village",
+    "text": "傍晚在 Main Street 的 Town Square 停一下，再沿 Wolfe Rd 过 I-280 到 Cupertino Village，体验立交施工期间的通行和晚饭时段的停车，顺便看 The Rise 工地的现状。"
+   }
+  ],
+  "questions": [
+   "这个门牌在 CUSD School Locator 和 FUHSD 地址查询里分别对应哪所小学、初中和高中，入学学年是哪一年，学区是否确认有空位。",
+   "这个地址在不在 Cupertino 市界内，税单上有哪些债券、parcel tax 或特别评估。",
+   "从这里到最近的 I-280 或 SR-85 入口要经过哪些路口，上学时段和晚高峰各走一次是什么情况。",
+   "房子离高速、主路或铁路支线有多远，后院和卧室一侧在高峰时段的声音如何。",
+   "FEMA、CGS、CAL FIRE 三个官方工具按地址查询的结果是什么，保险公司给出的报价和条件是什么。",
+   "加建、车库改造和重建部分是否都有许可并通过验收，主下水管、屋顶和电路最近一次更新是什么时候。",
+   "附近有没有已批准或在审的开发项目、道路工程或 Housing Element 地块，施工期预计多长。"
+  ]
+ },
+ "compare": [
+  {
+   "city": "Sunnyvale",
+   "slug": "sunnyvale",
+   "text": "Sunnyvale 城内有 Sunnyvale 和 Lawrence 两个 Caltrain 站，坐火车少一段接驳；部分地址同属 CUSD 和 FUHSD，其余属其他学区，要逐个核对。Cupertino 离山麓步道更近。"
+  },
+  {
+   "city": "San Jose（West San Jose）",
+   "slug": "san-jose",
+   "text": "紧邻的 West San Jose 有部分地址在 CUSD 与 FUHSD 范围内，Muir、Murdock-Portal 和 Lynbrook High 的校址就在 San Jose。差别在市政服务、分区规则和到 Lawrence Expressway、I-280 的远近；学校按地址查，不凭邮编判断。"
+  },
+  {
+   "city": "Mountain View",
+   "slug": "mountain-view",
+   "text": "Mountain View 有 Caltrain 站和 Castro St 步行商业，适合想少开车、接受联排或公寓的家庭。Cupertino 没有轨道站，但独立屋街区连片、离 I-280 近。两城学区不同，办公地点靠 US-101 还是 I-280 往往决定哪边顺路。"
+  }
+ ],
+ "map": {
+  "stations": [
+   {
+    "name": "Sunnyvale",
+    "system": "Caltrain",
+    "address": "121 W Evelyn Ave, Sunnyvale, CA"
+   },
+   {
+    "name": "Lawrence",
+    "system": "Caltrain",
+    "address": "137 San Zeno Way, Sunnyvale, CA"
+   }
+  ],
+  "pois": [
+   {
+    "name": "Cupertino Library",
+    "category": "library",
+    "address": "10800 Torre Avenue, Cupertino, CA 95014",
+    "district": "South Blaney 与 Civic Center 周边"
+   },
+   {
+    "name": "Quinlan Community Center",
+    "category": "community",
+    "address": "10185 N Stelling Road, Cupertino, CA 95014",
+    "district": "Garden Gate 与 Memorial Park 周边"
+   },
+   {
+    "name": "Memorial Park",
+    "category": "park",
+    "address": "21121 Stevens Creek Boulevard, Cupertino, CA 95014",
+    "district": "Garden Gate 与 Memorial Park 周边"
+   },
+   {
+    "name": "Cupertino Sports Center",
+    "category": "community",
+    "address": "21111 Stevens Creek Boulevard, Cupertino, CA 95014",
+    "district": "Garden Gate 与 Memorial Park 周边"
+   },
+   {
+    "name": "Cupertino Senior Center",
+    "category": "community",
+    "address": "21251 Stevens Creek Boulevard, Cupertino, CA 95014",
+    "district": "Garden Gate 与 Memorial Park 周边"
+   },
+   {
+    "name": "Mary Avenue Dog Park",
+    "category": "park",
+    "address": "10309 Mary Avenue, Cupertino, CA 95014",
+    "district": "Garden Gate 与 Memorial Park 周边"
+   },
+   {
+    "name": "Whole Foods Market",
+    "category": "grocery",
+    "address": "20955 Stevens Creek Blvd, Cupertino, CA 95014",
+    "district": "Garden Gate 与 Memorial Park 周边"
+   },
+   {
+    "name": "Target",
+    "category": "shopping",
+    "address": "20745 Stevens Creek Blvd, Cupertino, CA 95014",
+    "district": "Garden Gate 与 Memorial Park 周边"
+   },
+   {
+    "name": "Jollyman Park",
+    "category": "park",
+    "address": "1000 S Stelling Road, Cupertino, CA 95014",
+    "district": "Jollyman"
+   },
+   {
+    "name": "Blackberry Farm",
+    "category": "park",
+    "address": "21979 San Fernando Avenue, Cupertino, CA 95014",
+    "district": "Monta Vista"
+   },
+   {
+    "name": "McClellan Ranch Preserve",
+    "category": "park",
+    "address": "22221 McClellan Road, Cupertino, CA 95014",
+    "district": "Monta Vista"
+   },
+   {
+    "name": "Monta Vista Park",
+    "category": "park",
+    "address": "22601 Voss Avenue, Cupertino, CA 95014",
+    "district": "Monta Vista"
+   },
+   {
+    "name": "Linda Vista Park",
+    "category": "park",
+    "address": "11111 Linda Vista Drive, Cupertino, CA 95014",
+    "district": "Monta Vista"
+   },
+   {
+    "name": "Stevens Creek County Park",
+    "category": "trailhead",
+    "address": "11401 Stevens Canyon Road, Cupertino, CA 95014",
+    "district": "Monta Vista"
+   },
+   {
+    "name": "Main Street Cupertino",
+    "category": "shopping",
+    "address": "19419 Stevens Creek Blvd, Cupertino, CA 95014",
+    "district": "North Blaney 与 Main Street／Vallco 周边"
+   },
+   {
+    "name": "99 Ranch Market",
+    "category": "grocery",
+    "address": "10983 N Wolfe Rd, Cupertino, CA 95014",
+    "district": "North Blaney 与 Main Street／Vallco 周边"
+   },
+   {
+    "name": "El Camino Health Urgent & Walk-In Care Cupertino",
+    "category": "hospital",
+    "address": "19600 Vallco Pkwy, Cupertino, CA 95014",
+    "district": "North Blaney 与 Main Street／Vallco 周边"
+   },
+   {
+    "name": "Wilson Park",
+    "category": "park",
+    "address": "19784 Wintergreen Drive, Cupertino, CA 95014",
+    "district": "South Blaney 与 Civic Center 周边"
+   },
+   {
+    "name": "Creekside Park",
+    "category": "park",
+    "address": "10455 Miller Avenue, Cupertino, CA 95014",
+    "district": "South Blaney 与 Civic Center 周边"
+   },
+   {
+    "name": "El Camino Hospital Mountain View",
+    "category": "hospital",
+    "address": "2500 Grant Rd, Mountain View, CA 94040",
+    "district": ""
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "Monta Vista",
+    "anchor": "Bubb Rd & McClellan Rd, Cupertino, CA"
+   },
+   {
+    "district": "Garden Gate 与 Memorial Park 周边",
+    "anchor": "N Stelling Rd & Stevens Creek Blvd, Cupertino, CA"
+   },
+   {
+    "district": "Jollyman",
+    "anchor": "S Stelling Rd & McClellan Rd, Cupertino, CA"
+   },
+   {
+    "district": "North Blaney 与 Main Street／Vallco 周边",
+    "anchor": "N Wolfe Rd & Vallco Pkwy, Cupertino, CA"
+   },
+   {
+    "district": "South Blaney 与 Civic Center 周边",
+    "anchor": "Torre Ave & Rodrigues Ave, Cupertino, CA"
+   },
+   {
+    "district": "Rancho Rinconada 与 Fairgrove",
+    "anchor": "S Tantau Ave & Bollinger Rd, Cupertino, CA"
+   }
+  ],
+  "official_maps": [
+   {
+    "label": "Cupertino Maps and GIS（城市地图与应用总入口）",
+    "kind": "city_gis",
+    "url": "https://www.cupertino.gov/Residents/Maps-and-GIS",
+    "note": "City of Cupertino；含 Web Map、Property Information Map、Hazard Awareness App 等，2026年10月访问。"
+   },
+   {
+    "label": "Land Use Plans 互动地图（Specific Plan／概念规划适用范围）",
+    "kind": "zoning",
+    "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/General-Plan/Land-Use-Plans",
+    "note": "City of Cupertino Planning；可按地址查看适用的 Heart of the City 等规划。"
+   },
+   {
+    "label": "Cupertino Bikeways 互动地图",
+    "kind": "bike",
+    "url": "https://gis.cupertino.org/webmap/bike_ped_project/",
+    "note": "City of Cupertino GIS；Bicycle Network 页面链接的自行车道与项目地图。"
+   },
+   {
+    "label": "VTA 线路与系统图",
+    "kind": "transit",
+    "url": "https://www.vta.org/go/routes",
+    "note": "Santa Clara Valley Transportation Authority；以当期时刻表为准。"
+   },
+   {
+    "label": "CUSD School Boundary Map",
+    "kind": "school_boundary",
+    "url": "https://www.cusdk8.org/about-us/district-map",
+    "note": "Cupertino Union School District；页面嵌入互动地图，未标图件日期，结果以 School Locator 和 Student Assignment 为准。"
+   },
+   {
+    "label": "FUHSD District Boundary Maps 与 Address Check Tool",
+    "kind": "school_boundary",
+    "url": "https://www.fuhsd.org/about-us/general-information/district-boundry-maps",
+    "note": "Fremont Union High School District；高中招生范围与按地址查询入口。"
+   },
+   {
+    "label": "Cupertino Safe Routes to School 各校路线图",
+    "kind": "safe_routes",
+    "url": "https://www.cupertino.gov/schoolmaps",
+    "note": "City of Cupertino；索引页标注更新于2026年7月，多数学校有简体中文版。"
+   },
+   {
+    "label": "Cupertino Park Finder",
+    "kind": "parks",
+    "url": "https://www.cupertino.gov/Parks-Recreation/Parks-and-Facilities/Find-a-Park",
+    "note": "City of Cupertino Parks and Recreation；按地址或活动搜索公园的互动地图入口。"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "CUSD School Locator 说明（初步结果、Student Assignment）",
+   "url": "https://www.cusdk8.org/registration/locator",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD 学校地图与学校名单",
+   "url": "https://www.cusdk8.org/about-us/district-map",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD 学区概况（学校数量、服务城市）",
+   "url": "https://www.cusdk8.org/about-us",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD Open Enrollment 政策与抽签",
+   "url": "https://www.cusdk8.org/registration/open-enrollment",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD Open Enrollment 常见问题",
+   "url": "https://www.cusdk8.org/departments/new-student-assignment/open-enrollment/open-enrollment-faqs",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD Alternative Schools 名单与地址",
+   "url": "https://www.cusdk8.org/schools/alternative-schools",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD 2026–2027 学生注册说明",
+   "url": "https://www.cusdk8.org/departments/new-student-assignment/student-registration/2026-2027-student-registration",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD ELO-P 项目信息",
+   "url": "https://www.cusdk8.org/departments/educational-services/expanded-learning-opportunities-program-elop/program-information",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD 官网导航（English Learners、CLIP 等页面入口）",
+   "url": "https://www.cusdk8.org/",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CUSD 2021年10月关闭与合并学校的报道",
+   "url": "https://www.svvoice.com/cusd-board-votes-to-close-three-schools-in-2022-23-school-year/",
+   "org": "Silicon Valley Voice",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUHSD 学区边界图与 Address Check Tool",
+   "url": "https://www.fuhsd.org/about-us/general-information/district-boundry-maps",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUHSD Enrollment（居住核验、转学项目延长）",
+   "url": "https://www.fuhsd.org/departments/enrollment",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUHSD Student Transfer Programs（LSSAP／MSSAP）",
+   "url": "https://www.fuhsd.org/departments/enrollment/student-transfer-options/student-transfer-programs",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUHSD Trustee Areas 说明",
+   "url": "https://www.fuhsd.org/newsroom/trustee-areas",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FUHSD 学区概况与课程支持",
+   "url": "https://www.fuhsd.org/about-us",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Santa Clara County Office of Education School District Locator",
+   "url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx",
+   "org": "Santa Clara County Office of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "California School Dashboard 说明页（2025 Dashboard）",
+   "url": "https://www.cde.ca.gov/ta/ac/cm/index.asp",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "California School Dashboard",
+   "url": "https://www.caschooldashboard.org/",
+   "org": "California Department of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Safe Routes to School 各校路线图",
+   "url": "https://www.cupertino.gov/schoolmaps",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Maps and GIS",
+   "url": "https://www.cupertino.gov/Residents/Maps-and-GIS",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "About Cupertino（位置、面积、图书馆）",
+   "url": "https://www.cupertino.gov/Your-City/About-Cupertino",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "General Plan: Community Vision 2015–2040 章节入口",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/General-Plan/General-Plan-Community-Vision",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "General Plan Planning Areas 章节（各片区范围与特征）",
+   "url": "https://cupertino.org/home/showpublisheddocument/9151/636280426123030000",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "General Plan Chapter 7 Health and Safety Element",
+   "url": "https://www.cupertino.gov/files/assets/city/v/2/departments/documents/community-development/planning/general-plan/chapter-7-health-and-safet.pdf",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Land Use Plans（Specific Plan 与概念规划）",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/General-Plan/Land-Use-Plans",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SV Hopper 市政府页面",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/SV-Hopper",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SV Hopper 拨款更新（2024年10月）",
+   "url": "https://www.cupertino.gov/News-articles/SV-Hopper-Grant-Funding-Update",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Silicon Valley Hopper 运营方页面",
+   "url": "https://city.ridewithvia.com/hopper",
+   "org": "Via",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SV Hopper（Santa Clara 市页面）",
+   "url": "https://www.santaclaraca.gov/our-city/departments-g-z/public-works/engineering/traffic-engineering/transportation-services/silicon-valley-sv-hopper",
+   "org": "City of Santa Clara",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Getting Around（市内交通概览）",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/Getting-Around",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Bicycle Network 与自行车地图",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/Getting-Around/Bicycle-Network",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA 线路列表",
+   "url": "https://www.vta.org/go/routes",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA 23 路",
+   "url": "https://www.vta.org/go/routes/23",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Rapid 523",
+   "url": "https://www.vta.org/go/routes/rapid-523",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "I-280／Wolfe Road Interchange Improvements Project",
+   "url": "https://www.vta.org/280wolfe",
+   "org": "Santa Clara Valley Transportation Authority",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain Sunnyvale 站",
+   "url": "https://www.caltrain.com/station/sunnyvale",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain Lawrence 站",
+   "url": "https://www.caltrain.com/station/lawrence",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Vallco／The Rise SB 35 申请页面",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/Major-Projects/The-Rise-Vallco-SB35-Application",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "The Rise Status Updates（内容停留在2023年5月）",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/Major-Projects/Vallco-Historical-Project-Information/Vallco-Status-Updates",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "The Rise 开发商新闻列表",
+   "url": "https://therisecalifornia.com/news/",
+   "org": "The Rise（Sand Hill Property Company）",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "The Rise 背景报道（2025年7月）",
+   "url": "https://siliconvalleyathome.org/cupertinos-long-awaited-project-to-begin-construction-in-2026/",
+   "org": "SV@Home",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "2023–2031 Housing Element",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/Major-Projects/6th-Cycle-Housing-Element-Update",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stevens Creek Boulevard Corridor Vision Study",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/Transportation-Plans-Studies/Stevens-Creek-Boulevard-Corridor-Vision-Study",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stevens Creek Boulevard Class IV Bikeways",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/Projects/Stevens-Creek-Boulevard-Class-IV-Bikeways",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "McClellan Road Separated Bike Corridor",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/Projects/McClellan-Road-Separated-Bike-Corridor",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Regnart Creek Trail 新闻稿（2022年5月）",
+   "url": "https://www.cupertino.gov/files/assets/city/v/1/your-city/documents/press-releases/press-release-regnart-cre.pdf",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Tamien Innu 步道项目",
+   "url": "https://www.cupertino.gov/Your-City/Departments/Public-Works/Transportation-Mobility/Projects/Tamien-Innu",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Lawrence-Mitty Park and Trail Master Plan",
+   "url": "https://www.cupertino.gov/lawrencemitty",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Memorial Park Specific Plan",
+   "url": "https://cupertino.gov/Your-City/Departments/Public-Works/Capital-Improvement-Programs-Projects/Memorial-Park-Specific-Plan",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Blackberry Farm",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Aquatics-and-Golf/Blackberry-Farm",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "McClellan Ranch Preserve",
+   "url": "https://www.cupertino.gov/Parks-Recreation/McClellan-Ranch-Preserve",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Athletic Fields and Courts（各公园地址与球场）",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Parks-and-Facilities/Athletic-Fields-and-Courts",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Dog Parks",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Parks-and-Facilities/Dog-Parks",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Outdoor Facilities（Memorial Park 设施）",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Parks-and-Facilities/Outdoor-Facilities",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Indoor Facilities（Quinlan、Senior Center 地址）",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Parks-and-Facilities/Indoor-Facilities",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Find a Park",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Parks-and-Facilities/Find-a-Park",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Sports Center",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Sports-Center",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Senior Center",
+   "url": "https://www.cupertino.gov/Parks-Recreation/Senior-Center",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Retail Shopping（商店分布概述）",
+   "url": "https://www.cupertino.gov/Your-City/Explore-Cupertino/Retail-Shopping",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Library 分馆页面",
+   "url": "https://sccld.org/locations/cupertino/",
+   "org": "Santa Clara County Library District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Main Street Cupertino 商户名录",
+   "url": "https://www.mainstreetcupertino.com/directory",
+   "org": "Main Street Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Village 商户名录",
+   "url": "https://cupertinovillage.shopkimco.com/stores",
+   "org": "Kimco Realty",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Whole Foods Market Stevens Creek 门店",
+   "url": "https://www.wholefoodsmarket.com/stores/cupertino",
+   "org": "Whole Foods Market",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Target Cupertino De Anza Blvd 门店",
+   "url": "https://www.target.com/sl/cupertino/323",
+   "org": "Target",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Main Street 内 Target 2021年关闭的报道",
+   "url": "https://patch.com/california/cupertino/target-plans-close-south-bay-location-report",
+   "org": "Patch",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "De Anza College Farmers' Market",
+   "url": "https://www.pcfma.org/deanza",
+   "org": "Pacific Coast Farmers' Market Association",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Rancho San Antonio Preserve",
+   "url": "https://www.openspace.org/preserves/rancho-san-antonio",
+   "org": "Midpeninsula Regional Open Space District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Fremont Older Preserve",
+   "url": "https://www.openspace.org/preserves/fremont-older",
+   "org": "Midpeninsula Regional Open Space District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Stevens Creek County Park",
+   "url": "https://parks.santaclaracounty.gov/locations/stevens-creek-county-park",
+   "org": "Santa Clara County Parks",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "El Camino Health 官网（院区与急诊入口）",
+   "url": "https://www.elcaminohealth.org/",
+   "org": "El Camino Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "El Camino Hospital Mountain View 急诊",
+   "url": "https://www.getcare.elcaminohealth.org/locations/mountain-view-hospital-campus/2500-grant-rd/emergency_room-mv",
+   "org": "El Camino Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "El Camino Health Urgent Care 列表（含 Cupertino）",
+   "url": "https://www.getcare.elcaminohealth.org/locations?specialties.name=Urgent+Care",
+   "org": "El Camino Health",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "LRA Fire Hazard Severity Zone Maps 说明",
+   "url": "https://cupertino.gov/Your-City/Divisions/Public-Safety-Programs/Emergency-Management/Current-IncidentsDisaster-Information/Local-Responsibility-Area-Fire-Hazard-Severity-Zone-Maps",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "CAL FIRE 更新分区图的市政府公告（2025年3月）",
+   "url": "https://www.cupertino.gov/News-articles/CAL-FIRE’s-Updated-Fire-Hazard-Map-for-Cupertino’s-Response-Area",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Fire Hazard Severity Zone 地图",
+   "url": "https://www.cupertino.gov/firehazardseverityzonemap",
+   "org": "City of Cupertino／State Fire Marshal",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Hazard Awareness App",
+   "url": "https://gis.cupertino.org/webmap/eoc_dashboard_public/",
+   "org": "City of Cupertino",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Valley Water Get Flood Ready",
+   "url": "https://www.valleywater.org/floodready",
+   "org": "Santa Clara Valley Water District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "FEMA Flood Map Service Center",
+   "url": "https://msc.fema.gov/portal/home",
+   "org": "FEMA",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "CGS EQ Zapp",
+   "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+   "org": "California Geological Survey",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "Valley Water 洪水区查询",
+   "url": "https://www.valleywater.org/floodzone",
+   "org": "Santa Clara Valley Water District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "Lehigh 水泥厂关闭协议（县议员办公室）",
+   "url": "https://d5.santaclaracounty.gov/node/5046",
+   "org": "County of Santa Clara, Supervisor District 5",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Lehigh 水泥厂关闭协议报道（2023年8月）",
+   "url": "https://sanjosespotlight.com/santa-clara-county-solidifies-cement-plant-closure/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Apple Park Visitor Center",
+   "url": "https://www.apple.com/retail/appleparkvisitorcenter/",
+   "org": "Apple",
+   "accessed": "2026-10-08",
+   "opened": true
+  }
+ ]
+}

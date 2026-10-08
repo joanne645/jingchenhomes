@@ -1,0 +1,895 @@
+{
+ "districts": [
+  {
+   "name": "Willow Glen",
+   "tag": "Lincoln Ave 老商业街 · 战前老房与林荫街道",
+   "where": "Willow Glen 在 Downtown 西南，大致夹在 I-280、SR-87 和 Los Gatos Creek 之间，往南过 Curtner Ave 逐渐接上 Cambrian。这个名字有两层意思：一是市政府 15 个 Planning Area 之一，范围比较大，市府公园数据甚至把 Union Ave 上的 Camden Community Center 也归在这个规划区里；二是本地人口中的 Willow Glen，通常只指 Lincoln Ave 两侧、邮编 95125 的老街区。两种说法都不是法定边界，也不对应学校招生范围，看房时以具体地址为准。",
+   "housing": "住房以独立屋为主，Lincoln Ave 周边多是二十世纪上半叶建的 bungalow、Tudor 和 Spanish Revival 风格老房，往南、往西则是战后的 ranch 平房，其间夹着不少翻建或加建过的房子。老房常见的情况是地块不大、车库是后院独立式或单车位、卧室和浴室数量按今天的标准偏少。看这类房子，检查重点放在地基、电路与管线是否更新过、加建部分有没有许可记录，以及街边大树的树根对人行道和下水管的影响。",
+   "daily": "生活重心在 Lincoln Ave 这条老商业街，餐馆、咖啡店和日常小店沿街排开，Willow Glen Elementary 也在这条街上（1425 Lincoln Ave）。Willow Glen Branch Library 在 1157 Minnesota Ave，Willow Glen Community & Senior Center 在 2175 Lincoln Ave。公园方面，Willow Street Frank Bramhall Park（1320 Willow St）有露天剧场和可预约的野餐区，南边还有 Wallenberg Park（Curtner Ave 与 Cottle Ave 路口）和 Lincoln Glen Park。骑车和跑步可以用 Los Gatos Creek Trail；市府步道数据里的 Three Creeks Trail 西段从 Lonus St 经 Coe Ave、Broadway Ave、Willow St 到 Minnesota Ave，各段是否已开放，去之前在市府 trail 页面确认。",
+   "commute_school": "开车主要靠 SR-87 和 I-280，去 Downtown 走地面道路即可。轨道在片区东缘：Tamien 站同时有 Caltrain 和 VTA 轻轨 Blue Line，再往南是 Curtner 站，VTA 资料显示 Tamien 有两百多个车位。从 Lincoln Ave 一带到车站这一段是开车、骑车还是有人接送，要自己走一遍。学校方面，这一带属于 San José Unified School District（TK–12），学区名单里有 Willow Glen Elementary、Booksin、Schallenberger、Willow Glen Middle 和 Willow Glen High。学区董事会 2026 年 3 月 26 日通过 Schools of Tomorrow 方案，自 2026–27 学年起关闭五所小学，其中 Canoas Elementary 并入 Ernesto Galarza Elementary，Hammer Montessori 项目从 Galarza 迁往 Gardner 校址；新的招生边界从 2027–28 学年起只对新入学的学生生效。所以同一个地址今年和明年查到的学校可能不同，学区为此提供了两个按学年区分的地址查询图。",
+   "tradeoffs": "选 Willow Glen，换来的是能走路去的商业街和成熟的街景，要接受的是老房的维护量、偏小的车库和收纳空间，以及翻新时的许可与成本。靠近 SR-87、I-280 和 Caltrain 线路的街道有交通噪音，靠近 Lincoln Ave 的街道在周末和活动日路边停车紧张。南缘受学校合并影响的街道，孩子的入学安排要按入学年份单独确认。",
+   "visit": "建议周六上午去一次 Lincoln Ave，感受人流和停车，再在工作日傍晚回来，从候选房子开车到 SR-87 入口和 Tamien 站各走一遍。在房子门口留意飞机、火车和高速的声音；看老房时，顺便看看两侧邻居有没有在翻建，街边停车是否已经很满。",
+   "school_districts": [
+    {
+     "name": "San José Unified School District",
+     "grades": "TK–12",
+     "locator_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=518f5af99e51456aabcb4cd44ca5ad3e"
+    }
+   ],
+   "links": [
+    {
+     "label": "SJUSD Schools of Tomorrow（合并决定与两个学年的查询图）",
+     "url": "https://sjusd.org/about/schools-of-tomorrow"
+    },
+    {
+     "label": "SJUSD 2027–28 学年及以后招生范围查询",
+     "url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=46b668b6d10842e58a044b14d051947f"
+    },
+    {
+     "label": "Willow Glen Branch Library",
+     "url": "https://www.sjpl.org/locations-table/"
+    },
+    {
+     "label": "VTA Tamien 站（轻轨与停车）",
+     "url": "https://www.vta.org/go/stations/tamien"
+    },
+    {
+     "label": "Caltrain Tamien 站时刻",
+     "url": "https://www.caltrain.com/station/tamien"
+    }
+   ]
+  },
+  {
+   "name": "Almaden Valley",
+   "tag": "南端山谷 · 独立屋与山麓地块",
+   "where": "Almaden Valley 在 San Jose 最南端，是 Santa Teresa Hills 和 Sierra Azul 山脉之间的一条谷地，Almaden Expressway 与 Camden Ave 是贯穿南北的两条主路，北端在 SR-85 附近接上 Blossom Valley 和 Cambrian。Almaden 是市政府 15 个 Planning Area 之一，日常说法大致对应邮编 95120；再往南的 New Almaden 是老矿区聚落。这些都是规划和习惯上的名称，不是法定边界，也不等于学校招生范围。",
+   "housing": "这里几乎都是独立屋，大部分建于 1960 到 1980 年代，以单层 ranch 和两层的四到五卧室户型为主，地块和车库普遍比城中心片区宽裕；靠山一侧有坡地和不规则地块，也有带 HOA 的封闭式小区。这个年代的房子要关注屋顶、暖通、原装铝窗和管线是否更新；坡地上的房子另外要看排水、挡土墙和地质报告。",
+   "daily": "公共设施集中在 Camden Ave 上：Almaden Community Center 和 Almaden Branch Library 共用 6445 Camden Ave 这处场地，图书馆页面列有一百多个车位和 VTA 64B、83 路公交。Almaden Lake Park 在 Almaden Expy 与 Coleman Rd 路口一带，是市级 regional park，Guadalupe River Trail 和 Los Alamitos Creek Trail 在这里衔接，后者沿溪一路向南经过 Via Valiente 和 Camden Ave。Guadalupe Oak Grove Park（Thorntree Dr 与 Starwood Dr 一带入口）以橡树林为主，旁边的 Jeffery Fontana Park 有狗公园。谷地南端的 Almaden Quicksilver County Park 是县立公园，主入口 Hacienda 在 21785 Almaden Rd，另有 Mockingbird Hill 入口，园内有三十多英里步道，免入园费。买菜和日常购物主要沿 Almaden Expy 和 Blossom Hill Rd 的几个商业中心解决，基本都要开车。",
+   "commute_school": "出谷主要靠 Almaden Expressway 向北接 SR-85，再转 SR-87 或 SR-17；谷地越往南，到高速入口之前的地面路段越长，早晚高峰都压在同一条路上。轨道方面，VTA 现行车站名单里没有 Almaden 站，最近的轻轨站是 Blue Line 的 Ohlone-Chynoweth，有五百多个车位；64A 路公交从该站沿 Almaden Expy 运行，64B 路到 Almaden 与 Camden 路口。学校要分两块看：谷地大部分属于 San José Unified（TK–12），学区名单中的 Leland High（6677 Camden Ave）、Bret Harte Middle、Castillero Middle 以及 Graystone、Williams、Simonds、Los Alamitos 等小学在这一带；北端靠近 SR-85 的部分街道属于 Union School District（小学和初中，其 Guadalupe Elementary 在 6044 Vera Cruz Dr，邮编同为 95120），高中归 Campbell Union High School District。SJUSD 2026 年 3 月通过的合并方案中，这一带的学校不在关闭名单内，但招生边界自 2027–28 学年起对新生调整，仍需按地址和入学年份查询。",
+   "tradeoffs": "Almaden 给的是空间、安静和就在家门口的山地步道，代价是位置偏南：去 North San Jose 或半岛方向，几乎每一趟都要先经过 Almaden Expy 和 SR-85，没有多少替代路线，公交选择也有限。靠山的地块景观好，同时要多做一轮功课，包括 CAL FIRE 的火险等级图、州地质调查局的断层与滑坡图层，以及由此带来的保险报价。",
+   "visit": "挑一个工作日早高峰，从候选房子开到 SR-85 入口，记录这一段地面路的实际状况，傍晚再反方向走一次。周末去 Almaden Lake Park 和 Almaden Quicksilver 的 Hacienda 入口各看一眼，了解停车和人流。看山麓房子时，绕到后院看坡面、排水沟和挡土墙，并记下周边植被离房子的距离。",
+   "school_districts": [
+    {
+     "name": "San José Unified School District",
+     "grades": "TK–12",
+     "locator_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=518f5af99e51456aabcb4cd44ca5ad3e"
+    },
+    {
+     "name": "Union School District",
+     "grades": "TK–8",
+     "locator_url": "https://unionschooldistrictexplorer.azurewebsites.net/"
+    },
+    {
+     "name": "Campbell Union High School District",
+     "grades": "9–12",
+     "locator_url": "http://campbellhighdistrictexplorer.azurewebsites.net/"
+    }
+   ],
+   "links": [
+    {
+     "label": "Almaden Quicksilver County Park（县公园官网）",
+     "url": "https://parks.santaclaracounty.gov/locations/almaden-quicksilver-county-park"
+    },
+    {
+     "label": "Almaden Branch Library",
+     "url": "https://www.sjpl.org/almaden/"
+    },
+    {
+     "label": "VTA Ohlone-Chynoweth 站",
+     "url": "https://www.vta.org/go/stations/ohlone-chynoweth"
+    },
+    {
+     "label": "VTA 64A 路公交",
+     "url": "https://www.vta.org/go/routes/64a"
+    },
+    {
+     "label": "SJUSD Schools of Tomorrow",
+     "url": "https://sjusd.org/about/schools-of-tomorrow"
+    }
+   ]
+  },
+  {
+   "name": "Cambrian",
+   "tag": "西南侧平地 · 战后 ranch 平房",
+   "where": "Cambrian 在 San Jose 西南，西接 Campbell 和 Los Gatos，SR-85 与 SR-17 从南、西两侧经过，Camden Ave、Union Ave、Hillsdale Ave 和 Bascom Ave 是内部主路。市政府的 Planning Area 叫 Cambrian/Pioneer，范围向东一直延伸到 Almaden Expy 一带；本地人说的 Cambrian 或 Cambrian Park 通常指邮编 95124 及 95118 的一部分。还有一点要留意：这一带有些地块至今不属于 San Jose 市，而是 Santa Clara County 的非建制（unincorporated）地块，邮寄地址同样写 San Jose，但建筑许可、治安和部分市政服务由县负责，买房前要在县 Assessor 或市府 GIS 上确认地址归属。",
+   "housing": "主体是 1950 到 1960 年代成片开发的单层 ranch 平房，三到四卧室，带双车位车库，地块规整，街道安静；沿主干道有一些公寓和联排。这类房子很多已经加建或翻新过，看房时要核对加建面积的许可记录，并关注屋顶、原装管线、电箱容量和地基通风。位于县辖地块的房子，许可记录要到县政府查，街道是否有人行道和路灯也可能与相邻的市辖街道不同。",
+   "daily": "日常设施比较分散，以开车为主。Camden Community Center 在 3369 Union Ave，同一地址有泳池和公园；Cambrian Branch Library 在 1780 Hillsdale Ave。Houge Park（3952 Twilight Dr）设有 neighborhood center，Paul Moore Park 在 Hillsdale Ave 上，Doerr Park 在 Potrero Dr 与 Park Wilshire Dr 路口。Los Gatos Creek Trail 在片区西北侧，市府数据列有 Meridian Ave 到 Leigh Ave、Leigh Ave 到 South Bascom Ave 的路段。医疗方面，Good Samaritan Hospital 在 2425 Samaritan Dr，设有全天急诊；是否在你的保险网络内要另外向保险公司确认。Camden Ave 与 Union Ave 路口的 Cambrian Park Plaza 是 1953 年建成的老商场，市议会 2022 年批准了改建为商住混合社区的方案；据 KQED 2026 年 4 月的报道，当时仍未动工，开发商申请调整许可以便先建住宅，市府在审查中，现有许可 2028 年到期。",
+   "commute_school": "开车向北走 SR-17 接 I-880 或 I-280，向西北走 SR-85 去 Cupertino、Mountain View 方向；片区内没有轨道站，去轻轨或 Caltrain 都要先开一段。学校是这里最需要按地址核对的部分。小学和初中分属两个学区：Cambrian School District（Bagby、Fammatre、Farnham、Price Middle，另有需要另行申请的 Steindorf STEAM Magnet）和 Union School District（Carlton、Noddin、Oster、Lietz、Union Middle、Dartmouth Middle 等）；高中归 Campbell Union High School District，这一带对应的主要是 Leigh 和 Branham。规划区东侧 Pioneer 一带则进入 San José Unified。三个学区都有各自的地址查询工具，Campbell Union HSD 在官网上写明，其边界图是确定就读高中的唯一官方依据，不要以房源描述或中介说法为准。",
+   "tradeoffs": "Cambrian 的房子实用、街区成熟，生活上要接受的是出门基本靠车、没有集中的步行商业街，以及一条街之隔学区不同的情况。靠近 SR-85、SR-17 的街道有高速噪音。Cambrian Park Plaza 周边的住户还要考虑改建项目的不确定性：它可能长期维持现状，也可能在未来几年进入施工。",
+   "visit": "工作日早上从候选房子分别开到 SR-85 和 SR-17 的入口，比较两条路线；放学时段去一趟对应的学校门口，看接送车流和过街情况。顺路在 Camden Ave 与 Union Ave 路口停一下，了解 Cambrian Park Plaza 现状。遇到没有人行道的街道，回去查一下它是不是县辖地块。",
+   "school_districts": [
+    {
+     "name": "Cambrian School District",
+     "grades": "TK–8",
+     "locator_url": "https://cambrianschooldistrictexplorer.azurewebsites.net/"
+    },
+    {
+     "name": "Union School District",
+     "grades": "TK–8",
+     "locator_url": "https://unionschooldistrictexplorer.azurewebsites.net/"
+    },
+    {
+     "name": "Campbell Union High School District",
+     "grades": "9–12",
+     "locator_url": "http://campbellhighdistrictexplorer.azurewebsites.net/"
+    },
+    {
+     "name": "San José Unified School District",
+     "grades": "TK–12",
+     "locator_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=518f5af99e51456aabcb4cd44ca5ad3e"
+    }
+   ],
+   "links": [
+    {
+     "label": "Campbell Union HSD 边界说明",
+     "url": "https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=443126&type=d&pREC_ID=955487"
+    },
+    {
+     "label": "Union School District 学校与地址查询",
+     "url": "https://www.unionsd.org/about/usd-schools"
+    },
+    {
+     "label": "Cambrian School District 入学",
+     "url": "https://www.cambriansd.org/register-or-enroll"
+    },
+    {
+     "label": "Good Samaritan Hospital",
+     "url": "https://www.goodsamsanjose.com/"
+    },
+    {
+     "label": "KQED：Cambrian Park Plaza 改建现状（2026年4月）",
+     "url": "https://www.kqed.org/news/12079104/cambrian-park-plaza-a-beloved-san-jose-strip-mall-awaits-a-new-future"
+    }
+   ]
+  },
+  {
+   "name": "Berryessa",
+   "tag": "东北侧 · BART 站与东山山麓之间",
+   "where": "Berryessa 在 San Jose 东北，西到 US-101 和 Coyote Creek 一带，东到 Diablo Range 山脚，北接 Milpitas，I-680 从中间南北穿过，Berryessa Rd、Hostetter Rd、Capitol Ave 和 Piedmont Rd 是主要道路。它是市政府 15 个 Planning Area 之一，日常说法大致对应邮编 95132、95133 等。名称不是法定边界，片区内涉及不止一个学区。",
+   "housing": "I-680 以东到山脚主要是 1960 到 1980 年代的成片独立屋，单层和两层都有，地块规整；I-680 以西和 BART 站周边近年建了不少联排和公寓，层数多、车库常为前后纵列式，带 HOA。看老独立屋关注屋顶、管线和窗户更新；看新联排则要把 HOA 费用、访客停车规则、楼梯层数，以及税单上有没有 Mello-Roos 之类的特别评估逐项核对。",
+   "daily": "Berryessa Community Center 在 3050 Berryessa Rd，Berryessa Branch Library 在 3355 Noble Ave，旁边就是 Noble Park。Penitencia Creek Park（3027 Penitencia Creek Rd）和沿溪的 Penitencia Creek Trail 是日常散步、骑车的主线，市府数据显示步道分段从 N King Rd 向东经 I-680、Capitol Ave 到 Piedmont Rd，一路通往 Alum Rock Park（15350 Penitencia Creek Rd），后者是市级 regional park，进山谷的步道和野餐区都在里面，开车入园的开放时间和收费先在市府页面查好。Cataldi Park（1765 Bethany Ave）和 Flickinger Park 也在片区内。买菜主要在 Berryessa Rd、Hostetter Rd 和 Capitol Ave 沿线的商业中心，其中有中式和其他亚洲食品超市，具体门店变动较多，看房当天顺路确认哪些在营业。",
+   "commute_school": "BART 的 Berryessa/North San José 站在 1620 Berryessa Rd，停车场由 VTA 管理，按日或按月收费，先到先得；站上有 VTA 公交，包括去 Downtown 和 Diridon 的 Rapid 500。另外，VTA 轻轨 Orange Line 沿 Capitol Ave 设有 Hostetter、Berryessa、Penitencia Creek 等站，可到 Milpitas 站换乘 BART；要注意轻轨的 Berryessa 站和 BART 的 Berryessa/North San José 站不是同一个地方。开车向北走 I-680 去 Milpitas、Fremont，走 US-101 或 I-880 去 North San Jose 和半岛。学校方面，片区大部分属于 Berryessa Union School District（TK–8），高中归 East Side Union High School District，这一带有 Piedmont Hills 和 Independence。Berryessa Union 董事会 2024 年 12 月 18 日表决，自 2025–26 学年起关闭 Cherrywood、Toyon、Laneview 三所小学，目前学区官网列出七所小学和三所初中；靠 US-101 一侧的部分地址属于 Orchard School District。两个学区都按地址查询，房源描述里若还写着已关闭的学校，以学区工具为准。",
+   "tradeoffs": "Berryessa 的优势是 BART、轻轨和两条高速都在附近，取舍在于站点周边的新房多为多层联排、要付 HOA，而带院子的独立屋离车站有一段距离，需要考虑最后一段怎么走。BART 轨道、I-680 和 US-101 沿线有噪音。Berryessa Rd 上的 San Jose Flea Market 用地已在 2021 年 6 月获批改为公交导向的开发，方案保留约五英亩的市集；根据市府页面引用的 2025 年 10 月业主季度报告，2026 年 3 月 31 日之前不会发出关闭通知，之后的时间表仍未确定，住在附近要预期未来有施工期。靠东山的地块需要在州地质调查局地图上查断层带和滑坡图层，在 CAL FIRE 地图上查火险等级。",
+   "visit": "工作日早上到 BART 站停车场看车位的实际情况，再从候选房子按你打算采用的方式到站台走一遍。傍晚在 Berryessa Rd 与 I-680 交汇处、Capitol Ave 一带观察车流。看站点周边的新联排，注意听列车声音，数一数访客车位；看东侧独立屋，则顺着 Piedmont Rd 走一段，了解坡度和通往 Alum Rock Park 的路线。",
+   "school_districts": [
+    {
+     "name": "Berryessa Union School District",
+     "grades": "TK–8",
+     "locator_url": "http://www.schfinder.com/berryessaunionsd/"
+    },
+    {
+     "name": "East Side Union High School District",
+     "grades": "9–12",
+     "locator_url": "http://www.myschoollocation.com/eastsideHSD/"
+    },
+    {
+     "name": "Orchard School District",
+     "grades": "K–8",
+     "locator_url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx"
+    }
+   ],
+   "links": [
+    {
+     "label": "BART Berryessa/North San José 站",
+     "url": "https://www.bart.gov/stations/bery"
+    },
+    {
+     "label": "VTA Orange Line 站点",
+     "url": "https://www.vta.org/go/routes/orange-line"
+    },
+    {
+     "label": "Berryessa Union SD 入学与 SchoolFinder",
+     "url": "https://www.berryessa.k12.ca.us/Departments/Education-Services/Enrollment-Information/index.html"
+    },
+    {
+     "label": "East Side Union HSD 招生边界",
+     "url": "https://www.esuhsd.org/__catapult_pages/b1faa965-3e82-480c-ab23-d36dff07e1bb/Boundaries.html"
+    },
+    {
+     "label": "市府 Flea Market 用地与摊主信息",
+     "url": "https://www.sjeconomy.com/how-we-help/programs-and-services/san-jose-flea-market-vendor-info"
+    }
+   ]
+  },
+  {
+   "name": "Evergreen",
+   "tag": "东南山麓 · 较新的独立屋社区",
+   "where": "Evergreen 在 San Jose 东南，背靠 Diablo Range 山麓，西边大致以 US-101 为界，北到 Tully Rd、Lake Cunningham 一带，Capitol Expressway、Aborn Rd、Yerba Buena Rd、San Felipe Rd 和 Silver Creek Rd 是主要道路。它是市政府 15 个 Planning Area 之一，日常说法包括邮编 95121、95135 等范围，内部又常被分成靠 US-101 的西侧老区、Evergreen Village Square 周边，以及 Silver Creek 一带的山坡社区。这些都是规划或习惯上的说法，不是法定边界。",
+   "housing": "房龄跨度大：西侧靠近 US-101 和 Capitol Expy 的多是 1970 年代的独立屋，越往东、往山上越新，1990 到 2000 年代建的两层独立屋占多数，卧室多、车库为双车位或三车位。山坡上有带门禁、围绕高尔夫球场的 Silver Creek Valley Country Club 社区，东南角的 The Villages 是有年龄限制的 55 岁以上社区，两处都有 HOA 和各自的规则，买之前要拿到 HOA 文件和费用明细。市府公园数据把 Evergreen Village Square 周边的很多口袋公园标为 CFD（Community Facilities District）类型，这类新社区的税单上可能有相应的特别评估，需要逐户看税单。",
+   "daily": "Evergreen Village Square 是东侧的社区中心，广场边有 Village Square Branch Library（4001 Evergreen Village Square）。西侧的 Evergreen Branch Library 在 2635 Aborn Rd。Evergreen Community Center 在 4860 San Felipe Rd，与 Evergreen Park 同址。Lake Cunningham Park（2305 S White Rd）是市级 regional park，园内有 Action Sports Park，入园停车是否收费、各设施开放时间以市府页面为准。Montgomery Hill Park 紧邻 Evergreen Valley College，Evergreen Creek Trail 从 Falls Creek Dr 通到这里；Thompson Creek Trail 从 Tully Rd 经 Quimby Rd 到 Aborn Rd 的几段已在市府步道数据中列为现有步道，再往南的若干段仍标为规划中。Groesbeck Hill Park 在 2646 Klein Rd。大型购物在片区北缘的 Eastridge 一带，日常买菜沿 Aborn Rd、Capitol Expy 和 San Felipe Rd 的商业中心解决。",
+   "commute_school": "Evergreen 内部没有高速公路，出门基本都要先走 Capitol Expressway、Yerba Buena Rd、Aborn Rd 或 Tully Rd 这些地面干道到 US-101，再转 I-280、I-680 或 SR-85；住得越靠山，这段地面路越长。轨道方面，VTA 正在修建 Eastridge to BART Regional Connector，把轻轨从现有的 Alum Rock 站沿 Capitol Expy 中央的高架延伸约 2.4 英里到 Eastridge Transit Center，中间设 Story Road 站。工程 2024 年春季开工，VTA 项目页 2026 年 9 月的更新称高架主体结构已完成九成以上，接下来是铺轨和测试，预计 2028 年初全部完工，通车日期以 VTA 公布为准。学校方面，小学和初中属于 Evergreen School District（TK–8），官网列出十三所小学和 Chaboya、LeyVa、Quimby Oak 三所初中；该学区在 2019–20 学年结束时关闭了 Laurelwood 和 Dove Hill 两所小学，旧房源资料里可能还有这两个名字。高中归 East Side Union High School District，这一带有 Evergreen Valley High 和 Silver Creek High。两个学区各有按地址查询的工具。",
+   "tradeoffs": "在 Evergreen 能买到的通常是更新、更大的独立屋，取舍主要在交通：没有就近的高速入口，去 North San Jose、半岛或东湾都要先穿过同几条地面干道，轻轨延伸线通车前轨道选择有限。山坡社区景观开阔，同时要查 CAL FIRE 火险等级图和州地质调查局的断层、滑坡图层，并把保险报价、HOA 和可能存在的 CFD 评估一并算进持有成本。",
+   "visit": "工作日早高峰从候选房子开到 US-101 的 Capitol Expy 或 Yerba Buena Rd 入口，记下卡在哪几个路口；傍晚去 Evergreen Village Square 走一圈，看停车和周边街道。顺路经过 Capitol Expy 上的轻轨施工段，了解它与住处的距离。看山坡房子时，注意车道坡度、后院坡面和周边植被，回去按地址查火险和地质图层。",
+   "school_districts": [
+    {
+     "name": "Evergreen School District",
+     "grades": "TK–8",
+     "locator_url": "https://locator.pea.powerschool.com/?StudyID=235017"
+    },
+    {
+     "name": "East Side Union High School District",
+     "grades": "9–12",
+     "locator_url": "http://www.myschoollocation.com/eastsideHSD/"
+    }
+   ],
+   "links": [
+    {
+     "label": "VTA Eastridge to BART Regional Connector 项目页",
+     "url": "https://www.vta.org/projects/eastridge-bart-regional-connector"
+    },
+    {
+     "label": "Evergreen School District 官网",
+     "url": "https://www.eesd.org/"
+    },
+    {
+     "label": "Evergreen SD 学校合并说明",
+     "url": "https://www.eesd.org/fs/pages/3708"
+    },
+    {
+     "label": "East Side Union HSD 招生边界",
+     "url": "https://www.esuhsd.org/__catapult_pages/b1faa965-3e82-480c-ab23-d36dff07e1bb/Boundaries.html"
+    },
+    {
+     "label": "San José Public Library 分馆地址表",
+     "url": "https://www.sjpl.org/locations-table/"
+    }
+   ]
+  },
+  {
+   "name": "West San Jose",
+   "tag": "紧邻 Cupertino 与 Saratoga · 一个名字下多个学区",
+   "where": "West San Jose 指 San Jose 最西边、被 Cupertino、Saratoga、Campbell 和 Santa Clara 四个城市包围的一块，I-280 在北，Lawrence Expressway 和 San Tomas Expressway 南北穿过，Saratoga Ave、Stevens Creek Blvd、Bollinger Rd 和 Prospect Rd 是主要道路。市政府对应的 Planning Area 叫 West Valley，房源和日常说法多用 West San Jose，邮编包括 95129、95117 等。它不是独立城市，也没有法定边界：这里的房子邮寄地址写 San Jose，市政服务归 San Jose，但学区可能是名字里带 Cupertino 或 Campbell 的学区，三件事要分开看。",
+   "housing": "以 1950 到 1960 年代的单层 ranch 平房为主，三到四卧室、双车位车库，地块规整，很多已经翻新或加建第二层；Saratoga Ave、Stevens Creek Blvd 和 Winchester Blvd 沿线有公寓和联排，Santana Row 一带是较新的高密度公寓。看老平房时核对加建许可、屋顶、管线和电箱；如果遇到平屋顶、大玻璃、地暖埋在楼板里的世纪中期现代风格房子，要请熟悉这类结构的验屋师。",
+   "daily": "公共设施分成几簇。西南靠近 Cupertino 的一侧有 Calabazas Branch Library（1230 S Blaney Ave）和同一条街上的 Calabazas Park，Rainbow Park（1295 Johnson Ave）有 neighborhood center，Lynbrook High School 也在这条街上。中部有 Saratoga Creek Park（5293 Hoyet Dr）和旁边的狗公园、Murdock Park（1188 Wunderlich Dr）。靠东的 San Tomas 一带有 West Valley Branch Library（1243 San Tomas Aquino Rd）和 Starbird Park（1050 Boynton Ave），Cypress Community Center 在 403 Cypress Ave。购物选择多：北缘是 Santana Row 和 Valley Fair，Saratoga Ave 上有 Westgate Center，Saratoga Ave、De Anza Blvd 和 Stevens Creek Blvd 沿线有多家日本、韩国和中式超市，门店以当下营业情况为准。Saratoga Ave 与 Lawrence Expy 路口的 El Paseo de Saratoga 正在改建：市府 2024 年 12 月批准了修订方案，包括七百多套公寓、一处长者照护设施和一家 Whole Foods，2025 年 8 月的报道显示西侧旧商铺已在拆除，整体工期预计接近四年。",
+   "commute_school": "开车走 I-280 向北去 Cupertino、Sunnyvale 和半岛，Lawrence 与 San Tomas 两条 Expressway 向北通到 US-101 和 North San Jose，向南接 SR-85 或 SR-17。片区内没有 Caltrain 或 BART 站，轨道通勤要先到 Santa Clara、Sunnyvale 或 Diridon。学校是这里最容易弄错的部分，至少涉及五个学区。靠近 Cupertino 的一侧，小学和初中属于 Cupertino Union School District，高中属于 Fremont Union High School District，Lynbrook High 的校址就在 San Jose 境内（1280 Johnson Ave）；注意这是南湾的 Fremont Union，与 Fremont 市的 Fremont Unified 无关。中部和东部，小学和初中属于 Moreland School District 或 Campbell Union School District，高中属于 Campbell Union High School District，对应 Prospect 或 Westmont 等校。同一个社区名、甚至同一条街的两侧都可能分属不同学区。查的顺序是：先用县教育局的 School District Locator（它指向县 Assessor 的地块记录）确认地址属于哪个学区，再到该学区自己的地址查询工具查具体学校。Cupertino Union 写明查询结果只是初步分配，正式安排在注册时由学区给出；Fremont Union 也提醒，买房或租房这类决定应以县级查询为准。",
+   "tradeoffs": "West San Jose 的吸引力在于位置居中、购物方便；需要留意的是学区归属随街道变化，部分街道属于名字里带 Cupertino 的学区，房源描述里的学区信息必须自己按地址复核。Lawrence、San Tomas 两条 Expressway 和 I-280 沿线有噪音，Santana Row、Valley Fair 周边节假日车流大。El Paseo 附近未来几年处于施工期，建成后这一带的交通和商业都会变化。",
+   "visit": "带上候选地址，现场用手机在县 Assessor 和对应学区的查询工具上各查一遍，再去看房。工作日傍晚沿 Saratoga Ave 从 I-280 开到 Lawrence Expy，感受车流，并在 El Paseo 工地旁停一下。周末分别去 Calabazas Park 和 Saratoga Creek Park，比较西南和中部两小片的街道气氛。靠近 Expressway 的房子，在后院多站一会儿听噪音。",
+   "school_districts": [
+    {
+     "name": "Cupertino Union School District",
+     "grades": "TK–8",
+     "locator_url": "https://www.cusdk8.org/registration/locator"
+    },
+    {
+     "name": "Fremont Union High School District",
+     "grades": "9–12",
+     "locator_url": "http://www.schfinder.com/fuhsd/"
+    },
+    {
+     "name": "Moreland School District",
+     "grades": "TK–8",
+     "locator_url": "https://locator.decisioninsite.com/?StudyID=162014"
+    },
+    {
+     "name": "Campbell Union School District",
+     "grades": "Preschool–8",
+     "locator_url": "https://www.campbellusd.org/findschool"
+    },
+    {
+     "name": "Campbell Union High School District",
+     "grades": "9–12",
+     "locator_url": "http://campbellhighdistrictexplorer.azurewebsites.net/"
+    }
+   ],
+   "links": [
+    {
+     "label": "县教育局 School District Locator",
+     "url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx"
+    },
+    {
+     "label": "Fremont Union HSD 边界图与地址查询",
+     "url": "https://www.fuhsd.org/about-us/general-information/district-boundry-maps"
+    },
+    {
+     "label": "Cupertino Union SD School Locator",
+     "url": "https://www.cusdk8.org/registration/locator"
+    },
+    {
+     "label": "Moreland School District 官网",
+     "url": "https://www.moreland.org/"
+    },
+    {
+     "label": "Campbell Union HSD 边界说明",
+     "url": "https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=443126&type=d&pREC_ID=955487"
+    }
+   ]
+  }
+ ],
+ "map": {
+  "pois": [
+   {
+    "name": "Willow Glen Branch Library",
+    "category": "library",
+    "address": "1157 Minnesota Ave, San Jose, CA 95125",
+    "district": "Willow Glen"
+   },
+   {
+    "name": "Willow Glen Community & Senior Center",
+    "category": "community",
+    "address": "2175 Lincoln Ave, San Jose, CA 95125",
+    "district": "Willow Glen"
+   },
+   {
+    "name": "Willow Street Frank Bramhall Park",
+    "category": "park",
+    "address": "1320 Willow St, San Jose, CA 95125",
+    "district": "Willow Glen"
+   },
+   {
+    "name": "Willow Glen Elementary School",
+    "category": "school_admin",
+    "address": "1425 Lincoln Ave, San Jose, CA 95125",
+    "district": "Willow Glen"
+   },
+   {
+    "name": "Wallenberg Park",
+    "category": "park",
+    "address": "Curtner Ave & Cottle Ave, San Jose, CA 95125",
+    "district": "Willow Glen"
+   },
+   {
+    "name": "Almaden Branch Library",
+    "category": "library",
+    "address": "6445 Camden Ave, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Almaden Community Center",
+    "category": "community",
+    "address": "6445 Camden Ave, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Almaden Lake Park",
+    "category": "park",
+    "address": "Almaden Expy & Coleman Rd, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Guadalupe Oak Grove Park",
+    "category": "park",
+    "address": "Thorntree Dr & Starwood Dr, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Jeffery Fontana Park",
+    "category": "park",
+    "address": "1291 Oakglen Way, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Almaden Quicksilver County Park (Hacienda Entrance)",
+    "category": "trailhead",
+    "address": "21785 Almaden Rd, San Jose, CA 95120",
+    "district": "Almaden Valley"
+   },
+   {
+    "name": "Camden Community Center",
+    "category": "community",
+    "address": "3369 Union Ave, San Jose, CA 95124",
+    "district": "Cambrian"
+   },
+   {
+    "name": "Cambrian Branch Library",
+    "category": "library",
+    "address": "1780 Hillsdale Ave, San Jose, CA 95124",
+    "district": "Cambrian"
+   },
+   {
+    "name": "Houge Park",
+    "category": "park",
+    "address": "3952 Twilight Dr, San Jose, CA 95124",
+    "district": "Cambrian"
+   },
+   {
+    "name": "Doerr Park",
+    "category": "park",
+    "address": "Potrero Dr & Park Wilshire Dr, San Jose, CA 95124",
+    "district": "Cambrian"
+   },
+   {
+    "name": "Good Samaritan Hospital",
+    "category": "hospital",
+    "address": "2425 Samaritan Dr, San Jose, CA 95124",
+    "district": "Cambrian"
+   },
+   {
+    "name": "Berryessa Community Center",
+    "category": "community",
+    "address": "3050 Berryessa Rd, San Jose, CA 95132",
+    "district": "Berryessa"
+   },
+   {
+    "name": "Berryessa Branch Library",
+    "category": "library",
+    "address": "3355 Noble Ave, San Jose, CA 95132",
+    "district": "Berryessa"
+   },
+   {
+    "name": "Penitencia Creek Park",
+    "category": "park",
+    "address": "3027 Penitencia Creek Rd, San Jose, CA 95132",
+    "district": "Berryessa"
+   },
+   {
+    "name": "Alum Rock Park",
+    "category": "park",
+    "address": "15350 Penitencia Creek Rd, San Jose, CA 95127",
+    "district": "Berryessa"
+   },
+   {
+    "name": "Cataldi Park",
+    "category": "park",
+    "address": "1765 Bethany Ave, San Jose, CA 95132",
+    "district": "Berryessa"
+   },
+   {
+    "name": "Evergreen Branch Library",
+    "category": "library",
+    "address": "2635 Aborn Rd, San Jose, CA 95121",
+    "district": "Evergreen"
+   },
+   {
+    "name": "Village Square Branch Library",
+    "category": "library",
+    "address": "4001 Evergreen Village Square, San Jose, CA 95135",
+    "district": "Evergreen"
+   },
+   {
+    "name": "Evergreen Community Center",
+    "category": "community",
+    "address": "4860 San Felipe Rd, San Jose, CA 95135",
+    "district": "Evergreen"
+   },
+   {
+    "name": "Lake Cunningham Park",
+    "category": "park",
+    "address": "2305 S White Rd, San Jose, CA 95148",
+    "district": "Evergreen"
+   },
+   {
+    "name": "Groesbeck Hill Park",
+    "category": "park",
+    "address": "2646 Klein Rd, San Jose, CA 95148",
+    "district": "Evergreen"
+   },
+   {
+    "name": "Calabazas Branch Library",
+    "category": "library",
+    "address": "1230 S Blaney Ave, San Jose, CA 95129",
+    "district": "West San Jose"
+   },
+   {
+    "name": "Calabazas Park",
+    "category": "park",
+    "address": "1121 S Blaney Ave, San Jose, CA 95129",
+    "district": "West San Jose"
+   },
+   {
+    "name": "Rainbow Park",
+    "category": "park",
+    "address": "1295 Johnson Ave, San Jose, CA 95129",
+    "district": "West San Jose"
+   },
+   {
+    "name": "Saratoga Creek Park",
+    "category": "park",
+    "address": "5293 Hoyet Dr, San Jose, CA 95129",
+    "district": "West San Jose"
+   },
+   {
+    "name": "West Valley Branch Library",
+    "category": "library",
+    "address": "1243 San Tomas Aquino Rd, San Jose, CA 95117",
+    "district": "West San Jose"
+   },
+   {
+    "name": "Cypress Community Center",
+    "category": "community",
+    "address": "403 Cypress Ave, San Jose, CA 95117",
+    "district": "West San Jose"
+   }
+  ],
+  "district_anchors": [
+   {
+    "district": "Willow Glen",
+    "anchor": "Lincoln Ave & Willow St, San Jose, CA 95125"
+   },
+   {
+    "district": "Almaden Valley",
+    "anchor": "Almaden Branch Library, 6445 Camden Ave, San Jose, CA 95120"
+   },
+   {
+    "district": "Cambrian",
+    "anchor": "Camden Ave & Union Ave, San Jose, CA 95124"
+   },
+   {
+    "district": "Berryessa",
+    "anchor": "Berryessa Community Center, 3050 Berryessa Rd, San Jose, CA 95132"
+   },
+   {
+    "district": "Evergreen",
+    "anchor": "Evergreen Village Square, San Jose, CA 95135"
+   },
+   {
+    "district": "West San Jose",
+    "anchor": "Saratoga Ave & Lawrence Expy, San Jose, CA 95129"
+   }
+  ],
+  "stations": [
+   {
+    "name": "Tamien Station",
+    "system": "Caltrain / VTA Light Rail",
+    "address": "1355 Lick Ave, San Jose, CA 95110"
+   },
+   {
+    "name": "Curtner Station",
+    "system": "VTA Light Rail",
+    "address": "Curtner Station, San Jose, CA"
+   },
+   {
+    "name": "Ohlone-Chynoweth Station",
+    "system": "VTA Light Rail",
+    "address": "Ohlone-Chynoweth Station, San Jose, CA"
+   },
+   {
+    "name": "Berryessa/North San José Station",
+    "system": "BART",
+    "address": "1620 Berryessa Rd, San Jose, CA 95133"
+   },
+   {
+    "name": "Penitencia Creek Station",
+    "system": "VTA Light Rail",
+    "address": "Penitencia Creek Station, N Capitol Ave, San Jose, CA"
+   },
+   {
+    "name": "Alum Rock Station",
+    "system": "VTA Light Rail",
+    "address": "Alum Rock Station, N Capitol Ave, San Jose, CA"
+   },
+   {
+    "name": "Eastridge Transit Center",
+    "system": "VTA Light Rail（延伸线施工中）",
+    "address": "Eastridge Transit Center, San Jose, CA"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "市府开放数据：15 个 Planning Area 说明",
+   "url": "https://data.sanjoseca.gov/dataset/planning-areas",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市府 GIS：Planning Area 名称列表",
+   "url": "https://geo.sanjoseca.gov/server/rest/services/OPN/OPN_OpenDataService/MapServer/544/query?where=1%3D1&outFields=*&returnGeometry=false&f=json",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市府开放数据：Park 数据集（公园与步道名称、地址、类型）",
+   "url": "https://data.sanjoseca.gov/dataset/park",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市府 GIS：Park 图层（按 Planning Area 查询公园地址）",
+   "url": "https://geo.sanjoseca.gov/server/rest/services/OPN/OPN_OpenDataService/MapServer/188",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市府开放数据：Community Center 数据集",
+   "url": "https://data.sanjoseca.gov/dataset/community-center",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市府 GIS：社区中心名称与地址",
+   "url": "https://geo.sanjoseca.gov/server/rest/services/OPN/OPN_OpenDataService/MapServer/187/query?where=1%3D1&outFields=*&returnGeometry=false&f=json",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "市府设施目录（Willow Street Frank Bramhall Park 地址）",
+   "url": "https://sanjoseca.gov/residents/advanced-components/list-detail-pages/facility-directory-table-list/-npage-3/-sortn-FCAddress/-sortd-asc",
+   "org": "City of San José",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "图书馆分馆地址表",
+   "url": "https://www.sjpl.org/locations-table/",
+   "org": "San José Public Library",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Almaden Branch Library（地址、停车、公交）",
+   "url": "https://www.sjpl.org/almaden/",
+   "org": "San José Public Library",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJUSD Schools of Tomorrow：2026-03-26 决定、关闭与接收学校、两个学年的查询图",
+   "url": "https://sjusd.org/about/schools-of-tomorrow",
+   "org": "San José Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJUSD 学校名单与 School Finder",
+   "url": "https://www.sjusd.org/schools",
+   "org": "San José Unified School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "SJUSD 关闭五所小学的表决报道（2026-03-26）",
+   "url": "https://sanjosespotlight.com/san-joses-largest-district-school-closes-five-schools/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Union School District 学校地址与 Address Lookup",
+   "url": "https://www.unionsd.org/about/usd-schools",
+   "org": "Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cambrian School District 官网（学校名单、School Finder）",
+   "url": "https://www.cambriansd.org/",
+   "org": "Cambrian School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Campbell Union HSD 官网（高中名单、School Locator）",
+   "url": "https://www.cuhsd.org/",
+   "org": "Campbell Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Campbell Union HSD 边界说明",
+   "url": "https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=443126&type=d&pREC_ID=955487",
+   "org": "Campbell Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Berryessa Union SD 官网（现有学校名单）",
+   "url": "https://www.berryessa.k12.ca.us/",
+   "org": "Berryessa Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Berryessa Union SD 入学信息与 SchoolFinder",
+   "url": "https://www.berryessa.k12.ca.us/Departments/Education-Services/Enrollment-Information/index.html",
+   "org": "Berryessa Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Berryessa Union 关闭三所小学的表决报道（2024-12）",
+   "url": "https://sanjosespotlight.com/san-jose-berryessa-union-school-district-to-close-three-campuses/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "East Side Union HSD 官网（高中名单）",
+   "url": "https://www.esuhsd.org/",
+   "org": "East Side Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "East Side Union HSD 招生边界与 Attendance Area Locator",
+   "url": "https://www.esuhsd.org/__catapult_pages/b1faa965-3e82-480c-ab23-d36dff07e1bb/Boundaries.html",
+   "org": "East Side Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Evergreen School District 官网（学校名单、School of Residence 查询）",
+   "url": "https://www.eesd.org/",
+   "org": "Evergreen School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Evergreen SD 学校合并说明（Laurelwood、Dove Hill）",
+   "url": "https://www.eesd.org/fs/pages/3708",
+   "org": "Evergreen School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Evergreen SD 2020 年关闭两校的报道",
+   "url": "https://sanjosespotlight.com/san-jose-panel-decides-two-evergreen-schools-will-close-this-spring/",
+   "org": "San José Spotlight",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Union SD School Locator 说明",
+   "url": "https://www.cusdk8.org/registration/locator",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cupertino Union SD 学区地图页",
+   "url": "https://www.cusdk8.org/about-us/district-map",
+   "org": "Cupertino Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Fremont Union HSD 官网（Lynbrook High 位于 San Jose）",
+   "url": "https://www.fuhsd.org/",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Fremont Union HSD 边界图与 Address Check",
+   "url": "https://www.fuhsd.org/about-us/general-information/district-boundry-maps",
+   "org": "Fremont Union High School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Moreland School District 官网（学校名单、School Locator）",
+   "url": "https://www.moreland.org/",
+   "org": "Moreland School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Campbell Union School District 官网（学校名单、Find Your School）",
+   "url": "https://www.campbellusd.org/",
+   "org": "Campbell Union School District",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "县教育局 School District Locator",
+   "url": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx",
+   "org": "Santa Clara County Office of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "县教育局家庭资源页",
+   "url": "https://www.sccoe.org/resources/families/Pages/default.aspx",
+   "org": "Santa Clara County Office of Education",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cambrian School District 入学页",
+   "url": "https://www.cambriansd.org/register-or-enroll",
+   "org": "Cambrian School District",
+   "accessed": "2026-10-08",
+   "opened": false
+  },
+  {
+   "label": "VTA Eastridge to BART Regional Connector 项目页（2026-09 更新）",
+   "url": "https://www.vta.org/projects/eastridge-bart-regional-connector",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA 车站列表",
+   "url": "https://www.vta.org/go/stations",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Tamien 站",
+   "url": "https://www.vta.org/go/stations/tamien",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Ohlone-Chynoweth 站",
+   "url": "https://www.vta.org/go/stations/ohlone-chynoweth",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Berryessa Transit Center",
+   "url": "https://www.vta.org/go/stations/berryessa-station",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Blue Line 站点",
+   "url": "https://www.vta.org/go/routes/blue-line",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA Orange Line 站点",
+   "url": "https://www.vta.org/go/routes/orange-line",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "VTA 64A 路公交",
+   "url": "https://www.vta.org/go/routes/64a",
+   "org": "Santa Clara VTA",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Caltrain Tamien 站",
+   "url": "https://www.caltrain.com/station/tamien",
+   "org": "Caltrain",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "BART Berryessa/North San José 站（地址、停车、接驳）",
+   "url": "https://www.bart.gov/stations/bery",
+   "org": "BART",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Almaden Quicksilver County Park",
+   "url": "https://parks.santaclaracounty.gov/locations/almaden-quicksilver-county-park",
+   "org": "Santa Clara County Parks",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Good Samaritan Hospital",
+   "url": "https://www.goodsamsanjose.com/",
+   "org": "Good Samaritan Hospital",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Flea Market 用地改建与摊主信息（2025-10 季度报告）",
+   "url": "https://www.sjeconomy.com/how-we-help/programs-and-services/san-jose-flea-market-vendor-info",
+   "org": "City of San José Office of Economic Development",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "Cambrian Park Plaza 改建现状（2026-04）",
+   "url": "https://www.kqed.org/news/12079104/cambrian-park-plaza-a-beloved-san-jose-strip-mall-awaits-a-new-future",
+   "org": "KQED",
+   "accessed": "2026-10-08",
+   "opened": true
+  },
+  {
+   "label": "El Paseo de Saratoga 改建施工报道（2025-08）",
+   "url": "https://sfyimby.com/2025/08/construction-underway-for-el-paseo-de-saratoga-san-jose.html",
+   "org": "SF YIMBY",
+   "accessed": "2026-10-08",
+   "opened": true
+  }
+ ]
+}
