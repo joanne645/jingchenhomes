@@ -1,0 +1,29 @@
+{
+  "slug": "maintenance-renovation",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "房屋维护与装修：季节清单、Permit 和查承包商执照",
+    "seo_title": "加州房屋维护与装修指南｜陈靖",
+    "description": "湾区房主一年四季的维护重点，装修前如何判断 permit、用 CSLB 查承包商执照，以及合同、付款和 lien 上要注意的规则，帮你避开日后卖房才暴露的问题。",
+    "lead": "很多大修都是小问题拖出来的，很多卖房时的麻烦来自当年没拉 permit。这篇先讲日常维护，再讲动工前该查什么。"
+  },
+  "en": {
+    "title": "Home Maintenance and Renovation: Seasons, Permits and Contractors",
+    "seo_title": "Bay Area Home Maintenance & Renovation | Jing Chen",
+    "description": "A seasonal upkeep checklist for Bay Area homes, plus how to handle permits, verify a CSLB license, structure payments and protect against liens.",
+    "lead": "Big repairs often start as small ones left alone, and many problems at resale trace back to work done without a permit. Here is how to stay ahead of both."
+  },
+  "notice": "legal",
+  "sources": [
+    {"label": "CSLB：What You Should Know Before Hiring a Contractor", "url": "https://www2.cslb.ca.gov/Resources/GuidesAndPublications/WYSKbro_ENG0525_ADA.pdf"},
+    {"label": "CSLB：Construction Project Checklist", "url": "https://www.cslb.ca.gov/Resources/GuidesAndPublications/Construction_Checklist_2025.pdf"},
+    {"label": "CSLB：Home Improvement Contracts Consumer Guide", "url": "https://www.cslb.ca.gov/Resources/GuidesAndPublications/HomeImprovementContractsConsumerGuide.pdf"},
+    {"label": "California BOE：New Construction", "url": "https://www.boe.ca.gov/proptaxes/newconstructionproperty.htm"},
+    {"label": "California Seismic Safety Commission：Health & Safety Code 19211", "url": "https://pfwt.ssc.ca.gov/wp-content/uploads/sites/17/2020/08/health_and_safety_19211.pdf"},
+    {"label": "Civil Code 1102.6：Transfer Disclosure Statement 条文（Epsten 转载）", "url": "https://www.epsten.com/civil-code-2014-1102-6-transfer-disclosure-statement/"},
+    {"label": "City of Palo Alto：Earthquake Brace + Bolt 通知（2025 年 8 月）", "url": "https://www.paloalto.gov/News-Articles/Office-of-Emergency-Services/Earthquake-Brace-and-Bolt-Program-offered-in-Palo-Alto"},
+    {"label": "California Residential Mitigation Program：Earthquake Brace + Bolt", "url": "https://www.crmp.org/ad/ebb-retrofit-grant-program-signup"}
+  ],
+  "related": ["adu-basics", "holding-costs", "property-tax-insurance"]
+}

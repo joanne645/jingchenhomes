@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""检查城市指南、买房/卖房服务页和城市比较文章里的外部链接是否还能打开。
+"""检查全站页面（中英文）里的外部链接是否还能打开。
 
 用法（在仓库根目录运行，需要联网）：
     python3 tools/check_links.py            # 检查全部页面
@@ -19,7 +19,7 @@ UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTM
 
 def collect(only=None):
     links = {}
-    files = sorted((ROOT / 'cities').glob('*.html')) + sorted((ROOT / 'guides').glob('*.html')) + [ROOT / 'buy.html', ROOT / 'sell.html']
+    files = [f for f in ROOT.rglob('*.html') if not ({'.git', 'tools', 'dashboard', 'node_modules'} & set(f.relative_to(ROOT).parts))]
     for f in files:
         if not f.exists():
             continue

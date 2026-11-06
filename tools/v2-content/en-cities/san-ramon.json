@@ -1,0 +1,66 @@
+{
+  "slug": "san-ramon",
+  "name": "San Ramon",
+  "county": "Contra Costa County",
+  "seo_title": "San Ramon Neighborhoods and Commute Guide | Jing Chen",
+  "description": "A San Ramon guide to Bishop Ranch, older west-side homes, Dougherty Valley, BART connections, HOA costs and SRVUSD lookups for specific homes.",
+  "h1": "Living in San Ramon: Count the Trip to BART in Your Daily Route",
+  "lead": "San Ramon has no rail station, so a trip to San Francisco or the South Bay starts with a drive or bus connection. Compare the older west side and newer Dougherty Valley with that first leg counted in.",
+  "tagline": "Along I-680, no BART in town, Bishop Ranch at the center, and the Iron Horse Trail",
+  "overview": [
+    "San Ramon is at the southern end of Contra Costa County in the northern Tri-Valley, with Danville to the north and Dublin to the south. I-680 runs through the western half, which holds the older neighborhoods and the Bishop Ranch office park; the eastern half, Dougherty Valley, is a newer planned area with more townhomes and condos. Crow Canyon Rd, Bollinger Canyon Rd and the Alcosta Blvd line tie the city together, and Dougherty Rd leads south from Dougherty Valley to Dublin and Dublin/Pleasanton BART. There is no freeway west, though Crow Canyon Rd crosses the hills toward I-580 on the Castro Valley side.",
+    "The west side generally uses ZIP code 94583 and the Dougherty Valley side 94582, and San Ramon Valley Unified and San Ramon Valley High School refer to the whole valley, not the city. Some parcels at the edges are unincorporated, so check city and school separately. The five areas below are for comparison only; they are not legal boundaries or attendance areas."
+  ],
+  "neighborhoods": [
+    {
+      "name": "City Center / Bishop Ranch Core",
+      "summary": "East of I-680 around Bollinger Canyon Rd and Camino Ramon, this former office district now has new townhomes, small-lot houses and multistory apartments, including the for-sale City Village community. City Center Bishop Ranch, City Hall, the library, Central Park and San Ramon Transit Center are connected by the Iron Horse Trail and a Bollinger Canyon Rd overcrossing opened in July 2025. Most daily needs other than groceries are close, but more projects are in review or under construction, new communities usually have HOAs, and yards tend to be small."
+    },
+    {
+      "name": "South San Ramon and the Older West Side",
+      "summary": "South of Bollinger Canyon Rd along San Ramon Valley Blvd and Alcosta Blvd, this early part of the city has mostly one- and two-story homes plus older townhomes and condos, usually on wider lots with mature trees. San Ramon Olympic Pool, Forest Home Farms, Memorial Park and Bishop Ranch Regional Open Space Preserve are close, and I-680 and Dublin are convenient. Budget for repairs and updates, listen for I-680 or San Ramon Valley Blvd, and review geology and drainage for hillside homes."
+    },
+    {
+      "name": "Crow Canyon / North San Ramon and Western Foothills",
+      "summary": "Along Crow Canyon Rd from the I-680 commercial corridor west into Bollinger and Norris canyon foothills, with Deerwood Rd and Twin Creeks often included, this area mixes foothill single-family homes and townhomes with newer projects near offices. San Ramon Regional Medical Center and Las Trampas are close, and the location saves time heading north or west. Expect congestion at Crow Canyon and I-680, construction near the corridor, and parcel-by-parcel checks of fire zones, landslide maps, insurance and even which city an address is in."
+    },
+    {
+      "name": "Canyon Lakes / Middle Bollinger Canyon",
+      "summary": "In the hills between Bishop Ranch and Dougherty Valley, this area has a high share of townhomes and condos, plus single-family homes around the golf course and slopes, and some communities have both master and sub-association HOAs. Central Park, the library and City Center are a short trip west, though The Marketplace center was approved in March 2023 for conversion of the supermarket buildings to 40 homes, so check what is open now. HOA costs, guest parking, stairs and dependence on Bollinger Canyon Rd are the trade-offs, and some slopes may be in geologic hazard abatement districts."
+    },
+    {
+      "name": "Dougherty Valley (Gale Ranch and Windemere)",
+      "summary": "This eastern valley was developed under the Dougherty Valley Specific Plan with planned communities built mainly in the first two decades of this century, offering single-family homes on smaller lots along with more townhomes and condos than the west side. Dougherty Station Community Center and Library, Dougherty Valley Aquatic Center, Rancho San Ramon Community Park and ridge trails are close. It is farther from I-680, westbound trips rely on Bollinger Canyon Rd, nearly every community has an HOA, and added tax-bill items vary widely, so read the actual current bill line by line."
+    }
+  ],
+  "housing": {
+    "intro": "San Ramon's housing comes in three broad layers. Neighborhoods along I-680 and in the south came first and are mainly single-family. Planned communities like Canyon Lakes followed, with more townhomes and condos. Gale Ranch and Windemere in Dougherty Valley are this century's newer, denser communities, and new townhomes, small-lot homes and multistory apartments have recently appeared within Bishop Ranch. For older homes, focus on roof life, plumbing materials, electrical panel, windows, AC and drainage around the foundation. Many homes here have HOAs, and coverage ranges from roofs and exteriors to just common landscaping and pools, so compare mortgage, tax bill, HOA and insurance side by side.",
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "South San Ramon, west of I-680 and the Crow Canyon foothills have wider lots and older homes in varied condition. Dougherty Valley homes are newer and mostly two stories, with smaller yards and closer neighbors. Sloped homes need separate review of drainage, retaining walls and defensible space."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Concentrated around Canyon Lakes, Dougherty Valley and new Bishop Ranch communities, commonly two to three stories with direct garage access."
+      },
+      {
+        "type": "Condos",
+        "text": "Canyon Lakes and Dougherty Valley have many for-sale condos, while a good share of newly approved multistory projects at Bishop Ranch are rentals."
+      }
+    ]
+  },
+  "commute": [
+    "I-680 is the only freeway, with main access at Crow Canyon Rd, Bollinger Canyon Rd and Alcosta Blvd. It runs north to Danville, Walnut Creek and Concord and south through Dublin, Pleasanton and Sunol to Fremont and San Jose.",
+    "There are no BART, ACE or Capitol Corridor stations in town. The closest BART stations are Dublin/Pleasanton and West Dublin/Pleasanton to the south and Walnut Creek to the north, so check BART's site for parking on each side of the stations you would use. County Connection runs from San Ramon Transit Center on Executive Pkwy, with routes 21 and 35, weekend routes 321 and 335, and weekday peak expresses 95X, 96X, 97X and 92X as of October 2026; service thins out off-peak."
+  ],
+  "daily_life": [
+    "Shopping works by neighborhood center: each area has its own, a few intersections away, but few trips start on foot. City Center Bishop Ranch is the main dining and leisure spot, with THE LOT theater, Equinox and more than 20 restaurants, though its directory lists no supermarket.",
+    "The city lists more than 50 parks, many shared with schools and open to residents after school and on weekends, so most homes are a few blocks from grass and courts. San Ramon Regional Medical Center has an emergency department, and Kaiser has medical offices in town, with hospital care in other cities. Being nearby does not mean being in network, so check your plan."
+  ],
+  "schools": [
+    "San Ramon is in San Ramon Valley Unified School District, a TK-12 district that also covers Danville and other valley communities. Being in the city only confirms the district, not the school, and schools with San Ramon Valley in their name do not necessarily serve city addresses. Use the Schoolsite Locator on the district's official Find Your School page with the full street address, checking elementary, middle and high school separately.",
+    "A lookup result is not a promise of placement. SRVUSD says growth affects many schools and grades, and a student may not be able to attend the school tied to an address; its transfer rules call this diversion. Contact the school to confirm space for your grade and year, and note the district's priority TK and kindergarten registration window each November."
+  ],
+  "environment": "Check four kinds of layers by address. For earthquakes, use the California Geological Survey's EQ Zapp to see fault, landslide and liquefaction zones; active faults run along San Ramon Valley, and slopes on both the west and east sides need review. For wildfire, use CAL FIRE's Fire Hazard Severity Zone maps, mainly where the city meets open hillsides. For flooding, check FEMA's map along creeks and drainage channels. These layers show what to verify for an address, and they cannot establish that an area is safe or dangerous; the answer for a home comes from its disclosure reports and professional inspections."
+}

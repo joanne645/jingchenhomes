@@ -1,0 +1,89 @@
+{
+ "slug": "buyer-faq",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "买房常见问题",
+  "seo_title": "买房常见问题｜陈靖",
+  "description": "湾区买家常问的八个问题：要不要签买方代理协议、经纪费谁付、首付多少、有没有三天反悔期、定金风险、要不要再做检查、买入后的房产税和 Supplemental tax、如何确认学校。",
+  "lead": "八个买家最常问的问题，给出简短答案和延伸阅读。资料截至 2026 年 11 月。"
+ },
+ "en": {
+  "title": "Bay Area Home Buyer FAQ",
+  "seo_title": "Bay Area Home Buyer FAQ | Jing Chen",
+  "description": "Answers to eight common buyer questions on agent agreements, who pays, down payments, cancelling, deposits, inspections, property tax and schools.",
+  "lead": "Short answers to the eight questions buyers ask most, with links to more detail. Current as of November 2026."
+ },
+ "notice": "tax-legal",
+ "sources": [
+  {
+   "label": "NAR：Written Buyer Agreements 101",
+   "url": "https://www.nar.realtor/the-facts/written-buyer-agreements-101"
+  },
+  {
+   "label": "DRE：AB 2992 Regulations, 10 CCR §§2906.1–2906.2",
+   "url": "https://www.dre.ca.gov/files/pdf/relaw/2025/AB2992_Title_10_CalCodeofRegs29061_29063.pdf"
+  },
+  {
+   "label": "California Civil Code §1670.50",
+   "url": "https://california.public.law/codes/civil_code_section_1670.50"
+  },
+  {
+   "label": "Tahoe Sierra MLS：The Revised RPA and New Forms",
+   "url": "https://tahoemls.com/?p=11476"
+  },
+  {
+   "label": "FHFA：Announces Conforming Loan Limit Values for 2026",
+   "url": "https://www.fhfa.gov/news/news-release/fhfa-announces-conforming-loan-limit-values-for-2026"
+  },
+  {
+   "label": "FHFA：2026 Conforming Loan Limits 县级名单",
+   "url": "https://www.fhfa.gov/data/conforming-loan-limit"
+  },
+  {
+   "label": "California Civil Code §1102.3",
+   "url": "https://california.public.law/codes/civil_code_section_1102.3"
+  },
+  {
+   "label": "CFPB：What Documents Should I Receive Before Closing?",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/what-documents-should-i-receive-before-closing-on-a-mortgage-loan-en-181/"
+  },
+  {
+   "label": "DRE：First Time Home Buyers",
+   "url": "https://dre.ca.gov/consumers/firsthomecalifornia.html"
+  },
+  {
+   "label": "C.A.R.：RPA 12/21 draft（SDAR 存档）",
+   "url": "https://media.sdar.com/media/New_RPA.pdf"
+  },
+  {
+   "label": "California Civil Code §1675",
+   "url": "https://california.public.law/codes/civil_code_section_1675"
+  },
+  {
+   "label": "CFPB：Your Home Loan Toolkit",
+   "url": "https://files.consumerfinance.gov/f/documents/cfpb_your-home-loan-toolkit_print.pdf"
+  },
+  {
+   "label": "BOE：California Property Tax, An Overview (Publication 29)",
+   "url": "https://www.boe.ca.gov/proptaxes/pdf/pub29.pdf"
+  },
+  {
+   "label": "Alameda County Assessor：Supplemental Assessment",
+   "url": "https://www.acassessor.org/homeowners/supplemental-assessment/"
+  },
+  {
+   "label": "Santa Clara County Assessor：Supplemental Tax Estimator",
+   "url": "https://www.sccassessor.org/apps/supplementaltaxestimator.aspx"
+  },
+  {
+   "label": "BOE：Homeowners' Exemption",
+   "url": "https://www.boe.ca.gov/proptaxes/homeowners_exemption.htm"
+  }
+ ],
+ "related": [
+  "first-time-buyer-process",
+  "offer-strategy",
+  "school-lookup"
+ ]
+}

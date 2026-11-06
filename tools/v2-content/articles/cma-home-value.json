@@ -1,0 +1,33 @@
+{
+ "slug": "cma-home-value",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "CMA 与房屋价值分析",
+  "seo_title": "CMA 与房屋价值分析｜陈靖",
+  "description": "CMA 是什么，和 appraisal、网站估值有什么不同？本文讲买方如何选可比成交、分组比较、逐项调整并得出价格区间，以及单价、面积和跨边界比较的常见错误，CMA 不是正式估价。",
+  "lead": "挂牌价只是卖方的策略。用可比成交得出一个区间，再决定你的出价。"
+ },
+ "en": {
+  "title": "CMA and Home Value Analysis for Buyers",
+  "seo_title": "CMA and Home Value Analysis for Buyers | Jing Chen",
+  "description": "What a CMA is, how it differs from an appraisal or portal estimate, and how to choose comparables and reach a price range before you make an offer.",
+  "lead": "A list price is a strategy. Use comparable sales to reach a range, then decide what you're willing to pay."
+ },
+ "notice": null,
+ "sources": [
+  {
+   "label": "CFPB：Your Home Loan Toolkit",
+   "url": "https://files.consumerfinance.gov/f/documents/cfpb_your-home-loan-toolkit_print.pdf"
+  },
+  {
+   "label": "Zillow：Zestimate",
+   "url": "https://www.zillow.com/zestimate"
+  }
+ ],
+ "related": [
+  "offer-strategy",
+  "read-disclosures",
+  "budget-preapproval"
+ ]
+}

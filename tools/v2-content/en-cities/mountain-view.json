@@ -1,0 +1,70 @@
+{
+  "slug": "mountain-view",
+  "name": "Mountain View",
+  "county": "Santa Clara County",
+  "seo_title": "Mountain View Transit and Homes Guide | Jing Chen",
+  "description": "A Mountain View guide to Caltrain, light rail, Castro St, neighborhoods, condos and townhomes, plus address checks for schools and EPA study areas.",
+  "h1": "Living in Mountain View: Weigh the Station, the Office and the Home",
+  "lead": "The core decision in Mountain View is whether to live by a station or closer to the office, and how much space, stair climbing and noise you will accept for it. School districts and environmental layers then need checking by address.",
+  "tagline": "Caltrain meets light rail, the Castro St pedestrian mall, North Bayshore offices, and the Stevens Creek Trail",
+  "overview": [
+    "Mountain View lies where the Peninsula meets the South Bay, between Palo Alto and Sunnyvale, with Los Altos to the southwest and the Shoreline area and bay wetlands to the north. Three east-west lines divide it: US-101 in the north, the Caltrain tracks and Central Expressway in the middle, and El Camino Real to the south. SR-85 runs along the east side and SR-237 connects eastward toward Milpitas and I-880.",
+    "Offices cluster north of 101 and in Whisman to the east. City and school boundaries do not match, and NASA Ames and Moffett Field are federal land, not ordinary city neighborhoods. The names below come from the city's GIS layers and local usage, not legal boundaries or attendance areas."
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown / Old Mountain View",
+      "summary": "Roughly bounded by El Camino Real, Shoreline Blvd, Central Expressway and SR-85, this is one of the older parts of town, with a street grid, smaller lots, one-story and story-and-a-half homes, small apartment buildings, townhomes and new condos near the station. Castro St restaurants, Sunday farmers market, City Hall, Pioneer Park and the library are within walking or biking distance, and all Caltrain service types stop here. In exchange, yards are smaller and older homes need upkeep, rail noise reaches some blocks, street parking gets tight."
+    },
+    {
+      "name": "San Antonio",
+      "summary": "In the northwest corner by Palo Alto and Los Altos, San Antonio is mostly condos and townhomes, from older garden-style complexes to newer multistory buildings near the station and shopping center. Trader Joe's, Walmart and Safeway are grouped together, but wide roads make crossings uneven and Express trains skip the San Antonio station. This area needs the closest school check, since some addresses are in Los Altos School District and others in Mountain View Whisman, and LASD's new campus at California St and Showers Dr is under construction with a target opening of fall 2028."
+    },
+    {
+      "name": "Monta Loma / Rex Manor",
+      "summary": "North of Central Expressway, Monta Loma is known for midcentury single-story homes by builders including Joseph Eichler, John Calder Mackay and Mardell, while Rex Manor leans toward traditional ranch homes of the same era. It is close to North Bayshore and to Costco and Safeway on Rengstorff, but southern blocks sit by the rail line, northern and eastern blocks hear 101 and Moffett Field flight paths."
+    },
+    {
+      "name": "Cuesta Park / Blossom Valley / Waverly Park",
+      "summary": "South of El Camino Real, this is mainly single-family housing on wider lots, with many 1950s and 1960s ranch homes, expanded or rebuilt houses, the 1989 Spanish-style Cuernavaca community, and some condos, townhomes and mobile home communities on main roads. Cuesta Park, El Camino Health's hospital campus, Mountain View High School and the Stevens Creek Trail are nearby, and streets tend to be quieter. Daily life leans on driving since stations and Castro St are farther away, major roads carry steady noise, and addresses near Springer Rd may be in LASD, so get the district's confirmation before you offer."
+    },
+    {
+      "name": "Whisman / North Whisman / Wagon Wheel",
+      "summary": "East of SR-85 and north of Central Expressway to US-101, this area has mostly post-1990s townhomes, small-lot houses and condos beside office parks, many with HOAs. The Whisman and Middlefield light rail stations, the Stevens Creek Trail and freeway access are all close, and homes are comparatively newer. Listen for traffic and Moffett Field noise on the specific block, make EPA's Middlefield-Ellis-Whisman Superfund study area a standard check, and expect years of nearby construction under the East Whisman and Middlefield Park plans."
+    },
+    {
+      "name": "North Bayshore / Shoreline",
+      "summary": "North of US-101 this is office land with very little housing today, plus Shoreline at Mountain View, its lake, golf course, Rengstorff House, the Bay Trail and Shoreline Amphitheatre. The council approved Google's master plan in June 2023 for up to 7,000 homes, but the city's project page listed no new progress as of October 2026, so for now the area is mainly a commute destination and a weekend outing. If you work here, compare the crossings at Shoreline, Rengstorff and San Antonio."
+    }
+  ],
+  "housing": {
+    "intro": "Condos and townhomes make up a large share of Mountain View's housing, and single-family homes cluster in a few areas. Around Downtown are older small-lot homes and small apartment buildings. Monta Loma, Rex Manor, Blossom Valley and Cuesta Park hold midcentury single-story homes, and from the 1990s on, townhomes, small-lot homes and multistory condos appeared near Whisman station, San Antonio and major roads. For attached homes, weigh the garage layout, stairs, guest parking and HOA reserves and rules as much as the unit itself.",
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "Concentrated in Monta Loma, Rex Manor, Old Mountain View, Cuesta Park, Blossom Valley and Waverly Park. Northern areas lean to single-story midcentury homes; southern lots are wider with more additions and rebuilds."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Common around Whisman station, in San Antonio, and along Middlefield Rd, Rengstorff Ave and El Camino Real. Most are two to three stories with a garage and an HOA. Walk the stairs, try the parking and read the full HOA package."
+      },
+      {
+        "type": "Condos",
+        "text": "Found near Downtown station, in San Antonio and along El Camino Real, from older garden-style complexes to newer elevator buildings. Check parking rights, storage, HOA reserves and insurance, and how the unit faces the rail line or main roads."
+      }
+    ]
+  },
+  "commute": [
+    "US-101 crosses the north side toward Palo Alto, Redwood City and San Francisco one way and Sunnyvale and San Jose the other; SR-85 leads south to Cupertino and West San Jose; SR-237 reaches North San Jose, Milpitas and I-880. The real choke points are usually the crossings: getting over 101 to North Bayshore and over the tracks at the Castro St and Rengstorff Ave grade crossings.",
+    "Local, Limited and Express Caltrain trains stop at Mountain View station, and San Antonio gets Local and Limited only. MVgo is a free weekday peak shuttle linking the Transit Center with East Whisman, North Bayshore and San Antonio, and the free Mountain View Community Shuttle runs all day with stops at shopping, parks, the Senior Center and the hospital."
+  ],
+  "daily_life": [
+    "Groceries are split across a few spots: San Antonio has Trader Joe's, Walmart and Safeway close together, N Rengstorff Ave has Costco and another Safeway, and N Shoreline Blvd and Miramonte Ave each have a Safeway.",
+    "Outdoors, neighborhood parks and two city pools, including the Rengstorff Park Aquatics Center opened in March 2025, sit alongside Shoreline at Mountain View and about ten miles of city-maintained trails. El Camino Health's Grant Rd campus has an around-the-clock emergency department, and Sutter's Palo Alto Medical Foundation has a Mountain View Center. Check your insurance network before counting on either, and try the drive from Whisman or Monta Loma at evening rush hour."
+  ],
+  "schools": [
+    "Three districts matter here. For elementary and middle school, most addresses are in Mountain View Whisman School District and some, mainly around San Antonio and west of Springer Rd south of El Camino Real, are in Los Altos School District. High school is Mountain View-Los Altos Union High School District. Confirm the district first using the Santa Clara County Office of Education's guidance and County Assessor parcel data, then enter the full address in the district's official locator.",
+    "A locator result is not a guarantee. MVWSD's current elementary boundaries took effect in 2019-20, so older sources may be out of date, and LASD says students may be placed at another school and waitlisted when space runs short. Call the district about the year you plan to enroll before treating any school as settled."
+  ],
+  "environment": "Look up each address across several official sources. For flooding, use FEMA's flood map and the city's GIS layers, especially north of 101 and along Permanente and Stevens creeks. For earthquakes, the California Geological Survey's EQ Zapp shows mapped liquefaction and other hazard zones. For wildfire, confirm the status on the CAL FIRE/OSFM hazard severity maps. In the northeast, review EPA's Middlefield-Ellis-Whisman Superfund materials, since past manufacturing left TCE and other compounds in groundwater, and ask whether a property has been sampled or has a mitigation system. These layers point to what needs more investigation and are not a verdict on any address."
+}

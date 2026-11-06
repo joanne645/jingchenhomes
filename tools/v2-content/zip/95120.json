@@ -1,0 +1,38 @@
+{
+ "zip": "95120",
+ "area": "Almaden Valley",
+ "area_en": "Almaden Valley",
+ "title": "Almaden Valley：空间、山景与持有成本",
+ "title_en": "Almaden Valley: space, hill views and holding costs",
+ "intro": [
+  "Almaden Valley 位于 San Jose 南部，靠近山麓和户外休闲区域。购房者通常关注独栋面积、院子、社区环境，以及与 Silicon Valley 主要就业中心之间的通勤取舍。"
+ ],
+ "intro_en": [
+  "Almaden Valley sits at the south end of San Jose, near the foothills and open space. Buyers tend to focus on home size, yards and the neighborhood setting, and on the commute trade-off to Silicon Valley’s main job centers."
+ ],
+ "buyer": [
+  "重点检查房屋保险可获得性、山麓地带的火灾风险、地形排水、挡土墙、屋顶及房屋维护成本。不同地段和物业情况差异很大，不能把整个邮编视为同一风险水平。"
+ ],
+ "buyer_en": [
+  "Check insurance availability, foothill fire risk, drainage, retaining walls, the roof and upkeep costs. Conditions vary a lot by location and property, so the whole ZIP cannot be treated as one risk level."
+ ],
+ "seller": [
+  "这里需要区分普通独栋、大地块住宅、山景住宅和高端装修房。高价房的成交样本较少时，单月中位价容易受到成交结构影响。"
+ ],
+ "seller_en": [
+  "Separate standard homes, large-lot properties, view homes and high-end remodels. With few high-end sales, a single month’s median can move simply because of which homes sold."
+ ],
+ "note": {
+  "zh": "Realtor.com 的 2026 年 10 月数据记录了约 $2.03M 的成交中位价及约 $2.18M 的挂牌中位价。这两个指标衡量的不是同一批房屋，不能直接将差额解释为议价空间。",
+  "en": "Realtor.com’s October 2026 data shows a median sold price near $2.03M and a median list price near $2.18M. These measure different sets of homes, so the gap is not negotiating room.",
+  "src": "Realtor.com",
+  "url": "https://www.realtor.com/realestateandhomes-search/95120/overview",
+  "checked": false
+ },
+ "photos": [
+  {
+   "zh": "山麓住宅全景（横幅）",
+   "en": "Foothill neighborhood panorama (wide)"
+  }
+ ]
+}

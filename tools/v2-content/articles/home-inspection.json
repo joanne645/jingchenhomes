@@ -1,0 +1,49 @@
+{
+ "slug": "home-inspection",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "房屋 Inspection 指南",
+  "seo_title": "房屋 Inspection 指南｜陈靖",
+  "description": "买房要做哪些检查？本文说明综合检查、白蚁、屋顶、地基、电气、下水等项目，如何在 Contingency 期内安排，加州 inspector 无专门执照的现实，以及 2026 年电气声明新规和常见误区。",
+  "lead": "Inspection 让你看到卖方可能不知道的事。接受 offer 后尽早安排，并在期限内作出决定。"
+ },
+ "en": {
+  "title": "A Buyer's Guide to Home Inspections",
+  "seo_title": "Buyer's Guide to Home Inspections | Jing Chen",
+  "description": "Which inspections to order, how to run them inside the contingency period, what California law says about inspectors, and common mistakes to avoid.",
+  "lead": "An inspection shows what the seller may not know. Book it right after acceptance and decide before the deadline."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "CFPB：Your Home Loan Toolkit",
+   "url": "https://files.consumerfinance.gov/f/documents/cfpb_your-home-loan-toolkit_print.pdf"
+  },
+  {
+   "label": "California BPC §7196（Home Inspectors）",
+   "url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-9-3/section-7196"
+  },
+  {
+   "label": "ASHI：Home Inspection Requirements for California",
+   "url": "https://www.homeinspector.org/state-regulations/home-inspection-requirements-for-california"
+  },
+  {
+   "label": "California Civil Code §1102.6i",
+   "url": "https://california.public.law/codes/civil_code_section_1102.6i"
+  },
+  {
+   "label": "C.A.R.：RPA 12/21 draft（SDAR 存档）",
+   "url": "https://media.sdar.com/media/New_RPA.pdf"
+  },
+  {
+   "label": "DRE：First Time Home Buyers",
+   "url": "https://dre.ca.gov/consumers/firsthomecalifornia.html"
+  }
+ ],
+ "related": [
+  "read-disclosures",
+  "offer-strategy",
+  "escrow-closing"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "adu-basics",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "ADU 基础知识：加州州法底线、JADU 和各市入口",
+    "seo_title": "加州 ADU 与 JADU 基础知识｜陈靖",
+    "description": "依据 HCD 2026 年 3 月版 ADU Handbook，讲清 ADU 和 JADU 的区别、州法保障的尺寸和审批时限、出租和费用规则，并列出湾区十个城市的官方 ADU 入口。",
+    "lead": "ADU 可以用来给家人住或出租，也会带来审批、造价、税和保险上的新问题。先看州法给了什么底线，再看你所在城市的具体规定。"
+  },
+  "en": {
+    "title": "ADU Basics: State Rules, JADUs and City Resources",
+    "seo_title": "California ADU & JADU Basics | Jing Chen",
+    "description": "State ADU and JADU rules from HCD's March 2026 handbook: size, timelines, rental limits and fees, with official ADU pages for ten Bay Area cities.",
+    "lead": "An ADU can house family or bring in rent, and it adds questions on permits, cost, tax and insurance. Start with the state baseline, then check your city's rules."
+  },
+  "notice": "legal",
+  "sources": [
+    {"label": "HCD：ADU Handbook 页面（2026 年 3 月版）", "url": "https://www.hcd.ca.gov/building-standards/adu/handbook"},
+    {"label": "HCD：Accessory Dwelling Unit Handbook, March 2026", "url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/adu-handbook-update.pdf"},
+    {"label": "HCD：Housing Law Fact Sheets（ADU，2026 年 4 月）", "url": "https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-law-fact-sheets.pdf"},
+    {"label": "Best Best & Krieger：2025 年四项 ADU 法案摘要", "url": "https://bbklaw.com/resources/la-110725-governor-newsom-signs-four-new-accessory-dwelling-unit-bills"},
+    {"label": "California BOE：New Construction", "url": "https://www.boe.ca.gov/proptaxes/newconstructionproperty.htm"},
+    {"label": "City of Dublin：Accessory Dwelling Units", "url": "https://www.dublin.ca.gov/2428/Accessory-Dwelling-Units"},
+    {"label": "City of San Ramon：Accessory Dwelling Units", "url": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/community_development/planning_services/accessory_dwelling_units"},
+    {"label": "City of Pleasanton：ADU Handout（2026 年 5 月）", "url": "https://www.cityofpleasantonca.gov/assets/our-government/community-development/permits-forms-fees/ADU%20Handout%20-%20MAY%202026.pdf"},
+    {"label": "City of Sunnyvale：Accessory Dwelling Units", "url": "https://www.sunnyvale.ca.gov/business-and-development/planning-and-building/permit-center/accessory-dwelling-units"},
+    {"label": "City of Cupertino：Accessory Dwelling Units", "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Planning/Residential-Planning/Accessory-Dwelling-Units"},
+    {"label": "City of Mountain View：Accessory Dwelling Units", "url": "https://developmentpermits.mountainview.gov/residential/accessory-dwelling-units"},
+    {"label": "City of Palo Alto：J/ADU Guidebook 2025", "url": "https://www.cityofpaloalto.org/files/assets/public/planning-amp-development-services/file-migration/development-services/adu-summary-handout-november-2020.pdf"},
+    {"label": "City of Milpitas：Accessory Dwelling Units", "url": "https://www.milpitas.gov/1258/Accessory-Dwelling-Units-ADU"}
+  ],
+  "related": ["rental-management", "maintenance-renovation", "holding-costs"]
+}

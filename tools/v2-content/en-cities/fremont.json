@@ -1,0 +1,74 @@
+{
+  "slug": "fremont",
+  "name": "Fremont",
+  "county": "Alameda County",
+  "seo_title": "Fremont Neighborhoods and BART Guide | Jing Chen",
+  "description": "A Fremont guide to seven neighborhood areas, two BART stations, the Dumbarton Bridge, housing types and Fremont Unified lookups by full address.",
+  "h1": "Living in Fremont: Pick Your Commute Direction, Then the Neighborhood",
+  "lead": "Fremont grew out of five towns, and commute direction, shopping and home age vary a lot from one area to the next. Decide where you work and how you travel, then check schools, geology layers and the tax bill by address.",
+  "tagline": "Two BART stations, the east end of the Dumbarton Bridge, five historic towns, and the Mission Peak foothills",
+  "overview": [
+    "Fremont is at the southern end of Alameda County, with bay wetlands and the Don Edwards San Francisco Bay National Wildlife Refuge on the west and the open hills of Mission Peak on the east. Homes mostly occupy the flatlands in between and the eastern foothills. The city was formed in 1956 by merging Centerville, Niles, Irvington, Mission San Jose and Warm Springs, and it later grew to include Central and North Fremont.",
+    "Three directions shape life here: west over the Dumbarton Bridge to the Peninsula, north and south on I-880 between Oakland and San Jose, and I-680 toward the Tri-Valley or east San Jose. But because the city is long, someone in Ardenwood and someone in Warm Springs may use different stores, freeways and BART stations. Neighborhood names below come from historic towns and city planning documents; they are not legal boundaries or school attendance areas."
+  ],
+  "neighborhoods": [
+    {
+      "name": "Ardenwood / North Fremont",
+      "summary": "In the northwest corner near where SR-84 meets I-880, this area has planned single-family homes plus townhome and condo communities, generally newer than Centerville or Irvington, on regular streets, some with HOAs. It is the closest area to the Dumbarton Bridge, and Ardenwood Historic Farm and Coyote Hills Regional Park are nearby. Bridge approaches back up at peak hours, and Fremont Unified has marked some new communities as unassigned, so confirm school placement directly."
+    },
+    {
+      "name": "Centerville",
+      "summary": "Roughly north of Mowry Ave, south of Decoto Rd and east of I-880, Centerville has established neighborhoods such as Glenmoor Gardens, Cabrillo Park and Brookvale, mostly older single-story homes with apartments and newer townhomes along Fremont Blvd. Fremont-Centerville station has ACE and Capitol Corridor trains, Quarry Lakes is close, and supermarkets line Fremont Blvd and Thornton Ave. It is central but car-dependent, and homes near the tracks hear trains and horns."
+    },
+    {
+      "name": "Niles",
+      "summary": "One of the five original towns, this compact northeast corner sits between Mission Blvd, Alameda Creek and the Union Pacific tracks, with older small-lot homes and later subdivisions and foothill lots. Niles Blvd, the Silent Film Museum, Niles Canyon Railway, Alameda Creek Regional Trail and Quarry Lakes are close by, an old-town scale that is uncommon in Fremont. There is no rail station, I-880 and the bridge are farther away, and the Hayward Fault and foothills call for an address-level geology check."
+    },
+    {
+      "name": "Central / Downtown",
+      "summary": "Fremont's most concentrated condos and townhomes are here, around Downtown and Fremont BART, with single-family streets on the outer edges and HOAs in newer communities. Fremont Hub, the Main Library, Central Park, Lake Elizabeth, Washington Hospital and Kaiser and Sutter facilities are all nearby. Reaching either freeway means signal-heavy surface streets, and the Hayward Fault runs through the area."
+    },
+    {
+      "name": "Irvington",
+      "summary": "South of Mowry Ave and north of Auto Mall Pkwy, centered on the Five Corners, Irvington includes areas such as Sundale, 28 Palms, Blacow and Grimmer, with single-family streets of many ages and newer townhomes and condos near the old center. The Sunday farmers market and Pacific Commons are close, and both freeways are workable, with easier South Bay access than Centerville or Niles. BART runs through without a station as of October 2026, and the planned Irvington station has neither secured funding nor a schedule, so do not treat it as a reason to buy."
+    },
+    {
+      "name": "Mission San Jose",
+      "summary": "Along Mission Blvd at the base of Mission Peak, this area has mostly single-family homes, with larger foothill lots and flatland subdivisions, and sloped homes need retaining wall, drainage, driveway, foundation and geology checks. Ohlone College, Mission Peak trails and a small old-town stretch shape daily life. It is quiet and close to trails, but shopping, medical care and BART all need a car."
+    },
+    {
+      "name": "Warm Springs / South Fremont",
+      "summary": "At the south end next to Milpitas, this area combines older foothill-side single-family streets with dense, multi-level townhomes and condos near the Warm Springs/South Fremont BART station, generally with HOAs. BART, I-880, I-680 and Pacific Commons put it closest to the South Bay, and a pedestrian and bike bridge opened in 2022 links the station with the west side. SR-262 gets heavy peak traffic, and new-home tax bills should be checked for CFD (Mello-Roos) charges."
+    }
+  ],
+  "housing": {
+    "intro": "Fremont's housing is roughly layered by era. The five old town centers keep some early small-lot homes, flatland tracts built after incorporation are mostly single-story, North Fremont and Ardenwood came later, and the newest wave is townhomes and condos around Downtown and the two BART stations. For similar budgets, buyers typically choose among newer attached homes near BART or the bridge, with commute ease but HOA dues and tighter space; older flatland houses with land and one-level living but updates to plan for; and foothill homes with more space but car-based errands.",
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "The most common type. Centerville, Irvington and Niles have many older single-story homes, Ardenwood and North Fremont are newer, and Mission San Jose and the Warm Springs foothill side have larger lots. Check roof, plumbing, electrical capacity, foundation, drainage and addition permits; on slopes, add retaining walls and driveway grade."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Concentrated in newer communities near Warm Springs/South Fremont BART, Downtown and Fremont Blvd, with some older ones in Ardenwood. Many newer units are three stories with tandem garages and limited guest parking. Review HOA dues and reserves, garage size, stairs and any special taxes."
+      },
+      {
+        "type": "Condos",
+        "text": "Mainly in Downtown, City Center and near the two BART stations, with older communities along main roads. Check what the HOA covers, building insurance, parking rights, and lender requirements on owner occupancy and litigation."
+      }
+    ]
+  },
+  "commute": [
+    "Driving rests on two freeways and a bridge. I-880 runs along the west side toward Oakland and San Jose, I-680 passes through the southeast toward the Tri-Valley, Milpitas and east San Jose, and both have express lanes requiring FasTrak. SR-84 crosses the Dumbarton Bridge to the Peninsula, with tolls collected westbound.",
+    "BART serves Fremont and Warm Springs/South Fremont, with one line to Richmond and one through Oakland and San Francisco to Daly City, both connecting to Berryessa/North San Jose. ACE runs on weekdays only at Fremont-Centerville, and Capitol Corridor stops there too."
+  ],
+  "daily_life": [
+    "Fremont has no single center that handles everything, so errands happen area by area. Fremont Hub and Pacific Commons, with Costco, Lowe's and a movie theater, are the two big shopping centers, and neighborhood centers along Fremont Blvd, Mowry Ave, Mission Blvd and Warm Springs Blvd have supermarkets, restaurants and pharmacies.",
+    "Central Park and Lake Elizabeth are the everyday outdoor hub. Medical care centers on City Center, including Washington Hospital and Kaiser and Sutter facilities, so many residents will drive to it."
+  ],
+  "schools": [
+    "Fremont Unified School District runs TK through 12 in Fremont and is entirely separate from Fremont Union High School District in the South Bay; the two names are easy to confuse online. The district boundary does not exactly match the city limit, so use the official School Locator with the full street address.",
+    "The Locator shows a home school for an address, not a guaranteed seat. FUSD says placement at the home school is not automatic: overloaded students are assigned to a school with space, and families do not choose it. Some new communities are marked unassigned when nearby schools are crowded. Before buying, confirm the address, school year and grade directly with the district's Student Support Services."
+  ],
+  "environment": "Several hazard maps deserve an address-level look. For earthquakes, use the California Geological Survey's EQ Zapp: the Hayward Fault runs through the city with mapped Alquist-Priolo zones, bayside flatlands have liquefaction layers, and eastern slopes have earthquake-induced landslide layers. For flooding, use FEMA's flood map, especially near the bay edge and creeks and channels. For wildfire, check CAL FIRE's hazard severity maps where the city meets the eastern hills. These layers show what to investigate further and cannot decide whether a home is safe or dangerous."
+}

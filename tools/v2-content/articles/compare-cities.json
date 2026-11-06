@@ -1,0 +1,37 @@
+{
+ "slug": "compare-cities",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "如何比较湾区城市与社区",
+  "seo_title": "如何比较湾区城市与社区｜陈靖",
+  "description": "比较湾区城市要看什么？本文给出四步比较法和核查清单，涵盖通勤、学区归属、房产税附加项目、HOA、火灾与地震分区、规划变化，并说明去哪里查官方资料，资料截至 2026 年 11 月。",
+  "lead": "城市之间的差别要落到具体地址上才有意义。用同一张表比较两三个候选区域。"
+ },
+ "en": {
+  "title": "How to Compare Bay Area Cities and Neighborhoods",
+  "seo_title": "Compare Bay Area Cities and Neighborhoods | Jing Chen",
+  "description": "A four-step method for comparing Bay Area areas: commute, school district, tax add-ons, HOA, fire and earthquake zones, and where to verify each.",
+  "lead": "City differences only matter once they land on a specific address. Compare two or three areas on one sheet."
+ },
+ "notice": null,
+ "sources": [
+  {
+   "label": "BOE：California Property Tax, An Overview (Publication 29)",
+   "url": "https://www.boe.ca.gov/proptaxes/pdf/pub29.pdf"
+  },
+  {
+   "label": "CAL FIRE/OSFM：Fire Hazard Severity Zones",
+   "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones"
+  },
+  {
+   "label": "California Geological Survey：EQ Zapp",
+   "url": "https://www.conservation.ca.gov/cgs/geohazards/eq-zapp"
+  }
+ ],
+ "related": [
+  "home-search",
+  "school-lookup",
+  "budget-preapproval"
+ ]
+}

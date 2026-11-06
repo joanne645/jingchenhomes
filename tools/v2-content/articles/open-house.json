@@ -1,0 +1,45 @@
+{
+ "slug": "open-house",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "Open House：要不要办，怎么准备，怎么保证安全",
+  "seo_title": "Open House 准备与安全清单｜陈靖",
+  "description": "Open House 能增加接触买方的机会，但也有风险。本文说明什么样的房子适合办、上市前怎么准备、贵重物品和药品如何处理、家中摄像头的录音问题，以及租客住的房子要注意什么。",
+  "lead": "Open House 让更多人走进你的家，也意味着陌生人会进入你的私人空间。办之前把准备和安全都想清楚。"
+ },
+ "en": {
+  "title": "Open House: Whether to Hold One and How to Stay Safe",
+  "seo_title": "Open House Preparation and Safety | Jing Chen",
+  "description": "When an open house makes sense, how to prepare, how to protect valuables, and California rules on home cameras and tenant-occupied homes.",
+  "lead": "An open house can bring more buyers through the door. It also brings strangers into your home, so plan for both."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "NAR：Open Houses",
+   "url": "https://www.nar.realtor/open-houses"
+  },
+  {
+   "label": "NAR：Planning Your Safety Strategy",
+   "url": "https://www.nar.realtor/safety/planning-your-safety-strategy"
+  },
+  {
+   "label": "California Penal Code § 632",
+   "url": "https://california.public.law/codes/ca_penal_code_section_632"
+  },
+  {
+   "label": "California Civil Code § 1954",
+   "url": "https://california.public.law/codes/civil_code_section_1954"
+  },
+  {
+   "label": "NAR：What the NAR Settlement Means for Home Buyers and Sellers",
+   "url": "https://www.nar.realtor/the-facts/what-the-nar-settlement-means-for-home-buyers-and-sellers"
+  }
+ ],
+ "related": [
+  "staging-photography",
+  "marketing-plan",
+  "sell-rental-property"
+ ]
+}

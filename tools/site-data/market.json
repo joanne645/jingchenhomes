@@ -1,0 +1,22 @@
+{
+ "_note": "更新市场数据时改这里，并更新 updated；然后运行 python3 tools/build_site.py 和 python3 tools/build_city_guides.py",
+ "updated": "2026-09",
+ "updated_zh": "2026 年 9 月",
+ "updated_en": "September 2026",
+ "source_zh": "Redfin 各城市住房市场页面（Mountain View 交叉核对 Zillow ZHVI）",
+ "source_en": "Redfin city housing market pages (Mountain View cross-checked with Zillow ZHVI)",
+ "method_zh": "近 3 个月成交中位价及同比变化，统计范围是全市所有房型（独立屋、Townhouse、Condo 混合）。",
+ "method_en": "3-month median sale price and year-over-year change, covering all home types citywide (single-family, townhouse and condo combined).",
+ "cities": {
+  "palo-alto": {"median": "$3.52M", "yoy_zh": "下降 1.5%", "yoy_en": "Down 1.5%", "dir": "down"},
+  "cupertino": {"median": "$3.06M", "yoy_zh": "下降 2.5%", "yoy_en": "Down 2.5%", "dir": "down"},
+  "mountain-view": {"median": "约 $1.9M – $1.96M", "median_en": "About $1.9M – $1.96M", "yoy_zh": "小幅上涨", "yoy_en": "Slightly up", "dir": "up"},
+  "sunnyvale": {"median": "$1.75M", "yoy_zh": "下降 16.3%", "yoy_en": "Down 16.3%", "dir": "down"},
+  "pleasanton": {"median": "$1.60M", "yoy_zh": "基本持平", "yoy_en": "About flat", "dir": "flat"},
+  "san-ramon": {"median": "$1.57M", "yoy_zh": "基本持平", "yoy_en": "About flat", "dir": "flat"},
+  "fremont": {"median": "$1.50M", "yoy_zh": "下降 5.0%", "yoy_en": "Down 5.0%", "dir": "down"},
+  "san-jose": {"median": "$1.40M", "yoy_zh": "下降 6.2%", "yoy_en": "Down 6.2%", "dir": "down"},
+  "dublin": {"median": "$1.32M", "yoy_zh": "下降 2.0%", "yoy_en": "Down 2.0%", "dir": "down"},
+  "milpitas": {"median": "$1.32M", "yoy_zh": "下降 7.4%", "yoy_en": "Down 7.4%", "dir": "down"}
+ }
+}

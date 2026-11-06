@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>买房费用计算器｜陈靖</title>
+<meta name="description" content="输入房价、首付、利率和税险，估算首付与交割所需现金，以及每月住房支出。">
+
+<link rel="canonical" href="https://www.homesbyjingchen.com/calculators/buyer-costs.html"><link rel="alternate" hreflang="zh-CN" href="https://www.homesbyjingchen.com/calculators/buyer-costs.html"><link rel="alternate" hreflang="en" href="https://www.homesbyjingchen.com/en/calculators/buyer-costs.html"><link rel="alternate" hreflang="x-default" href="https://www.homesbyjingchen.com/calculators/buyer-costs.html">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Jing Chen Homes 陈靖"><meta property="og:title" content="买房费用计算器｜陈靖"><meta property="og:description" content="输入房价、首付、利率和税险，估算首付与交割所需现金，以及每月住房支出。"><meta property="og:url" content="https://www.homesbyjingchen.com/calculators/buyer-costs.html"><meta property="og:image" content="https://www.homesbyjingchen.com/images/about-agent.webp"><meta property="og:locale" content="zh_CN">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="icon" href="../favicon.ico" sizes="any"><link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Noto+Serif+SC:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../site.css?v=20261105">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://www.homesbyjingchen.com/"}, {"@type": "ListItem", "position": 2, "name": "买房指南", "item": "https://www.homesbyjingchen.com/buy.html"}, {"@type": "ListItem", "position": 3, "name": "买房费用计算器", "item": "https://www.homesbyjingchen.com/calculators/buyer-costs.html"}]}</script>
+</head>
+<body class="v2" data-page="buy">
+<a class="skip" href="#main">跳到正文</a><header class="snav"><div class="snav-in"><a class="sbrand" href="../index.html"><img src="../images/logo-nav.png" alt="JC Team" width="60" height="48"><span><b>Jing Chen</b><small>REALTOR® · BQ Realty · DRE #02147119</small></span></a><button class="sburger" type="button" aria-label="打开菜单" aria-expanded="false" aria-controls="slinks">☰</button><nav class="slinks" id="slinks" aria-label="主导航"><a href="../buy.html" aria-current="page">买房指南</a><a href="../sell.html">卖房服务</a><a href="../areas.html">地区与学区</a><a href="../homeowner.html">房主之家</a><a href="../sold.html">成交案例</a><a href="../insights.html">地产知识</a><a href="../about.html">关于陈靖</a><a class="scta" href="../contact.html">预约咨询</a><a class="slang" lang="en" hreflang="en" href="../en/calculators/buyer-costs.html">EN</a></nav></div></header>
+<main id="main">
+<section class="vhero"><div class="wrap"><p class="crumb"><a href="../index.html">首页</a> / <a href="../buy.html">买房指南</a> / 买房费用计算器</p><p class="kick">CALCULATOR</p><h1>买房费用计算器</h1><p class="lead">输入房价、首付、利率和税险，估算首付与交割所需现金，以及每月住房支出。</p></div></section>
+<section class="band"><div class="wrap"><div class="legal">这是粗略估算，不是贷款报价或承诺。默认数字只是示例，请换成贷款机构、保险公司和具体房源的实际数字。</div><div class="calc"><form id="buyerCalc" class="formbox" onsubmit="return false"><div class="form-grid">
+<div class="field"><label for="bPrice">房价 ($)</label><input id="bPrice" type="number" inputmode="decimal" min="0" step="any" value="1500000"></div><div class="field"><label for="bDown">首付比例 (%)</label><input id="bDown" type="number" inputmode="decimal" min="0" step="any" value="20"></div>
+<div class="field"><label for="bRate">贷款年利率 (%)</label><input id="bRate" type="number" inputmode="decimal" min="0" step="any" value="6.5"><small class="fnote" style="margin:0">示例，请用贷款报价</small></div><div class="field"><label for="bTerm">贷款年限</label><input id="bTerm" type="number" inputmode="decimal" min="0" step="any" value="30"></div>
+<div class="field"><label for="bTax">房产税率 (% / 年)</label><input id="bTax" type="number" inputmode="decimal" min="0" step="any" value="1.2"><small class="fnote" style="margin:0">示例，实际税率按房源税单核对</small></div><div class="field"><label for="bIns">房屋保险 ($ / 年)</label><input id="bIns" type="number" inputmode="decimal" min="0" step="any" value="2400"><small class="fnote" style="margin:0">示例，请向保险公司询价</small></div>
+<div class="field"><label for="bHoa">HOA ($ / 月)</label><input id="bHoa" type="number" inputmode="decimal" min="0" step="any" value="0"></div><div class="field"><label for="bMello">Mello-Roos 等特别税 ($ / 年)</label><input id="bMello" type="number" inputmode="decimal" min="0" step="any" value="0"></div>
+<div class="field"><label for="bClose">买方交割费用 (% 房价)</label><input id="bClose" type="number" inputmode="decimal" min="0" step="any" value="1"><small class="fnote" style="margin:0">示例，以 Loan Estimate 为准</small></div>
+</div></form><div class="res" aria-live="polite"><h2>估算结果</h2><dl>
+<dt>首付</dt><dd id="rDown"></dd><dt>买方交割费用</dt><dd id="rClose"></dd><dt>贷款金额</dt><dd id="rLoan"></dd>
+<div class="big"><span>需要准备的现金</span><b id="rCash"></b></div>
+<dt>本金和利息 / 月</dt><dd id="rPI"></dd><dt>房产税 / 月</dt><dd id="rTax"></dd><dt>保险 / 月</dt><dd id="rIns"></dd><dt>HOA 和特别税 / 月</dt><dd id="rHoa"></dd>
+<div class="big"><span>每月住房支出</span><b id="rMonth"></b></div></dl>
+<p class="fnote" id="pmiNote" style="color:rgba(255,255,255,.8)" hidden>首付低于 20% 时，贷款可能需要贷款保险（PMI），未计入上面的结果。</p></div></div>
+<div class="prose" style="margin-top:32px"><p>还需要留出搬家、维修和应急资金。了解预算怎么定，可以看 <a href="../insights/budget-preapproval.html">预算与贷款预批准</a>。</p></div></div></section>
+</main>
+<footer class="sfoot"><div class="sfoot-in"><div class="sfoot-grid"><div class="sf-brand"><b>Jing Chen 陈靖</b>REALTOR® · BQ Realty<br>CA DRE #02147119<br><a href="tel:+19259174019">925-917-4019</a><br>服务区域：硅谷 · 东湾 · 三谷<br>中文 · English</div><div><h2>服务</h2><ul><li><a href="../buy.html">买房指南</a></li><li><a href="../sell.html">卖房服务</a></li><li><a href="../homeowner.html">房主之家</a></li><li><a href="buyer-costs.html">买房费用计算器</a></li><li><a href="net-proceeds.html">卖房净收益估算</a></li></ul></div><div><h2>了解</h2><ul><li><a href="../areas.html">地区与学区</a></li><li><a href="../sold.html">成交案例</a></li><li><a href="../insights.html">地产知识</a></li><li><a href="../about.html">关于陈靖</a></li><li><a href="../contact.html">预约咨询</a></li><li><a href="../privacy.html">隐私说明</a></li></ul></div></div><div class="sf-legal"><svg viewBox="0 0 40 40" role="img" aria-label="Equal Housing Opportunity"><path fill="none" stroke="currentColor" stroke-width="3" d="M4 18 20 5l16 13M8 16v19h24V16"/><path fill="currentColor" d="M14 20h12v3H14zm0 6h12v3H14z"/></svg><div><p>© 2026 Jing Chen 陈靖 · REALTOR® · BQ Realty · 持牌人 CA DRE #02147119。房地产信息仅供一般参考，房源状态、价格、面积、学校及市场数据应在交易前独立核实。成交案例信息来自 MLSListings 公开记录及公开房源页面；客户评价引用自陈靖的 Zillow 认证评价，版权归原平台及作者所有。</p><p>本网站内容不构成法律、税务、贷款或投资建议。公平住房：我们遵守联邦和加州公平住房法律，向所有人提供平等的住房机会。</p></div></div></div></footer>
+<script src="../site.js?v=20261105" defer></script>
+</body></html>

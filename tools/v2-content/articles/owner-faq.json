@@ -1,0 +1,31 @@
+{
+  "slug": "owner-faq",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "房主常见问题：税、保险、装修、出租和卖房",
+    "seo_title": "加州房主常见问题 FAQ｜陈靖",
+    "description": "湾区房主最常问的八个问题：Homeowners' Exemption 怎么申请、Supplemental 账单是什么、市价下跌能否减税、装修是否加税、ADU 能否短租、涨租上限和卖房免税额。",
+    "lead": "这里收集房主最常问的八个问题，每个问题先给简短答案，再指向详细文章。金额和规定都写明了核对日期。"
+  },
+  "en": {
+    "title": "Homeowner FAQ: Tax, Insurance, Remodels, Rentals and Selling",
+    "seo_title": "California Homeowner FAQ | Jing Chen",
+    "description": "Eight common Bay Area owner questions on the Homeowners' Exemption, supplemental bills, Prop 8, remodels, ADU rentals, rent caps and gain exclusions.",
+    "lead": "Eight questions homeowners ask most, each with a short answer and a pointer to the full article. Amounts and rules show the date we checked them."
+  },
+  "notice": "tax-legal",
+  "sources": [
+    {"label": "California BOE：Homeowners' Exemption", "url": "https://www.boe.ca.gov/proptaxes/homeowners_exemption.htm"},
+    {"label": "California BOE：Publication 29 California Property Tax Overview", "url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf"},
+    {"label": "California BOE：New Construction", "url": "https://www.boe.ca.gov/proptaxes/newconstructionproperty.htm"},
+    {"label": "California BOE：Letter to Assessors 2026/023（2026 申诉截止日）", "url": "https://boe.ca.gov/proptaxes/pdf/lta26023.pdf"},
+    {"label": "CSLB：What You Should Know Before Hiring a Contractor", "url": "https://www2.cslb.ca.gov/Resources/GuidesAndPublications/WYSKbro_ENG0525_ADA.pdf"},
+    {"label": "HCD：Accessory Dwelling Unit Handbook, March 2026", "url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/adu-handbook-update.pdf"},
+    {"label": "California Attorney General：Limits on Rent Increases", "url": "https://oag.ca.gov/rentcaps"},
+    {"label": "California Department of Insurance：Earthquake Insurance Guide", "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/upload/IG-Earthquake-Insurance-Updated-102924.pdf"},
+    {"label": "FTB：Income from the Sale of Your Home", "url": "https://www.ftb.ca.gov/file/personal/income-types/income-from-the-sale-of-your-home.html"},
+    {"label": "IRS：Publication 523 Selling Your Home", "url": "https://www.irs.gov/publications/p523"}
+  ],
+  "related": ["property-tax-insurance", "rental-management", "home-value-tracking"]
+}

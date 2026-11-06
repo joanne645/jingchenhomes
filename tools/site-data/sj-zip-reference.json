@@ -1,0 +1,91 @@
+{
+ "_note": "status=reference 表示历史参考数字，未核实，页面会显示提示。运行 python3 tools/fetch_zip_market.py 后写入 sj-zip-market.json，优先使用那份同周期数据。",
+ "period_zh": "2026 年 8–10 月",
+ "period_en": "August–October 2026",
+ "types_zh": "所有住宅类型混合",
+ "types_en": "All home types combined",
+ "source_zh": "历史参考数据，来源待核实",
+ "source_en": "Historical reference data; source not yet verified",
+ "zips": {
+  "95129": {
+   "price": 2380000,
+   "dom": 14,
+   "sold": 24
+  },
+  "95120": {
+   "price": 2000000,
+   "dom": 11,
+   "sold": 46
+  },
+  "95125": {
+   "price": 1860000,
+   "dom": 15,
+   "sold": 80
+  },
+  "95124": {
+   "price": 1850000,
+   "dom": 11,
+   "sold": 58
+  },
+  "95118": {
+   "price": 1550000
+  },
+  "95128": {
+   "price": 1300000
+  },
+  "95131": {
+   "price": 1200000,
+   "dom": 20,
+   "sold": 22
+  },
+  "95126": {
+   "price": 1180000
+  },
+  "95132": {},
+  "95135": {
+   "price": 899000
+  }
+ },
+ "areas": {
+  "95129": [
+   "West San Jose",
+   "West San Jose"
+  ],
+  "95120": [
+   "Almaden Valley",
+   "Almaden Valley"
+  ],
+  "95125": [
+   "Willow Glen",
+   "Willow Glen"
+  ],
+  "95124": [
+   "Cambrian",
+   "Cambrian"
+  ],
+  "95118": [
+   "Cambrian / South SJ",
+   "Cambrian / South San Jose"
+  ],
+  "95128": [
+   "West / Central SJ",
+   "West / Central San Jose"
+  ],
+  "95131": [
+   "North San Jose",
+   "North San Jose"
+  ],
+  "95126": [
+   "Rose Garden 周边",
+   "Rose Garden area"
+  ],
+  "95132": [
+   "Berryessa / North East San Jose",
+   "Berryessa / North East San Jose"
+  ],
+  "95135": [
+   "Evergreen / The Villages",
+   "Evergreen / The Villages"
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "sell-rental-property",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "出租房出售：租客通知、进屋规则和加州租客保护要点",
+  "seo_title": "加州出租房出售：租客与税务要点｜陈靖",
+  "description": "出售有租客的房子，要先弄清租约、Tenant Protection Act 的 Just Cause 规定和本地条例。本文说明租客通知、进屋看房规则、押金转移，以及预扣和折旧回收等卖方税务问题。",
+  "lead": "卖出租房最大的不同，是房子里住着受法律保护的人。卖房本身不会让租约自动结束，要先查清楚适用哪条法律。"
+ },
+ "en": {
+  "title": "Selling a Rental Property in California: Tenants and Rules",
+  "seo_title": "Selling a California Rental: Tenant Rules | Jing Chen",
+  "description": "How to sell a tenant-occupied home in California: just cause rules, tenant notices, entry for showings, security deposits and common seller tax issues.",
+  "lead": "A rental differs from other sales because someone with legal protections lives there. A sale does not by itself end a tenancy, so start by working out which rules apply."
+ },
+ "notice": "tax-legal",
+ "sources": [
+  {
+   "label": "California Civil Code § 1946.2",
+   "url": "https://california.public.law/codes/ca_civ_code_section_1946.2"
+  },
+  {
+   "label": "California Civil Code § 1946.1",
+   "url": "https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1946-1"
+  },
+  {
+   "label": "California Civil Code § 1954",
+   "url": "https://california.public.law/codes/civil_code_section_1954"
+  },
+  {
+   "label": "California Civil Code § 1950.5",
+   "url": "https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1950-5"
+  },
+  {
+   "label": "City of Mountain View：State Law AB 1482",
+   "url": "https://www.mountainview.gov/our-city/departments/housing/rent-stabilization/state-laws/state-law-ab-1482"
+  },
+  {
+   "label": "City of Mountain View：Eviction Protections and Tenant Relocation Assistance",
+   "url": "https://www.mountainview.gov/our-city/departments/housing/rent-stabilization/eviction-protections"
+  },
+  {
+   "label": "FTB：2026 Instructions for Form 593",
+   "url": "https://www.ftb.ca.gov/forms/2026/2026-593-instructions.html"
+  },
+  {
+   "label": "IRS：Publication 523 (2025), Selling Your Home",
+   "url": "https://www.irs.gov/publications/p523"
+  },
+  {
+   "label": "IRS：Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  }
+ ],
+ "related": [
+  "sell-investment-property",
+  "1031-exchange-basics",
+  "seller-escrow-closing"
+ ]
+}

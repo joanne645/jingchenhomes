@@ -1,0 +1,37 @@
+{
+ "slug": "mls-online-exposure",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "MLS 和线上推广：卖家要知道的规则和选择",
+  "seo_title": "MLS 与线上推广：卖家指南｜陈靖",
+  "description": "MLS 是房源信息流向各大网站的主要起点。本文说明 MLS 怎么运作、Clear Cooperation 和 Delayed Marketing 的规则，以及 2024 年 NAR 和解后买方经纪报酬的做法有什么变化。",
+  "lead": "你在各大房产网站上看到的房源，大多数从 MLS 而来。了解它的规则，才能判断要不要全面上市、什么时候上市。"
+ },
+ "en": {
+  "title": "MLS and Online Exposure: Rules and Choices for Sellers",
+  "seo_title": "MLS and Online Exposure for Home Sellers | Jing Chen",
+  "description": "How the MLS feeds listing sites, what Clear Cooperation and delayed marketing mean, and how buyer-agent pay changed after the 2024 NAR settlement.",
+  "lead": "Most listings on home search sites start in the MLS. Knowing its rules helps you decide whether, when and how widely to go to market."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "NAR：Multiple Listing Options for Sellers (Mar 2025)",
+   "url": "https://www.nar.realtor/press-releases/nar-introduces-new-mls-policy-to-expand-choice-for-consumers"
+  },
+  {
+   "label": "NAR：What the NAR Settlement Means for Home Buyers and Sellers",
+   "url": "https://www.nar.realtor/the-facts/what-the-nar-settlement-means-for-home-buyers-and-sellers"
+  },
+  {
+   "label": "DRE：Consumer Alert on changes to real estate representation (amended Dec 2024)",
+   "url": "https://www.dre.ca.gov/consumers/consumeralerts/ConsumerAlert_20241114_Changes_to_Real_Estate_Representation.html"
+  }
+ ],
+ "related": [
+  "marketing-plan",
+  "offers-negotiation",
+  "seller-faq"
+ ]
+}

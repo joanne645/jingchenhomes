@@ -1,0 +1,70 @@
+{
+  "slug": "cupertino",
+  "name": "Cupertino",
+  "county": "Santa Clara County",
+  "seo_title": "Cupertino School Lookups and Homes Guide | Jing Chen",
+  "description": "A Cupertino guide to neighborhoods, driving routes, older homes and separate CUSD and FUHSD address lookups for comparing each home by its address.",
+  "h1": "Living in Cupertino: Check School Lookups and Daily Routes Together",
+  "lead": "Comparing Cupertino homes means looking past floor plans to school lookups for each grade level, the real route to work, and how walkable or bikeable daily life is. School names and city impressions both have to be tied back to a full address.",
+  "tagline": "Santa Cruz foothills, no rail station in town, I-280 and SR-85, and two separate school districts",
+  "overview": [
+    "Cupertino sits on the western edge of Silicon Valley against the Santa Cruz Mountains foothills. Stevens Creek Blvd ties the city together east to west and De Anza Blvd carries it north to south, while I-280 crosses the north side and SR-85 cuts diagonally through the middle. Apple Park and the north De Anza office area are the largest job centers, so morning and evening traffic stacks up around Wolfe Rd and De Anza Blvd near I-280.",
+    "There is no Caltrain, BART or VTA light rail station in town. A Cupertino 95014 mailing address may not be inside city limits, and CUSD and FUHSD both reach well beyond the city, so check city, ZIP code and school district separately. The neighborhood groupings below draw on General Plan planning areas and local usage; they are not legal boundaries or attendance areas."
+  ],
+  "neighborhoods": [
+    {
+      "name": "Monta Vista",
+      "summary": "Roughly west of SR-85 and south of Stevens Creek Blvd to Prospect Rd, Monta Vista runs from valley-floor lots of about 6,000 square feet to sloped hillside lots that can exceed an acre. Blackberry Farm, McClellan Ranch Preserve and Monta Vista Park are close, but groceries mean a drive or bike ride to Stevens Creek or De Anza. Hillside buyers should check fire, fault and landslide layers and insurance, and school-hour traffic concentrates around McClellan and Bubb roads."
+    },
+    {
+      "name": "Garden Gate and Memorial Park Area",
+      "summary": "Between I-280, Mary Ave, Stevens Creek Blvd and North De Anza, Garden Gate developed in the early 1950s and joined the city in 2001, with mostly single-family homes on relatively large lots plus some duplexes and condos. Memorial Park, Quinlan Community Center, the Sports Center and Senior Center nearly connect, and Whole Foods, Target and a Sunday farmers market at De Anza College are nearby."
+    },
+    {
+      "name": "Jollyman",
+      "summary": "South of Stevens Creek Blvd between SR-85 and De Anza Blvd, Jollyman is mainly single-family homes on quiet interior streets, with fourplexes, townhomes and condos closer to main roads. Jollyman Park is the local hub, and Civic Center, the library, Whole Foods and Target are all a short trip away. There is no real retail inside the area, homes near SR-85 need a noise check on site, and Faria Elementary is an Open Enrollment lottery program, so living next to it does not mean you can attend."
+    },
+    {
+      "name": "North Blaney and Main Street / Vallco Area",
+      "summary": "This northeast corner covers North Blaney, Main Street Cupertino, the former Vallco site now approved as The Rise with more than 2,600 homes, and North Vallco Park with Apple Park and Cupertino Village. Older houses sit near newer condos and lofts along Stevens Creek Blvd and Vallco Pkwy. It has the most walkable dining and shopping in town and direct I-280 access, but also the most construction, since VTA's I-280/Wolfe Rd interchange rebuild began in spring 2026 and is expected to run to about 2032."
+    },
+    {
+      "name": "South Blaney and Civic Center Area",
+      "summary": "South of Stevens Creek Blvd and east of De Anza Blvd to Miller Ave and Bollinger Rd, this flat area is mostly mid-postwar single-family homes, many single-story, with townhomes and duplexes along the main roads. The 0.8-mile Regnart Creek Trail links Creekside Park, Wilson Park, City Hall and Cupertino Library off the main roads. Both freeways are reached through signalized arterials and De Anza runs slowly at peak hours, creekside addresses need a FEMA flood check, and city services change at the San Jose line near Bollinger."
+    },
+    {
+      "name": "Rancho Rinconada and Fairgrove",
+      "summary": "Along the eastern edge, Rancho Rinconada has small lots from the late 1940s and early 1950s, with original cottages beside larger two-story rebuilds, while Fairgrove is an early-1960s Eichler tract under R1e zoning and a city design handbook. Main Street Cupertino and shopping east of Lawrence Expressway are close, but plan for small lots, narrow streets, tight street parking, rebuild construction, expressway noise and a flood-map check along Saratoga Creek."
+    }
+  ],
+  "housing": {
+    "intro": "Cupertino's housing is built mainly around postwar single-family homes, with small-lot homes from the late 1940s in Rancho Rinconada, larger early-1950s lots in Garden Gate, 1960s Eichlers in Fairgrove, and late-1990s to early-2000s homes in Oak Valley. In older homes, focus on foundation and drainage, main sewer line, electrical capacity and old wiring, roof age, and whether additions were permitted.",
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "The dominant type. Monta Vista, Jollyman, South Blaney and Garden Gate are mostly single-story older homes on the valley floor, Rancho Rinconada mixes old and new on small lots, Fairgrove has Eichlers, and the foothills have large sloped lots with an added geology and drainage review."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Found along Miller Ave, Bollinger Rd and Homestead Rd, and in complexes in North Blaney and Homestead Villa. Usually two to three stories with attached garages and small yards. Read the CC&Rs, budget and reserve study, and confirm guest parking rules."
+      },
+      {
+        "type": "Condos",
+        "text": "Concentrated in multifamily buildings around Stevens Creek Blvd, Vallco Pkwy and De Anza Blvd, within walking distance of shops. Confirm whether the unit is for-sale ownership or a rental property, how much parking comes with it, what HOA dues include, and any recent special assessments."
+      }
+    ]
+  },
+  "commute": [
+    "Driving is the base of a Cupertino commute. I-280 leads northwest toward Los Altos, Palo Alto and the Peninsula and southeast into San Jose, and SR-85 connects north to US-101 toward Mountain View and south to Los Gatos and south San Jose.",
+    "Transit is mainly VTA buses, including lines 23 and 25 and Rapid 523 along Stevens Creek and De Anza. For Caltrain you first travel to Sunnyvale station, which gets Local, Limited and some Express trains, or Lawrence, which gets Local and Limited. Silicon Valley Hopper, an on-demand shared ride, has state grant funding through June 2027, so do not treat it as a permanent plan."
+  ],
+  "daily_life": [
+    "Most shops are on or near Stevens Creek Blvd, Wolfe Rd, De Anza Blvd and Homestead Rd, and residential streets have almost no retail, so it is worth checking how a home connects to the nearest main road. The northeast corner has the most choices, including Main Street Cupertino and Cupertino Village.",
+    "Outdoor life comes in two layers. In town are Memorial Park and the sports fields at Jollyman, Wilson and Creekside. Farther west are Rancho San Antonio and Stevens Creek County Park. There is no hospital with an emergency room in town; the closer one is El Camino Hospital in Mountain View, and El Camino Health's Vallco Pkwy site is urgent care, not an ER. Confirm which facilities your insurance covers before factoring them into a home choice."
+  ],
+  "schools": [
+    "Two independent districts serve Cupertino: Cupertino Union School District for TK through 8 and Fremont Union High School District for 9 through 12. FUHSD has no connection to Fremont Unified in the city of Fremont. Both districts extend beyond the city, so for any address, first confirm the district, using the Santa Clara County Office of Education locator where the address is near an edge, then run the full address through the CUSD School Locator and separately through the FUHSD address tool.",
+    "These results do not guarantee a seat. CUSD describes its Locator result as preliminary, with final placement set by Student Assignment at registration once space is confirmed, and FUHSD requires full-time residence in the attendance area and verifies it. School layouts also change: Regnart and Meyerholz closed starting in 2022-23, so older listings and maps may name schools that no longer apply. Confirm directly with each district for the school year you need."
+  ],
+  "environment": "Check natural hazard layers by address before relying on any neighborhood impression. For earthquakes, use the California Geological Survey's EQ Zapp. For flooding, use FEMA's flood map and Valley Water's flood lookup, especially near creeks. For wildfire, use the city's Fire Hazard Severity Zone map, because CAL FIRE's 2025 local responsibility area maps may add homes that were not previously in a zone. These layers show what to investigate; they do not establish that any area is safe or dangerous."
+}

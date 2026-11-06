@@ -1,0 +1,49 @@
+{
+ "slug": "first-time-buyer-process",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "加州首次购房完整流程",
+  "seo_title": "加州首次购房完整流程｜陈靖",
+  "description": "第一次在湾区买房，从预算、看房、写 offer 到 Escrow 过户，分别要做什么？本文按阶段梳理流程，并说明买方代理协议、定金与交割费用和 CalHFA 首次购房者定义，资料截至 2026 年 11 月。",
+  "lead": "按阶段看清在湾区第一次买房要做的事。关键是把 Contingency 期的时间和现金提前安排好。"
+ },
+ "en": {
+  "title": "The California First-Time Buyer Process",
+  "seo_title": "California First-Time Buyer Process | Jing Chen",
+  "description": "A stage-by-stage guide to a first home purchase in the Bay Area, covering budget, touring, offers, escrow and buyer agreements, as of November 2026.",
+  "lead": "What happens at each stage of a first Bay Area purchase, and why the contingency period needs the most planning."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "NAR：Written Buyer Agreements 101",
+   "url": "https://www.nar.realtor/the-facts/written-buyer-agreements-101"
+  },
+  {
+   "label": "California Civil Code §1670.50",
+   "url": "https://california.public.law/codes/civil_code_section_1670.50"
+  },
+  {
+   "label": "DRE：AB 2992 Regulations, 10 CCR §§2906.1–2906.2",
+   "url": "https://www.dre.ca.gov/files/pdf/relaw/2025/AB2992_Title_10_CalCodeofRegs29061_29063.pdf"
+  },
+  {
+   "label": "DRE：First Time Home Buyers",
+   "url": "https://dre.ca.gov/consumers/firsthomecalifornia.html"
+  },
+  {
+   "label": "CalHFA：Borrower Eligibility Requirements",
+   "url": "https://www.calhfa.ca.gov/homebuyer/borrower.htm"
+  },
+  {
+   "label": "CalHFA：MyHome Assistance Program",
+   "url": "https://www.calhfa.ca.gov/homebuyer/programs/myhome.htm"
+  }
+ ],
+ "related": [
+  "budget-preapproval",
+  "offer-strategy",
+  "escrow-closing"
+ ]
+}

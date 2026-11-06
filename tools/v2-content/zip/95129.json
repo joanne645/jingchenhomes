@@ -1,0 +1,46 @@
+{
+ "zip": "95129",
+ "area": "West San Jose",
+ "area_en": "West San Jose",
+ "title": "West San Jose：高价市场背后的学区与地段差异",
+ "title_en": "West San Jose: what sits behind the prices",
+ "intro": [
+  "95129 是西圣何塞重要的高价住宅邮编，靠近 Cupertino、Saratoga 和 Apple 所在的就业区域。这里吸引买家的原因通常不是单一的房屋面积，而是地段、学校划片、独栋土地价值与长期持有需求的组合。"
+ ],
+ "intro_en": [
+  "95129 is one of West San Jose’s higher-priced ZIP codes, next to Cupertino, Saratoga and the job centers around Apple. Buyers here are usually weighing a combination of location, school assignment, land value and long-term plans rather than square footage alone."
+ ],
+ "buyer": [
+  "95129 不等于全部属于 Cupertino 学区。不同街道可能涉及不同的小学、初中和高中学区。即使两套房面积相近，学校边界、地块条件、扩建潜力和临近道路状况都可能导致显著价格差异。"
+ ],
+ "buyer_en": [
+  "A 95129 address does not automatically mean Cupertino schools. Elementary, middle and high school districts can change from one street to the next. Two homes of similar size can price very differently because of school boundaries, the lot, room to expand and nearby traffic."
+ ],
+ "seller": [
+  "不能简单用整个 95129 的中位价定价。应优先寻找同学校边界、相近地块面积、建筑年代和装修状况的近期成交作为可比案例。"
+ ],
+ "seller_en": [
+  "The ZIP-wide median is not a pricing tool. Start with recent sales inside the same school boundary, with a similar lot, age and level of finish."
+ ],
+ "note": {
+  "zh": "Redfin 截至 2026 年 9 月的三个月统计显示，该邮编成交中位价约 $2.47M，成交价与挂牌价比率约 106%，说明部分房源竞争仍然强劲。",
+  "en": "Redfin’s three months ending September 2026 show a median sale price near $2.47M and a sale-to-list ratio near 106%, so competition for some homes remains strong.",
+  "src": "Redfin",
+  "url": "https://www.redfin.com/zipcode/95129/housing-market",
+  "checked": false
+ },
+ "photos": [
+  {
+   "zh": "社区鸟瞰",
+   "en": "Neighborhood aerial"
+  },
+  {
+   "zh": "代表性独栋住宅",
+   "en": "Typical single-family home"
+  },
+  {
+   "zh": "林荫住宅街道",
+   "en": "Residential street"
+  }
+ ]
+}

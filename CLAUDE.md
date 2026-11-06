@@ -6,40 +6,33 @@
 - GitHub：https://github.com/joanne645/jingchenhomes，分支 `main`
 - 部署：Vercel 项目 `jingchenhomes`（团队 pinnacle2026）已连接 GitHub。推送到 `main` 后会自动部署，不需要另外手动部署
 - Mac 上的本地仓库：`~/BQ2026/经纪人网站/jingchenhomes`（2026-09-24 建立，和 origin/main 同步）
-- 技术：纯静态 HTML/CSS/JS，没有框架，也没有构建步骤和包管理器（Vercel Framework = Other）
-- 表单和后台用 Supabase（通过 CDN 加载 supabase-js@2），公开配置在 `config.js`（只有 publishable key，没有私密密钥）
+- 技术：纯静态 HTML/CSS/JS + 一个 Vercel Function，没有框架和包管理器（Vercel Framework = Other）。HTML 由本地 Python 脚本生成后提交，Vercel 不运行构建
+- 后台用 Supabase（CDN 加载 supabase-js@2），公开配置在 `config.js`（只有 publishable key）
 
-## 目录结构
-- `index.html`：主页。所有样式和脚本都写在这个文件里
-  - 版块锚点：`#top`、`#services`（四张意向卡片，买房/卖房卡片链接到 buy.html / sell.html）、`#compare-guides`（三篇城市比较文章入口，在 `#market` 里）、`#homes`（找房，按钮跳转到 Zillow 城市搜索）、`#market`（`#market-report` 数据表 / `#market-budget` / `#market-cities` / `#market-tools`）、`#sold`（成交案例）、`#reviews`（客户评价）、`#about`、`#contact`（咨询表单 → Supabase `leads` 表）
-- `buy.html`、`sell.html`、`guides/<文章>.html`：买房服务页、卖房服务页和三篇城市比较文章（2026-10-09 新增，只有中文，不加 hreflang）
-  - **这 5 个页面也是生成出来的，不要直接改 HTML**。正文在 `tools/page-content/<名称>.html`（实施包原文成稿），标题、摘要、H1、导语在 `tools/seo-meta.json`，改完运行 `python3 tools/build_pages.py`
-  - 样式用 `cities/guide.css` 加根目录的 `pages.css`；改了样式后把 `tools/build_pages.py` 里的 `ASSET_VER` 换成新日期再生成
-  - 页面里的咨询按钮链接到 `index.html?ask=buy|sell|compare&topic=<主题>#contact`，首页脚本会选好意向并预填留言；`ask` 还支持 `swap`（换房）
-- `tools/seo-meta.json`：16 个页面的搜索标题、摘要、H1、导语。城市页生成脚本也读这个文件（城市页的 `<title>`、description、H1 和首段导语都来自这里，不再用城市 JSON 里的 `meta_title` / `meta_description`）
-- SEO 约定：每个页面独立的 title、description、自引用 canonical 和 og 信息；sitemap.xml 只放已上线的页面，新增页面要手动加进去；不使用 meta keywords；首页的评分结构化数据不复制到其他页面
-- `en/index.html`：英文版主页（2026-09-24 新增）。内容与 `index.html` 一一对应，**改中文主页时要同步修改英文页**。图片、config.js、城市页用 `../` 相对路径引用；表单的“意向”选项 value 仍然用中文（买房/卖房/换房/投资/市场 / 其他），这样后台数据统一，source_url 会带 /en/
-- 手机导航：中英文主页的 ☰ 按钮会展开 `#navLinks` 下拉菜单（中文页在 1240px 以下、英文页在 980px 以下启用）
-- 语言切换：两个页面导航栏里都有 `.lang-switch` 按钮（中文页显示 EN，英文页显示 中文），切换时会保留当前的版块锚点（#about 等）；页面里也加了 hreflang 标签
-- `cities/<城市>.html`：10 个城市的"城市生活指南"（palo-alto、cupertino、sunnyvale、mountain-view、san-jose、fremont、milpitas、dublin、pleasanton、san-ramon）。主页 `#market-cities` 的 10 个城市方框分别链接到这里（2026-10-08 起）
-  - **这 10 个页面是生成出来的，不要直接改 HTML**。文字内容在 `tools/city-content/<城市>.json`（San Jose 另有 `san-jose-districts.json` 放 6 个详细片区），改完后运行 `python3 tools/build_city_guides.py` 重新生成（只用 Python 自带库，不需要安装任何东西）
-  - 共用样式 `cities/guide.css`、共用脚本 `cities/guide.js`（导航高亮、片区展开、地图）。改了这两个文件后，把 `tools/build_city_guides.py` 里的 `ASSET_VER` 换成新日期再生成，避免浏览器用旧缓存
-  - 地图不依赖第三方 JS 库。数据都是访客打开页面时实时读取：底图用 OpenStreetMap 瓦片；城市边界和学区范围读 U.S. Census Bureau 的 TIGERweb；地点位置用 Census Geocoder 按 JSON 里的街道地址换算（所以 JSON 里的 `map.pois` / `map.stations` 地址必须是真实门牌地址，没有门牌的不会上图）。任何一项读不到时，页面会显示说明和官方地图按钮
-  - 学校招生范围（attendance boundary）没有画在地图上，只提供各学区官方的地址查询入口；不要把 Trustee Area 当招生范围，也不要混用 Fremont Unified（Fremont 市）和 Fremont Union HSD（南湾高中学区）
-  - 城市页的咨询按钮链接到 `../index.html?city=<城市>&ask=compare|budget|city#contact`，主页脚本会预选城市并预填留言；"查看在售房源"链接到 `../index.html?city=<城市>#homes`
-  - `tools/check_links.py`：检查城市页、服务页和比较文章的外部链接是否还能打开（要在能上网的终端里运行）
-  - 内容约定：不写具体通勤分钟数、房价、学校排名、人口或族裔构成；会变化的信息写明资料日期；片区名称是惯称，不是法定边界
-- `api/keepalive.js` + `vercel.json` 的 `crons`：Vercel 每天（UTC 16 点，也就是加州早上 9 点左右，±59 分钟）自动调用一次，调用数据库函数 public.keepalive()（见 supabase/schema.sql 第 6 部分，只返回当前时间），防止免费版项目被暂停（2026-09-24 曾被暂停过）。手动测试：打开 /api/keepalive，应该返回 {"ok":true,...}
-- `dashboard/index.html`：客户咨询后台（Supabase Auth 登录后查看 leads，已加 noindex）
-- `images/`：webp/png 图片；`vercel.json` 给图片设置了长期缓存（改图时要换文件名，否则浏览器可能继续显示旧图）
-- `supabase/schema.sql`：建表脚本和 RLS 权限设置
-- `README.md`：最初的部署说明（写的是“绿色版”，现在网站已改成深蓝主题）
+## 目录结构（2026-11 V2 起）
+- **全站页面都是生成的，不要直接改 HTML。** `python3 tools/build_site.py` 生成除中文城市页外的全部页面和 sitemap.xml；`python3 tools/build_city_guides.py` 生成 `cities/*.html`。两者都只用 Python 自带库。改了 site.css 的导航、页脚、成交卡片部分，要同步 `cities/chrome.css`
+- 英文在 `/en/` 下一一对应：`index`、`buy`、`sell`、`areas`、`homeowner`、`sold`、`insights`、`about`、`contact`、`privacy`、`calculators/*`、`insights/*`、`guides/*`、`areas/san-jose/**`、`cities/*`（英文城市页是精简版）
+- 公共文件：`site.css`、`site.js`；`tools/site_chrome.py`（导航、页脚、DRE；拿到 BQ Realty 经纪公司 DRE 号填 `BROKER_DRE`）；改样式后换 `ASSET_VER`
+- 内容位置：
+  - `tools/build_site.py`：各栏目首页、关于、联系、隐私的文案
+  - `tools/v2-content/articles/<slug>.json|.zh.html|.en.html`：32 篇文章 + 3 篇城市比较；写作规范 `tools/v2-content/WRITER_BRIEF.md`；检查 `python3 tools/v2-content/check_articles.py`
+  - `tools/page-content/buy.html`、`sell.html`：买房六步、卖房说明的中文；英文在 `tools/v2-content/pages/`
+  - `tools/v2-content/en-cities/<slug>.json`：英文城市页
+  - `tools/v2-content/zip/<邮编>.json`：San Jose 邮编页内容。**新增邮编只需加这个文件和 `images/zip/<邮编>-1.webp`（可 -2、-3），再在 `tools/site-data/sj-zip-reference.json` 的 areas/zips 加一行**。网站不用框架，所以用 JSON 代替 MDX
+  - `tools/site-data/sold.json`：33 笔成交，`side` 为 buyer/seller/null；`market.json`：10 城市场数据
+  - `tools/site-data/sj-zip-market.json`：同周期邮编数据，运行 `python3 tools/fetch_zip_market.py` 生成（需能访问 Redfin 数据文件）。有这个文件时页面用它，并去掉“预览版”提示；没有时用 `sj-zip-reference.json` 的历史参考数字
+  - `tools/v2-content/transfer-tax.json`：卖房计算器的转让税
+- 表单：`contact.html` → `/api/lead`（`api/lead.js`）→ Supabase `leads` 表 → Resend 邮件。环境变量 `RESEND_API_KEY`、`LEAD_NOTIFY_EMAIL`、可选 `LEAD_FROM_EMAIL`。只有写库成功才显示成功。本地 python 预览没有 /api，提交会显示失败，这是正常的；测试要用 Vercel 预览网址
+- `api/keepalive.js` + `vercel.json` crons：防止 Supabase 暂停。`dashboard/`：客户咨询后台。`supabase/schema.sql`：建表
+- 城市地图：OpenStreetMap、Census TIGERweb、Census Geocoder，在访客浏览器实时读取；学校招生范围不画图，只给学区官方入口
+- 内容约定：不写通勤分钟数、学校排名、人口或族裔；市场数字必须写来源、口径、日期；不同来源或周期不混用；学校不保证；不写未确认的服务承诺、成绩、资格；公平住房；Redfin、Zillow 等房源照片不用于邮编页
+- `tools/check_links.py`：检查全站外部链接（在能上网的终端运行）
 
 ## 运行和检查（已验证的命令）
 - 本地预览：`cd ~/BQ2026/经纪人网站/jingchenhomes && python3 -m http.server 8000`，然后打开 http://localhost:8000
-- 重新生成城市指南：`cd ~/BQ2026/经纪人网站/jingchenhomes && python3 tools/build_city_guides.py`
-- 重新生成买房/卖房页和比较文章：`cd ~/BQ2026/经纪人网站/jingchenhomes && python3 tools/build_pages.py`
-- 检查城市指南、服务页和比较文章的外部链接：`python3 tools/check_links.py`
+- 重新生成全站：`python3 tools/build_site.py && python3 tools/build_city_guides.py`
+- 取邮编同周期数据：`python3 tools/fetch_zip_market.py`
+- 检查外部链接：`python3 tools/check_links.py`
 - 发布：`git add <本次文件> && git commit -m "..." && git push origin main`，Vercel 会自动上线
 
 ## 约定

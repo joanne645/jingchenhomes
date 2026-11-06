@@ -1,0 +1,57 @@
+{
+ "slug": "budget-preapproval",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "买房预算与贷款预批准",
+  "seo_title": "买房预算与贷款预批准｜陈靖",
+  "description": "买房预算怎么算？预批准和预审有什么不同？怎样比较 Loan Estimate？本文说明月支出的组成、贷款人比较方法，以及 2026 年 conforming loan limit，资料截至 2026 年 11 月。",
+  "lead": "贷款人愿意借的数字和你舒服的月供往往不同。先算清后者，再用 Loan Estimate 比较贷款。"
+ },
+ "en": {
+  "title": "Home Buying Budget and Mortgage Preapproval",
+  "seo_title": "Home Budget and Mortgage Preapproval | Jing Chen",
+  "description": "How to set a real monthly budget, what a preapproval means, how to compare Loan Estimates, and the 2026 Bay Area conforming loan limit.",
+  "lead": "What a lender will approve and what feels comfortable are different numbers. Start with the second, then compare real quotes."
+ },
+ "notice": "loan",
+ "sources": [
+  {
+   "label": "CFPB：Your Home Loan Toolkit",
+   "url": "https://files.consumerfinance.gov/f/documents/cfpb_your-home-loan-toolkit_print.pdf"
+  },
+  {
+   "label": "CFPB：Prequalification vs. Preapproval Letter",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-prequalification-letter-and-a-preapproval-letter-en-127/"
+  },
+  {
+   "label": "CFPB：What is a Loan Estimate?",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-loan-estimate-en-1995/"
+  },
+  {
+   "label": "CFPB：Request and Review Multiple Loan Estimates",
+   "url": "https://www.consumerfinance.gov/owning-a-home/compare/request-and-review-multiple-loan-estimates/"
+  },
+  {
+   "label": "FHFA：Announces Conforming Loan Limit Values for 2026",
+   "url": "https://www.fhfa.gov/news/news-release/fhfa-announces-conforming-loan-limit-values-for-2026"
+  },
+  {
+   "label": "FHFA：2026 Conforming Loan Limits 县级名单",
+   "url": "https://www.fhfa.gov/data/conforming-loan-limit"
+  },
+  {
+   "label": "BOE：California Property Tax, An Overview (Publication 29)",
+   "url": "https://www.boe.ca.gov/proptaxes/pdf/pub29.pdf"
+  },
+  {
+   "label": "DRE：First Time Home Buyers",
+   "url": "https://dre.ca.gov/consumers/firsthomecalifornia.html"
+  }
+ ],
+ "related": [
+  "first-time-buyer-process",
+  "home-search",
+  "offer-strategy"
+ ]
+}

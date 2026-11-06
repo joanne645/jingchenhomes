@@ -1,0 +1,70 @@
+{
+  "slug": "sunnyvale",
+  "name": "Sunnyvale",
+  "county": "Santa Clara County",
+  "seo_title": "Sunnyvale Caltrain and Neighborhoods Guide | Jing Chen",
+  "description": "A Sunnyvale guide to two Caltrain stations, north-side light rail, six neighborhood areas, housing types and the address checks across districts.",
+  "h1": "Living in Sunnyvale: Start with Your Office, Then Choose the Neighborhood",
+  "lead": "Under one city name, Sunnyvale's school districts, commute directions and environmental conditions vary a lot. Start with where you work, narrow down the neighborhood, then verify schools by address.",
+  "tagline": "Two Caltrain stations, VTA light rail to the north, four school districts, and the Baylands at the bay's edge",
+  "overview": [
+    "Sunnyvale sits in the middle of Santa Clara County, reaching from the bayside wetlands in the north to Cupertino in the south, with Mountain View and Los Altos to the west and Santa Clara to the east. Going south from Baylands Park you cross SR-237, US-101, the Caltrain line and Central Expressway, El Camino Real and Fremont Ave before reaching the homes near Homestead Rd and I-280.",
+    "Daily life often extends past the city line. There is no general hospital in Sunnyvale, so emergency care means Mountain View or Santa Clara, and south-side residents commonly shop in Cupertino while east-side residents head toward Santa Clara. Names like Cherry Chase, Birdland and SNAIL come from neighborhood associations or real estate usage; they are not legal boundaries, and school boundaries do not follow them."
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown / Murphy Ave Station Area",
+      "summary": "Between the Sunnyvale Caltrain station and El Camino Real, this area is mostly recent condos, apartments and townhomes, with some older small-lot houses nearby and CityLine still bringing new buildings. Murphy Ave, Whole Foods, Target, the AMC theater and the Saturday farmers market are all on foot, and Local, Limited and Express trains stop at the station. Trade-offs include rail and road noise, tight parking, HOA dues and nearby construction."
+    },
+    {
+      "name": "Heritage District / Washington Park",
+      "summary": "These older streets west and south of Downtown, including the Taaffe-Frances area, have smaller lots and homes from the first half to the middle of the 20th century, some original and some rebuilt. Exterior work on homes covered by heritage listings or design guidelines needs an early conversation with Planning, and older homes need close checks of foundation, plumbing, wiring and roof. Washington Park, Murphy Ave and the station are all close, but garages can be small and homes near Mathilda or the tracks hear them."
+    },
+    {
+      "name": "Cherry Chase / West Sunnyvale",
+      "summary": "South of El Camino Real near SR-85 and Mountain View, this area centers on Cherry Chase Elementary and extends past Fremont Ave toward Serra Park. Midcentury single-story ranch homes with yards and two-car garages are common, along with expanded homes and Eichler blocks subject to the city's 2009 design guidelines. It is quiet but out of walking range of rail stations, homes close to SR-85 hear the freeway, and the line between Sunnyvale School District and Cupertino Union does not follow neighborhood names, so check each address carefully."
+    },
+    {
+      "name": "South Sunnyvale: Las Palmas / Ortega / Raynor Park",
+      "summary": "South of El Camino Real to Homestead Rd, this large residential area is mostly 1950s and 1960s single-story homes on regular lots, mixed with two-story additions and rebuilds, and the streets around Raynor Park are often called Birdland. Parks shape daily life here, including Las Palmas Park and its nearby 16-court Tennis Center, Ortega Park, De Anza Park, and the Community Center. Access to Cupertino and I-280 is easy, but both Caltrain stations are a trip away, three school districts meet here, and many older homes need roof, plumbing and electrical budgets."
+    },
+    {
+      "name": "Ponderosa / Lawrence Station",
+      "summary": "East of Wolfe Rd toward Santa Clara, the southern half around Ponderosa Park has single-story homes and some townhomes, while the northern half is the Lawrence Station Area Plan, where former industrial land is becoming condos, apartments and three-story townhomes. Lawrence Expressway connects to US-101, SR-237 and I-280, and Lawrence station gets Local and Limited trains, while most Express trains skip it. Expect expressway and rail noise, and note that Santa Clara Unified addresses have a different high school path from FUHSD."
+    },
+    {
+      "name": "North Sunnyvale: SNAIL / San Miguel / Lakewood Village",
+      "summary": "North of the tracks, split by US-101, this area has smaller-lot single-story homes in SNAIL, San Miguel and Lakewood Village, with newer townhomes around Tasman Dr and Fair Oaks Ave. It is the closest housing to Moffett Park, with VTA Orange Line stops at Fair Oaks, Vienna and Reamwood, and Baylands Park and Sunnyvale Golf Course nearby, though groceries usually mean a drive. Check freeway noise, Moffett Federal Airfield activity, FEMA flood zones and EPA Triple Site information by address, since conditions differ from street to street."
+    }
+  ],
+  "housing": {
+    "intro": "Sunnyvale's housing falls into three broad layers. South of the tracks, most neighborhoods are midcentury single-story homes on regular lots with driveways, two-car garages and usable backyards, many now expanded or rebuilt. Sunnyvale also has a concentration of Eichlers: the city's guidelines note that Joseph Eichler built more than a thousand homes here from 1949 to 1972, and they apply to exterior changes in listed areas. New housing is concentrated in Downtown / CityLine, around Lawrence Station, along El Camino Real and near Tasman Dr, mostly as condos and three-story townhomes.",
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "Concentrated south of El Camino Real around Cherry Chase, Las Palmas, Ortega and Raynor Park, and north of the tracks in SNAIL and Lakewood Village. Southern lots are generally roomier."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Common around Lawrence Station, Tasman Dr and Fair Oaks Ave, along El Camino Real and at the edges of Downtown. Newer units often have three floors with a ground-level garage, plenty of stairs and limited guest parking."
+      },
+      {
+        "type": "Condos",
+        "text": "Concentrated in Downtown / CityLine and along main roads, appealing if walking to Caltrain and shops is the priority. Check parking and storage rights, noise inside the building, what HOA dues cover, and any pending repair assessments or litigation."
+      }
+    ]
+  },
+  "commute": [
+    "The key question is which side of the tracks and US-101 your office is on. East-west routes run from SR-237 in the north through US-101, Central Expressway and El Camino Real to I-280 at the south end, and Mathilda Ave, Fair Oaks Ave, Wolfe Rd and Lawrence Expressway link them, with SR-85 on the west.",
+    "Caltrain's Sunnyvale station next to Downtown gets Local, Limited and Express trains, while Lawrence gets Local and Limited and most Express trains skip it. VTA's Orange Line serves the north side along Tasman Dr and through Moffett Park, with Caltrain transfers at Mountain View station and BART transfers at Milpitas, but it is not convenient from the southern neighborhoods."
+  ],
+  "daily_life": [
+    "Everyday shopping follows two lines. Downtown has Whole Foods and Target at CityLine, restaurants along the pedestrian stretch of Murphy Ave, and a Saturday-morning farmers market the city describes as year-round. El Camino Real runs across the whole city with supermarkets, pharmacies, banks and restaurants, including Safeway and Trader Joe's near Mathilda, and stores change often, so confirm what is open when you visit.",
+    "For hospitals, El Camino Health on Grant Rd in Mountain View and Kaiser Santa Clara on Lawrence Expressway are the main options, and Sutter's Sunnyvale Center offers outpatient care. Confirm your insurance network, and drive the route from a candidate home on a weekday."
+  ],
+  "schools": [
+    "No single district covers Sunnyvale. An address usually falls into one of three combinations: Sunnyvale School District plus Fremont Union High School District, Cupertino Union plus FUHSD, or K-12 Santa Clara Unified. FUHSD is not the same as Fremont Unified in the city of Fremont.",
+    "Identify the district first through the Santa Clara County Office of Education locator or County Assessor property information, then enter the full address in that district's official tool and contact the district. Results are often preliminary and do not guarantee placement: CUSD says final assignment is made at registration, and SSD and SCUSD both describe overload placements when a school is full. Confirm space with the district for the year you plan to enroll."
+  ],
+  "environment": "Start with Sunnyvale's Flood Zone Viewer and FEMA's flood map to see whether a parcel is in a Special Flood Hazard Area, and look up earthquake liquefaction and fault zones by address in the California Geological Survey's EQ Zapp. The city is mostly flat, but you can still confirm wildfire status on the CAL FIRE/OSFM hazard severity maps. In the north, review EPA's Triple Site page, because a TCE groundwater plume extends north across US-101 beneath a residential area; buyers in a study area should ask for testing and mitigation records. None of this means a street is unlivable; these sources tell you what to ask about each address."
+}

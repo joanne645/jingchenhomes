@@ -1,0 +1,27 @@
+{
+  "slug": "move-up-planning",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "换房规划：先买还是先卖，资金和 Prop 19 怎么算",
+    "seo_title": "湾区换房规划：先买还是先卖｜陈靖",
+    "description": "比较先卖后买、先买后卖和 Contingent offer，解释 HELOC 与 Bridge loan 的风险，并说明 55 岁以上房主如何用 Prop 19 转移税基，以及时间和文件怎么安排。",
+    "lead": "换房同时是一次卖房和一次买房，难点在时间和资金衔接。这篇比较几条路径，帮你在开始看房前想清楚顺序。"
+  },
+  "en": {
+    "title": "Move-Up Planning: Buy First or Sell First, Financing and Prop 19",
+    "seo_title": "Move-Up Planning: Buy or Sell First | Jing Chen",
+    "description": "Compare selling first, buying first and contingent offers, weigh HELOCs and bridge loans, and see how Prop 19 base year transfers work if you are 55+.",
+    "lead": "A move-up is a sale and a purchase at once, and the hard part is connecting them. Compare the main paths before you start touring homes."
+  },
+  "notice": "loan",
+  "sources": [
+    {"label": "California BOE：Proposition 19", "url": "https://www.boe.ca.gov/prop19/"},
+    {"label": "California BOE：Proposition 19 Fact Sheet（Pub 801）", "url": "https://www.boe.ca.gov/pdf/pub801.pdf"},
+    {"label": "California BOE：Publication 29 California Property Tax Overview", "url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf"},
+    {"label": "CFPB：What is a home equity line of credit (HELOC)?", "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-107/"},
+    {"label": "FTB：Income from the Sale of Your Home", "url": "https://www.ftb.ca.gov/file/personal/income-types/income-from-the-sale-of-your-home.html"},
+    {"label": "IRS：Publication 523 Selling Your Home", "url": "https://www.irs.gov/publications/p523"}
+  ],
+  "related": ["property-tax-insurance", "home-value-tracking", "holding-costs"]
+}

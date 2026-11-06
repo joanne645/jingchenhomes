@@ -19,7 +19,7 @@
       ]
     },
     {
-      "source": "/cities/guide.(css|js)",
+      "source": "/cities/(guide|chrome).(css|js)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "source": "/pages.css",
+      "source": "/site.(css|js)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -50,212 +50,212 @@
     },
     {
       "source": "/buy",
-      "destination": "/en/#services",
+      "destination": "/en/buy.html",
       "permanent": true
     },
     {
       "source": "/buy/",
-      "destination": "/en/#services",
+      "destination": "/en/buy.html",
       "permanent": true
     },
     {
       "source": "/sell",
-      "destination": "/en/#services",
+      "destination": "/en/sell.html",
       "permanent": true
     },
     {
       "source": "/sell/",
-      "destination": "/en/#services",
+      "destination": "/en/sell.html",
       "permanent": true
     },
     {
       "source": "/home-search",
-      "destination": "/en/#homes",
+      "destination": "/en/buy.html#search",
       "permanent": true
     },
     {
       "source": "/home-search/",
-      "destination": "/en/#homes",
+      "destination": "/en/buy.html#search",
       "permanent": true
     },
     {
       "source": "/listings",
-      "destination": "/en/#sold",
+      "destination": "/en/sold.html",
       "permanent": true
     },
     {
       "source": "/listings/",
-      "destination": "/en/#sold",
+      "destination": "/en/sold.html",
       "permanent": true
     },
     {
       "source": "/success-stories",
-      "destination": "/en/#sold",
+      "destination": "/en/sold.html",
       "permanent": true
     },
     {
       "source": "/success-stories/",
-      "destination": "/en/#sold",
+      "destination": "/en/sold.html",
       "permanent": true
     },
     {
       "source": "/resources",
-      "destination": "/en/#market-tools",
+      "destination": "/en/insights.html",
       "permanent": true
     },
     {
       "source": "/resources/",
-      "destination": "/en/#market-tools",
+      "destination": "/en/insights.html",
       "permanent": true
     },
     {
       "source": "/home-valuation",
-      "destination": "/en/#market-tools",
+      "destination": "/en/contact.html?type=valuation",
       "permanent": true
     },
     {
       "source": "/home-valuation/",
-      "destination": "/en/#market-tools",
+      "destination": "/en/contact.html?type=valuation",
       "permanent": true
     },
     {
       "source": "/communities/palo-alto",
-      "destination": "/cities/palo-alto.html",
+      "destination": "/en/cities/palo-alto.html",
       "permanent": true
     },
     {
       "source": "/communities/palo-alto/",
-      "destination": "/cities/palo-alto.html",
+      "destination": "/en/cities/palo-alto.html",
       "permanent": true
     },
     {
       "source": "/communities/cupertino",
-      "destination": "/cities/cupertino.html",
+      "destination": "/en/cities/cupertino.html",
       "permanent": true
     },
     {
       "source": "/communities/cupertino/",
-      "destination": "/cities/cupertino.html",
+      "destination": "/en/cities/cupertino.html",
       "permanent": true
     },
     {
       "source": "/communities/sunnyvale",
-      "destination": "/cities/sunnyvale.html",
+      "destination": "/en/cities/sunnyvale.html",
       "permanent": true
     },
     {
       "source": "/communities/sunnyvale/",
-      "destination": "/cities/sunnyvale.html",
+      "destination": "/en/cities/sunnyvale.html",
       "permanent": true
     },
     {
       "source": "/communities/mountain-view",
-      "destination": "/cities/mountain-view.html",
+      "destination": "/en/cities/mountain-view.html",
       "permanent": true
     },
     {
       "source": "/communities/mountain-view/",
-      "destination": "/cities/mountain-view.html",
+      "destination": "/en/cities/mountain-view.html",
       "permanent": true
     },
     {
       "source": "/communities/san-jose",
-      "destination": "/cities/san-jose.html",
+      "destination": "/en/cities/san-jose.html",
       "permanent": true
     },
     {
       "source": "/communities/san-jose/",
-      "destination": "/cities/san-jose.html",
+      "destination": "/en/cities/san-jose.html",
       "permanent": true
     },
     {
       "source": "/communities/fremont",
-      "destination": "/cities/fremont.html",
+      "destination": "/en/cities/fremont.html",
       "permanent": true
     },
     {
       "source": "/communities/fremont/",
-      "destination": "/cities/fremont.html",
+      "destination": "/en/cities/fremont.html",
       "permanent": true
     },
     {
       "source": "/communities/milpitas",
-      "destination": "/cities/milpitas.html",
+      "destination": "/en/cities/milpitas.html",
       "permanent": true
     },
     {
       "source": "/communities/milpitas/",
-      "destination": "/cities/milpitas.html",
+      "destination": "/en/cities/milpitas.html",
       "permanent": true
     },
     {
       "source": "/communities/dublin",
-      "destination": "/cities/dublin.html",
+      "destination": "/en/cities/dublin.html",
       "permanent": true
     },
     {
       "source": "/communities/dublin/",
-      "destination": "/cities/dublin.html",
+      "destination": "/en/cities/dublin.html",
       "permanent": true
     },
     {
       "source": "/communities/pleasanton",
-      "destination": "/cities/pleasanton.html",
+      "destination": "/en/cities/pleasanton.html",
       "permanent": true
     },
     {
       "source": "/communities/pleasanton/",
-      "destination": "/cities/pleasanton.html",
+      "destination": "/en/cities/pleasanton.html",
       "permanent": true
     },
     {
       "source": "/communities/san-ramon",
-      "destination": "/cities/san-ramon.html",
+      "destination": "/en/cities/san-ramon.html",
       "permanent": true
     },
     {
       "source": "/communities/san-ramon/",
-      "destination": "/cities/san-ramon.html",
+      "destination": "/en/cities/san-ramon.html",
       "permanent": true
     },
     {
       "source": "/communities",
-      "destination": "/en/#market-cities",
+      "destination": "/en/areas.html",
       "permanent": true
     },
     {
       "source": "/communities/",
-      "destination": "/en/#market-cities",
+      "destination": "/en/areas.html",
       "permanent": true
     },
     {
       "source": "/about",
-      "destination": "/en/#about",
+      "destination": "/en/about.html",
       "permanent": true
     },
     {
       "source": "/about/",
-      "destination": "/en/#about",
+      "destination": "/en/about.html",
       "permanent": true
     },
     {
       "source": "/contact",
-      "destination": "/en/#contact",
+      "destination": "/en/contact.html",
       "permanent": true
     },
     {
       "source": "/contact/",
-      "destination": "/en/#contact",
+      "destination": "/en/contact.html",
       "permanent": true
     },
     {
       "source": "/communities/:city",
-      "destination": "/en/#market-cities",
+      "destination": "/en/areas.html",
       "permanent": true
     },
     {
       "source": "/communities/:city/",
-      "destination": "/en/#market-cities",
+      "destination": "/en/areas.html",
       "permanent": true
     }
   ],

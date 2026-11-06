@@ -1,0 +1,33 @@
+{
+ "slug": "home-value-consultation",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "免费房屋估值咨询：CMA 讨论和正式估价的区别",
+  "seo_title": "房屋估值咨询：CMA 与正式估价｜陈靖",
+  "description": "想知道房子现在大概值多少，要先分清 CMA 讨论和持牌 Appraiser 的正式估价。本文说明两者的区别、各自的用途、咨询前要准备哪些资料，以及网上自动估值该怎么看待。",
+  "lead": "卖房的第一个问题通常是“能卖多少”。先弄清手里的数字从哪来、能用来做什么，后面的定价和准备才有依据。"
+ },
+ "en": {
+  "title": "Free Home Value Consultation: CMA vs. Appraisal",
+  "seo_title": "Home Value Consultation: CMA vs. Appraisal | Jing Chen",
+  "description": "A CMA discussion and a formal appraisal answer different questions. Learn what each one is for, what to prepare, and how to read online home estimates.",
+  "lead": "Most sellers start by asking what the house could sell for. It helps to know where a number came from and what it can be used for before you plan around it."
+ },
+ "notice": null,
+ "sources": [
+  {
+   "label": "CFPB：What are appraisals",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/what-are-appraisals-and-why-do-i-need-to-look-at-them-en-167/"
+  },
+  {
+   "label": "CFPB：My appraisal is less than the sale price",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/my-appraisal-is-less-than-the-sale-price-what-does-that-mean-for-me-en-2007/"
+  }
+ ],
+ "related": [
+  "pre-listing-analysis",
+  "prep-and-repairs",
+  "seller-faq"
+ ]
+}

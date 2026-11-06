@@ -7,7 +7,8 @@
 内容来自 tools/city-content/<slug>.json，共用样式与脚本是 cities/guide.css、cities/guide.js。
 改文字只需要改对应的 JSON，然后重新运行本脚本；不需要安装任何依赖。
 """
-import json, re, html, sys
+import json
+import sys, re, html, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -16,7 +17,7 @@ OUT = ROOT / 'cities'
 SITE = 'https://www.homesbyjingchen.com'
 REVIEWED = '2026年10月'
 REVIEWED_ISO = '2026-10-08'
-ASSET_VER = '20261009'
+ASSET_VER = '20261105'
 
 CITIES = [  # slug, 名称, 地图初始中心（仅用于边界加载前的初始视野）, 初始缩放
     ('palo-alto', 'Palo Alto', (37.425, -122.140), 12),
@@ -32,6 +33,10 @@ CITIES = [  # slug, 名称, 地图初始中心（仅用于边界加载前的初�
 ]
 NAMES = {s: n for s, n, _, _ in CITIES}
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from site_chrome import nav as site_nav, footer as site_footer, font_links, ASSET_VER as SITE_VER, rel  # noqa
+SOLD = json.loads((ROOT / 'tools/site-data/sold.json').read_text(encoding='utf-8'))['records']
+MK = json.loads((ROOT / 'tools/site-data/market.json').read_text(encoding='utf-8'))
 SEO = json.loads((Path(__file__).resolve().parent / 'seo-meta.json').read_text(encoding='utf-8'))
 # 与城市相关的比较文章（guides/*.html）
 GUIDES = {
@@ -356,8 +361,7 @@ def build(slug, center, zoom):
 <h3 class="sub">房型与日常使用</h3>
 <div class="prose">{paras(h['paragraphs'])}</div>
 <div class="scen">{types}</div>
-<div class="note">各城市近期的成交中位价和统计口径放在<a href="../index.html#market-report" style="text-decoration:underline">首页的湾区市场数据</a>里。那是全市各类房型混在一起的数字，不能直接当作某一类房屋的预算；具体到片区和房型，需要看同一时间段、同类房屋的成交。</div>
-<div class="btnrow"><a class="btn solid" href="../index.html?city={e(name.replace(' ', '+'))}#homes">查看 {e(name)} 在售房源 →</a><a class="btn" href="../index.html?city={e(name.replace(' ', '+'))}&amp;ask=budget#contact">根据我的预算和通勤，缩小看房范围 →</a></div>
+<div class="btnrow"><a class="btn solid" href="../buy.html?city={e(name.replace(' ', '+'))}#search">查看 {e(name)} 在售房源 →</a><a class="btn" href="../contact.html?city={e(name.replace(' ', '+'))}&amp;type=budget#contact">根据我的预算和通勤，缩小看房范围 →</a></div>
 <h3 class="sub">房价之外的居住成本</h3>
 <div class="two"><div class="prose">{paras(d['costs']['paragraphs'])}</div><div><h4 style="margin:0;font-size:17px;color:var(--navy)">看具体房源时要核对</h4><ul class="check">{cl}</ul></div></div>
 <h3 class="sub">气候、噪音与按地址核实的环境因素</h3>
@@ -368,6 +372,26 @@ def build(slug, center, zoom):
 <div class="items">{pitems}</div>
 </div></section>'''
 
+    # ---------- 房价数据、近期成交、相关文章 ----------
+    mk = MK['cities'][slug]
+    local = [r for r in SOLD if r['city'] == name][:4]
+    def sold_card(r):
+        ph = f'<div class="ph"><img src="{e(r["image"])}" alt="{e(r["address"])}" loading="lazy" referrerpolicy="no-referrer" data-hide-on-error></div>' if r.get('image') else ''
+        y, mo, da = r['date'].split('-')
+        return (f'<a class="prop" href="{e(r["url"])}" target="_blank" rel="noopener">{ph}<div class="pi"><span class="bd">成交 · {y} 年 {int(mo)} 月 {int(da)} 日</span><h3>{e(r["address"])}</h3>'
+                f'<span class="m">{r["beds"]:g} 卧 · {r["baths"]:g} 卫 · {r["sqft"]:,} sqft</span><span class="pr">${r["price"]:,}</span></div></a>')
+    sold_html = (f'<h3 class="sub">{e(name)} 的近期真实成交</h3><div class="soldrow">' + ''.join(sold_card(r) for r in local) + f'</div><div class="btnrow" style="margin-top:16px"><a class="btn" href="../sold.html?city={e(name.replace(" ", "+"))}">查看全部成交案例 →</a></div>') if local else f'<h3 class="sub">近期真实成交</h3><div class="prose"><p>目前公开记录里没有陈靖在 {e(name)} 的成交。可以看<a href="../sold.html" style="text-decoration:underline">全部成交案例</a>。</p></div>'
+    arts = [('compare-cities', '不同城市与社区怎么比较'), ('school-lookup', '怎样按地址查询学校'), ('holding-costs', '房产持有成本')]
+    art_html = ''.join(f'<a href="../insights/{a}.html"><h4>{t}</h4><span class="go">阅读文章 →</span></a>' for a, t in arts)
+    market_sec = f'''
+<section class="section" id="market"><div class="container">
+<div class="kicker">07 · 房价数据与近期成交</div><h2 class="title">{e(name)} 的市场数字怎么看</h2>
+<div class="tablebox"><table><thead><tr><th>城市</th><th>近 3 个月成交中位价</th><th>同比变化</th></tr></thead><tbody><tr><td>{e(name)}</td><td>{e(mk['median'])}</td><td>{e(mk['yoy_zh'])}</td></tr></tbody></table></div>
+<div class="note">来源：{e(MK['source_zh'])}。统计口径：{e(MK['method_zh'])}更新时间：{e(MK['updated_zh'])}。这是全市概括数字，不是任何一套房屋的估值，也不代表未来走势。十个城市的对比见<a href="../areas.html#market" style="text-decoration:underline">地区与学区</a>。</div>
+{sold_html}
+<h3 class="sub">相关知识文章</h3><div class="cmp">{art_html}</div>
+</div></section>'''
+
     # ---------- 看区路线 ----------
     t = d['tour']
     stop_prefix = re.compile(r'^第\s*\d+\s*站[\s：:·]*')
@@ -375,7 +399,7 @@ def build(slug, center, zoom):
     qs = ''.join(f'<li>{e(q)}</li>' for q in t.get('questions', []))
     tour = f'''
 <section class="section dark" id="tour"><div class="container">
-<div class="kicker">07 · 实地看区路线</div><h2 class="title">用半天时间，把 {e(name)} 走一遍</h2>
+<div class="kicker">08 · 实地看区路线</div><h2 class="title">用半天时间，把 {e(name)} 走一遍</h2>
 <p class="lead">{e(t['intro'])}</p>
 <div class="two" style="margin-top:30px"><div><div class="stops">{stops}</div></div>
 <div><h3 style="margin:0 0 4px;font-size:21px;color:var(--gold2)">看房前后要核对的问题</h3><ul class="check">{qs}</ul></div></div>
@@ -392,14 +416,16 @@ def build(slug, center, zoom):
     allc = ''.join(f'<a href="{s}.html"{" class=cur aria-current=page" if s == slug else ""}>{e(n)}</a>' for s, n, _, _ in CITIES)
     q = name.replace(' ', '+')
     gl = ''.join('<a class="btn" href="../guides/' + g + '.html">' + e(t_) + ' →</a>' for g, t_ in GUIDES.get(slug, []))
+    if sj:
+        gl = '<a class="btn" href="../areas/san-jose/index.html">San Jose 各邮编市场分析 →</a>' + gl
     glinks = '<div class="btnrow" style="margin-top:20px">' + gl + '<a class="btn" href="../buy.html">湾区买房服务：六个步骤 →</a></div>'
     compare = f'''
 <section class="section" id="compare"><div class="container">
-<div class="kicker">08 · 城市比较与咨询</div><h2 class="title">还值得一起比较的城市</h2>
+<div class="kicker">09 · 城市比较与咨询</div><h2 class="title">还值得一起比较的城市</h2>
 <p class="lead">下面的比较都放在同样的预算、房型和通勤条件下来看。城市之间没有高下，差别在于你更看重哪一项。</p>
 <div class="cmp">{''.join(cmp_cards)}</div>{glinks}
 <div class="cta"><div><h3>把范围缩小到几个片区，再到几套房</h3><p>告诉陈靖你的预算、办公地点、交通方式和对住房的要求，一起比较片区，逐项核对学校、通勤、房屋状况与持有成本。</p><div class="id">Jing Chen 陈靖 · REALTOR® · BQ Realty · DRE #02147119 · <a href="tel:+19259174019">925-917-4019</a></div></div>
-<div class="btnrow"><a class="btn gold" href="../index.html?city={e(q)}&amp;ask=compare#contact">让陈靖帮我比较这几个城市 →</a><a class="btn gold" href="../index.html?city={e(q)}&amp;ask=budget#contact">根据我的预算和通勤，缩小看房范围 →</a><a class="btn gold" href="../index.html?city={e(q)}&amp;ask=city#contact">咨询 {e(name)} 的购房选择 →</a></div></div>
+<div class="btnrow"><a class="btn gold" href="../contact.html?city={e(q)}&amp;type=compare">让陈靖帮我比较这几个城市 →</a><a class="btn gold" href="../contact.html?city={e(q)}&amp;type=budget">根据我的预算和通勤，缩小看房范围 →</a><a class="btn gold" href="../contact.html?city={e(q)}&amp;type=city">咨询 {e(name)} 的购房选择 →</a></div></div>
 <h3 class="sub">十个城市的生活指南</h3><div class="allc">{allc}</div>
 </div></section>'''
 
@@ -419,7 +445,7 @@ def build(slug, center, zoom):
           "author": {"@type": "RealEstateAgent", "name": "Jing Chen 陈靖", "telephone": "925-917-4019", "url": SITE + "/"},
           "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Jing Chen Homes", "item": SITE + "/"},
-              {"@type": "ListItem", "position": 2, "name": "城市指南", "item": SITE + "/#market-cities"},
+              {"@type": "ListItem", "position": 2, "name": "地区与学区", "item": SITE + "/areas.html"},
               {"@type": "ListItem", "position": 3, "name": f"{name} 城市生活指南", "item": url}]}}
     guide_json = json.dumps(guide, ensure_ascii=False).replace('</', '<' + chr(92) + '/')
     facts = ''.join(f'<div class="fact"><small>{e(f["label"])}</small><strong>{e(f["value"])}</strong></div>' for f in d['facts'][:4])
@@ -440,15 +466,18 @@ def build(slug, center, zoom):
 <link rel="icon" href="../favicon.svg" type="image/svg+xml">
 <link rel="icon" href="../favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="alternate" hreflang="zh-CN" href="{url}"><link rel="alternate" hreflang="en" href="{SITE}/en/cities/{slug}.html"><link rel="alternate" hreflang="x-default" href="{url}">
+{font_links()}
 <link rel="stylesheet" href="guide.css?v={ASSET_VER}">
+<link rel="stylesheet" href="chrome.css?v={ASSET_VER}">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
-<body>
-<nav class="nav"><div class="navin"><a class="brand" href="../index.html"><img class="navlogo" src="../images/logo-nav.png" alt="JC Team">JING CHEN HOMES</a><div class="navlinks"><a href="../buy.html">买房</a><a href="../sell.html">卖房</a><a href="../index.html#homes">找房</a><a href="../index.html#market-cities">城市指南</a><a href="../index.html#compare-guides">城市比较</a><a href="../index.html#sold">成交案例</a><a href="../index.html#about">关于陈靖</a><a class="navcta" href="../index.html?city={e(q)}&amp;ask=city#contact">咨询陈靖</a></div></div></nav>
-<div class="subnav"><div class="subnav-in"><a href="#overview">概览</a><a href="#map">地图</a><a href="#districts">片区</a><a href="#daily">日常</a><a href="#schools">学校</a><a href="#housing">住房与成本</a><a href="#tour">看区路线</a><a href="#compare">比较与咨询</a></div></div>
+<body class="city" data-page="city">
+{site_nav("zh", f"cities/{slug}.html", "areas")}
+<div class="subnav"><div class="subnav-in"><a href="#overview">概览</a><a href="#map">地图</a><a href="#districts">片区</a><a href="#daily">日常</a><a href="#schools">学校</a><a href="#housing">住房与成本</a><a href="#market">房价与成交</a><a href="#tour">看区路线</a><a href="#compare">比较与咨询</a></div></div>
 
 <header class="hero"><div class="container heroin">
-<div class="crumbs"><a href="../index.html">首页</a> / <a href="../index.html#market-cities">城市指南</a> / {e(name)}</div>
+<div class="crumbs"><a href="../index.html">首页</a> / <a href="../areas.html">地区与学区</a> / {e(name)}</div>
 <div class="kicker">BAY AREA LIVING GUIDE · {e(d.get('county',''))}</div>
 <p class="cityname" aria-hidden="true">{e(name)}<span>城市生活指南</span></p>
 <h1 class="cityh1">{e(seo['h1'])}</h1>
@@ -457,10 +486,11 @@ def build(slug, center, zoom):
 <div class="herotag">{e(d['hero']['tagline'])}</div>
 <div class="facts">{facts}</div>
 </div></header>
-{overview}{maps_html}{districts}{daily}{schools}{housing}{tour}{compare}{sources}
-<footer><div class="container footer"><div><strong>Jing Chen 陈靖</strong><br>REALTOR® · BQ Realty · DRE #02147119 · <a href="tel:+19259174019">925-917-4019</a></div><div>© 2026 Jing Chen · 城市生活指南<br><a href="../index.html">返回首页</a> · <a href="../buy.html">买房服务</a> · <a href="../sell.html">卖房服务</a> · <a href="../index.html#contact">预约咨询</a></div></div></footer>
+{overview}{maps_html}{districts}{daily}{schools}{housing}{market_sec}{tour}{compare}{sources}
+{site_footer("zh", f"cities/{slug}.html")}
 <script>window.GUIDE={guide_json};</script>
 <script src="guide.js?v={ASSET_VER}"></script>
+<script src="../site.js?v={SITE_VER}" defer></script>
 <script>(function(){{var b=document.getElementById('openall');if(!b)return;b.onclick=function(){{var ds=[].slice.call(document.querySelectorAll('details.dist'));var open=ds.some(function(x){{return !x.open}});ds.forEach(function(x){{x.open=open}});b.textContent=open?'收起全部片区':'展开全部片区'}}}})();</script>
 </body></html>
 '''

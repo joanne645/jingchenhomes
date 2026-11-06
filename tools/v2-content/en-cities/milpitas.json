@@ -1,0 +1,66 @@
+{
+  "slug": "milpitas",
+  "name": "Milpitas",
+  "county": "Santa Clara County",
+  "seo_title": "Milpitas BART Area and Homes Guide | Jing Chen",
+  "description": "A Milpitas guide to the BART and light rail hub, five neighborhood areas, townhomes and older homes, school lookups and the odor check by address.",
+  "h1": "Living in Milpitas: Weigh the Transit Hub Against Daily Crossings",
+  "lead": "Milpitas pairs a BART and light rail hub with older neighborhoods and foothill homes. The main trade-offs are parking and HOA costs near the station, traffic across Calaveras Blvd, and odor that has to be checked by address and time of day.",
+  "tagline": "BART and light rail at one hub, between I-880 and I-680, newer station-area townhomes, and eastern foothills",
+  "overview": [
+    "Milpitas sits in the northeast corner of Santa Clara County where the South Bay meets the East Bay, with Fremont to the north, San Jose to the south and west, and hills and undeveloped slopes to the east. I-880 and I-680 both run through town, and SR-237 starts here and heads west to Sunnyvale and Mountain View. The two freeways create three north-south strips: mostly commercial and industrial land west of I-880; industry, the Great Mall and BART in the south and homes in the north between the freeways; and homes and foothills east of I-680.",
+    "Calaveras Blvd is the main way across both freeways and the route to SR-237, so see it at rush hour. Groceries, the library, community centers and sports facilities are all in town, while general hospitals with emergency rooms are in Fremont and San Jose. Milpitas Metro and Gateway-Main Street are Specific Plan names, and the other names are common usage, not legal or school boundaries."
+  ],
+  "neighborhoods": [
+    {
+      "name": "Milpitas Metro (BART / Great Mall Area)",
+      "summary": "At the south end around Milpitas Transit Center, Great Mall Parkway and Montague Expressway, this 510-acre plan area is mostly townhomes and multistory condos built since the 2010s, with new homes subject to a Community Facilities District special tax. BART, light rail, Great Mall and new parks such as McCandless and Bob McGuire are nearby, though real walkability depends on each complex's exits. Weigh HOA dues and special tax, tight parking, road and rail noise and ongoing construction, and check the FEMA zone, since the area is in the Berryessa Creek floodplain per Valley Water."
+    },
+    {
+      "name": "Midtown / Main Street (Gateway-Main Street Plan Area)",
+      "summary": "This is the oldest part of the city, along Main Street and Abel Street east of I-880 and the rail line. Housing is mixed, from older small-lot homes and apartments to newer townhomes and condos, and Milpitas Library, small shops and I-880 access are all close. Noise from I-880, the Calaveras overpass and the tracks is the main variable, and the plan allows denser buildings along the main streets, so expect the streetscape to change."
+    },
+    {
+      "name": "North Residential Area Between the Freeways (Including Sunnyhills)",
+      "summary": "North of Calaveras Blvd toward Dixon Landing Rd, this belt has mostly late-20th-century single-family homes, many single-story, with yards and attached garages plus some townhome and condo complexes. The Civic Center, senior and community centers, Safeway and neighborhood parks are nearby, and either freeway may work depending on which side you are on. Older homes need budgets for foundation, roof, plumbing, wiring and windows, streets near freeways hear steady traffic, and odor from sources to the northwest varies with wind, season and hour, so check in person."
+    },
+    {
+      "name": "East of I-680 Foothills",
+      "summary": "From I-680 up to the hills, along E Calaveras Blvd and Piedmont Rd, homes are mainly single-family, getting larger near the slopes, including view homes and gated communities. Ed R. Levin County Park and the Alviso and Higuera adobe parks are close, and hillside work may fall under the city's hillside rules, so ask Planning before you start. Life is more car-dependent, heading west to I-880 or SR-237 means crossing both freeways, and fault, landslide, fire and insurance questions need answers parcel by parcel."
+    },
+    {
+      "name": "West of I-880 (McCarthy Ranch Area)",
+      "summary": "West of I-880 to Coyote Creek, SR-237 passes through an area dominated by retail, offices and industry, with a small number of newer townhomes and condos, usually with HOAs. McCarthy Ranch Marketplace and Milpitas Square are close, and SR-237 and North San Jose are direct, but the library, community center and most parks are east of I-880. Few daily needs are walkable, school runs cross the freeway, and this area is closer to Newby Island and wastewater facilities than most of the city, so odor deserves a careful on-site check."
+    }
+  ],
+  "housing": {
+    "intro": "Milpitas housing falls into three eras: older single-family homes in the north between the freeways and in Midtown, foothill homes east of I-680 that came next, and townhomes and condos built over the past decade or so around the station and along Main and Abel streets. For a similar budget, the choice is often between an older one-level home with a yard and a newer multi-level townhome with an HOA. In older homes, focus on foundation and drainage, roof age, water and sewer lines, electrical panel, windows and insulation, and permits for additions and garage conversions.",
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "Concentrated between the freeways in the north, mostly single-story on regular lots, and east of I-680, where lots and homes grow toward the hills."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Most common in Milpitas Metro and along Main and Abel streets, usually three or more stories with a ground-floor garage. Compare parking layout, stairs, what the HOA covers such as roofs, exteriors and roads, and any separate CFD tax."
+      },
+      {
+        "type": "Condos",
+        "text": "Mainly around the station, Midtown and newer complexes west of I-880. Review the HOA reserve report and insurance, how parking and storage are held, and how the building faces main roads and rail."
+      }
+    ]
+  },
+  "commute": [
+    "I-880 and I-680 handle north-south trips, SR-237 goes west, and Montague Expressway and Calaveras Blvd connect east and west. The difficulty is in those east-west links: Calaveras carries freeway crossings, SR-237 access and local shopping trips at once, and Montague is the main route to North San Jose. Anyone living east of I-680 and working along SR-237 makes that crossing every day.",
+    "Rail is concentrated at Milpitas Transit Center. BART's Milpitas station opened in June 2020, with lines toward Richmond and Daly City, and a pedestrian bridge links it to VTA's Orange Line station; Alder and Great Mall are the other Orange Line stops in the area. VTA, not BART, manages parking here, with daily or monthly paid spaces that are first come, first served and cannot be reserved."
+  ],
+  "daily_life": [
+    "Errands fall into three zones: Great Mall and the station area in the south, the Civic Center stretch along Calaveras Blvd in the middle, and large retail centers west of I-880. The library is on Main Street, and the senior and community centers are at Civic Center.",
+    "Weekends often center on Ed R. Levin County Park in the hills, with Sandy Wool Lake and more than 20 miles of trails. In town, care is mostly outpatient, including Kaiser medical offices, and hospitals with ERs are in neighboring cities such as Fremont's Washington Health to the north and San Jose to the south. Confirm your plan's network, then check the route both at night and at rush hour."
+  ],
+  "schools": [
+    "Milpitas Unified School District serves TK through 12, with ten elementary schools, two middle schools and Milpitas High School, among others. Enrollment is by residence: enter the full street address in the district's official School Finder to see the matching elementary and middle schools. Near the San Jose line, first use the Santa Clara County Office of Education's School District Locator, since School Finder covers only addresses in the district.",
+    "No lookup guarantees a seat. MUSD says space is tight, and a student who misses the first day of school may lose a place and be assigned elsewhere in the district. Intradistrict transfer requests run through a March lottery after resident placement, and Mattos Elementary does not accept transfers because of capacity, so living next to a campus is not the same as being assigned to it. Confirm the address and school year with the district."
+  ],
+  "environment": "Check odor first, since it is specific to this city. A Bay Area Air Quality Management District study attributed most community odor complaints to landfill gas, with other facilities also contributing, so visit a candidate address in the evening, in the early morning and on a weekend, and review BAAQMD's Air Quality Complaint History page. For flooding, confirm the current zone on FEMA's map; for earthquakes, use the California Geological Survey's EQ Zapp to see liquefaction layers in western lowlands and Alquist-Priolo fault and landslide zones in the eastern foothills; for wildfire, check the CAL FIRE/OSFM hazard severity maps, especially near the hills. These layers show what needs further checking; they cannot on their own tell you the condition of a particular home."
+}

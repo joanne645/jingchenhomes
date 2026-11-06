@@ -1,0 +1,38 @@
+{
+  "slug": "rental-management",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "出租物业管理：AB 1482、押金和湾区各市本地规定",
+    "seo_title": "加州出租物业管理要点｜陈靖",
+    "description": "整理加州 AB 1482 涨租上限和 Just Cause、AB 12 押金上限、押金照片规定，以及 San Jose、Mountain View、Palo Alto、Milpitas 等城市的本地租赁规定。",
+    "lead": "在湾区做房东，州法和城市规定要一起看。这篇按涨租、退租、押金的顺序，把最常用的规则和金额整理出来，并写明核对日期。"
+  },
+  "en": {
+    "title": "Rental Management: AB 1482, Deposits and Local Bay Area Rules",
+    "seo_title": "California Rental Management Basics | Jing Chen",
+    "description": "AB 1482 rent caps and just cause, AB 12 deposit limits, photo rules, and local ordinances in San Jose, Mountain View, Palo Alto and Milpitas.",
+    "lead": "Bay Area landlords answer to both state law and city rules. Here are the ones you will use most, covering rent increases, terminations and deposits, with the dates we checked."
+  },
+  "notice": "legal",
+  "sources": [
+    {"label": "California Attorney General：Limits on Rent Increases", "url": "https://oag.ca.gov/rentcaps"},
+    {"label": "California Attorney General：Landlord-Tenant Issues", "url": "https://oag.ca.gov/tenants"},
+    {"label": "California Attorney General：Know Your Rights as a Tenant", "url": "https://oag.ca.gov/system/files/media/Know-Your-Rights-Tenants-English.pdf"},
+    {"label": "California Attorney General：Know Your Rights, Security Deposits", "url": "https://oag.ca.gov/system/files/media/Know-Your-Rights-Security-Deposits-English.pdf"},
+    {"label": "California Courts Self-Help：Types of Eviction Notices", "url": "https://selfhelp.courts.ca.gov/eviction-landlord/notice-types"},
+    {"label": "City and County of San Francisco：California Tenant Protection Act (AB 1482)", "url": "https://www.sf.gov/information/california-tenant-protection-act-2019-ab-1482"},
+    {"label": "California DRE：California Tenants Guide 2026 Edition", "url": "https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf"},
+    {"label": "California DRE：Moving Out（押金和照片规定）", "url": "https://www.dre.ca.gov/publications/ResourceGuidebook/gb10_movingout.html"},
+    {"label": "California Senate Judiciary Committee：AB 2801 Analysis", "url": "https://sjud.senate.ca.gov/system/files/2024-06/ab-2801-friedman-sjud-analysis.pdf"},
+    {"label": "City of San Jose：New Landlord & Property Manager Welcome Packet", "url": "https://www.sanjoseca.gov/your-government/departments-offices/housing/landlords-property-managers/welcome-packet"},
+    {"label": "City of Mountain View：Rent Stabilization FAQs", "url": "https://www.mountainview.gov/our-city/departments/housing/rent-stabilization/resources-and-information/frequently-asked-questions-faqs"},
+    {"label": "City of Palo Alto：Landlord Resources", "url": "https://www.paloalto.gov/City-Hall/Housing/Tenant-Landlord-Resources/Landlord-Resources"},
+    {"label": "City of Milpitas：Rent Review Ordinance", "url": "https://milpitas.gov/1307/Rent-Review-Ordinance"},
+    {"label": "City of Fremont：Housing FAQs", "url": "https://www.fremont.gov/government/departments/housing/housing-faqs"},
+    {"label": "City of Sunnyvale：Rental Programs", "url": "https://www.sunnyvale.ca.gov/homes-streets-and-property/housing/rental-programs"},
+    {"label": "City of Cupertino：Renter Support", "url": "https://www.cupertino.gov/Your-City/Departments/Community-Development/Housing/Renter-Support"},
+    {"label": "IRS：Publication 527 Residential Rental Property", "url": "https://www.irs.gov/publications/p527"}
+  ],
+  "related": ["adu-basics", "sell-investment-property", "owner-faq"]
+}

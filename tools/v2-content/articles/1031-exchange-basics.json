@@ -1,0 +1,29 @@
+{
+  "slug": "1031-exchange-basics",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "1031 Exchange 基础：45/180 天、QI 和加州 FTB 3840",
+    "seo_title": "1031 Exchange 基础知识｜陈靖",
+    "description": "解释 1031 的适用范围、45 天指定和 180 天完成期限、Qualified Intermediary 的作用、Boot 的税务影响，以及置换到外州时加州 FTB 3840 的年度申报要求。",
+    "lead": "1031 可以递延投资房出售时的税，但期限严格，而且要在卖房过户前就安排好。这篇讲基本规则和加州的额外要求，不代替 CPA 或 QI 的建议。"
+  },
+  "en": {
+    "title": "1031 Exchange Basics: 45/180 Days, QIs and California's FTB 3840",
+    "seo_title": "1031 Exchange Basics for CA Owners | Jing Chen",
+    "description": "What qualifies for a 1031 exchange, the 45- and 180-day deadlines, how a qualified intermediary works, boot, and California's FTB 3840 annual filing.",
+    "lead": "A 1031 exchange can defer tax on an investment sale, but the deadlines are strict and it has to be set up before you close. These are the basic rules, plus California's extra filing."
+  },
+  "notice": "tax-legal",
+  "sources": [
+    {"label": "IRS：2025 Instructions for Form 8824", "url": "https://www.irs.gov/pub/irs-pdf/i8824.pdf"},
+    {"label": "IRS：Like-Kind Exchanges Under IRC Section 1031（FS-2008-18）", "url": "https://www.irs.gov/pub/irs-news/fs-08-18.pdf"},
+    {"label": "IRS：Publication 544 Sales and Other Dispositions of Assets", "url": "https://www.irs.gov/publications/p544"},
+    {"label": "FTB：Reporting Like-Kind Exchanges", "url": "https://www.ftb.ca.gov/file/personal/reporting-like-kind-exchanges.html"},
+    {"label": "FTB：2025 Instructions for Form FTB 3840", "url": "https://www.ftb.ca.gov/forms/2025/2025-3840-instructions.html"},
+    {"label": "FTB：2025 Form FTB 3840", "url": "https://www.ftb.ca.gov/forms/2025/2025-3840.pdf"},
+    {"label": "FTB：Publication 1016 Real Estate Withholding Guidelines", "url": "https://www.ftb.ca.gov/forms/misc/1016.html"},
+    {"label": "FTB：2026 Instructions for Form 593", "url": "https://www.ftb.ca.gov/forms/2026/2026-593-instructions.html"}
+  ],
+  "related": ["sell-investment-property", "sell-rental-property", "move-up-planning"]
+}

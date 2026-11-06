@@ -1,0 +1,65 @@
+{
+ "slug": "read-disclosures",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "Disclosures 阅读指南：TDS、SPQ、NHD",
+  "seo_title": "Disclosures 阅读指南｜陈靖",
+  "description": "怎样读加州房屋披露？本文说明 TDS、SPQ、NHD、Preliminary Title Report、HOA 文件各看什么，2025–2026 年的电气、燃气和防火新要求，以及晚收到 TDS 时的法定解约期。",
+  "lead": "披露资料是你判断出价和条件的基础。有意向时就读，把疑问写成清单。"
+ },
+ "en": {
+  "title": "Reading Disclosures: TDS, SPQ, NHD and More",
+  "seo_title": "Reading California Home Disclosures | Jing Chen",
+  "description": "What to look for in the TDS, SPQ, NHD, title report and HOA documents, recent California requirements, and your rights if the TDS arrives late.",
+  "lead": "Disclosures are the basis for your price and terms. Read them early and turn anything unclear into written questions."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "California Civil Code §1102.3",
+   "url": "https://california.public.law/codes/civil_code_section_1102.3"
+  },
+  {
+   "label": "DRE：Disclosures in Real Property Transactions (2005 edition)",
+   "url": "https://www.dre.ca.gov/files/pdf/re6.pdf"
+  },
+  {
+   "label": "California Civil Code §1102.6i",
+   "url": "https://california.public.law/codes/civil_code_section_1102.6i"
+  },
+  {
+   "label": "California Civil Code §1102.6j",
+   "url": "https://california.public.law/codes/civil_code_section_1102.6j"
+  },
+  {
+   "label": "Schorr Law：California Fire Disclosure Requirements",
+   "url": "https://schorr-law.com/california-fire-disclosure-requirements/"
+  },
+  {
+   "label": "C.A.R.：June 2026 Forms Release Quick Summary",
+   "url": "https://gpsr.net/wp-content/uploads/2026/07/CAR-Quick-Summary-of-Forms-Update-june-2026.pdf"
+  },
+  {
+   "label": "C.A.R. 表格清单：December 2025 Forms Release（CDAR 转载）",
+   "url": "https://cdaronline.org/carformsrelease/"
+  },
+  {
+   "label": "C.A.R.：RPA 12/21 draft（SDAR 存档）",
+   "url": "https://media.sdar.com/media/New_RPA.pdf"
+  },
+  {
+   "label": "California Geological Survey：EQ Zapp",
+   "url": "https://www.conservation.ca.gov/cgs/geohazards/eq-zapp"
+  },
+  {
+   "label": "CAL FIRE/OSFM：Fire Hazard Severity Zones",
+   "url": "https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones"
+  }
+ ],
+ "related": [
+  "home-inspection",
+  "offer-strategy",
+  "cma-home-value"
+ ]
+}

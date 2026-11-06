@@ -1,0 +1,70 @@
+{
+  "slug": "pleasanton",
+  "name": "Pleasanton",
+  "county": "Alameda County",
+  "seo_title": "Pleasanton Neighborhoods and Commute Guide | Jing Chen",
+  "description": "A Pleasanton guide to six areas, Main Street life, BART and ACE, housing by era, PUSD lookups and the map layers to check before making an offer.",
+  "h1": "Living in Pleasanton: Connect Home, School Route and Office",
+  "lead": "Pleasanton pairs a working Main Street with two BART stations and ACE service, but summers are hot and most commutes cross a congested stretch. Map your routes between home, school and office before you choose a side of town.",
+  "tagline": "I-580 and I-680 interchange, two BART stations and ACE, historic Main Street, and western ridge trails",
+  "overview": [
+    "Pleasanton is in the Amador Valley, part of the Tri-Valley in eastern Alameda County. Dublin lies across I-580 to the north and shares two BART stations, Livermore is east along Stanley Blvd, Pleasanton Ridge is to the west, and I-680 and Foothill Road lead south toward Sunol. I-580 and I-680 meet at the northwest corner next to Stoneridge Shopping Center.",
+    "Mailing addresses are wider than city limits: some addresses along Foothill Road and south of town may be in unincorporated Alameda County, the Castlewood area among them, so confirm city services, water and tax items by address. The six areas below use local names and natural dividers; they are not legal boundaries or tied to any school's attendance area."
+  ],
+  "neighborhoods": [
+    {
+      "name": "Downtown / Main Street",
+      "summary": "Centered on Main Street, this area has early- and mid-20th-century homes and small-lot bungalows with later townhomes and small apartment buildings, and condition can differ sharply on a single street. Dining, the Saturday farmers market, Pleasanton Library and Firehouse Arts Center are walkable, and ACE is nearby. In return, expect small garages, older-home upkeep, train sounds that vary by block, busy Fairgrounds event days, and a longer trip north to BART and I-580."
+    },
+    {
+      "name": "Hacienda / North Pleasanton",
+      "summary": "South of I-580 from Stoneridge Shopping Center to around Santa Rita Rd, this is the city's main area for condos and townhomes, set among office buildings and dating from the 1980s to recent projects. Most have HOAs, assigned parking and limited guest spaces, while both BART stations, freeways and jobs at Hacienda are nearby. Trade-offs include freeway noise, office-park streets that are less pleasant to walk than they look on a map, long-term HOA costs, and possible future construction around Stoneridge."
+    },
+    {
+      "name": "Pleasanton Valley / Birdland and Central Neighborhoods",
+      "summary": "On the central flatlands between Hopyard and Santa Rita roads, these are planned single-family neighborhoods from around the 1960s and 1970s, typically with front and back yards and two-car garages. Ken Mercer Sports Park, Dolores Bengtson Aquatic Center and Pleasanton Tennis and Community Park are within biking range, and the two freeways are fairly evenly reachable. Older homes need maintenance money, school-hour traffic slows the main intersections, walkable dining is limited, and a 2023 elementary boundary change makes older listing notes unreliable."
+    },
+    {
+      "name": "West Side Along Foothill Road",
+      "summary": "West of I-680 along Foothill Road, this foothill belt runs from two-story tracts near the freeway to large-lot custom homes and gated or semi-gated HOA communities upslope. Alviso Adobe Community Park, Augustin Bernal Park and Pleasanton Ridge Regional Park are close, and I-680 and West Dublin/Pleasanton BART are convenient, but errands mean crossing I-680 at limited points. Expect freeway noise on the east side, slope maintenance and insurance questions, wildfire and geology checks, and addresses that may be unincorporated, so first confirm the home is inside PUSD."
+    },
+    {
+      "name": "Vintage Hills / Kottinger Ranch / Ruby Hill",
+      "summary": "In the hills east and southeast of Downtown, this area is almost all single-family homes: Vintage Hills is an older hillside neighborhood, while Kottinger Ranch and Ruby Hill are later planned communities with larger homes and usually HOAs, and Ruby Hill is known for golf and gated living. Main Street and Shadow Cliffs are the usual outings, with Stanley Blvd and SR-84 leading to Livermore. Distance to I-580 and BART is among the longest in town, hillside homes need foundation, drainage and retaining wall review, and HOA dues and exterior rules are ongoing."
+    },
+    {
+      "name": "Northeast: Mohr / Ironwood / East Stoneridge Drive",
+      "summary": "East of Santa Rita Rd and south of I-580, this area has somewhat newer two-story homes and planned neighborhoods, along with townhomes and age-restricted communities, and usually better garages and storage than the older areas. Santa Rita Rd shopping, I-580 and Dublin/Pleasanton BART are convenient, and Livermore job sites are on the way. It is a roundabout start for the South Bay, Downtown and western trails take a cross-town drive, HOAs and occasional special assessments need review, and future use of nearby open land is uncertain, so check the city's project map."
+    }
+  ],
+  "housing": {
+    "intro": "Single-family homes are the core of Pleasanton's housing, with condos and townhomes concentrated around Hacienda, Stoneridge and major roads. Downtown has early- and mid-century homes, the central flatlands were built out around the 1960s and 1970s, and the western foothills, southeast hills and northeast filled in later, tending to get newer and larger toward the edges, and more likely to have HOAs. In older homes, check foundation and drainage, roof, water and sewer lines, electrical capacity, and permits for additions and garage conversions.",
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "Found citywide. Central areas have planned tracts with yards and two-car garages, Downtown has smaller-lot older homes, and Foothill Road, Vintage Hills, Kottinger Ranch and Ruby Hill often have slopes or large lots with more to maintain."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Common around Hacienda and Stoneridge and in complexes near main roads, with some in newer northeast communities. Read the HOA documents before you buy."
+      },
+      {
+        "type": "Condos",
+        "text": "Concentrated near the two BART stations and Stoneridge, plus small projects around Downtown. Confirm parking, storage, noise exposure and HOA finances."
+      }
+    ]
+  },
+  "commute": [
+    "I-580 runs along the north edge and I-680 along the west edge. Hopyard and Santa Rita roads connect to I-580, while Stoneridge Dr, W. Las Positas Blvd, Valley Ave and Bernal Ave lead toward I-680. San Francisco and Oakland trips use I-580 or BART; Fremont, Milpitas and San Jose trips take I-680 over Sunol or the weekday ACE; Livermore is by I-580, Stanley Blvd or SR-84.",
+    "BART has two stations along the north edge, both on the Dublin/Pleasanton to Daly City line. ACE stops at 4950 Pleasanton Ave on weekdays only, with morning trains to San Jose and evening trains back, stopping at Fremont, Great America and Santa Clara; it suits fixed work hours near those stations."
+  ],
+  "daily_life": [
+    "Errands have two centers. The old town has Main Street dining and shops, the Saturday farmers market at 46 W Angela St, the library and Firehouse Arts Center within walking distance. The north side along I-580 has Stoneridge Shopping Center and large retail centers for bigger trips.",
+    "Weekends point west to Pleasanton Ridge Regional Park and Augustin Bernal Park, where residents enter free with proof of address and non-residents need a weekly pass, or east to Shadow Cliffs, which charges parking per vehicle and may post water-quality and trail notices. Stanford Health Care Tri-Valley on W. Las Positas Blvd is the general hospital in town, and Kaiser has outpatient facilities. Check that your plan covers them, and drive the night route to the ER, especially from the west foothills or Ruby Hill."
+  ],
+  "schools": [
+    "Pleasanton Unified School District serves TK through 12, with nine elementary schools, three middle schools, Amador Valley and Foothill high schools, and other programs. City and district boundaries are close but not identical, so first confirm that an address along Foothill Road or south of town is inside PUSD, then use the district's official School Locator with the full street address.",
+    "PUSD adopted elementary boundary changes in March 2023, and high school boundaries have been under review since early 2024 with no final decision shown on the district page, so older listings and maps may be out of date. A Locator result does not guarantee placement: growth can lead to overflow assignments and waitlists. Confirm the grade and year with the district."
+  ],
+  "environment": "Look up each address instead of judging by area. For earthquakes, use the California Geological Survey's EQ Zapp to see fault, liquefaction and earthquake-induced landslide zones, particularly in the western foothills and on slopes. For flooding, check FEMA's flood map near Arroyo Valle, Arroyo Mocho and other channels. For wildfire, use the Livermore-Pleasanton Fire Department's Fire Hazard Severity Zone lookup and the CAL FIRE/OSFM maps; homes in High or Very High zones face added building, defensible space and disclosure rules, and insurance may be affected. Water quality is worth a look too: the city took its own wells offline after finding PFAS in 2022 and now uses treated surface water from Zone 7, with annual reports on its Water Quality and Safety page. Maps point out what to verify; they are not a conclusion about a home."
+}

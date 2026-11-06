@@ -1,0 +1,32 @@
+{
+  "slug": "property-tax-insurance",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "加州房产税与房屋保险：房主要看懂的几件事",
+    "seo_title": "加州房产税与房屋保险指南｜陈靖",
+    "description": "讲清 Prop 13 的计税方式、Homeowners' Exemption、补充税单、Prop 19、FAIR Plan 和 CEA 地震险，以及湾区房主每年该核对的日期、表格和保单项目。",
+    "lead": "房产税和保险每年都要付，却很少有人把账单和保单逐项看过。这篇按账单上的顺序讲一遍，并列出湾区房主需要留意的日期。"
+  },
+  "en": {
+    "title": "California Property Tax and Home Insurance: What Owners Should Know",
+    "seo_title": "California Property Tax & Home Insurance | Jing Chen",
+    "description": "How Prop 13, the Homeowners' Exemption, supplemental bills, Prop 19, the FAIR Plan and CEA earthquake coverage work for Bay Area homeowners.",
+    "lead": "You pay these two bills every year, but few owners read them line by line. Here is what each piece means and which dates matter in the Bay Area."
+  },
+  "notice": "tax",
+  "sources": [
+    {"label": "California BOE：Publication 29 California Property Tax Overview", "url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf"},
+    {"label": "California BOE：Homeowners' Exemption", "url": "https://www.boe.ca.gov/proptaxes/homeowners_exemption.htm"},
+    {"label": "California BOE：Proposition 19", "url": "https://www.boe.ca.gov/prop19/"},
+    {"label": "California BOE：Proposition 19 Fact Sheet（Pub 801）", "url": "https://www.boe.ca.gov/pdf/pub801.pdf"},
+    {"label": "California BOE：Letter to Assessors 2025/009（家庭住宅排除额调整）", "url": "https://www.boe.ca.gov/proptaxes/pdf/lta25009.pdf"},
+    {"label": "California BOE：Letter to Assessors 2026/023（2026 申诉截止日）", "url": "https://boe.ca.gov/proptaxes/pdf/lta26023.pdf"},
+    {"label": "Santa Clara County Assessor：Informal Request for Decline in Value", "url": "https://www.sccassessor.org/RP/prop8/declineinvalue.asp"},
+    {"label": "California Department of Insurance：California FAIR Plan", "url": "https://www.insurance.ca.gov/01-consumers/200-wrr/California-FAIR-Plan.cfm"},
+    {"label": "California Department of Insurance：Residential Insurance Guide", "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-ins-guide.cfm"},
+    {"label": "California Department of Insurance：Earthquake Insurance Guide", "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/upload/IG-Earthquake-Insurance-Updated-102924.pdf"},
+    {"label": "California Earthquake Authority：Coverage Options for Homeowners", "url": "https://earthquakeauthority.com/California-Earthquake-Insurance-Policies/Homeowners/Coverages-and-Deductibles"}
+  ],
+  "related": ["holding-costs", "move-up-planning", "home-value-tracking"]
+}

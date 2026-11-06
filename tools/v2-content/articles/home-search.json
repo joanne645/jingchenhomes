@@ -1,0 +1,45 @@
+{
+ "slug": "home-search",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "湾区房源搜索方法",
+  "seo_title": "湾区房源搜索方法｜陈靖",
+  "description": "怎样在湾区高效找房？本文讲如何设定必须项、用地图和提醒搜索、看房时记录什么，以及带看前的买方协议、Open House 注意事项和网站估值、学校标注的常见误区，帮助你缩小范围。",
+  "lead": "搜房的目的是缩小范围。先定标准，再用同一张表比较每一套房。"
+ },
+ "en": {
+  "title": "How to Search for a Bay Area Home",
+  "seo_title": "How to Search for a Bay Area Home | Jing Chen",
+  "description": "Set must-haves, search by map, record what matters at showings, and avoid traps with listing school names, portal estimates and open houses.",
+  "lead": "Searching is about narrowing. Set your criteria first, then compare every home on the same sheet."
+ },
+ "notice": null,
+ "sources": [
+  {
+   "label": "DRE：First Time Home Buyers",
+   "url": "https://dre.ca.gov/consumers/firsthomecalifornia.html"
+  },
+  {
+   "label": "DRE：AB 2992 Regulations, 10 CCR §§2906.1–2906.2",
+   "url": "https://www.dre.ca.gov/files/pdf/relaw/2025/AB2992_Title_10_CalCodeofRegs29061_29063.pdf"
+  },
+  {
+   "label": "NAR：Written Buyer Agreements 101",
+   "url": "https://www.nar.realtor/the-facts/written-buyer-agreements-101"
+  },
+  {
+   "label": "California Civil Code §1670.50",
+   "url": "https://california.public.law/codes/civil_code_section_1670.50"
+  },
+  {
+   "label": "Zillow：Zestimate",
+   "url": "https://www.zillow.com/zestimate"
+  }
+ ],
+ "related": [
+  "compare-cities",
+  "school-lookup",
+  "read-disclosures"
+ ]
+}

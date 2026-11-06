@@ -1,0 +1,33 @@
+{
+ "slug": "school-lookup",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "学区查询方法：按地址核实学校",
+  "seo_title": "学区查询方法｜陈靖",
+  "description": "房源写的学校不一定算数。本文讲如何用官方工具按完整地址确认学区和学校，为什么查询结果不等于能入读，什么是 overflow 和 diversion，以及 Dashboard 和 SARC 怎么看。",
+  "lead": "学校归属取决于完整地址和学区当年的安排。写 offer 前按官方工具查清并向学区确认。"
+ },
+ "en": {
+  "title": "How to Look Up School Districts by Address",
+  "seo_title": "How to Look Up School Districts by Address | Jing Chen",
+  "description": "Use official tools to confirm the district and school for a full address, why a result is no guarantee of a seat, and where to read school data.",
+  "lead": "School assignment depends on the full address and that year's placement. Confirm it through the district before you offer."
+ },
+ "notice": null,
+ "sources": [
+  {
+   "label": "CDE：A Parent's Guide to the SARC",
+   "url": "https://www.cde.ca.gov/ta/ac/sa/parentguide.asp"
+  },
+  {
+   "label": "CDE：California School Dashboard and System of Support",
+   "url": "https://www.cde.ca.gov/ta/ac/cm/"
+  }
+ ],
+ "related": [
+  "compare-cities",
+  "home-search",
+  "buyer-faq"
+ ]
+}

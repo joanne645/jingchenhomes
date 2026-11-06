@@ -1,0 +1,29 @@
+{
+  "slug": "sell-investment-property",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "投资房出售：折旧回收、资本利得和加州预扣",
+    "seo_title": "加州投资房出售税务概念｜陈靖",
+    "description": "出售湾区出租房或投资房前要了解的税务概念：折旧回收、联邦资本利得、NIIT、加州按普通收入计税，以及 Form 593 和 3⅓% 预扣，附与 CPA 确认的清单。",
+    "lead": "投资房的账比自住房复杂，折旧、联邦税、加州税和过户时的预扣都要算。这篇讲一般概念，帮你在挂牌前知道该问 CPA 什么。"
+  },
+  "en": {
+    "title": "Selling an Investment Property: Depreciation, Gains and CA Withholding",
+    "seo_title": "Selling an Investment Property in CA | Jing Chen",
+    "description": "Depreciation recapture, federal capital gains, the NIIT, California treatment and Form 593 withholding: what to raise with your CPA before listing.",
+    "lead": "An investment sale involves more moving parts than selling your home: depreciation, federal and state tax, and withholding at closing. These are the concepts to discuss with your CPA."
+  },
+  "notice": "tax-legal",
+  "sources": [
+    {"label": "IRS：Topic 409, Capital Gains and Losses", "url": "https://www.irs.gov/taxtopics/tc409"},
+    {"label": "IRS：Publication 527 Residential Rental Property", "url": "https://www.irs.gov/publications/p527"},
+    {"label": "IRS：Publication 523 Selling Your Home", "url": "https://www.irs.gov/publications/p523"},
+    {"label": "IRS：Publication 544 Sales and Other Dispositions of Assets", "url": "https://www.irs.gov/publications/p544"},
+    {"label": "IRS：2025 Instructions for Form 8960", "url": "https://www.irs.gov/pub/irs-pdf/i8960.pdf"},
+    {"label": "FTB：Capital Gains and Losses", "url": "https://www.ftb.ca.gov/file/personal/income-types/capital-gains-and-losses.html"},
+    {"label": "FTB：2026 Instructions for Form 593", "url": "https://www.ftb.ca.gov/forms/2026/2026-593-instructions.html"},
+    {"label": "FTB：Publication 1016 Real Estate Withholding Guidelines", "url": "https://www.ftb.ca.gov/forms/misc/1016.html"}
+  ],
+  "related": ["1031-exchange-basics", "sell-rental-property", "rental-management"]
+}

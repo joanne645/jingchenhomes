@@ -1,0 +1,37 @@
+{
+ "slug": "staging-photography",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "Staging 和专业摄影：要不要做，要注意什么",
+  "seo_title": "Staging 与摄影：卖房展示指南｜陈靖",
+  "description": "Staging 和专业摄影要看房子情况决定。本文比较全屋、局部和虚拟 Staging 的差别，说明拍摄前的准备，以及自 2026 年起加州对经过数字修改的房源图片的披露要求。",
+  "lead": "买方多半先在手机上看到你的房子。照片和房间摆设决定他们是否想来实地看，但展示必须如实反映房屋。"
+ },
+ "en": {
+  "title": "Staging and Photography: What to Decide Before Listing",
+  "seo_title": "Staging and Listing Photos for Sellers | Jing Chen",
+  "description": "Whether to stage depends on the home. Compare full, partial and virtual staging, photo prep, and California rules on digitally altered images.",
+  "lead": "Most buyers meet your home on a phone screen first. Photos and furnishing decide whether they come to see it, and they have to represent the home accurately."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "California Business and Professions Code § 10140.8",
+   "url": "https://california.public.law/codes/business_and_professions_code_section_10140.8"
+  },
+  {
+   "label": "FAA：Small UAS Regulations (Part 107)",
+   "url": "https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107"
+  },
+  {
+   "label": "NAR：Open Houses",
+   "url": "https://www.nar.realtor/open-houses"
+  }
+ ],
+ "related": [
+  "prep-and-repairs",
+  "marketing-plan",
+  "open-house"
+ ]
+}

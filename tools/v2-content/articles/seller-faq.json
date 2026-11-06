@@ -1,0 +1,61 @@
+{
+ "slug": "seller-faq",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "卖房常见问题：佣金、税、Disclosure 和时间安排",
+  "seo_title": "湾区卖房常见问题解答｜陈靖",
+  "description": "湾区卖家最常问的问题：佣金怎么算、要不要先装修、Disclosure 要写什么、自住房增值怎么免税、加州 3⅓% 预扣和 FIRPTA 是什么、要多久才能卖掉，以及先买还是先卖。",
+  "lead": "这里收集了卖房时最常见的几个问题。税务和法律部分是一般信息，具体情况请向 CPA 或律师确认。"
+ },
+ "en": {
+  "title": "Seller FAQ: Commissions, Taxes, Disclosures and Timing",
+  "seo_title": "Home Seller FAQ for the Bay Area | Jing Chen",
+  "description": "Answers to common seller questions: commissions, repairs, disclosures, the home sale exclusion, California withholding, FIRPTA and timing.",
+  "lead": "These are the questions sellers ask most. The tax and legal answers are general information, so check your own situation with a CPA or attorney."
+ },
+ "notice": "tax-legal",
+ "sources": [
+  {
+   "label": "DRE：Consumer Alert on changes to real estate representation (amended Dec 2024)",
+   "url": "https://www.dre.ca.gov/consumers/consumeralerts/ConsumerAlert_20241114_Changes_to_Real_Estate_Representation.html"
+  },
+  {
+   "label": "NAR：What the NAR Settlement Means for Home Buyers and Sellers",
+   "url": "https://www.nar.realtor/the-facts/what-the-nar-settlement-means-for-home-buyers-and-sellers"
+  },
+  {
+   "label": "IRS：Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "label": "IRS：Publication 523 (2025), Selling Your Home",
+   "url": "https://www.irs.gov/publications/p523"
+  },
+  {
+   "label": "FTB：2026 Instructions for Form 593",
+   "url": "https://www.ftb.ca.gov/forms/2026/2026-593-instructions.html"
+  },
+  {
+   "label": "IRS：FIRPTA withholding",
+   "url": "https://www.irs.gov/individuals/international-taxpayers/firpta-withholding"
+  },
+  {
+   "label": "IRS：Instructions for Form 8288 (Jan 2026)",
+   "url": "https://www.irs.gov/instructions/i8288"
+  },
+  {
+   "label": "California Civil Code § 1102.3",
+   "url": "https://california.public.law/codes/civil_code_section_1102.3"
+  },
+  {
+   "label": "DRE：Disclosures in Real Property Transactions (2005 edition)",
+   "url": "https://www.dre.ca.gov/files/pdf/re6.pdf"
+  }
+ ],
+ "related": [
+  "home-value-consultation",
+  "offers-negotiation",
+  "seller-escrow-closing"
+ ]
+}

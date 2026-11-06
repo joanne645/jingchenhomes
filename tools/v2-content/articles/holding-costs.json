@@ -1,0 +1,31 @@
+{
+  "slug": "holding-costs",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "房产持有成本：税、保险、HOA、Mello-Roos 和维修储备",
+    "seo_title": "加州房产持有成本清单｜陈靖",
+    "description": "把房贷以外的持有成本逐项拆开：房产税和 direct charges、保险、HOA 和特别摊派、Mello-Roos、维修储备，并说明每项去哪里查、税务抵扣上有哪些限制。",
+    "lead": "每月实际花在房子上的钱，往往不止贷款月供。这篇把几项持有成本拆开，告诉你每项去哪里查，方便做一张属于自己的年度表。"
+  },
+  "en": {
+    "title": "Holding Costs: Tax, Insurance, HOA, Mello-Roos and Repair Reserves",
+    "seo_title": "California Home Holding Costs | Jing Chen",
+    "description": "A line-by-line look at ownership costs beyond the mortgage: property tax, insurance, HOA dues, Mello-Roos and repair reserves, and where to find each.",
+    "lead": "What a home really costs each month goes well past the mortgage payment. Here is each item, where to find the number, and how to build your own annual budget."
+  },
+  "notice": "tax",
+  "sources": [
+    {"label": "California BOE：Publication 29 California Property Tax Overview", "url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf"},
+    {"label": "San Diego County Assessor：Mello-Roos", "url": "https://www.sdarcc.gov/content/arcc/home/divisions/assessor/mello-roos.html"},
+    {"label": "Tulare County：What is Mello-Roos", "url": "https://tularecounty.ca.gov/propertytax/property-tax-accounting/faqs/what-is-mello-roos"},
+    {"label": "Civil Code 1102.6b（CounselStack 转载）", "url": "https://law.counselstack.com/statute/ca/CIV/1102.6b."},
+    {"label": "California DRE：Disclosures in Real Property Transactions", "url": "https://www.dre.ca.gov/files/pdf/re6.pdf"},
+    {"label": "Civil Code 5605（Public.Law 转载）", "url": "https://california.public.law/codes/civil_code_section_5605"},
+    {"label": "California Department of Insurance：Residential Insurance Guide", "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-ins-guide.cfm"},
+    {"label": "IRS：Topic 503, Deductible Taxes", "url": "https://www.irs.gov/taxtopics/tc503"},
+    {"label": "IRS：2026 Form 1040-ES 州税扣除额更正", "url": "https://www.irs.gov/forms-pubs/correction-to-state-and-local-income-tax-deduction-amount-in-the-2026-form-1040-es"},
+    {"label": "IRS：Instructions for Schedule A (2025)", "url": "https://www.irs.gov/instructions/i1040sca"}
+  ],
+  "related": ["property-tax-insurance", "maintenance-renovation", "home-value-tracking"]
+}

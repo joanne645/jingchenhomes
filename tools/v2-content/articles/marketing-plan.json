@@ -1,0 +1,37 @@
+{
+ "slug": "marketing-plan",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "上市营销策略：从定价到上市第一周怎么安排",
+  "seo_title": "卖房上市营销策略怎么规划｜陈靖",
+  "description": "上市营销不是把房源发出去就结束。本文说明如何找准房子的真实卖点、安排上市节奏、写好房源描述，遵守公平住房和图片规定，并根据看房数据调整策略，避免常见错误。",
+  "lead": "好的上市计划会先想清楚买方在比较什么、房子有什么可以说的，再安排什么时候、用什么方式让人看到。"
+ },
+ "en": {
+  "title": "Listing Marketing Plan: From Pricing to the First Week",
+  "seo_title": "How to Plan a Home Listing Marketing Strategy | Jing Chen",
+  "description": "A listing plan is more than posting a home online. Find real selling points, set the timing, follow fair housing rules and read the feedback.",
+  "lead": "A good listing plan starts with what buyers will be comparing and what can honestly be said about the home, and then works out when and how they will see it."
+ },
+ "notice": null,
+ "sources": [
+  {
+   "label": "NAR：Multiple Listing Options for Sellers (Mar 2025)",
+   "url": "https://www.nar.realtor/press-releases/nar-introduces-new-mls-policy-to-expand-choice-for-consumers"
+  },
+  {
+   "label": "California Business and Professions Code § 10140.8",
+   "url": "https://california.public.law/codes/business_and_professions_code_section_10140.8"
+  },
+  {
+   "label": "NAR：Open Houses",
+   "url": "https://www.nar.realtor/open-houses"
+  }
+ ],
+ "related": [
+  "mls-online-exposure",
+  "staging-photography",
+  "open-house"
+ ]
+}

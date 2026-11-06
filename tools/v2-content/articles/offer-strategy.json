@@ -1,0 +1,53 @@
+{
+ "slug": "offer-strategy",
+ "category": "buy",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "Offer 竞争策略与 Contingency 取舍",
+  "seo_title": "Offer 策略与 Contingency 取舍｜陈靖",
+  "description": "加州 offer 怎么写才有竞争力？本文说明 C.A.R. RPA 的默认期限、各类 Contingency 的取舍、appraisal gap、定金和违约风险，资料截至 2026 年 11 月。",
+  "lead": "卖方比较的是整份合同。在竞争中要清楚每项让步的后果，只放弃你承受得起的保护。"
+ },
+ "en": {
+  "title": "Offer Strategy and Contingency Tradeoffs",
+  "seo_title": "Offer Strategy and Contingencies | Jing Chen",
+  "description": "RPA default deadlines, how to weigh each contingency, appraisal gap options, deposit risk and how to prepare a competitive California offer.",
+  "lead": "Sellers weigh the whole contract. Know what each concession costs, and give up only the protection you can afford to lose."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "C.A.R.：RPA 12/21 draft（SDAR 存档）",
+   "url": "https://media.sdar.com/media/New_RPA.pdf"
+  },
+  {
+   "label": "C.A.R.：June 2026 Forms Release Quick Summary",
+   "url": "https://gpsr.net/wp-content/uploads/2026/07/CAR-Quick-Summary-of-Forms-Update-june-2026.pdf"
+  },
+  {
+   "label": "The Real Deal：New Contracts Allow Uninsured Home Buyers to Back Out",
+   "url": "https://therealdeal.com/sanfrancisco/2024/10/02/new-contracts-allow-uninsured-home-buyers-to-back-out"
+  },
+  {
+   "label": "California Civil Code §1675",
+   "url": "https://california.public.law/codes/civil_code_section_1675"
+  },
+  {
+   "label": "DRE：First Time Home Buyers",
+   "url": "https://dre.ca.gov/consumers/firsthomecalifornia.html"
+  },
+  {
+   "label": "Tahoe Sierra MLS：The Revised RPA and New Forms",
+   "url": "https://tahoemls.com/?p=11476"
+  },
+  {
+   "label": "NAR：Written Buyer Agreements 101",
+   "url": "https://www.nar.realtor/the-facts/written-buyer-agreements-101"
+  }
+ ],
+ "related": [
+  "cma-home-value",
+  "read-disclosures",
+  "escrow-closing"
+ ]
+}

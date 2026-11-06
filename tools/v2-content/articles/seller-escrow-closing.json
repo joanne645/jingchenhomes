@@ -1,0 +1,61 @@
+{
+ "slug": "seller-escrow-closing",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "卖方 Escrow 与 Closing：从接受 Offer 到拿到房款",
+  "seo_title": "卖方 Escrow 与 Closing 流程｜陈靖",
+  "description": "接受 Offer 之后还有很多事。本文按顺序说明卖方在 Escrow 里要做什么：Disclosure、验房和修理谈判、贷款还清、转让税、加州 3⅓% 预扣、FIRPTA，以及交房和拿到房款的安排。",
+  "lead": "Escrow 是买卖双方把钱和文件交给中立第三方、按合同完成交易的过程。卖方要做的事不少，提前知道顺序就不容易乱。"
+ },
+ "en": {
+  "title": "Seller Escrow and Closing: From Acceptance to Proceeds",
+  "seo_title": "Seller Escrow and Closing in California | Jing Chen",
+  "description": "What sellers do in escrow, step by step: disclosures, repair requests, loan payoff, transfer tax, California withholding, FIRPTA and keys.",
+  "lead": "Escrow is the neutral process that holds money and documents until the contract terms are met. Sellers have plenty to do, and knowing the order helps."
+ },
+ "notice": "tax-legal",
+ "sources": [
+  {
+   "label": "Fidelity National Title：Who Pays What, California (rev. Jan 2026)",
+   "url": "https://page.fnf.com/rs/393-REY-847/images/Who%20Pays%20What%20-%20California%20Transfer%20Tax%20and%20Fees%20%28rev%2001062026%29.pdf?version=0"
+  },
+  {
+   "label": "Alameda County Clerk-Recorder：Real Property Transfer Tax",
+   "url": "https://auditor.alamedacountyca.gov/clerk-recorder-real-property-tax/"
+  },
+  {
+   "label": "Contra Costa County Recorder：Documentary Transfer Tax",
+   "url": "https://www.contracostavote.gov/recorder/recording-fees/documentary-transfer-tax/"
+  },
+  {
+   "label": "City of San José Finance：Tax Forms, Fees, Permits & Resources",
+   "url": "https://www.sanjoseca.gov/your-government/departments-offices/finance/tax-forms-permits-resources"
+  },
+  {
+   "label": "City of San José：Measure E City Attorney analysis",
+   "url": "https://sanjoseca.gov/home/showdocument?id=48994"
+  },
+  {
+   "label": "City of Mountain View：Measure G City Attorney analysis",
+   "url": "https://mountainview.gov/home/showpublisheddocument/9462/638609709942500000"
+  },
+  {
+   "label": "IRS：Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "label": "IRS：FIRPTA withholding",
+   "url": "https://www.irs.gov/individuals/international-taxpayers/firpta-withholding"
+  },
+  {
+   "label": "FTB：2026 Instructions for Form 593",
+   "url": "https://www.ftb.ca.gov/forms/2026/2026-593-instructions.html"
+  }
+ ],
+ "related": [
+  "offers-negotiation",
+  "seller-faq",
+  "sell-rental-property"
+ ]
+}

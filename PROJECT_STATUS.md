@@ -1,5 +1,17 @@
 # PROJECT_STATUS
 
+## 当前状态（2026-11-05）：V2 在 v2 分支预览，未上线
+上线前必须完成：
+- [ ] 运行 python3 tools/fetch_zip_market.py 取得邮编同周期数据（或由陈靖提供 MLS 同周期数据）；核实前页面显示“预览版”
+- [ ] 补 95118、95128、95126、95135 的正文（MDX 内容包）；目前只在总览表里，没有详情页
+- [ ] 邮编页照片：要真实、当地、有使用权；截图里的 redfin.com、trulia.com 等图片和 AI 生成图不能用
+- [ ] Resend 账号和 Vercel 环境变量 RESEND_API_KEY、LEAD_NOTIFY_EMAIL，然后在预览网址实测表单
+- [ ] 陈靖用当前会员版 RPA 核对文章里的默认天数（17 天、3 个工作日、5 天等）
+- [ ] 确认 95129、95120 页面引用的 Redfin、Realtor.com 数字（95124 已核到 Redfin 2026 年 9 月数字）
+- [ ] 确认：33 笔成交的买卖方、BQ Realty DRE 号、REALTOR® 会员身份、JC Team 团队名是否合规、实际服务范围、About 素材、Google 商家链接
+- [ ] 11 月 3 日选举后复查：Prop 37、Prop 43、地方转让税措施
+- [ ] 运行 python3 tools/check_links.py；隐私说明请专业人士看一遍
+
 ## 当前状态（2026-10-09）
 - SEO 第一轮已在本地完成（是否已推送以 Git 记录为准）：首页换上新定位和入口；新增 buy.html、sell.html 和 guides/ 下三篇城市比较文章；10 个城市页换成 SEO 标题、H1 和导语；/home 永久跳转到首页；sitemap 共 17 个网址
 - 上线后要做的验证：打开 https://www.homesbyjingchen.com/home/ 应跳到首页；用自己的信息提交一次咨询表单，到后台确认收到后删除这条测试

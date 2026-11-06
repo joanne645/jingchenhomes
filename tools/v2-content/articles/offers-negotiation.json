@@ -1,0 +1,45 @@
+{
+ "slug": "offers-negotiation",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "Offer 比较与谈判：价格之外要看什么",
+  "seo_title": "Offer 比较与谈判：卖方指南｜陈靖",
+  "description": "最高价的 Offer 不一定最好。本文说明如何逐项比较价格、融资、Contingency、时间和买方经纪报酬请求，以及还价和多个 Offer 时要注意的问题。",
+  "lead": "收到 Offer 后，先把数字和条款放进同一张表，再谈判。最后能否顺利成交，往往取决于价格以外的条款。"
+ },
+ "en": {
+  "title": "Comparing Offers and Negotiating as a Seller",
+  "seo_title": "How to Compare Offers and Negotiate | Jing Chen",
+  "description": "The highest offer is not always the strongest. Compare price, financing, contingencies, timing and buyer-agent requests, then decide how to counter.",
+  "lead": "When offers arrive, put the numbers and terms in one table before negotiating. Whether a deal closes often depends on more than the price."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "DRE：Consumer Alert on changes to real estate representation (amended Dec 2024)",
+   "url": "https://www.dre.ca.gov/consumers/consumeralerts/ConsumerAlert_20241114_Changes_to_Real_Estate_Representation.html"
+  },
+  {
+   "label": "NAR：What the NAR Settlement Means for Home Buyers and Sellers",
+   "url": "https://www.nar.realtor/the-facts/what-the-nar-settlement-means-for-home-buyers-and-sellers"
+  },
+  {
+   "label": "California Civil Code § 1675",
+   "url": "https://california.public.law/codes/civil_code_section_1675"
+  },
+  {
+   "label": "California Civil Code § 1102.3",
+   "url": "https://california.public.law/codes/civil_code_section_1102.3"
+  },
+  {
+   "label": "CFPB：My appraisal is less than the sale price",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/my-appraisal-is-less-than-the-sale-price-what-does-that-mean-for-me-en-2007/"
+  }
+ ],
+ "related": [
+  "seller-escrow-closing",
+  "mls-online-exposure",
+  "seller-faq"
+ ]
+}

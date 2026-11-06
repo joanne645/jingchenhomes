@@ -1,0 +1,33 @@
+{
+ "slug": "pre-listing-analysis",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "上市前市场分析：挂牌之前要看清什么",
+  "seo_title": "卖房上市前市场分析指南｜陈靖",
+  "description": "上市前市场分析不只是定一个价格，还要看竞争房源、库存变化、买方需求和你的时间表。本文说明要看哪些数据、怎么解读、常见误区，以及如何据此决定上市时机和价格策略。",
+  "lead": "定价之前，先看清你的房子上市时会和谁竞争、买方会拿什么来比较。这一步决定后面的准备和时间表。"
+ },
+ "en": {
+  "title": "Pre-Listing Market Analysis: What to Check First",
+  "seo_title": "Pre-Listing Market Analysis for Sellers | Jing Chen",
+  "description": "Before you list, check active competition, recent sales, inventory and your own timeline. Here is what to look at and how to turn it into a pricing plan.",
+  "lead": "Before settling on a price, look at what your home will compete against and how buyers will compare it. That shapes your preparation and timing."
+ },
+ "notice": null,
+ "sources": [
+  {
+   "label": "CFPB：My appraisal is less than the sale price",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/my-appraisal-is-less-than-the-sale-price-what-does-that-mean-for-me-en-2007/"
+  },
+  {
+   "label": "CFPB：What are appraisals",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/what-are-appraisals-and-why-do-i-need-to-look-at-them-en-167/"
+  }
+ ],
+ "related": [
+  "home-value-consultation",
+  "prep-and-repairs",
+  "marketing-plan"
+ ]
+}

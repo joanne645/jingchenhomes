@@ -1,0 +1,41 @@
+{
+ "slug": "prep-and-repairs",
+ "category": "sell",
+ "reviewed": "2026-11-05",
+ "zh": {
+  "title": "卖房前的房屋准备与装修：先做什么，什么可以不做",
+  "seo_title": "卖房前准备与装修怎么排先后｜陈靖",
+  "description": "卖房前不一定要大修。本文说明如何把清洁、维修、小更新和较大工程分开判断，加州请承包商要注意的执照和合同规定，以及 Disclosure、Permit 等常见问题，帮你按预算排先后。",
+  "lead": "卖房前该花多少钱，答案取决于房子现状、预算和时间。先把问题列出来，再逐项判断，比直接开工稳妥。"
+ },
+ "en": {
+  "title": "Prep and Repairs Before Selling: What to Do First",
+  "seo_title": "Home Prep and Repairs Before Selling | Jing Chen",
+  "description": "Not every home needs a remodel before listing. Sort repairs by impact, cost and time, and know the California rules on contractors, permits and disclosure.",
+  "lead": "What to spend before selling depends on your home, budget and timing. Listing the issues first and judging each one is safer than starting work right away."
+ },
+ "notice": "legal",
+ "sources": [
+  {
+   "label": "CSLB：Handyperson exemption increases to $1,000",
+   "url": "https://www.cslb.ca.gov/Resources/PressReleases/2024/AB2622.FINAL.pdf"
+  },
+  {
+   "label": "CSLB：Home Improvement Contracts",
+   "url": "https://www.cslb.ca.gov/Consumers/Hire_A_Contractor/Home_Improvement_Contracts/What_Is_A_Contract.aspx"
+  },
+  {
+   "label": "California Civil Code § 1102.3",
+   "url": "https://california.public.law/codes/civil_code_section_1102.3"
+  },
+  {
+   "label": "DRE：Disclosures in Real Property Transactions (2005 edition)",
+   "url": "https://www.dre.ca.gov/files/pdf/re6.pdf"
+  }
+ ],
+ "related": [
+  "staging-photography",
+  "pre-listing-analysis",
+  "seller-faq"
+ ]
+}

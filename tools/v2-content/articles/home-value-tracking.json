@@ -1,0 +1,30 @@
+{
+  "slug": "home-value-tracking",
+  "category": "owner",
+  "reviewed": "2026-11-05",
+  "zh": {
+    "title": "房屋值多少钱：AVM、估税值、CMA 和 Appraisal 的区别",
+    "seo_title": "AVM、CMA 与 Appraisal 区别｜陈靖",
+    "description": "同一套房子会有几个不同的“价值”。这篇比较线上估值 AVM、县政府估税值、经纪人 CMA 和持牌估价师 Appraisal 的用途与局限，并给出房主日常跟踪房屋价值的方法。",
+    "lead": "网站估值、税单和经纪人给的数字常常对不上，这并不奇怪，因为它们回答的是不同的问题。弄清每个数字的用途，才知道什么时候该看哪个。"
+  },
+  "en": {
+    "title": "What's My Home Worth? AVMs, Assessed Value, CMAs and Appraisals",
+    "seo_title": "AVM vs CMA vs Appraisal for Owners | Jing Chen",
+    "description": "Online AVMs, assessed value, agent CMAs and licensed appraisals answer different questions. Learn what each is for and how to track your value.",
+    "lead": "Online estimates, your tax bill and an agent's number rarely match, and that is expected. They answer different questions, so it helps to know which one to use and when."
+  },
+  "notice": "tax",
+  "sources": [
+    {"label": "Zillow：What is a Zestimate?（2026 年 11 月数据）", "url": "https://www.zillow.com/zestimate/"},
+    {"label": "Federal Register：Quality Control Standards for Automated Valuation Models", "url": "https://www.federalregister.gov/documents/2024/08/07/2024-16197/quality-control-standards-for-automated-valuation-models"},
+    {"label": "FHFA：Agencies Issue Final Rule on Automated Valuation Models", "url": "https://www.fhfa.gov/news/news-release/agencies-issue-final-rule-to-help-ensure-credibility-and-integrity-of-automated-valuation-models"},
+    {"label": "Business and Professions Code 11302（Public.Law 转载）", "url": "https://california.public.law/codes/ca_bus_and_prof_code_section_11302"},
+    {"label": "California BREA：Broker Price Opinions and Other Valuation Products", "url": "https://brea.ca.gov/html/BPOEtc.html"},
+    {"label": "California BOE：Publication 29 California Property Tax Overview", "url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf"},
+    {"label": "Santa Clara County Assessor：Informal Request for Decline in Value", "url": "https://www.sccassessor.org/RP/prop8/declineinvalue.asp"},
+    {"label": "Alameda County：2026 Assessment Appeals Board Booklet", "url": "https://acgov.org/clerk/forms/AABBOOK2026_Final-Final.pdf"},
+    {"label": "California Department of Insurance：Residential Insurance Guide", "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-ins-guide.cfm"}
+  ],
+  "related": ["property-tax-insurance", "move-up-planning", "cma-home-value"]
+}
