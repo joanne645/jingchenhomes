@@ -4,7 +4,7 @@
 import posixpath
 
 SITE = 'https://www.homesbyjingchen.com'
-ASSET_VER = '20261105'
+ASSET_VER = '20261106'
 PHONE = '925-917-4019'
 TEL = 'tel:+19259174019'
 DRE = '02147119'

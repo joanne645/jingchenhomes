@@ -700,15 +700,53 @@ def zpills(lang, z):
     return f'<ul class="zpills"><li>{esc(a)}</li><li>{esc(b)}</li><li>{esc(c)}</li></ul>'
 
 
-def zgallery(lang, z, out):
+def zgallery(lang, z, out, eager=False):
+    """相册：显示 1 张或 3 张，其余照片隐藏，点击由 site.js 打开 Lightbox。没有授权照片时不显示图片区。"""
     photos = [(i, ph) for i, ph in enumerate(ZC[z].get('photos', [])) if (ROOT / f'images/zip/{z}-{i + 1}.webp').exists()]
-    if not photos:   # 没有授权照片时不显示图片区
+    if not photos:
         return ''
+    n = len(photos)
+    show = 3 if n >= 3 else 1
     cells = ''
-    for i, ph in photos:
-        f = f'images/zip/{z}-{i + 1}.webp'
-        cells += f'<img src="{esc(rel(out, f))}" alt="{esc(ph.get("alt_" + lang) or ph[lang])}" loading="lazy">'
-    return f'<div class="zgal zgal{len(photos)}">{cells}</div>'
+    for k, (i, ph) in enumerate(photos):
+        src = esc(rel(out, f'images/zip/{z}-{i + 1}.webp'))
+        cap = ph[lang] + (f' · {ph["credit"]}' if ph.get('credit') else '')
+        if k >= show:
+            cells += f'<a class="zshot" href="{src}" data-cap="{esc(cap)}" hidden></a>'
+            continue
+        more = ''
+        if n > 1 and k == show - 1:
+            more = f'<span class="zall">{"查看全部照片 · " + str(n) + " 张" if lang == "zh" else "View all " + str(n) + " photos"}</span>'
+        load = 'eager' if eager and k == 0 else 'lazy'
+        cells += f'<a class="zshot" href="{src}" data-cap="{esc(cap)}"><img src="{src}" alt="{esc(ph.get("alt_" + lang) or ph[lang])}" loading="{load}">{more}</a>'
+    return f'<div class="zgal zgal{show}" data-lb>{cells}</div>'
+
+
+# 视觉样板：先只有这两个邮编使用新组件的深度阅读，确认后再加其他邮编
+_dist = json.loads((ROOT / 'tools/city-content/san-jose-districts.json').read_text(encoding='utf-8'))['districts']
+ZGUIDE = {z: next(x for x in _dist if x['name'] == n) for z, n in {'95125': 'Willow Glen', '95120': 'Almaden Valley'}.items()}
+
+
+def zdeep(lang, z):
+    """详情页的市场数据来源、深度阅读和官方入口。"""
+    zh = lang == 'zh'
+    L = (lambda a, b: a if zh else b)
+    out = f'<h2 class="zh2">{L("市场数据来源", "Market data source")}</h2>'
+    if SHOW_NUMBERS:
+        out += zmeta(lang)
+    else:
+        out += '<p class="zsrcnote">' + L('成交中位价、DOM 和成交数量尚未按同一统计周期核实，暂不显示。核实后会在这里注明来源、统计周期、住宅类型和更新日期。', 'Median sale price, days on market and sales are not shown until they are verified for a single period. The source, period, home types and update date will appear here at that time.') + '</p>'
+    x = ZGUIDE[z]
+    links = ''
+    if zh:
+        secs = [('位置与范围', 'where'), ('住房特点', 'housing'), ('日常设施', 'daily'), ('通勤与学校', 'commute_school'), ('需要接受的取舍', 'tradeoffs'), ('实地看区时留意', 'visit')]
+        out += f'<h2 class="zh2">{esc(x["name"])} 深度阅读</h2>' + ''.join(f'<h3 class="zh3">{t}</h3><p>{esc(x[k])}</p>' for t, k in secs)
+        links = ''.join(f'<li><a href="{esc(y["locator_url"])}" target="_blank" rel="noopener">{esc(y["name"])}（{esc(y.get("grades", ""))}）地址查询</a></li>' for y in x.get('school_districts', []))
+        links += ''.join(f'<li><a href="{esc(y["url"])}" target="_blank" rel="noopener">{esc(y["label"])}</a></li>' for y in x.get('links', []))
+    links += ''.join(f'<li><a href="{esc(k["url"])}" target="_blank" rel="noopener">{esc(k["zh" if zh else "en"])}</a></li>' for k in ZC[z].get('links', []))
+    if links:
+        out += f'<h2 class="zh2">{L("官方查询入口", "Official resources")}</h2><ul class="zlinks">{links}</ul>'
+    return out
 
 
 def zblock(lang, z, out, h='h2', full=True):
@@ -721,8 +759,11 @@ def zblock(lang, z, out, h='h2', full=True):
     rich = lambda lab, ls: f'<p><strong>{lab}：</strong>{esc(ls[0])}</p>' + p(ls[1:]) if zh else f'<p><strong>{lab}:</strong> {esc(ls[0])}</p>' + p(ls[1:])
     buy, sell = d['buyer' + sfx], d['seller' + sfx]
     if not full:
+        more_label = ('查看完整地区指南' if zh else 'Read the full area guide') if z in ZGUIDE else ('查看 ' + z + ' 详情' if zh else 'See ' + z + ' details')
         return (f'<article class="zblock" id="z{z}">{head}{zgallery(lang, z, out)}{zpills(lang, z)}<p>{esc(d["intro" + sfx][0])}</p>{rich("买家需要知道" if zh else "What buyers should know", buy[:1])}{rich("卖家需要知道" if zh else "What sellers should know", sell[:1])}'
-                f'<p><a class="zmore" href="@zip/{z}">{"查看 " + z + " 详情" if zh else "See " + z + " details"} →</a></p></article>')
+                f'<p><a class="zmore" href="@zip/{z}">{more_label} →</a></p></article>')
+    if z in ZGUIDE:
+        return f'<article class="zblock">{head}{zgallery(lang, z, out, True)}{zpills(lang, z)}{p(d["intro" + sfx])}{rich("买家需要知道" if zh else "What buyers should know", buy)}{rich("卖家需要知道" if zh else "What sellers should know", sell)}{zdeep(lang, z)}</article>'
     note = d.get('note')
     nt = ''
     if note and note.get('checked'):   # 未核实的引用不发布

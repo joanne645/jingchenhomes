@@ -201,3 +201,68 @@
     nc.addEventListener('input', run2); nc.addEventListener('change', run2); run2();
   }
 })();
+
+/* 邮编相册 Lightbox：左右切换、手机滑动、计数、关闭、说明 */
+(function () {
+  'use strict';
+  var EN = document.documentElement.lang === 'en';
+  var box, img, cap, count, items = [], at = 0, back = null;
+  function show(i) {
+    at = (i + items.length) % items.length;
+    img.src = items[at].getAttribute('href');
+    img.alt = items[at].getAttribute('data-cap') || '';
+    cap.textContent = items[at].getAttribute('data-cap') || '';
+    count.textContent = (at + 1) + ' / ' + items.length;
+  }
+  function close() {
+    box.hidden = true;
+    img.removeAttribute('src');
+    document.body.style.overflow = '';
+    if (back) back.focus();
+  }
+  function build() {
+    box = document.createElement('div');
+    box.className = 'zlb';
+    box.hidden = true;
+    box.setAttribute('role', 'dialog');
+    box.setAttribute('aria-modal', 'true');
+    box.setAttribute('aria-label', EN ? 'Photo gallery' : '照片相册');
+    box.innerHTML = '<div class="zlb-top"><span class="zlb-count" aria-live="polite"></span><button type="button" class="zlb-close" aria-label="' + (EN ? 'Close' : '关闭') + '">×</button></div>' +
+      '<div class="zlb-stage"><img alt=""></div><p class="zlb-cap"></p>' +
+      '<button type="button" class="zlb-prev" aria-label="' + (EN ? 'Previous photo' : '上一张') + '">‹</button>' +
+      '<button type="button" class="zlb-next" aria-label="' + (EN ? 'Next photo' : '下一张') + '">›</button>';
+    document.body.appendChild(box);
+    img = box.querySelector('img'); cap = box.querySelector('.zlb-cap'); count = box.querySelector('.zlb-count');
+    box.querySelector('.zlb-close').onclick = close;
+    box.querySelector('.zlb-prev').onclick = function () { show(at - 1); };
+    box.querySelector('.zlb-next').onclick = function () { show(at + 1); };
+    box.querySelector('.zlb-stage').addEventListener('click', function (e) { if (e.target !== img) close(); });
+    var x0 = null;
+    box.addEventListener('touchstart', function (e) { x0 = e.touches.length === 1 ? e.touches[0].clientX : null; }, { passive: true });
+    box.addEventListener('touchend', function (e) {
+      if (x0 === null || items.length < 2) return;
+      var dx = e.changedTouches[0].clientX - x0;
+      if (Math.abs(dx) > 45) show(at + (dx < 0 ? 1 : -1));
+      x0 = null;
+    });
+    document.addEventListener('keydown', function (e) {
+      if (box.hidden) return;
+      if (e.key === 'Escape') close();
+      else if (e.key === 'ArrowLeft') show(at - 1);
+      else if (e.key === 'ArrowRight') show(at + 1);
+    });
+  }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('[data-lb] .zshot');
+    if (!a || e.metaKey || e.ctrlKey) return;
+    e.preventDefault();
+    if (!box) build();
+    items = [].slice.call(a.parentNode.querySelectorAll('.zshot'));
+    back = a;
+    box.classList.toggle('one', items.length < 2);
+    box.hidden = false;
+    document.body.style.overflow = 'hidden';
+    show(items.indexOf(a));
+    box.querySelector('.zlb-close').focus();
+  });
+})();
