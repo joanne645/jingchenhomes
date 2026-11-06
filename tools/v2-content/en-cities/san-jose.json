@@ -1,110 +1,110 @@
 {
-  "slug": "san-jose",
-  "name": "San Jose",
-  "county": "Santa Clara County",
-  "seo_title": "San Jose Neighborhoods and School Districts | Jing Chen",
-  "description": "A San Jose guide to 16 neighborhood areas, freeways, VTA, BART and Caltrain, housing eras and the district-by-district school lookups by address.",
-  "h1": "Living in San Jose: Choose the Area First, Then the Street",
-  "lead": "San Jose is too large for citywide averages to help much. Start with your workplace, your daily routine and the school district at the address, then compare specific streets.",
-  "tagline": "Choose the area first, more than a dozen school districts, VTA light rail and BART, from foothills to bay",
-  "overview": [
-    "San Jose fills much of the Santa Clara Valley at the south end of San Francisco Bay, from the wetlands at Alviso to Coyote Valley toward Morgan Hill, with foothills on both east and west.",
-    "A San Jose mailing address does not prove a home is inside city limits, because unincorporated county parcels often use the same name and get county services and planning. Addresses inside the city may also fall in districts with Cupertino, Campbell or Santa Clara in their names. Names such as Willow Glen and Cambrian are common usage with no legal boundary, and they do not define school attendance."
-  ],
-  "neighborhoods": [
-    {
-      "name": "Downtown",
-      "summary": "Between SR-87 and Coyote Creek, high-rise condos mix with older blocks, and the area holds Diridon Station and the main city library."
-    },
-    {
-      "name": "Japantown / Northside",
-      "summary": "North of Downtown, these older streets mix single-family homes and new apartments near the North First St light rail line."
-    },
-    {
-      "name": "Rose Garden / Shasta-Hanchett",
-      "summary": "West of Downtown, this early residential area of mainly older houses surrounds the Municipal Rose Garden."
-    },
-    {
-      "name": "Willow Glen",
-      "summary": "Southwest of Downtown, between I-280, SR-87 and Los Gatos Creek, Willow Glen has bungalows, Tudors and Spanish Revival homes around Lincoln Ave and postwar ranch homes farther out, often with smaller lots and detached or one-car garages. Lincoln Ave, the Los Gatos Creek Trail and Tamien station for Caltrain and light rail define daily routines. Plan for older-home upkeep, weekend parking near Lincoln, and San Jose Unified's new boundaries for incoming students starting in 2027-28."
-    },
-    {
-      "name": "West San Jose",
-      "summary": "Surrounded by Cupertino, Saratoga, Campbell and Santa Clara, this area has mainly 1950s and 1960s ranch homes, many expanded, with condos and townhomes on main roads and denser housing near Santana Row. Shopping is strong around Santana Row, Valley Fair and Westgate, and I-280 plus Lawrence and San Tomas expressways carry most commutes, though there is no Caltrain or BART station. At least five school districts are involved here, so verify listing claims by address."
-    },
-    {
-      "name": "Cambrian",
-      "summary": "In the southwest near Campbell and Los Gatos, Cambrian is mostly 1950s and 1960s single-story ranch homes with two-car garages on regular lots, plus some condos and townhomes along main roads. Daily life is mostly by car, with no rail station or central walkable shopping street, and some parcels are unincorporated, so permits and services go through the county. School districts can change from street to street."
-    },
-    {
-      "name": "Almaden Valley",
-      "summary": "A valley at the city's southern end, Almaden is nearly all single-family homes, mostly from the 1960s to 1980s, with roomier lots and garages, plus hillside lots and some gated HOA communities. The trade-off is location: most trips start on Almaden Expressway and SR-85 with few alternatives, there is no light rail station here, and hillside lots need fire, fault, landslide and insurance checks."
-    },
-    {
-      "name": "Blossom Valley",
-      "summary": "A southern residential area along Blossom Hill Rd, with many postwar single-family homes and townhomes near the Oakridge shopping area."
-    },
-    {
-      "name": "Santa Teresa",
-      "summary": "At the far south end of the Blue Line, this area backs onto Santa Teresa County Park and sits near SR-85 and US-101."
-    },
-    {
-      "name": "Edenvale",
-      "summary": "Between Monterey Rd and US-101, homes sit next to industrial parks, and the south Caltrain line passes through."
-    },
-    {
-      "name": "Evergreen",
-      "summary": "In the southeast against the Diablo foothills, Evergreen has 1970s homes on its west side and mostly 1990s and 2000s two-story homes farther east, with HOA communities including a golf-course community and an age-restricted one. Most trips start on surface arterials to US-101, rail remains limited until VTA's Eastridge extension opens (full completion is expected in early 2028), and buyers should weigh HOA dues, possible CFD assessments, and fire, fault and landslide layers."
-    },
-    {
-      "name": "Silver Creek",
-      "summary": "South of Evergreen in the foothills, newer single-family homes and planned HOA communities dominate, and hillside issues need checking by address."
-    },
-    {
-      "name": "Berryessa",
-      "summary": "In the northeast, Berryessa has 1960s to 1980s single-family homes toward the hills and newer townhomes and condos west of I-680 and near BART, often with tandem garages and HOAs. Penitencia Creek Trail leads to Alum Rock Park, and BART, Orange Line light rail, I-680 and US-101 are all close. Homes with yards are farther from the station, and closed schools may still appear in listings."
-    },
-    {
-      "name": "North San Jose",
-      "summary": "North of US-101, this office area has light rail along North First St and housing that is mainly newer condos and townhomes."
-    },
-    {
-      "name": "Alum Rock / East Foothills",
-      "summary": "From I-680 east to the foothills, older flatland streets differ sharply from hillside homes, and Alum Rock Park is here."
-    },
-    {
-      "name": "Alviso",
-      "summary": "North of SR-237 by the bay wetlands, this small low-lying community is part of San Jose, and flood layers should be your first check."
-    }
-  ],
-  "housing": {
-    "intro": "San Jose's housing falls into rough rings by age. Downtown, Japantown, Rose Garden, Shasta-Hanchett and central Willow Glen keep many homes from the first half of the 20th century, where foundations, seismic retrofitting, old wiring and pipes, roofs and addition permits are the focus. Cambrian, West San Jose, Blossom Valley and Berryessa are largely 1950s to 1970s ranch homes, with original sewer lines, single-pane windows, roofs and HVAC to review. Parts of Evergreen, Silver Creek, Santa Teresa and Almaden are newer, with many two-story homes and some HOAs, so check whether a bedroom and full bath exist on the first floor if you need one.",
-    "types": [
-      {
-        "type": "Single-family homes",
-        "text": "Found across the city, from prewar homes near Downtown to 1950s-1970s ranch homes and newer two-story homes in Evergreen, Silver Creek and Almaden. Prioritize foundation, systems, roof and permits, plus drainage and retaining walls on slopes."
-      },
-      {
-        "type": "Townhomes",
-        "text": "1970s and 1980s townhomes are scattered through Blossom Valley, Berryessa and West San Jose, and newer three-story units cluster in North San Jose, near Berryessa BART and in newer southern developments. Expect stairs, tandem garages and small yards, and read all HOA documents."
-      },
-      {
-        "type": "Condos",
-        "text": "Downtown has high-rises, while North San Jose and the Santana Row area are mostly mid-rise. Check parking rights, guest parking, elevator and common-area upkeep, what HOA dues cover, pending litigation or assessments, and any lender limits on the project."
-      }
-    ]
+ "slug": "san-jose",
+ "name": "San Jose",
+ "county": "Santa Clara County",
+ "seo_title": "San Jose Real Estate and Neighborhood Guide | Jing Chen",
+ "description": "A San Jose neighborhood guide for Silicon Valley home buyers and sellers: compare areas by ZIP code, verify schools by address, and understand commutes, housing types and holding costs.",
+ "h1": "Living in San Jose: Choose the Area First, Then the Street",
+ "lead": "San Jose is too large for citywide averages to help much. Start with your workplace, your daily routine and the school district at the address, then compare specific streets.",
+ "tagline": "Choose the area first, more than a dozen school districts, VTA light rail and BART, from foothills to bay",
+ "overview": [
+  "San Jose fills much of the Santa Clara Valley at the south end of San Francisco Bay, from the wetlands at Alviso to Coyote Valley toward Morgan Hill, with foothills on both east and west.",
+  "A San Jose mailing address does not prove a home is inside city limits, because unincorporated county parcels often use the same name and get county services and planning. Addresses inside the city may also fall in districts with Cupertino, Campbell or Santa Clara in their names. Names such as Willow Glen and Cambrian are common usage with no legal boundary, and they do not define school attendance."
+ ],
+ "neighborhoods": [
+  {
+   "name": "Downtown",
+   "summary": "Between SR-87 and Coyote Creek, high-rise condos mix with older blocks, and the area holds Diridon Station and the main city library."
   },
-  "commute": [
-    "Most residents drive, so start by identifying the freeway and on-ramp you would use each day. US-101 and I-880 are the main north-south routes, I-280, I-680, SR-87 and SR-85 fan out from them, and many areas reach a county expressway first.",
-    "VTA runs Blue, Green and Orange light rail lines along corridors that only some homes can walk to; many riders drive, bike or bus to the platform. BART serves one station in the city, Berryessa/North San Jose, with paid VTA-run parking. San Jose Diridon links Caltrain, ACE, Capitol Corridor and light rail, while Tamien is another main Caltrain stop."
-  ],
-  "daily_life": [
-    "There is no single commercial center, so ask where a given address actually shops and runs errands. Commonly cited hubs include Santana Row and Westfield Valley Fair, San Pedro Square, Westgate, Oakridge and Eastridge. Library branches beside parks or community centers are a good clue to where a neighborhood's daily life happens.",
-    "Outdoor options range from foothill parks such as Alum Rock and Almaden Quicksilver to creek trails with gaps worth checking before you plan a bike commute. General hospitals include Santa Clara Valley Medical Center, Good Samaritan and Kaiser San Jose. Confirm your insurance network and map routes to your nearest ER and regular clinic."
-  ],
-  "schools": [
-    "City and school district boundaries do not match, and city planning documents alone list 17 districts. San Jose Unified covers the strip from Downtown through Willow Glen to Almaden Valley, while the east and south mostly pair an elementary district with East Side Union High School District. Find the district through the Santa Clara County Office of Education locator and County Assessor parcel records, then enter the full address in that district's official tool.",
-    "Results are not a guarantee, and both sides of a street can differ. Several districts have recently closed or merged schools, including Alum Rock Union, Berryessa Union, Franklin-McKinley and San Jose Unified, whose new boundaries apply to incoming students from 2027-28 and which offers separate lookup tools by year. Confirm the school, boundary and available space with the district for the year you plan to enroll."
-  ],
-  "environment": "Check each address across official maps instead of relying on an area's reputation. For flooding, use FEMA's flood map and Valley Water's lookup, especially along Coyote Creek, which flooded in February 2017, along the Guadalupe River, and in low-lying Alviso. For earthquakes, the California Geological Survey's EQ Zapp shows fault, liquefaction and landslide zones; the eastern foothills have the Hayward and Calaveras fault systems. For wildfire, check CAL FIRE's Fire Hazard Severity Zone maps where homes meet foothills and open space. These maps show what to investigate further; they do not tell you whether a specific home is safe."
+  {
+   "name": "Japantown / Northside",
+   "summary": "North of Downtown, these older streets mix single-family homes and new apartments near the North First St light rail line."
+  },
+  {
+   "name": "Rose Garden / Shasta-Hanchett",
+   "summary": "West of Downtown, this early residential area of mainly older houses surrounds the Municipal Rose Garden."
+  },
+  {
+   "name": "Willow Glen",
+   "summary": "Southwest of Downtown, between I-280, SR-87 and Los Gatos Creek, Willow Glen has bungalows, Tudors and Spanish Revival homes around Lincoln Ave and postwar ranch homes farther out, often with smaller lots and detached or one-car garages. Lincoln Ave, the Los Gatos Creek Trail and Tamien station for Caltrain and light rail define daily routines. Plan for older-home upkeep, weekend parking near Lincoln, and San Jose Unified's new boundaries for incoming students starting in 2027-28."
+  },
+  {
+   "name": "West San Jose",
+   "summary": "Surrounded by Cupertino, Saratoga, Campbell and Santa Clara, this area has mainly 1950s and 1960s ranch homes, many expanded, with condos and townhomes on main roads and denser housing near Santana Row. Shopping is strong around Santana Row, Valley Fair and Westgate, and I-280 plus Lawrence and San Tomas expressways carry most commutes, though there is no Caltrain or BART station. At least five school districts are involved here, so verify listing claims by address."
+  },
+  {
+   "name": "Cambrian",
+   "summary": "In the southwest near Campbell and Los Gatos, Cambrian is mostly 1950s and 1960s single-story ranch homes with two-car garages on regular lots, plus some condos and townhomes along main roads. Daily life is mostly by car, with no rail station or central walkable shopping street, and some parcels are unincorporated, so permits and services go through the county. School districts can change from street to street."
+  },
+  {
+   "name": "Almaden Valley",
+   "summary": "A valley at the city's southern end, Almaden is nearly all single-family homes, mostly from the 1960s to 1980s, with roomier lots and garages, plus hillside lots and some gated HOA communities. The trade-off is location: most trips start on Almaden Expressway and SR-85 with few alternatives, there is no light rail station here, and hillside lots need fire, fault, landslide and insurance checks."
+  },
+  {
+   "name": "Blossom Valley",
+   "summary": "A southern residential area along Blossom Hill Rd, with many postwar single-family homes and townhomes near the Oakridge shopping area."
+  },
+  {
+   "name": "Santa Teresa",
+   "summary": "At the far south end of the Blue Line, this area backs onto Santa Teresa County Park and sits near SR-85 and US-101."
+  },
+  {
+   "name": "Edenvale",
+   "summary": "Between Monterey Rd and US-101, homes sit next to industrial parks, and the south Caltrain line passes through."
+  },
+  {
+   "name": "Evergreen",
+   "summary": "In the southeast against the Diablo foothills, Evergreen has 1970s homes on its west side and mostly 1990s and 2000s two-story homes farther east, with HOA communities including a golf-course community and an age-restricted one. Most trips start on surface arterials to US-101, rail remains limited until VTA's Eastridge extension opens (full completion is expected in early 2028), and buyers should weigh HOA dues, possible CFD assessments, and fire, fault and landslide layers."
+  },
+  {
+   "name": "Silver Creek",
+   "summary": "South of Evergreen in the foothills, newer single-family homes and planned HOA communities dominate, and hillside issues need checking by address."
+  },
+  {
+   "name": "Berryessa",
+   "summary": "In the northeast, Berryessa has 1960s to 1980s single-family homes toward the hills and newer townhomes and condos west of I-680 and near BART, often with tandem garages and HOAs. Penitencia Creek Trail leads to Alum Rock Park, and BART, Orange Line light rail, I-680 and US-101 are all close. Homes with yards are farther from the station, and closed schools may still appear in listings."
+  },
+  {
+   "name": "North San Jose",
+   "summary": "North of US-101, this office area has light rail along North First St and housing that is mainly newer condos and townhomes."
+  },
+  {
+   "name": "Alum Rock / East Foothills",
+   "summary": "From I-680 east to the foothills, older flatland streets differ sharply from hillside homes, and Alum Rock Park is here."
+  },
+  {
+   "name": "Alviso",
+   "summary": "North of SR-237 by the bay wetlands, this small low-lying community is part of San Jose, and flood layers should be your first check."
+  }
+ ],
+ "housing": {
+  "intro": "San Jose's housing falls into rough rings by age. Downtown, Japantown, Rose Garden, Shasta-Hanchett and central Willow Glen keep many homes from the first half of the 20th century, where foundations, seismic retrofitting, old wiring and pipes, roofs and addition permits are the focus. Cambrian, West San Jose, Blossom Valley and Berryessa are largely 1950s to 1970s ranch homes, with original sewer lines, single-pane windows, roofs and HVAC to review. Parts of Evergreen, Silver Creek, Santa Teresa and Almaden are newer, with many two-story homes and some HOAs, so check whether a bedroom and full bath exist on the first floor if you need one.",
+  "types": [
+   {
+    "type": "Single-family homes",
+    "text": "Found across the city, from prewar homes near Downtown to 1950s-1970s ranch homes and newer two-story homes in Evergreen, Silver Creek and Almaden. Prioritize foundation, systems, roof and permits, plus drainage and retaining walls on slopes."
+   },
+   {
+    "type": "Townhomes",
+    "text": "1970s and 1980s townhomes are scattered through Blossom Valley, Berryessa and West San Jose, and newer three-story units cluster in North San Jose, near Berryessa BART and in newer southern developments. Expect stairs, tandem garages and small yards, and read all HOA documents."
+   },
+   {
+    "type": "Condos",
+    "text": "Downtown has high-rises, while North San Jose and the Santana Row area are mostly mid-rise. Check parking rights, guest parking, elevator and common-area upkeep, what HOA dues cover, pending litigation or assessments, and any lender limits on the project."
+   }
+  ]
+ },
+ "commute": [
+  "Most residents drive, so start by identifying the freeway and on-ramp you would use each day. US-101 and I-880 are the main north-south routes, I-280, I-680, SR-87 and SR-85 fan out from them, and many areas reach a county expressway first.",
+  "VTA runs Blue, Green and Orange light rail lines along corridors that only some homes can walk to; many riders drive, bike or bus to the platform. BART serves one station in the city, Berryessa/North San Jose, with paid VTA-run parking. San Jose Diridon links Caltrain, ACE, Capitol Corridor and light rail, while Tamien is another main Caltrain stop."
+ ],
+ "daily_life": [
+  "There is no single commercial center, so ask where a given address actually shops and runs errands. Commonly cited hubs include Santana Row and Westfield Valley Fair, San Pedro Square, Westgate, Oakridge and Eastridge. Library branches beside parks or community centers are a good clue to where a neighborhood's daily life happens.",
+  "Outdoor options range from foothill parks such as Alum Rock and Almaden Quicksilver to creek trails with gaps worth checking before you plan a bike commute. General hospitals include Santa Clara Valley Medical Center, Good Samaritan and Kaiser San Jose. Confirm your insurance network and map routes to your nearest ER and regular clinic."
+ ],
+ "schools": [
+  "City and school district boundaries do not match, and city planning documents alone list 17 districts. San Jose Unified covers the strip from Downtown through Willow Glen to Almaden Valley, while the east and south mostly pair an elementary district with East Side Union High School District. Find the district through the Santa Clara County Office of Education locator and County Assessor parcel records, then enter the full address in that district's official tool.",
+  "Results are not a guarantee, and both sides of a street can differ. Several districts have recently closed or merged schools, including Alum Rock Union, Berryessa Union, Franklin-McKinley and San Jose Unified, whose new boundaries apply to incoming students from 2027-28 and which offers separate lookup tools by year. Confirm the school, boundary and available space with the district for the year you plan to enroll."
+ ],
+ "environment": "Check each address across official maps instead of relying on an area's reputation. For flooding, use FEMA's flood map and Valley Water's lookup, especially along Coyote Creek, which flooded in February 2017, along the Guadalupe River, and in low-lying Alviso. For earthquakes, the California Geological Survey's EQ Zapp shows fault, liquefaction and landslide zones; the eastern foothills have the Hayward and Calaveras fault systems. For wildfire, check CAL FIRE's Fire Hazard Severity Zone maps where homes meet foothills and open space. These maps show what to investigate further; they do not tell you whether a specific home is safe."
 }

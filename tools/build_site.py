@@ -631,6 +631,31 @@ def build_en_city(slug, name):
     rel_a = ['compare-cities', 'school-lookup', 'home-search']
     h = fix_home(hero(crumbs(lang, ('Areas & Schools', '@page/areas'), (name, None)), d['h1'], d['lead'], d.get('county', ''), meta=f'<p class="hmeta">{esc(d.get("tagline", ""))}</p>'))
     links = ''.join(module_card(lang, s, i + 1) for i, s in enumerate(rel_a) if s in ARTS)
+    full = C / 'en-cities/san-jose-full.json'
+    if slug == 'san-jose' and full.exists():
+        import sj_sections as sc
+        ed = json.loads(full.read_text(encoding='utf-8'))
+        es = json.loads((C / 'en-cities/san-jose-sections.en.json').read_text(encoding='utf-8'))
+        cx = sc.Ctx('en', ed, es, '../../', lambda z: '@zip/index' if z == 'index' else f'@zip/{z}')
+        cx.zip_area = lambda z: ZC[z]['area_en'] if z in ZC else ''
+        sec = lambda sid, title, inner: f'<section id="{sid}"><h2 class="zh2">{title}</h2>{inner}</section>'
+        yoy = c.get('yoy_en', '')
+        src = f'Source: {esc(MK.get("source_en", ""))}. Method: {esc(MK.get("method_en", ""))} Updated: {esc(MK.get("updated_en", ""))}. This is a citywide figure, not a valuation of any home or a forecast.'
+        nav = ''.join(f'<a href="#{a}">{b}</a>' for a, b in [('overview', 'Overview'), ('districts', 'Neighborhoods'), ('daily', 'Daily life'), ('schools', 'Schools'), ('housing', 'Housing & costs'), ('market', 'Market'), ('tour', 'Area tour'), ('compare', 'Compare')])
+        cta_en = f'<p class="zback"><a class="b gold" href="@page/contact?type=compare&city=San+Jose">Compare areas with Jing</a></p>'
+        body = h + f'''<div class="zpage"><p class="ztopnav">{nav}</p>
+{sec('overview', 'Where San Jose is and how it works', sc.overview(cx))}
+{sec('districts', 'San Jose neighborhoods by ZIP code', sc.districts(cx, {}))}
+{sec('daily', 'Daily life in San Jose', sc.daily(cx))}
+{sec('schools', 'Schools: verify by address', sc.schools(cx))}
+{sec('housing', 'San Jose homes and what they cost to own', sc.housing(cx, '<p class="zback"><a class="zmore" href="@page/buy?city=San+Jose#search">See San Jose homes for sale →</a></p>'))}
+{sec('market', 'Reading the San Jose market', sc.market(cx, med, yoy, src, sold_html))}
+{sec('tour', 'See San Jose in half a day', sc.tour(cx))}
+{sec('compare', 'Compare and decide', sc.compare(cx, lambda s_: f'@city/{s_}' if s_ else '', cta_en))}
+</div>
+<section class="band white"><div class="wrap"><p class="kick">RELATED</p><h2 class="h2">Related articles</h2><div class="grid g3">{links}</div></div></section>'''
+        page(lang, out, d['seo_title'], d['description'], body, key='areas', kind='article', ld=[breadcrumb(lang, [('Areas & Schools', 'en/areas.html'), (name, out)])])
+        return
     body = h + f'''<section class="band"><div class="wrap art-grid"><article class="prose">
 <div class="note">This is a concise English edition. The <a href="{esc(rel(out, f'cities/{slug}.html'))}" hreflang="zh-CN">full guide in Chinese</a> includes maps, more detail and a half-day tour route.</div>
 <h2 id="overview">City overview</h2>{p(d['overview'])}
@@ -722,9 +747,8 @@ def zgallery(lang, z, out, eager=False):
     return f'<div class="zgal zgal{show}" data-lb>{cells}</div>'
 
 
-# 视觉样板：先只有这两个邮编使用新组件的深度阅读，确认后再加其他邮编
-_dist = json.loads((ROOT / 'tools/city-content/san-jose-districts.json').read_text(encoding='utf-8'))['districts']
-ZGUIDE = {z: next(x for x in _dist if x['name'] == n) for z, n in {'95125': 'Willow Glen', '95120': 'Almaden Valley'}.items()}
+_deep = ROOT / 'tools/city-content/sj-zip-deep.json'
+ZGUIDE = json.loads(_deep.read_text(encoding='utf-8')) if _deep.exists() else {}
 
 
 def zdeep(lang, z):
@@ -737,12 +761,10 @@ def zdeep(lang, z):
     else:
         out += '<p class="zsrcnote">' + L('成交中位价、DOM 和成交数量尚未按同一统计周期核实，暂不显示。核实后会在这里注明来源、统计周期、住宅类型和更新日期。', 'Median sale price, days on market and sales are not shown until they are verified for a single period. The source, period, home types and update date will appear here at that time.') + '</p>'
     x = ZGUIDE[z]
-    links = ''
-    if zh:
-        secs = [('位置与范围', 'where'), ('住房特点', 'housing'), ('日常设施', 'daily'), ('通勤与学校', 'commute_school'), ('需要接受的取舍', 'tradeoffs'), ('实地看区时留意', 'visit')]
-        out += f'<h2 class="zh2">{esc(x["name"])} 深度阅读</h2>' + ''.join(f'<h3 class="zh3">{t}</h3><p>{esc(x[k])}</p>' for t, k in secs)
-        links = ''.join(f'<li><a href="{esc(y["locator_url"])}" target="_blank" rel="noopener">{esc(y["name"])}（{esc(y.get("grades", ""))}）地址查询</a></li>' for y in x.get('school_districts', []))
-        links += ''.join(f'<li><a href="{esc(y["url"])}" target="_blank" rel="noopener">{esc(y["label"])}</a></li>' for y in x.get('links', []))
+    secs = [(L('位置与范围', 'Location and boundaries'), 'where'), (L('住房特点', 'Homes'), 'housing'), (L('日常设施', 'Daily life'), 'daily'), (L('通勤与学校', 'Commute and schools'), 'commute_school'), (L('需要接受的取舍', 'The trade-offs'), 'tradeoffs'), (L('实地看区时留意', 'What to look for on a visit'), 'visit')]
+    body = x[lang]
+    out += f'<h2 class="zh2">{esc(x["name"])} {L("深度阅读", "in depth")}</h2>' + ''.join(f'<h3 class="zh3">{t}</h3><p>{esc(body[k])}</p>' for t, k in secs if body.get(k))
+    links = ''.join(f'<li><a href="{esc(y["url"])}" target="_blank" rel="noopener">{esc(y[lang])}</a></li>' for y in x.get('links', []))
     links += ''.join(f'<li><a href="{esc(k["url"])}" target="_blank" rel="noopener">{esc(k["zh" if zh else "en"])}</a></li>' for k in ZC[z].get('links', []))
     if links:
         out += f'<h2 class="zh2">{L("官方查询入口", "Official resources")}</h2><ul class="zlinks">{links}</ul>'
@@ -830,8 +852,8 @@ def build_zip_overview(lang):
 <p class="src-note">{L('学校信息请按完整地址向学区官方渠道核实。本页不保证任何地址对应特定学校，市场数字也不是任何一套房屋的估值。', 'Verify schools by full address through official district channels. This page does not guarantee any school assignment, and market figures are not a valuation of any home.')}</p>
 <p class="zback"><a href="@city/san-jose">{L('查看 San Jose 城市生活指南', 'See the San Jose city guide')} →</a></p></div>
 {cta(lang, L('想知道哪个邮编适合你？', 'Which ZIP code fits you?'), L('把预算、工作地点和房型要求告诉陈靖，一起比较。', 'Share your budget, work location and home type with Jing and compare together.'), 'compare', '&city=San+Jose')}'''
-    t = L('San Jose 各邮编房地产市场分析｜陈靖', 'San Jose Real Estate Market by ZIP Code | Jing Chen')
-    dsc = L('按 ZIP Code 了解 San Jose 各地区的房屋特点和买卖要点，包括 Berryessa、Cambrian、Almaden Valley、Willow Glen 等。', 'A ZIP code guide to San Jose areas, including what buyers and sellers should know in Berryessa, Cambrian, Almaden Valley and Willow Glen.')
+    t = L('San Jose Real Estate 地区指南｜各 ZIP Code 买房卖房分析｜陈靖', 'San Jose Real Estate and Neighborhood Guide by ZIP Code | Jing Chen')
+    dsc = L('按 ZIP Code 了解 San Jose 各地区的房屋特点和买卖要点，包括 West San Jose 95129、Willow Glen 95125、Almaden Valley 95120、Cambrian 95124、Berryessa 95132。', 'A San Jose neighborhood guide by ZIP code for Silicon Valley home buyers and sellers, covering West San Jose 95129, Willow Glen 95125, Almaden Valley 95120, Cambrian 95124 and Berryessa 95132.')
     page(lang, out, t, dsc, body, key='areas', ld=[breadcrumb(lang, [(L('地区与学区', 'Areas & Schools'), path(lang, 'areas.html')), ('San Jose', out.replace('index.html', ''))])])
     if no:
         print('邮编缺正文，未生成详情页:', no)
@@ -851,10 +873,12 @@ def build_zip_page(lang, z):
 <p class="zback"><a href="@zip/index">{L('返回 San Jose 邮编总览', 'Back to San Jose ZIP code overview')} →</a></p>
 <p class="src-note">{L('学校信息请按完整地址向学区官方渠道核实，本页不保证任何地址对应特定学校。', 'Verify schools by full address through official district channels. This page does not guarantee any school assignment.')}</p></div>
 {cta(lang, L(f'想深入了解 {z}？', f'Want to look closer at {z}?'), L('告诉陈靖你的预算和房型要求，一起看同类房屋的近期成交。', 'Share your budget and home type with Jing and review recent sales of similar homes.'), 'compare', '&city=San+Jose')}'''
-    t = f'{z} {area} 买房卖房指南｜陈靖' if zh else f'{z} {area} Real Estate Guide | Jing Chen'
+    t = f'{area} {z} 买房卖房指南｜San Jose 地区指南｜陈靖' if zh else f'{area} {z} Real Estate Guide | San Jose Homes | Jing Chen'
     dsc = (d['intro'][0] if zh else d['intro_en'][0])[:150]
     url = out.replace('index.html', '')
     ld = {"@context": "https://schema.org", "@type": "Article", "headline": f'{z} {d["title" if zh else "title_en"]}', "inLanguage": 'zh-CN' if zh else 'en', "dateModified": TODAY, "author": {"@type": "Person", "name": "Jing Chen"}, "about": {"@type": "Place", "name": f'{area}, San Jose, CA {z}'}, "mainEntityOfPage": f'{SITE}/{url}'}
+    if (ROOT / f'images/zip/{z}-1.webp').exists():
+        ld["image"] = f'{SITE}/images/zip/{z}-1.webp'
     page(lang, out, t, dsc, body, key='areas', kind='article', ld=[ld, breadcrumb(lang, [(L('地区与学区', 'Areas & Schools'), path(lang, 'areas.html')), ('San Jose', path(lang, 'areas/san-jose/')), (z, url)])])
 
 

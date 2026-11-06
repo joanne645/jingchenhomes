@@ -1,0 +1,141 @@
+{
+ "overview": [
+  {
+   "file": "images/city/sj-overview-1.webp",
+   "zh": "Downtown San Jose 天际线与东侧山丘全景",
+   "en": "Downtown San Jose skyline with the eastern hills beyond",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "medical": [
+  {
+   "file": "images/city/sj-medical-1.webp",
+   "zh": "Santa Clara Valley Medical Center",
+   "en": "Santa Clara Valley Medical Center",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "shopping": [
+  {
+   "file": "images/city/sj-shopping-1.webp",
+   "zh": "Santana Row 商业街",
+   "en": "The Santana Row shopping district",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "dining": [
+  {
+   "file": "images/city/sj-dining-1.webp",
+   "zh": "Santana Row 街边的户外餐饮",
+   "en": "Outdoor dining along Santana Row",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "parks": [
+  {
+   "file": "images/city/sj-parks-1.webp",
+   "zh": "San Jose 一带的山麓步道",
+   "en": "A foothill trail in the San Jose area",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "transit": [
+  {
+   "file": "images/city/sj-transit-1.webp",
+   "zh": "Berryessa/North San José BART 站",
+   "en": "Berryessa/North San José BART station",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "schools": [
+  {
+   "file": "images/city/sj-schools-1.webp",
+   "zh": "Willow Glen High School 体育馆",
+   "en": "Willow Glen High School gymnasium",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "housing": [
+  {
+   "file": "images/city/sj-housing-1.webp",
+   "zh": "单层 ranch 风格独立屋",
+   "en": "A single-story ranch-style home",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "market": [
+  {
+   "file": "images/city/sj-market-1.webp",
+   "zh": "住宅社区航拍",
+   "en": "Aerial view of a residential neighborhood",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "tour": [
+  {
+   "file": "images/city/sj-tour-1.webp",
+   "zh": "商业街街景",
+   "en": "A commercial main street",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ],
+ "compare": [
+  {
+   "file": "images/city/sj-compare-1.webp",
+   "zh": "住宅社区航拍",
+   "en": "Aerial view of a residential neighborhood",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  },
+  {
+   "file": "images/city/sj-compare-2.webp",
+   "zh": "住宅社区与远处山脉",
+   "en": "A residential neighborhood with distant hills",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  },
+  {
+   "file": "images/city/sj-compare-3.webp",
+   "zh": "山麓住宅与远处的丘陵",
+   "en": "Foothill homes with hills in the distance",
+   "demo": true,
+   "credit": "",
+   "license": "待确认",
+   "source": "用户提供"
+  }
+ ]
+}

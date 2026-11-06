@@ -1,0 +1,137 @@
+{
+ "urls": {
+  "Santa Clara Valley Medical Center": "https://scvmc.scvh.org/",
+  "Regional Medical Center": "https://rmc.scvh.org/",
+  "O'Connor Hospital": "https://och.scvh.org/",
+  "Good Samaritan Hospital": "https://www.goodsamsanjose.com/",
+  "Kaiser Permanente San Jose Medical Center": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Jose-Medical-Center-100322",
+  "Almaden Quicksilver County Park": "https://parks.santaclaracounty.gov/locations/almaden-quicksilver-county-park",
+  "Santa Teresa County Park": "https://parks.santaclaracounty.gov/locations/santa-teresa-county-park",
+  "Alum Rock Park": "https://www.sanjoseca.gov/Home/Components/FacilityDirectory/FacilityDirectory/2088/2028",
+  "Lake Cunningham Park": "https://www.sanjoseca.gov/Home/Components/FacilityDirectory/FacilityDirectory/2255/2028",
+  "Dr. Martin Luther King, Jr. Library": "https://www.sjpl.org/locations-table/",
+  "San José Public Library branches": "https://www.sjpl.org/locations-table/"
+ },
+ "shopping": {
+  "names": [
+   "Santana Row",
+   "Westfield Valley Fair",
+   "Westgate",
+   "Oakridge",
+   "Eastridge",
+   "The Plant"
+  ],
+  "intro": "San Jose has no single commercial center that serves the whole city, and daily shopping mostly happens within each area. The shopping hubs most often mentioned citywide are Santana Row and Westfield Valley Fair, next to each other on Stevens Creek Blvd on the west side; Westgate in West San Jose; Oakridge in the south; Eastridge in the east; and The Plant near Curtner Ave and Monterey Rd. Stores change, so check what's currently open before you go.",
+  "buyer": "When you tour a home, ask, \"Where would I normally buy groceries and run errands from this address?\" Start at the home and actually walk or drive to the nearest supermarket, noting how easy the crossings, parking and return trip are."
+ },
+ "dining": {
+  "names": [
+   "San Pedro Square",
+   "Japantown"
+  ],
+  "intro": "San Pedro Square in Downtown is a dining district within walking distance of Downtown light rail stations. Japantown, just north of Downtown, is an older district with a concentration of small restaurants and shops. Santana Row also has plenty of dining. In other areas, restaurants mostly line local commercial streets, such as Lincoln Ave in Willow Glen.",
+  "buyer": "Living near a commercial street is convenient, but pay attention to weekend and evening crowds, street parking and noise. If a home you're considering is very close to one, go back and see it on a weekend evening."
+ },
+ "library": {
+  "intro": "The San José Public Library's location table lists 25 locations. The main library is the Dr. Martin Luther King, Jr. Library in Downtown (150 E San Fernando St), and the rest are spread across the city, including the Willow Glen, Almaden, Cambrian, Berryessa, Evergreen, West Valley, Rose Garden, Joyce Ellington, Vineland, Edenvale, Santa Teresa, Dr. Roberto Cruz Alum Rock and Alviso branches.",
+  "buyer": "Branches usually sit next to a park or community center, which makes them a good clue to where an area's daily life happens. While exploring, actually walk or drive to the nearest branch, noting how easy the crossings, parking and return trip are."
+ },
+ "closures_intro": "Over the past two years, several districts have closed or merged schools because of falling enrollment. When buying, check for the school year your child will start that the school is still operating and its attendance area hasn't changed. The decisions made so far are listed below. Official district announcements control the details.",
+ "closures": [
+  {
+   "district": "San José Unified",
+   "decided": "Board approved the Schools of Tomorrow plan on March 26, 2026",
+   "text": "Canoas, Empire Gardens, Gardner, Lowell and Terrell elementary schools close. May 29, 2026, is the last day of classes, and they no longer operate starting in 2026–27. The Hammer Montessori program moves to the Gardner campus starting in 2026–27.",
+   "effective": "Closures take effect in the 2026–27 school year; new attendance boundaries apply to incoming students starting in 2027–28, and the district offers separate address lookup tools for each phase"
+  },
+  {
+   "district": "Alum Rock Union",
+   "decided": "Board vote on December 2, 2024",
+   "text": "Sylvia Cassell, Horace Cureton, A.J. Dorsa and Donald Meyer elementary schools and Joseph George Middle School close. Renaissance Academy at Fischer merges into Renaissance Academy at Mathson, Ben Painter merges into Sheppard, and L.U.C.H.A. merges into San Antonio. Adelante I and Adelante II combine at the former Renaissance Academy at Fischer campus.",
+   "effective": "Most changes take effect in 2025–26; the Adelante merger takes effect in 2026–27"
+  },
+  {
+   "district": "Berryessa Union",
+   "decided": "Board vote on December 18, 2024",
+   "text": "Cherrywood, Toyon and Laneview elementary schools close, and attendance areas change as a result.",
+   "effective": "Takes effect in 2025–26"
+  },
+  {
+   "district": "Franklin-McKinley",
+   "decided": "Board vote on February 25, 2025",
+   "text": "Los Arboles, Ramblewood and McKinley close, with students reassigned to Bridges Academy, G.W. Hellyer, Lairon College Preparatory Academy, George Shirakawa Sr., Sylvandale, Santee and other schools.",
+   "effective": "At the time of the vote, the district said the closures would happen before the next school year, meaning starting in 2025–26"
+  }
+ ],
+ "tips": [
+  "First pin down the school year your child will start, then use the tool for that year and look up the full street address. Results for the same address may differ from year to year.",
+  "Look up the elementary and high school districts separately. Many addresses in the east, south and west of San Jose belong to different districts at these two levels.",
+  "Base your decision on the assigned school, and don't count on a transfer, magnet or lottery program.",
+  "School boundaries can change. A lookup result shows only the current arrangement and doesn't mean it will stay the same. The district's confirmation is what counts."
+ ],
+ "housing_seller": "When selling, gather the home's age, permit records for renovations and additions, and dates for roof, plumbing and wiring updates, since those are often the first things buyers and inspectors ask about. For a home with an HOA, have the monthly dues breakdown, reserve report and meeting minutes ready ahead of time.",
+ "schools_seller": "In a listing, limit school information to the district and the official lookup links. Don't promise that an address goes to a particular school; ask buyers to confirm with the district using the full address and enrollment year.",
+ "market_q": [
+  {
+   "q": "Why do prices differ by ZIP Code?",
+   "a": "Home types, lot sizes, home ages, school districts and distance to job centers all differ, and so does the mix of homes that sell in each ZIP Code. A higher or lower median price first reflects which homes sold, so it can't be read as the price gap for the same home in two places."
+  },
+  {
+   "q": "Why can't single-family homes and condos be compared directly?",
+   "a": "Much of a single-family home's value comes from the land. Condos and townhomes have no separate lot and also pay HOA dues. A blended median shifts with the mix of home types sold that month, so compare each home type separately."
+  },
+  {
+   "q": "What do DOM and sales volume tell you?",
+   "a": "DOM (Days on Market) is the number of days from listing to contract, and data sources calculate it slightly differently. A short DOM means buyers responded quickly; a long one may relate to pricing, condition or the season. When sales are few, one or two high or low sales can move the median noticeably, so don't rush to conclusions in months with small samples."
+  },
+  {
+   "q": "How should sellers choose comparable sales?",
+   "a": "Start with homes in the same area, of the same type, with similar size and condition, that sold in the last few months. Then adjust for lot, level of renovation and street location. Streets in different school districts or on opposite sides of a freeway need to be judged separately, even if they're very close."
+  },
+  {
+   "q": "How should buyers read market competition?",
+   "a": "Recent list and sale prices, DOM and active inventory for similar homes tell you more than citywide news. Competition varies with condition and pricing, so before making an offer, ask your agent to pull comparable sales."
+  }
+ ],
+ "market_intro": "Citywide numbers only show the general direction. Home types and school districts differ greatly across San Jose, so read the market by ZIP Code and home type. Below are the citywide numbers first, followed by how to read them.",
+ "compare_dims": [
+  {
+   "k": "Budget",
+   "t": "The same budget buys different home types and sizes in different areas. Decide on the home type and your minimum requirements first, then compare prices."
+  },
+  {
+   "k": "Home type",
+   "t": "Single-family homes, townhomes and condos differ in ownership costs and maintenance responsibilities, so run the numbers for all of them side by side."
+  },
+  {
+   "k": "Commute",
+   "t": "Check using the home's address and your actual office entrance at your usual departure time, rather than going by straight-line distance."
+  },
+  {
+   "k": "School boundaries",
+   "t": "Verify with the district using the full address and enrollment year, rather than relying on an area name or ZIP Code."
+  },
+  {
+   "k": "Lifestyle preferences",
+   "t": "Whether you'd like to walk to a shopping street, live near the hills, or prioritize lot size and garage, different areas give different answers."
+  }
+ ],
+ "compare_intro": "When comparing areas, look at these five factors together. No area ranks above another; what differs is which factor matters most to you.",
+ "map_note": "Click an area marker on the map to jump to its profile and ZIP Code guide below.",
+ "overview_topics": [
+  {
+   "title": "Location",
+   "sub": "Valley, bay and foothills on both sides"
+  },
+  {
+   "title": "Road network",
+   "sub": "Which road you'll take first each day"
+  },
+  {
+   "title": "Rail and daily radius",
+   "sub": "Where daily needs get handled"
+  }
+ ],
+ "buyer_label": "What buyers should know",
+ "seller_label": "What sellers should know"
+}

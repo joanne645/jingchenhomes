@@ -1,0 +1,647 @@
+{
+  "position": {
+    "paragraphs": [
+      "San Jose sits in the Santa Clara Valley at the south end of San Francisco Bay. To the north it reaches the bay wetlands around Alviso. Santa Clara, Cupertino, Saratoga, Campbell and Los Gatos border it on the west, Milpitas lies to the northeast, and Coyote Valley leads south toward Morgan Hill. The Diablo Range foothills rise to the east and the Santa Cruz Mountains foothills to the southwest. The city's shape is irregular, so two San Jose addresses might sit near Cupertino's De Anza Blvd and Milpitas's Great Mall, with almost no overlap in daily life.",
+      "Here's a simple way to remember the road network. US-101 and I-880 are the two main north-south routes to the Peninsula and East Bay. I-280 runs northwest from Downtown toward Cupertino and Los Altos, and I-680 runs along the east side to Milpitas, Fremont and the Tri-Valley. SR-87 ties together Almaden, Downtown, the airport and North San Jose. SR-85 arcs across the south to Cupertino and Mountain View, SR-237 runs east-west at the north end between Milpitas and Sunnyvale, and SR-17 heads south over the hill to Santa Cruz. The Almaden, Capitol, San Tomas, Lawrence and Montague expressways are county-run arterials, and in many areas they're the first road you'll take each day.",
+      "For rail, San Jose Diridon is where Caltrain, ACE, Capitol Corridor and VTA light rail meet, and BART currently reaches the northeast part of the city at Berryessa/North San José station. Groceries, errands and medical care are usually handled within your area or in a neighboring city. West San Jose residents often go to Cupertino and Santa Clara, Berryessa and North San Jose residents often go to Milpitas, and Cambrian and Almaden residents often go to Campbell and Los Gatos."
+    ],
+    "neighbors": [
+      "Santa Clara",
+      "Cupertino",
+      "Saratoga",
+      "Campbell",
+      "Los Gatos",
+      "Milpitas",
+      "Fremont",
+      "Morgan Hill"
+    ],
+    "note": "A San Jose mailing address doesn't mean a home is inside San Jose city limits. Unincorporated county parcels often use San Jose as their mailing city, and the county handles their services and planning. Addresses inside the city may also fall in school districts with Cupertino, Campbell or Santa Clara in their names. Alviso is part of the City of San Jose but keeps its own place name."
+  },
+  "commute": {
+    "paragraphs": [
+      "Driving is the main way to get around in most areas, so when choosing an area, start with the freeway and on-ramp you'd use every day. To reach offices in North San Jose, Santa Clara and Sunnyvale, southern areas mostly take SR-87 or SR-85 to US-101 or SR-237, while eastern areas take I-680, Capitol Expy or Montague Expy. For Cupertino and Mountain View, take I-280 or SR-85. For the Peninsula, take US-101 or I-280. For Fremont and the Tri-Valley, take I-880 or I-680. Peak-hour backups vary widely at the freeway interchanges (101/280/680, 87/280, 85/87, 101/880), so check them separately using your own departure time.",
+      "VTA runs three light rail lines. The Blue Line goes from Santa Teresa through Downtown and along North First St to Baypointe. The Green Line goes from Winchester in Campbell through Diridon and Downtown to Old Ironsides in Santa Clara. The Orange Line goes from Alum Rock through Milpitas to Mountain View. Light rail serves a corridor, and few homes are within walking distance of a platform, so most riders need to drive, bike or take a bus to the station. VTA also runs several Rapid bus lines. Rapid 500 connects Diridon and Berryessa BART, and Rapid 522 links Palo Alto and Eastridge along the El Camino, Santa Clara St and Alum Rock corridor.",
+      "BART currently has just one station in the city, Berryessa/North San José (1620 Berryessa Rd), which opened in 2020 along with the Milpitas station. It offers direct service toward Fremont, Oakland, downtown San Francisco and Richmond, and VTA operates its paid, first-come, first-served parking. Caltrain's main stations are San Jose Diridon and Tamien. Very few trains stop at College Park. Capitol and Blossom Hill are served only by South County Connector trains to and from Gilroy, with a small number of trains running north on weekday mornings and south in the early evening. ACE runs from Diridon toward the Tri-Valley and Stockton, and Capitol Corridor runs from Diridon toward Oakland, Sacramento and Auburn. San José Mineta International Airport (SJC) sits just north of Downtown and can be reached from most areas via SR-87 or I-880."
+    ],
+    "scenarios": [
+      {
+        "title": "Almaden Valley to North San Jose offices",
+        "text": "The basic drive is north on Almaden Expy to SR-87, past Downtown and the airport, then onto US-101, North First St or SR-237 to reach the office park. Check the intersections on Almaden Expy around SR-85 and morning peak conditions on the stretch of SR-87 approaching I-280. If you'd like to use light rail, the Blue Line's Ohlone/Chynoweth station is near the SR-85/SR-87 interchange and continues along North First St to Tasman and Baypointe. You'll need to confirm parking near the station and the last leg from the stop to your office."
+      },
+      {
+        "title": "Berryessa to downtown San Francisco",
+        "text": "From Berryessa/North San José station, direct trains toward Daly City run through Fremont and Oakland, then under the bay to the downtown San Francisco stations, with no transfer needed. Check how you'll get from home to the station (on foot, by bike, by VTA bus, or by driving and using VTA's paid parking), the first and last trains and the headways for your trip, and the walk from the station to your office."
+      },
+      {
+        "title": "West San Jose to Apple's Cupertino campus",
+        "text": "The two areas are next to each other, so many people use surface streets such as Stevens Creek Blvd, Bollinger Rd, Lawrence Expy or De Anza Blvd, or take a short stretch of I-280. The biggest factors are backups near the I-280 ramps and at major intersections on Lawrence Expy and Wolfe Rd, plus which road your campus entrance is on. Whether biking works depends on whether the bike lanes are continuous along your actual route."
+      },
+      {
+        "title": "Evergreen to Milpitas or Fremont",
+        "text": "Drivers generally leave via Capitol Expy, Tully Rd or Aborn Rd, then take US-101 north to I-680 or go straight up I-680. For south Fremont, I-880 is also worth comparing. Evergreen has no rail station, so taking transit means first getting to the Orange Line at Alum Rock or to Berryessa BART. Try that connection in person before you decide."
+      }
+    ],
+    "verify": [
+      "In a map app, enter the home's address and the exact entrance of your office, then set the departure time to when you normally leave on a workday. Check Tuesday through Thursday, morning and evening, in both directions, and repeat the same route with two or three different departure times.",
+      "If you plan to take BART, Caltrain or light rail, find your actual train on the official schedule first. Then work backward from the platform to your front door: how you'll get there, where you'll park, and whether parking costs money or requires a monthly pass.",
+      "At stations with very limited service, such as Capitol, Blossom Hill and College Park, don't assume a nearby Caltrain station is useful. Go by the trains that actually stop there on the current schedule.",
+      "If you have school drop-offs, map the whole home-school-office route. Congestion around a school at drop-off time often affects your day more than the freeway does."
+    ],
+    "links": [
+      {
+        "label": "VTA routes and schedules (light rail, Rapid, local bus)",
+        "url": "https://www.vta.org/go/routes"
+      },
+      {
+        "label": "VTA stations and park-and-ride",
+        "url": "https://www.vta.org/go/stations"
+      },
+      {
+        "label": "BART Berryessa/North San José station",
+        "url": "https://www.bart.gov/stations/bery"
+      },
+      {
+        "label": "Caltrain stations and schedules",
+        "url": "https://www.caltrain.com/stations-zones"
+      },
+      {
+        "label": "ACE stations",
+        "url": "https://acerail.com/stations/"
+      },
+      {
+        "label": "Capitol Corridor stations",
+        "url": "https://www.capitolcorridor.org/stations/"
+      }
+    ]
+  },
+  "errands": {
+    "paragraphs": [
+      "San Jose has no single commercial center that serves the whole city, and daily shopping mostly happens within each area. So when you tour a home, ask, \"Where would I normally buy groceries and run errands from this address?\" The hubs most often mentioned citywide are Santana Row and Westfield Valley Fair, next to each other on Stevens Creek Blvd on the west side; the San Pedro Square dining district in Downtown; Japantown just north of Downtown; Westgate in West San Jose; Oakridge in the south; Eastridge in the east; and The Plant near Curtner Ave and Monterey Rd. Stores change, so check what's currently open before you go.",
+      "For public facilities, the San José Public Library's location table lists 25 locations. The main library is the Dr. Martin Luther King, Jr. Library in Downtown (150 E San Fernando St), and the rest are spread across the city, including the Willow Glen, Almaden, Cambrian, Berryessa, Evergreen, West Valley, Rose Garden, Joyce Ellington, Vineland, Edenvale, Santa Teresa, Dr. Roberto Cruz Alum Rock and Alviso branches. Branches usually sit next to a park or community center, which makes them a good clue to where an area's daily life happens. While exploring, start at the home you're considering and actually walk or drive to the nearest branch and supermarket, noting how easy the crossings, parking and return trip are."
+    ],
+    "places": [
+      {
+        "name": "Santana Row",
+        "kind": "Retail district",
+        "where": "Around Stevens Creek Blvd and Winchester Blvd, on the eastern edge of West San Jose",
+        "note": "Open-air shopping street with dining and retail; weekend parking is tight"
+      },
+      {
+        "name": "Westfield Valley Fair",
+        "kind": "Shopping center",
+        "where": "Stevens Creek Blvd, straddling the San Jose-Santa Clara city line",
+        "note": "Indoor mall across the street from Santana Row"
+      },
+      {
+        "name": "San Pedro Square",
+        "kind": "Dining district",
+        "where": "Downtown, around N San Pedro St",
+        "note": "Walkable to Downtown light rail stations"
+      },
+      {
+        "name": "Japantown",
+        "kind": "Neighborhood commercial street",
+        "where": "North of Downtown, around Jackson St",
+        "note": "Older district with a concentration of small restaurants and shops"
+      },
+      {
+        "name": "Westgate",
+        "kind": "Shopping center",
+        "where": "West San Jose, around Saratoga Ave and Campbell Ave",
+        "note": ""
+      },
+      {
+        "name": "Oakridge",
+        "kind": "Shopping center",
+        "where": "Around Blossom Hill Rd and Santa Teresa Blvd",
+        "note": "The main shopping center for the southern areas"
+      },
+      {
+        "name": "Eastridge",
+        "kind": "Shopping center",
+        "where": "Around Tully Rd and Capitol Expy",
+        "note": "Eastern terminus of VTA Rapid 522"
+      },
+      {
+        "name": "The Plant",
+        "kind": "Shopping center",
+        "where": "Around Curtner Ave and Monterey Rd",
+        "note": "Open-air center with a concentration of big-box stores"
+      },
+      {
+        "name": "Dr. Martin Luther King, Jr. Library",
+        "kind": "Library (main library)",
+        "where": "Downtown, 150 E San Fernando St",
+        "note": "Main library of the San José Public Library"
+      },
+      {
+        "name": "San José Public Library branches",
+        "kind": "Library",
+        "where": "Across the city; the official location table lists 25 in all",
+        "note": "Look up the nearest branch and its hours by address"
+      }
+    ]
+  },
+  "parks": {
+    "paragraphs": [
+      "Outdoor options fall into roughly three groups. The first is foothill parks on the east and west sides: Alum Rock Park to the east, Almaden Quicksilver County Park to the southwest and Santa Teresa County Park at the south end. They're good for hiking and biking, but plan for grades and summer sun. The second is flat creekside trails: Guadalupe River Park runs through Downtown, the Los Gatos Creek Trail connects Willow Glen, Campbell and Los Gatos, and the Coyote Creek Trail runs along the city's southeast side. These trails aren't continuous and have gaps, so if you'd like to use one for a bike commute, confirm it works for your start and end points. The third is city regional parks and kid-oriented attractions such as Lake Cunningham, the Municipal Rose Garden and Happy Hollow in Kelley Park.",
+      "County park rules are listed on the County Parks website: Almaden Quicksilver has no entry fee, and Santa Teresa County Park charges a vehicle entry fee year-round. Parking fees, hours and temporary closures at city regional parks change, so check the city parks department website before you go."
+    ],
+    "places": [
+      {
+        "name": "Almaden Quicksilver County Park",
+        "kind": "County park / trails",
+        "where": "South end of Almaden Valley; main Hacienda entrance at 21785 Almaden Rd",
+        "note": "County Parks information: more than 37 miles of hiking trails, plus equestrian and bike routes; no entry fee; dogs must be leashed; open daily from 8 a.m. to sunset"
+      },
+      {
+        "name": "Santa Teresa County Park",
+        "kind": "County park / trails",
+        "where": "Santa Teresa; main entrance at 260 Bernal Rd",
+        "note": "County Parks information: more than 17 miles of unpaved trails, steeper around Coyote Peak; vehicle entry fee year-round; the park has a golf course and an archery range"
+      },
+      {
+        "name": "Alum Rock Park",
+        "kind": "City regional park",
+        "where": "East Foothills, off Alum Rock Ave and Penitencia Creek Rd",
+        "note": "Foothill park in a canyon; check the city parks department website for parking fees and availability"
+      },
+      {
+        "name": "Guadalupe River Park",
+        "kind": "Riverside park / trail",
+        "where": "Downtown, along the Guadalupe River",
+        "note": "Riverside trail connects Downtown toward the airport"
+      },
+      {
+        "name": "Los Gatos Creek Trail",
+        "kind": "Trail",
+        "where": "Willow Glen to Campbell and Los Gatos",
+        "note": "Paved trail connected in segments; not fully continuous at the Downtown end"
+      },
+      {
+        "name": "Coyote Creek Trail",
+        "kind": "Trail",
+        "where": "Along Coyote Creek, from the city's southeast side to its south end",
+        "note": "Open in segments; check which sections are currently open before you go"
+      },
+      {
+        "name": "Lake Cunningham Park",
+        "kind": "City regional park",
+        "where": "Around Tully Rd and Capitol Expy, on the northern edge of Evergreen",
+        "note": "Lakeside trail and sports facilities; check the city parks department website for parking fees"
+      },
+      {
+        "name": "Municipal Rose Garden",
+        "kind": "Park",
+        "where": "Rose Garden area, around Naglee Ave",
+        "note": "Rose garden and lawn surrounded by residential streets; street parking"
+      }
+    ]
+  },
+  "medical": {
+    "paragraphs": [
+      "The city's general hospitals are spread across several directions. The county's Santa Clara Valley Healthcare system has three San Jose hospitals: Santa Clara Valley Medical Center on South Bascom Ave, O'Connor Hospital on Forest Ave, and Regional Medical Center on North Jackson Ave in the east. Regional Medical Center was formerly owned by HCA, and the county took over on April 1, 2025. The hospital's website lists a Level II trauma center and 24-hour emergency care. In the southwest is HCA's Good Samaritan Hospital, and near Santa Teresa at the south end is Kaiser Permanente San Jose Medical Center. Sutter/Palo Alto Medical Foundation and Stanford also have clinics in the South Bay; check their websites for locations and specialties.",
+      "A hospital close to home doesn't mean your insurance covers care there. Kaiser members generally get care within the Kaiser system, and with other plans you'll need to confirm each hospital and doctor is in network. When touring homes, check both routes: home to the nearest ER and home to the clinic you use regularly."
+    ],
+    "places": [
+      {
+        "name": "Santa Clara Valley Medical Center",
+        "kind": "Hospital / ER / trauma center",
+        "where": "San Jose, 751 S Bascom Ave",
+        "note": "County hospital; its website lists emergency, trauma, burn and pediatric services, among others"
+      },
+      {
+        "name": "Regional Medical Center",
+        "kind": "Hospital / ER / trauma center",
+        "where": "San Jose, 225 N Jackson Ave",
+        "note": "Taken over by the county on April 1, 2025, and now part of Santa Clara Valley Healthcare; Level II trauma center"
+      },
+      {
+        "name": "O'Connor Hospital",
+        "kind": "Hospital / ER",
+        "where": "San Jose, 2105 Forest Ave",
+        "note": "Part of Santa Clara Valley Healthcare; near Rose Garden and West San Jose"
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "kind": "Hospital / ER",
+        "where": "San Jose, 2425 Samaritan Dr",
+        "note": "Near Cambrian and Los Gatos, next to SR-85; its website lists 24-hour emergency care, maternity and a neonatal intensive care unit"
+      },
+      {
+        "name": "Kaiser Permanente San Jose Medical Center",
+        "kind": "Hospital / ER",
+        "where": "South San Jose, near Santa Teresa",
+        "note": "For Kaiser members; see the Kaiser website for the address and departments"
+      }
+    ]
+  },
+  "schools": {
+    "summary": [
+      "San Jose's city limits and school district boundaries don't line up at all. City planning documents alone list 17 districts by area: the unified San José Unified; the high school districts East Side Union, Campbell Union and Fremont Union; the elementary and middle school districts Alum Rock, Berryessa Union, Evergreen, Franklin-McKinley, Mt. Pleasant, Oak Grove, Cambrian, Union, Moreland, Campbell Union and Cupertino Union; and Santa Clara Unified and Morgan Hill Unified, which extend into the city. Two small districts, Orchard and Luther Burbank, are usually mentioned as well. The two sides of a street may belong to different districts, so \"living in San Jose\" doesn't tell you which school a child will attend.",
+      "Here's the rough breakdown. The strip from Downtown through Willow Glen to Almaden Valley is San José Unified (TK–12). Most addresses in the east and south pair an elementary district with East Side Union HSD. Cambrian and the southern half of West San Jose mostly pair the Cambrian, Union, Moreland or Campbell Union elementary district with Campbell Union HSD. The part of West San Jose near Cupertino is in Cupertino Union (TK–8) and Fremont Union HSD (9–12, a South Bay high school district that is separate from Fremont Unified in the city of Fremont). Some North San Jose addresses are in Santa Clara Unified, and some addresses at the far south end, toward Coyote Valley, are in Morgan Hill Unified. The lookup takes two steps: use the Santa Clara County Office of Education's School District Locator page, following its directions (through County Assessor parcel records), to find which district the address is in, then use that district's own address lookup tool to find the specific school.",
+      "Over the past two years, several districts have closed or merged schools because of falling enrollment. When buying, check for the school year your child will start that the school is still operating and its attendance area hasn't changed. Decisions already made include the following. The Alum Rock Union board voted on December 2, 2024, to close or merge multiple schools starting in 2025–26. Berryessa Union voted on December 18, 2024, to close Cherrywood, Toyon and Laneview elementary schools starting in 2025–26. Franklin-McKinley voted on February 25, 2025, to close Los Arboles, Ramblewood and McKinley. San José Unified approved its \"Schools of Tomorrow\" plan on March 26, 2026: Empire Gardens, Lowell, Gardner, Canoas and Terrell elementary schools close after the 2025–26 school year, new attendance boundaries apply to incoming students starting in 2027–28, and the district offers separate address lookup tools for 2026–27 and for 2027–28 and later."
+    ],
+    "districts": [
+      {
+        "name": "San José Unified School District",
+        "short": "SJUSD",
+        "grades": "TK–12",
+        "covers": "A long, narrow strip running south from Downtown through Willow Glen to Almaden Valley",
+        "locator_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=518f5af99e51456aabcb4cd44ca5ad3e",
+        "map_url": "https://woolpertinc.maps.arcgis.com/apps/webappviewer/index.html?id=46b668b6d10842e58a044b14d051947f",
+        "enroll_url": "https://www.sjusd.org/enrollment",
+        "note": "The district offers separate address lookup tools for the 2026–27 school year and for 2027–28 and later. Results may differ, so use the one for the year your child will enroll. According to the district, when an attendance-area school is full at a given grade, a student may be placed at the nearest school with space and put on a waitlist; magnet schools aren't part of this placement.",
+        "locator_label": "2026–27 address lookup",
+        "map_label": "2027–28 and later address lookup"
+      },
+      {
+        "name": "East Side Union High School District",
+        "short": "ESUHSD",
+        "grades": "9–12",
+        "covers": "Large parts of the east and south, including high schools for Berryessa, Alum Rock, Evergreen, Silver Creek, Edenvale, Santa Teresa and other areas",
+        "locator_url": "https://www.esuhsd.org/Community/Boundaries/index.html",
+        "map_url": "https://www.esuhsd.org/Community/Boundaries/index.html",
+        "enroll_url": "https://www.esuhsd.org/Students--Parents/New-Students/index.html",
+        "note": "The district says its Attendance Area Locator is more accurate for addresses near a boundary. Transfers within the district are approved based on available space. Evergreen Valley, Piedmont Hills, Santa Teresa and Silver Creek are listed as impacted schools, and transfer requests into them are usually denied outright. For elementary and middle school, look up the separate elementary district."
+      },
+      {
+        "name": "Campbell Union High School District",
+        "short": "CUHSD",
+        "grades": "9–12",
+        "covers": "High schools for Cambrian, the southern half of West San Jose and neighboring areas such as Campbell (Branham, Leigh, Prospect, Westmont, Del Mar and others)",
+        "locator_url": "http://campbellhighdistrictexplorer.azurewebsites.net/",
+        "map_url": "https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=443126&type=d&pREC_ID=955487",
+        "enroll_url": "https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=2735701&type=d&pREC_ID=2296801",
+        "note": "High schools only. Elementary and middle schools belong to elementary districts such as Cambrian, Union, Moreland and Campbell Union, which need to be looked up separately."
+      },
+      {
+        "name": "Cupertino Union School District",
+        "short": "CUSD",
+        "grades": "TK–8",
+        "covers": "Some West San Jose addresses near Cupertino",
+        "locator_url": "https://www.cusdk8.org/registration/locator",
+        "map_url": "https://www.cusdk8.org/about-us/district-map",
+        "enroll_url": "https://www.cusdk8.org/registration/locator",
+        "note": "Lookup results are a preliminary assignment; the final placement is whatever the district's Student Assignment office confirms."
+      },
+      {
+        "name": "Fremont Union High School District",
+        "short": "FUHSD",
+        "grades": "9–12",
+        "covers": "High schools for the West San Jose addresses that overlap with Cupertino Union",
+        "locator_url": "https://www.fuhsd.org/about-us/general-information/district-boundary-maps",
+        "map_url": "https://www.fuhsd.org/about-us/general-information/district-boundary-maps",
+        "enroll_url": "",
+        "note": "A South Bay high school district, unrelated to Fremont Unified School District in the city of Fremont."
+      },
+      {
+        "name": "Santa Clara Unified School District",
+        "short": "SCUSD",
+        "grades": "TK–12",
+        "covers": "Some North San Jose addresses",
+        "locator_url": "https://www.santaclarausd.org/enrollment/school-locator",
+        "map_url": "https://locator.pea.powerschool.com/?StudyID=217157",
+        "enroll_url": "https://www.santaclarausd.org/enrollment",
+        "note": "North San Jose addresses may fall in several different districts, so always look up the exact street address."
+      },
+      {
+        "name": "Berryessa Union School District",
+        "short": "BUSD",
+        "grades": "TK–8",
+        "covers": "Elementary and middle schools in the Berryessa area; high schools are in East Side Union HSD",
+        "locator_url": "https://www.berryessa.k12.ca.us/Our-Schools",
+        "map_url": "",
+        "enroll_url": "https://www.berryessa.k12.ca.us/Departments/Education-Services/Enrollment-Information/index.html",
+        "note": "Three elementary schools closed starting in 2025–26, and attendance areas changed as a result. Confirm the school for a specific address with the district.",
+        "locator_label": "District school directory"
+      },
+      {
+        "name": "Evergreen School District",
+        "short": "ESD",
+        "grades": "TK–8",
+        "covers": "Elementary and middle schools around Evergreen and Silver Creek; high schools are in East Side Union HSD",
+        "locator_url": "https://locator.pea.powerschool.com/?StudyID=235017",
+        "map_url": "https://locator.decisioninsite.com/?StudyID=235017",
+        "enroll_url": "https://www.eesd.org/district/enrollment",
+        "note": "The link on the district website is titled \"What Is My School of Residence?\""
+      },
+      {
+        "name": "Oak Grove School District",
+        "short": "OGSD",
+        "grades": "TK–8",
+        "covers": "Some addresses in the southern Blossom Valley, Santa Teresa and Edenvale areas; high schools are in East Side Union HSD",
+        "locator_url": "http://www.schfinder.com/ogsd/",
+        "map_url": "https://www.ogsd.net/enrollment/school-boundaries",
+        "enroll_url": "https://www.ogsd.net/enrollment/registration",
+        "note": ""
+      },
+      {
+        "name": "Union School District",
+        "short": "USD",
+        "grades": "K–8",
+        "covers": "Southeastern Cambrian and some addresses near Los Gatos; high schools are in Campbell Union HSD",
+        "locator_url": "https://www.unionsd.org/about/usd-schools",
+        "map_url": "",
+        "enroll_url": "https://www.unionsd.org/families/enroll-in-usd",
+        "note": "The district website calls this tool the Find Your School Map Tool."
+      },
+      {
+        "name": "Cambrian School District",
+        "short": "CSD",
+        "grades": "TK–8",
+        "covers": "The central Cambrian area; high schools are in Campbell Union HSD",
+        "locator_url": "https://cambrianschooldistrictexplorer.azurewebsites.net/",
+        "map_url": "",
+        "enroll_url": "https://www.cambriansd.org/register-or-enroll",
+        "note": "The district website also has Transfers, Lottery Information and Waiting List pages. See those pages for how to enroll in programs such as Steindorf STEAM Magnet School."
+      },
+      {
+        "name": "Moreland School District",
+        "short": "MSD",
+        "grades": "TK–8",
+        "covers": "Some addresses in the southern half of West San Jose; high schools are in Campbell Union HSD",
+        "locator_url": "https://locator.decisioninsite.com/?StudyID=162014",
+        "map_url": "https://www.moreland.org/apps/pages/index.jsp?uREC_ID=427272&type=d&pREC_ID=932302",
+        "enroll_url": "https://www.moreland.org/apps/pages/index.jsp?uREC_ID=427279&type=d&pREC_ID=932325",
+        "note": ""
+      }
+    ],
+    "programs": [
+      "San José Unified has magnet schools. Its directory includes River Glen K-8, Hacienda Science/Environmental Magnet and Hammer Montessori. Hammer Montessori moves to the Gardner campus starting in 2026–27.",
+      "San José Unified's Transitional Kindergarten requires a child to turn 4 on or before September 1 of the enrollment year. Registration for the next school year opens in early December.",
+      "East Side Union HSD high schools offer CTE pathways (the district calls them Magnet). The district says interest in a pathway doesn't mean a transfer request will be approved. Alternative schools such as Calero, Foothill, Apollo, Pegasus and Phoenix each have their own application requirements.",
+      "Cambrian School District has Steindorf STEAM Magnet School and a separate Lottery Information page on its website.",
+      "In its December 2024 consolidation plan, Alum Rock Union kept its English-Vietnamese dual immersion program, which moves with Ben Painter Elementary to the William Sheppard Middle School campus.",
+      "Campbell Union School District and Moreland School District both list preschool programs on their websites. See the district pages for space and age requirements."
+    ],
+    "choice_note": "Your assigned school is determined by your address. Magnet, Montessori, dual immersion and alternative schools are choice programs that require a separate application and may use a lottery or waitlist, so living nearby doesn't mean a student can attend. At the high school level, East Side Union HSD approves transfers within the district based on available space, the application window for the new school year opens each year on March 1, and impacted schools generally don't accept transfers. Base your home decision on the assigned high school, and don't count on a transfer.",
+    "dashboard_note": "Search for a district or school name on the California School Dashboard (caschooldashboard.org) to see academic performance, chronic absenteeism, suspension rates, English learner progress, graduation rates and other indicators, including results for different student groups. The Dashboard updates once a year, so check the report year shown on the page first, and use the same year when comparing districts. San Jose involves many districts, so look at the elementary and high school districts separately.",
+    "trustee_note": "Many districts elect board members by Trustee Area. These maps are used only for elections and have nothing to do with school attendance boundaries, so use the address lookup tools above to find a school.",
+    "safe_routes": {
+      "text": "Evaluate the route to school for each specific school. Many San Jose schools sit next to expressways or four- to six-lane arterials, so try walking or biking the route from the home during school hours, and note the crossing signals, whether there's a crossing guard and which street the school entrance is on. The city's transportation department has walking and biking safety programs for schools. To find out whether a school participates or has a suggested route map, ask the school or the department.",
+      "url": ""
+    }
+  },
+  "housing": {
+    "paragraphs": [
+      "San Jose's housing falls into rough rings by age. Downtown, Japantown, Rose Garden, Shasta-Hanchett and central Willow Glen keep many single-family homes from the first half of the 20th century. Wood frames, raised foundations and detached garages or no garage at all are common, and inspections should focus on foundations and seismic retrofitting, old wiring and pipes, roofs, and whether past additions were permitted. Cambrian, West San Jose, Blossom Valley and Berryessa are mainly single-story ranch homes from the 1950s to the 1970s, on regular lots and mostly with two-car garages. Common issues are original sewer lines, single-pane windows, and how recently the roof and HVAC have been updated. Some streets have Eichlers and other midcentury modern homes, whose flat roofs and radiant floor heating need a specialized inspection.",
+      "Evergreen, Silver Creek, Santa Teresa and parts of Almaden Valley were developed from the 1980s on. Two-story homes are common, usually with the bedrooms upstairs, so if you need one-level living, check whether the first floor has a bedroom and a full bath. Newer planned communities often have HOAs. North San Jose, Downtown and the areas around rail stations hold most of the condos and townhomes built in the past 20 years or so. Things to check there include the number and layout of parking spaces (side by side or tandem), guest parking, flights of stairs, storage, and the HOA's dues and reserves.",
+      "Hillside homes in the foothills (Almaden, Silver Creek, East Foothills) call for a few extra checks: retaining walls and drainage, driveway slope, geologic and wildfire zones, and whether you can readily get an insurance quote."
+    ],
+    "types": [
+      {
+        "type": "Single-family homes",
+        "text": "Found in every area, with a wide range of ages. Homes around Downtown are mostly prewar. Cambrian, West San Jose, Berryessa and Blossom Valley are mostly single-story ranch homes from the 1950s to the 1970s, and parts of Evergreen, Silver Creek and Almaden have newer two-story homes. For older homes, focus on the foundation, plumbing and wiring, roof and addition permits. For hillside homes, also check drainage and retaining walls."
+      },
+      {
+        "type": "Townhomes",
+        "text": "Townhomes from the 1970s and 1980s are scattered through Blossom Valley, Berryessa, West San Jose and other areas. Newer three-story townhomes are concentrated in North San Jose, around Berryessa BART and on newer development sites in the south. The usual trade-off is more stairs, tandem garages and small yards in exchange for newer construction and systems. Read the HOA documents in full."
+      },
+      {
+        "type": "Condos",
+        "text": "Downtown has high-rise condos, while North San Jose and the area around Santana Row are mostly mid-rise. Verify parking rights, guest parking, elevator and common-area maintenance, what the monthly HOA dues cover, any pending litigation or special assessments, and any lender restrictions on the project."
+      }
+    ]
+  },
+  "costs": {
+    "paragraphs": [
+      "Beyond the purchase price, ownership costs need to be calculated for the specific home. Property tax is based on the sale price. On top of the base rate set by California's Prop 13 come bonds and special assessments from the local school district, community college district and other agencies. Because San Jose spans many school districts, these add-ons vary by address. After closing, the county also sends a supplemental tax bill based on the difference between the old and new assessed values. Newer developments may have a Mello-Roos/Community Facilities District, and the only way to confirm whether one exists, how much it costs each year and when it ends is through the home's tax bill and title report.",
+      "Two factors are specific to San Jose. The first is electricity: most residents get their generation service by default from San José Clean Energy, which the city runs, while PG&E still handles transmission, distribution and billing. You can choose among several plans or opt out. The second is water: several different water providers serve different parts of the city. San Jose Water is a private utility regulated by the California Public Utilities Commission (CPUC), and the city's own Municipal Water System serves some areas. Rate structures differ, so confirm the provider by address.",
+      "San Jose's Measure E also imposes a city transfer tax on high-value real estate transfers. The threshold and tiered rates are adjusted periodically, so check the city's current tax table. Whether the buyer or seller pays is set in the contract. For insurance, get a quote before making an offer on any address in the foothills or near open space. Homes with a mortgage in a FEMA Special Flood Hazard Area usually need separate flood insurance."
+    ],
+    "checklist": [
+      "Ask the seller or title company for the most recent complete property tax bill, and go through every bond, special assessment and CFD/Mello-Roos item beyond the base tax.",
+      "For homes with an HOA, request the breakdown of monthly dues, the reserve report and recent meeting minutes, and ask about any special assessments or pending litigation.",
+      "Confirm the address's water provider and electricity plan, and how trash and sewer fees are billed (some are collected on the property tax bill).",
+      "If the sale price may reach the Measure E threshold, ask the title company to estimate the transfer tax using the current table, and state in the contract who pays it.",
+      "Get a homeowners insurance quote before making an offer. For foothill addresses, also ask about wildfire-related terms; for low-lying addresses, check flood insurance requirements.",
+      "Estimate your monthly gas, bridge tolls, and station parking or pass costs for your commute, and weigh them alongside the price differences between areas."
+    ]
+  },
+  "environment": {
+    "paragraphs": [
+      "San Jose has an inland valley climate, with hotter, sunnier summers and less fog than the bayside Peninsula cities. Alviso and North San Jose at the north end run a little cooler thanks to bay breezes, while Almaden and Santa Teresa to the south and Evergreen to the east get hotter in the afternoon. West-facing rooms, roof insulation and air conditioning matter more here than on the Peninsula.",
+      "Noise comes mainly from three sources. SJC airport sits right next to Downtown, and its flight paths pass over Downtown, Rose Garden, Japantown and neighborhoods in line with the runways to the north and south. The airport's Noise Office offers flight tracking (WebTrak) and a way to file complaints, and the airport has a nighttime curfew. On the rail side, Caltrain and freight trains run along the Monterey Rd corridor through Tamien, Edenvale and Blossom Hill and along Stockton Ave north of Diridon, while light rail runs along North First St, SR-87 and Capitol Ave. Freeway noise depends heavily on how high the home sits relative to the road and whether there's a sound wall, so go listen on site during both the morning and evening peaks.",
+      "Natural hazard maps need to be checked by address. Flooding: Coyote Creek flooded in February 2017, and the Guadalupe River corridor and low-lying Alviso are also areas to review on FEMA flood maps. Anderson Dam sits upstream in Morgan Hill. Because of seismic concerns, its reservoir has been held at a very low level since late 2020 as required by federal regulators. Valley Water awarded the seismic retrofit construction contract in July 2026, with work planned to start in early 2027 and last several years. Earthquakes: the Hayward and Calaveras fault systems run through the eastern foothills. California Geological Survey (CGS) maps show fault zones, liquefaction zones and landslide zones. Liquefaction zones are common on the valley floor, and landslide zones are common in Almaden and the eastern foothills. Wildfire: where the foothills meet open space, check CAL FIRE's Fire Hazard Severity Zone maps. New maps for local jurisdictions were released in stages from February to March 2025. These maps show what to investigate further; you can't infer how safe a particular house is from them alone."
+    ],
+    "tools": [
+      {
+        "label": "FEMA flood map (by address)",
+        "url": "https://msc.fema.gov/portal/home",
+        "what": "Shows whether an address is in a FEMA Special Flood Hazard Area, which determines whether a lender requires flood insurance. Check any home along Coyote Creek or the Guadalupe River or in Alviso."
+      },
+      {
+        "label": "Valley Water flood zone lookup",
+        "url": "https://www.valleywater.org/floodzone",
+        "what": "An address lookup from Santa Clara County's water agency, with flood preparedness resources. Compare it with the FEMA map."
+      },
+      {
+        "label": "CGS EQ Zapp earthquake hazard zone lookup",
+        "url": "https://www.conservation.ca.gov/cgs/pages/program-sh/eq_zapp.aspx",
+        "what": "Shows by address whether a property is in an Alquist-Priolo fault zone, a liquefaction zone or an earthquake-induced landslide zone. Worth checking for homes in the eastern foothills, around Almaden and on the valley floor."
+      },
+      {
+        "label": "CAL FIRE fire hazard severity zone lookup",
+        "url": "https://experience.arcgis.com/experience/5065c998b4b0462f9ec3c6c226c610a9",
+        "what": "The state fire agency's Fire Hazard Severity Zone map. Check addresses near open space in Almaden, Silver Creek, the Evergreen foothills and East Foothills, and confirm with the city which version it has adopted locally."
+      },
+      {
+        "label": "SJC airport noise and flight tracking",
+        "url": "https://www.flysanjose.com/noise",
+        "what": "The airport Noise Office page, with WebTrak flight tracking and how to file a noise complaint. Homes in Downtown, Rose Garden, Japantown and in line with the runways can check actual flight tracks."
+      }
+    ]
+  },
+  "planning": {
+    "paragraphs": [
+      "The project under construction with the biggest effect on daily life is BART Silicon Valley Phase II, which extends about six miles south and west from Berryessa/North San José station, with four stations, through Downtown and Diridon to Santa Clara. Materials on the VTA project website as of October 2026 list construction from 2024 to 2035, followed by system testing from 2035 to 2037 with a target of opening for service. In other words, buying near Downtown or Diridon today means living with construction fencing, lane changes and temporary parking closures for roughly the next decade. The benefits of service come later, and the schedule may still change.",
+      "The city's general plan, Envision San José 2040, steers new housing toward Downtown, North San Jose, the area around Diridon station and Urban Villages, which are mostly at rail stations, along major commercial streets and on former shopping center sites. For buyers, this means single-family streets near these locations are more likely to see mid- and high-rise apartments or commercial redevelopment nearby in the coming years, changing traffic and the look of the street. For a specific address, you can look up nearby applications and approved projects in the city planning department's permit search system.",
+      "Two changes to public services have already taken effect and are worth knowing about. The county has operated Regional Medical Center in the east since April 2025, and San José Unified's school consolidation took effect in 2026, with new attendance boundaries applying to incoming students starting in 2027–28. At the south end, the city and conservation agencies have been buying land in Coyote Valley in recent years to preserve it, positioning the area as open space rather than a new residential district."
+    ],
+    "items": [
+      {
+        "name": "BART Silicon Valley Phase II",
+        "status": "As of October 2026: under construction; the VTA project website lists construction from 2024 to 2035 and system testing from 2035 to 2037 with a target of opening for service",
+        "text": "Extends about six miles from Berryessa/North San José station with four stations, three of them underground, through Downtown and Diridon to Santa Clara, using a single-bore tunnel. Nearby streets will see fencing, detours and parking changes during construction, and some parking at Diridon station has already closed temporarily.",
+        "url": "https://www.vtabart.org/"
+      },
+      {
+        "name": "Anderson Dam seismic retrofit",
+        "status": "As of October 2026: Valley Water awarded the construction contract on July 24, 2026, with work planned to start in January 2027; the related drainage tunnel work is expected to finish during 2026",
+        "text": "Anderson Dam sits on upper Coyote Creek in Morgan Hill. The reservoir has been held at about 3% of capacity since late 2020, and it's closed to recreation during the work. The project affects long-term flood protection and water supply along lower Coyote Creek, including the stretch through San Jose, and the project schedule runs through fiscal year 2034.",
+        "url": "https://www.valleywater.org/anderson-dam-project"
+      },
+      {
+        "name": "San José Unified \"Schools of Tomorrow\" consolidation and boundary changes",
+        "status": "Approved by the board on March 26, 2026; five elementary schools closed after the 2025–26 school year; new boundaries apply to incoming students starting in 2027–28",
+        "text": "Empire Gardens, Lowell, Gardner, Canoas and Terrell elementary schools closed, and their students merged into Anne Darling, Washington, Horace Mann, Ernesto Galarza and Rachel Carson, respectively. Hammer Montessori moves to the Gardner campus. Students enrolled in 2026–27 can stay at their current school through the end of elementary school. Buyers around Downtown and Willow Glen should check both of the district's lookup tools.",
+        "url": "https://sjusd.org/about/schools-of-tomorrow"
+      },
+      {
+        "name": "Regional Medical Center becomes a county hospital",
+        "status": "Taken over by Santa Clara County on April 1, 2025",
+        "text": "Located at 225 N Jackson Ave. After the takeover, trauma, stroke and cardiac emergency services were restored, and the hospital is now part of Santa Clara Valley Healthcare. For eastern areas such as Alum Rock, Berryessa and Evergreen, it's one of the closest full-service emergency departments.",
+        "url": "https://rmc.scvh.org/"
+      }
+    ]
+  },
+  "tour": {
+    "intro": "San Jose is too much to see in one trip. This half-day route is meant to give you a feel for how the areas differ, so you can decide where to spend your time later. Start in Downtown, head west, then south, and finish by looping around to the east side. You don't need to stay long at any stop; the point is to note the differences in streets, home types and how people get around. Each stop is a public library or station, so parking and restrooms are easy.",
+    "stops": [
+      {
+        "name": "Dr. Martin Luther King, Jr. Library (Downtown)",
+        "text": "Start at the main library and walk a loop through Downtown. Look at high-rise entrances and garages, where the light rail stations are, and how BART construction fencing affects the street. Notice the flight paths overhead and how often planes pass."
+      },
+      {
+        "name": "Rose Garden Branch Library and Municipal Rose Garden",
+        "text": "Follow Naglee Ave through the streets of older homes, noting home ages, street parking and tree shade. Make a note of aircraft noise and traffic sound from the direction of I-880, and compare them with Downtown."
+      },
+      {
+        "name": "Willow Glen Branch Library and Lincoln Ave",
+        "text": "Walk from the branch on Minnesota Ave to the Lincoln Ave shopping street, and see how easy the walk and the crossings are. Notice how homes from different eras differ on the same street, and how close they are to the Caltrain and freight tracks."
+      },
+      {
+        "name": "Cambrian Branch Library (Hillsdale Ave)",
+        "text": "Look at the lots and garage styles on streets of single-story ranch homes from the 1950s and 1960s. Open a school district lookup tool to see how the district can change every few streets, and note where the SR-85 and SR-17 ramps are on your way."
+      },
+      {
+        "name": "Almaden Branch Library (Camden Ave)",
+        "text": "The branch is next to a community center. Drive a stretch of Almaden Expy to get a feel for the trip from here to SR-85 and SR-87. Look up at the hillside homes, and note the slopes and the number of roads in and out."
+      },
+      {
+        "name": "Evergreen Branch Library (Aborn Rd)",
+        "text": "Take SR-85, US-101 and Capitol Expy to the southeast part of the city; the drive itself is part of the commute experience. Look at street widths and guest parking in the two-story home communities, and the exits to US-101."
+      },
+      {
+        "name": "Berryessa/North San José BART station",
+        "text": "Finish at the station at 1620 Berryessa Rd. See how the parking lot is being used, how buses connect, and how the new apartments around the station relate to the streets of older single-family homes. If you plan to ride BART, look up your train here."
+      }
+    ],
+    "questions": [
+      "Is this address inside San Jose city limits or on an unincorporated county parcel? Who handles municipal services and permits?",
+      "Which district and school serve the address for elementary, middle and high school? In the year your child starts, will the school still be operating, and will the boundary have changed?",
+      "Which ramp or station would you use for work each day? Have you checked it at your actual departure time?",
+      "Is the home in a FEMA flood zone, a CGS fault, liquefaction or landslide zone, or a fire hazard severity zone? Do you have an insurance quote?",
+      "Besides the base tax, what bonds, special assessments or CFDs are on the tax bill? Is there an HOA, and what do the monthly dues cover?",
+      "Have you listened on site during the morning peak, the evening peak and at night? How much do aircraft, rail and freeways each affect the home?",
+      "Are any large projects approved or under construction nearby, such as BART work or apartment or commercial redevelopment in an Urban Village?"
+    ]
+  },
+  "compare": [
+    {
+      "city": "Sunnyvale",
+      "slug": "sunnyvale",
+      "text": "Sunnyvale (and neighboring Cupertino) is closer to the Mountain View office areas and has a Caltrain station. West San Jose has more choice in midcentury single-story streets, with Santana Row and Westgate right in the area. Some West San Jose addresses share school districts with Cupertino, so check each address on either side."
+    },
+    {
+      "city": "Milpitas",
+      "slug": "milpitas",
+      "text": "Berryessa and North San Jose border Milpitas, and all are close to I-680, I-880 and BART. Milpitas is a small city with new apartments and townhomes concentrated around its station. Berryessa has larger areas of single-family streets, and its elementary and high schools belong to two separate districts. To the north, Fremont is worth comparing too, depending on where you work."
+    },
+    {
+      "city": "Campbell / Los Gatos",
+      "slug": "",
+      "text": "Buyers looking at Cambrian and Willow Glen often compare Campbell and Los Gatos at the same time. All three share SR-17, SR-85 and the Los Gatos Creek Trail. Campbell and Los Gatos each have a small walkable downtown, while Cambrian is known for residential streets and regular lots, and daily life mostly depends on driving."
+    }
+  ],
+  "district_index": [
+    {
+      "name": "Downtown",
+      "area": "City center",
+      "one_line": "Between SR-87 and Coyote Creek, where high-rise condos mix with older blocks; home to Diridon station and the main library",
+      "detailed": false
+    },
+    {
+      "name": "Japantown / Northside",
+      "area": "North of Downtown",
+      "one_line": "Older blocks north of Downtown with a mix of single-family homes and new apartments, close to North First St light rail",
+      "detailed": false
+    },
+    {
+      "name": "Rose Garden / Shasta-Hanchett",
+      "area": "Central-west",
+      "one_line": "An early residential area west of Downtown, mainly older single-family homes around the Municipal Rose Garden",
+      "detailed": false
+    },
+    {
+      "name": "Willow Glen",
+      "area": "Central-southwest",
+      "one_line": "An established residential area southwest of Downtown, centered on Lincoln Ave, with single-family homes from many eras",
+      "detailed": true
+    },
+    {
+      "name": "West San Jose",
+      "area": "West",
+      "one_line": "Next to Cupertino, Santa Clara and Saratoga, mainly midcentury single-story homes; school districts vary by address",
+      "detailed": true
+    },
+    {
+      "name": "Cambrian",
+      "area": "Southwest",
+      "one_line": "Between SR-85 and SR-17 near Campbell and Los Gatos, with many single-story ranch homes",
+      "detailed": true
+    },
+    {
+      "name": "Almaden Valley",
+      "area": "South valley",
+      "one_line": "A valley south along Almaden Expy, mainly single-family homes on larger lots, backing onto foothill parks; you'll drive for most trips",
+      "detailed": true
+    },
+    {
+      "name": "Blossom Valley",
+      "area": "South",
+      "one_line": "A southern residential area along Blossom Hill Rd, with many postwar single-family homes and townhomes, next to the Oakridge shopping area",
+      "detailed": false
+    },
+    {
+      "name": "Santa Teresa",
+      "area": "Far south",
+      "one_line": "Around the southern end of the Blue Line, backing onto Santa Teresa County Park, near SR-85 and US-101",
+      "detailed": false
+    },
+    {
+      "name": "Edenvale",
+      "area": "South, east side",
+      "one_line": "Between Monterey Rd and US-101, where homes sit next to industrial parks and the south Caltrain line passes through",
+      "detailed": false
+    },
+    {
+      "name": "Evergreen",
+      "area": "Southeast",
+      "one_line": "A southeastern area east of US-101, with many single-family communities from the 1980s on, farther from rail",
+      "detailed": true
+    },
+    {
+      "name": "Silver Creek",
+      "area": "Southeast foothills",
+      "one_line": "In the foothills south of Evergreen, mainly newer single-family homes and planned HOA communities; check hillside issues by address",
+      "detailed": false
+    },
+    {
+      "name": "Berryessa",
+      "area": "Northeast",
+      "one_line": "A northeastern area on both sides of I-680, mixing 1960s and 1970s single-family homes with new apartments, with a BART station on its western edge",
+      "detailed": true
+    },
+    {
+      "name": "North San Jose",
+      "area": "North",
+      "one_line": "An office area north of US-101 with light rail along North First St, and housing that's mainly newer condos and townhomes",
+      "detailed": false
+    },
+    {
+      "name": "Alum Rock / East Foothills",
+      "area": "East",
+      "one_line": "From I-680 east to the foothills, where older flatland streets differ greatly from hillside homes; home to Alum Rock Park",
+      "detailed": false
+    },
+    {
+      "name": "Alviso",
+      "area": "Far north, bayfront",
+      "one_line": "A small, low-lying community north of SR-237 beside the bay wetlands; check flood maps first before you buy",
+      "detailed": false
+    }
+  ],
+  "districts_intro": "San Jose is too big for citywide averages to mean much, so start by choosing an area. The city's own divisions are its 10 Council Districts, the planning areas in its planning documents and various neighborhood associations. Names such as Willow Glen and Cambrian are common usage with no legal boundary. The index below lists 16 commonly used areas, followed by photo guides to 10 key San Jose ZIP codes."
+}

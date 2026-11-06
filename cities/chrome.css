@@ -115,3 +115,27 @@ html:has(body.city){scroll-padding-top:130px}
 .zlb-prev{left:14px}.zlb-next{right:14px}
 .zlb.one .zlb-prev,.zlb.one .zlb-next{display:none}
 @media(max-width:760px){.zgal3{grid-template-columns:1fr 1fr}.zgal3 .zshot:first-child{grid-column:1/-1;aspect-ratio:16/10}.zgal1 .zshot{aspect-ratio:3/2}.zlb-prev,.zlb-next{display:none}}
+
+/* San Jose 图文专题 */
+.container.znarrow{width:min(900px,calc(100% - 44px))}
+.znarrow>.zblock{max-width:none}
+.zh4{font-family:Inter,-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans SC",sans-serif;font-size:17px;line-height:1.45;font-weight:700;color:#111;margin:24px 0 6px}
+.zfac,.zlinks{margin:8px 0 16px;padding-left:20px;font-size:16px;line-height:1.8;color:#222}
+.zfac li,.zlinks li{margin:0 0 8px}
+.zfac a,.zlinks a,.zblock p a{color:var(--navy);text-decoration:underline;text-underline-offset:3px}
+.zsmall{font-size:14px!important;color:#666!important}
+.zcall{border-left:3px solid var(--navy);padding:2px 0 2px 14px}
+.ztopnav{display:flex;flex-wrap:wrap;gap:6px 18px;margin:0 0 4px;font-size:15px}
+.ztopnav a{color:var(--navy);text-decoration:underline;text-underline-offset:3px}
+.zdemo{position:absolute;left:10px;top:10px;background:#b3261e;color:#fff;font-size:13px;line-height:1;padding:8px 12px;border-radius:999px;white-space:nowrap}
+#daily .zblock:first-of-type,#schools .zblock:first-of-type{margin-top:20px}
+@media(max-width:760px){.container.znarrow{width:calc(100% - 32px)}}
+.zcols{columns:2;column-gap:32px}
+.zback{margin-top:20px}
+.zpills{list-style:none;display:flex;flex-wrap:wrap;gap:10px;margin:0 0 18px;padding:0}
+.zpills li{background:#f1f1f1;border-radius:999px;padding:6px 14px;font-size:14.5px;color:#222}
+#map+section .zblock:first-of-type{border-top:0}
+.znarrow .sub{font-family:Inter,-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans SC",sans-serif;font-size:clamp(20px,2.4vw,24px);color:#111}
+.znarrow>.kicker+.title{margin-bottom:20px}
+.znarrow>.zblock:first-of-type,.znarrow>.ztopnav+.zblock{border-top:0;margin-top:14px;padding-top:14px}
+@media(max-width:760px){.zcols{columns:1}}

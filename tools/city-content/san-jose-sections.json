@@ -1,0 +1,137 @@
+{
+ "urls": {
+  "Santa Clara Valley Medical Center": "https://scvmc.scvh.org/",
+  "Regional Medical Center": "https://rmc.scvh.org/",
+  "O'Connor Hospital": "https://och.scvh.org/",
+  "Good Samaritan Hospital": "https://www.goodsamsanjose.com/",
+  "Kaiser Permanente San Jose Medical Center": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Jose-Medical-Center-100322",
+  "Almaden Quicksilver County Park": "https://parks.santaclaracounty.gov/locations/almaden-quicksilver-county-park",
+  "Santa Teresa County Park": "https://parks.santaclaracounty.gov/locations/santa-teresa-county-park",
+  "Alum Rock Park": "https://www.sanjoseca.gov/Home/Components/FacilityDirectory/FacilityDirectory/2088/2028",
+  "Lake Cunningham Park": "https://www.sanjoseca.gov/Home/Components/FacilityDirectory/FacilityDirectory/2255/2028",
+  "San José Public Library 各分馆": "https://www.sjpl.org/locations-table/",
+  "Dr. Martin Luther King, Jr. Library": "https://www.sjpl.org/locations-table/"
+ },
+ "shopping": {
+  "names": [
+   "Santana Row",
+   "Westfield Valley Fair",
+   "Westgate",
+   "Oakridge",
+   "Eastridge",
+   "The Plant"
+  ],
+  "intro": "San Jose 没有一个全市共用的商业中心，日常采购基本在各自片区解决。全市层面常被提到的购物节点是：西侧 Stevens Creek Blvd 上相邻的 Santana Row 与 Westfield Valley Fair，West San Jose 的 Westgate，南部的 Oakridge，东部的 Eastridge，以及 Curtner Ave 与 Monterey Rd 一带的 The Plant。具体门店会调整，去之前请查当前营业情况。",
+  "buyer": "看房时要问的是“这个地址平时去哪里买菜、办事”。可以从候选房源出发，实际走一次或开一次到最近的超市，记录过街、停车和返程是否顺手。"
+ },
+ "dining": {
+  "names": [
+   "San Pedro Square",
+   "Japantown"
+  ],
+  "intro": "Downtown 的 San Pedro Square 是餐饮街区，步行可达 Downtown 轻轨各站；Downtown 北面的 Japantown 是小型餐饮与店铺集中的老街区。Santana Row 也有不少餐饮。其他片区的餐饮多沿本地商业街分布，例如 Willow Glen 的 Lincoln Ave。",
+  "buyer": "住得靠近商业街，出门方便，也要留意周末和晚上的人流、路边停车和噪音。候选房子离商业街很近的话，挑周末晚上再去看一次。"
+ },
+ "library": {
+  "intro": "San José Public Library 的馆舍表列出25处馆舍，总馆是 Downtown 的 Dr. Martin Luther King, Jr. Library（150 E San Fernando St），其余分布在各片区，例如 Willow Glen、Almaden、Cambrian、Berryessa、Evergreen、West Valley、Rose Garden、Joyce Ellington、Vineland、Edenvale、Santa Teresa、Dr. Roberto Cruz Alum Rock 和 Alviso 等分馆。",
+  "buyer": "分馆通常与公园或社区中心相邻，是判断一个片区日常生活节点在哪里的好线索。看区时可以实际走一次或开一次到最近的分馆，记录过街、停车和返程是否顺手。"
+ },
+ "closures_intro": "近两年多个学区因入学人数下降关闭或合并学校。买房时要按孩子入学的那个学年，核对学校是否仍在运营、招生范围是否已改。以下是目前已做出的决定，具体安排以学区官方公告为准。",
+ "closures": [
+  {
+   "district": "San José Unified",
+   "decided": "2026年3月26日董事会通过 Schools of Tomorrow 方案",
+   "text": "Canoas、Empire Gardens、Gardner、Lowell、Terrell 五所小学关闭，2026年5月29日是最后上课日，2026–27 学年起不再运营。Hammer Montessori 项目自 2026–27 学年迁至 Gardner 校址。",
+   "effective": "关闭自 2026–27 学年生效；新的招生边界从 2027–28 学年起适用于新入学的学生，学区为两个阶段分别提供地址查询工具"
+  },
+  {
+   "district": "Alum Rock Union",
+   "decided": "2024年12月2日董事会表决",
+   "text": "Sylvia Cassell、Horace Cureton、A.J. Dorsa、Donald Meyer 四所小学和 Joseph George Middle School 关闭；Renaissance Academy at Fischer 并入 Renaissance Academy at Mathson；Ben Painter 并入 Sheppard；L.U.C.H.A. 并入 San Antonio。Adelante I 和 Adelante II 合并到原 Renaissance Academy at Fischer 校址。",
+   "effective": "多数调整自 2025–26 学年生效；Adelante 合并自 2026–27 学年生效"
+  },
+  {
+   "district": "Berryessa Union",
+   "decided": "2024年12月18日董事会表决",
+   "text": "Cherrywood、Toyon、Laneview 三所小学关闭，招生范围随之调整。",
+   "effective": "自 2025–26 学年生效"
+  },
+  {
+   "district": "Franklin-McKinley",
+   "decided": "2025年2月25日董事会表决",
+   "text": "Los Arboles、Ramblewood、McKinley 三所学校关闭，学生分流到 Bridges Academy、G.W. Hellyer、Lairon College Preparatory Academy、George Shirakawa Sr.、Sylvandale、Santee 等校。",
+   "effective": "学区表决时说明在下一学年前关闭，即 2025–26 学年起"
+  }
+ ],
+ "tips": [
+  "先确定孩子入学的学年，再用对应学年的工具，按完整门牌地址查询。同一地址在不同学年的结果可能不同。",
+  "小学学区和高中学区要分别查。San Jose 东部、南部和西部的很多地址，这两级分属不同学区。",
+  "按划片学校做决定，不要把转学、magnet 或抽签项目当作前提。",
+  "学校边界可能调整，查到的结果只说明当前安排，不代表未来保持不变。正式安排以学区确认为准。"
+ ],
+ "housing_seller": "卖房时把房屋年代、翻新和加建的许可记录、屋顶与管线的更新时间整理好，买家和检查人员最先问的往往就是这些。有 HOA 的房子，提前备好月费明细、储备金报告和会议纪要。",
+ "schools_seller": "挂牌时学校信息写到学区和官方查询入口为止，不要承诺某个地址对应某所学校，请买家按完整地址和入学学年向学区确认。",
+ "market_q": [
+  {
+   "q": "为什么不同 ZIP Code 价格不同",
+   "a": "房屋类型、地块大小、房龄、学区归属和到就业区的距离都不同，每个邮编成交的房子结构也不一样。中位价的高低首先反映这批成交的是什么房子，不能直接当作同一套房在两地的差价。"
+  },
+  {
+   "q": "为什么独栋和 Condo 不能直接比较",
+   "a": "独栋的价值有很大一部分来自土地，Condo 和 Townhouse 没有独立地块，还要付 HOA。混合口径的中位价会随当月成交的房型比例变动，比较时要按同一房型分开看。"
+  },
+  {
+   "q": "DOM 和成交数量说明什么",
+   "a": "DOM（Days on Market）是房子挂牌到签约的天数，各数据源的算法略有不同。天数短说明买家反应快，天数长可能和定价、房况或季节有关。成交数量少的时候，一两笔高价或低价成交就能明显拉动中位价，样本小的月份不要急着下结论。"
+  },
+  {
+   "q": "卖家怎样选择可比成交",
+   "a": "优先找同一片区、同一房型、面积和房况相近、最近几个月成交的房子，再按地块、翻新程度和临街情况调整。分属不同学区或隔着高速的街区，即使距离很近，也要单独判断。"
+  },
+  {
+   "q": "买家怎样理解市场竞争",
+   "a": "看同类房子最近的挂牌价与成交价、DOM 和在售数量，比看全市新闻更有用。房况和定价不同，竞争程度也不同，出价前请经纪人调出同类成交再做判断。"
+  }
+ ],
+ "market_intro": "全市数字只能说明大方向。San Jose 各片区的房型和学区差别很大，看市场要落到邮编和房型。下面先给全市数字，再解释怎样读这些数字。",
+ "compare_dims": [
+  {
+   "k": "预算",
+   "t": "同样的预算，在不同片区能买到的房型和面积不同。先定房型和最低要求，再比价格。"
+  },
+  {
+   "k": "住宅类型",
+   "t": "独栋、Townhouse 和 Condo 的持有成本与维护责任不同，要放在同一张账上算。"
+  },
+  {
+   "k": "通勤",
+   "t": "用候选地址和实际办公入口，按平时的出门时刻查，不要只看直线距离。"
+  },
+  {
+   "k": "学校边界",
+   "t": "按完整地址和入学学年向学区核实，不用片区名称或 ZIP Code 代替。"
+  },
+  {
+   "k": "生活偏好",
+   "t": "想走路去商业街、住得离山近，还是更看重地块和车库，不同片区给的答案不一样。"
+  }
+ ],
+ "compare_intro": "比较片区时，把下面五项放在一起看。片区之间没有高下，差别在于你更看重哪一项。",
+ "map_note": "点击地图上的片区标记，可以跳到下方对应的图文介绍和 ZIP Code 指南。",
+ "overview_topics": [
+  {
+   "title": "城市位置",
+   "sub": "山谷、湾岸和两侧山麓"
+  },
+  {
+   "title": "路网",
+   "sub": "每天先走哪条路"
+  },
+  {
+   "title": "轨道与生活半径",
+   "sub": "日常在哪里解决"
+  }
+ ],
+ "buyer_label": "买家需要知道",
+ "seller_label": "卖家需要知道"
+}

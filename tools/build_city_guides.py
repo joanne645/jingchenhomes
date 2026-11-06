@@ -12,12 +12,13 @@ import sys, re, html, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+SJ_SEC = json.loads((ROOT / 'tools/city-content/san-jose-sections.json').read_text(encoding='utf-8'))
 SRC = ROOT / 'tools' / 'city-content'
 OUT = ROOT / 'cities'
 SITE = 'https://www.homesbyjingchen.com'
 REVIEWED = '2026年10月'
 REVIEWED_ISO = '2026-10-08'
-ASSET_VER = '20261106'
+ASSET_VER = '20261107'
 
 CITIES = [  # slug, 名称, 地图初始中心（仅用于边界加载前的初始视野）, 初始缩放
     ('palo-alto', 'Palo Alto', (37.425, -122.140), 12),
@@ -34,6 +35,7 @@ CITIES = [  # slug, 名称, 地图初始中心（仅用于边界加载前的初�
 NAMES = {s: n for s, n, _, _ in CITIES}
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sj_sections
 from site_chrome import nav as site_nav, footer as site_footer, font_links, ASSET_VER as SITE_VER, rel  # noqa
 SOLD = json.loads((ROOT / 'tools/site-data/sold.json').read_text(encoding='utf-8'))['records']
 MK = json.loads((ROOT / 'tools/site-data/market.json').read_text(encoding='utf-8'))
@@ -116,20 +118,6 @@ def place_list(places):
         note = f'<p>{e(p["note"])}</p>' if p.get('note') else ''
         out.append(f'<div class="place"><b>{e(p["name"])}</b><span class="k">{e(p.get("kind",""))}</span><span class="w">{e(p.get("where",""))}</span>{note}</div>')
     return f'<div class="places">{"".join(out)}</div>' if out else ''
-
-def zip_card(anchor, z):
-    """San Jose 城市页的片区图文块，与 /areas/san-jose/ 总览相同：照片 + 介绍 + 买家 + 卖家 + 链接。"""
-    d = json.loads((ROOT / f'tools/v2-content/zip/{z}.json').read_text(encoding='utf-8'))
-    url = f'../areas/san-jose/{z}/index.html'
-    img = ''
-    if (ROOT / f'images/zip/{z}-1.webp').exists():
-        ph = d['photos'][0]
-        src = f'../images/zip/{z}-1.webp'
-        img = f'<div class="zgal zgal1" data-lb><a class="zshot" href="{src}" data-cap="{e(ph["zh"])}"><img src="{src}" alt="{e(ph["zh"])}" loading="lazy"></a></div>'
-    return (f'<article class="zblock" id="{anchor}"><h3 class="ztitle"><a href="{url}">{z} <span>|</span> {e(d["title"])}</a></h3>{img}'
-            f'<p>{e(d["intro"][0])}</p><p><strong>买家需要知道：</strong>{e(d["buyer"][0])}</p><p><strong>卖家需要知道：</strong>{e(d["seller"][0])}</p>'
-            f'<p><a class="zmore" href="{url}">查看完整地区指南 →</a></p></article>')
-
 
 def build(slug, center, zoom):
     d = fix_urls(load(slug))
@@ -278,17 +266,13 @@ def build(slug, center, zoom):
         cells = ''.join(f'<a href="#{ids[x["name"]]}"><b>{e(x["name"])}</b>{e(x.get("tag",""))}</a>' for x in dists)
         idx_html = f'<div class="dindex">{cells}</div>'
     cards = []
-    zip_sample = {'Willow Glen': '95125', 'Almaden Valley': '95120'} if slug == 'san-jose' else {}
     for n, x in enumerate(dists):
-        if x['name'] in zip_sample:   # 视觉样板：图文介绍，详细内容在邮编详情页
-            cards.append(zip_card(ids[x['name']], zip_sample[x['name']]))
-            continue
         extra = ''
         btns = ''.join(ext(y.get('locator_url'), f'{y["name"]}（{y.get("grades","")}）地址查询') for y in x.get('school_districts', []))
         btns += ''.join(ext(y.get('url'), y.get('label', '')) for y in x.get('links', []))
         if btns:
             extra = f'<div class="dlinks"><span>官方查询入口：</span>{btns}</div>'
-        cards.append(f'''<details class="dist" id="{ids[x['name']]}"{' open' if n == 0 and not zip_sample else ''}>
+        cards.append(f'''<details class="dist" id="{ids[x['name']]}"{' open' if n == 0 else ''}>
 <summary><h3>{e(x['name'])}</h3><span class="tag">{e(x.get('tag',''))}</span><span class="tog"><span class="o">展开</span><span class="c">收起</span></span></summary>
 <div class="dbody">
 <div class="dcell"><h4>位置与范围</h4><p>{e(x['where'])}</p></div>
@@ -299,7 +283,7 @@ def build(slug, center, zoom):
 <div class="dcell take"><h4>实地看区时留意</h4><p>{e(x['visit'])}</p></div>
 </div>{extra}</details>''')
     districts = f'''
-<section class="section {'white' if slug == 'san-jose' else 'cream2'}" id="districts"><div class="container">
+<section class="section cream2" id="districts"><div class="container">
 <div class="kicker">03 · 片区比较</div><h2 class="title">同在 {e(name)}，不同片区的日子不一样</h2>
 <p class="lead">{e(d['districts_intro'])}</p>
 {idx_html}
@@ -446,6 +430,25 @@ def build(slug, center, zoom):
 <div class="btnrow"><a class="btn gold" href="../contact.html?city={e(q)}&amp;type=compare">让陈靖帮我比较这几个城市 →</a><a class="btn gold" href="../contact.html?city={e(q)}&amp;type=budget">根据我的预算和通勤，缩小看房范围 →</a><a class="btn gold" href="../contact.html?city={e(q)}&amp;type=city">咨询 {e(name)} 的购房选择 →</a></div></div>
 <h3 class="sub">十个城市的生活指南</h3><div class="allc">{allc}</div>
 </div></section>'''
+
+    if sj:
+        sc = sj_sections
+        c = sc.Ctx('zh', d, SJ_SEC, '../', lambda z: '../areas/san-jose/index.html' if z == 'index' else f'../areas/san-jose/{z}/index.html')
+        c.zip_area = lambda z: (json.loads((ROOT / f'tools/v2-content/zip/{z}.json').read_text(encoding='utf-8'))['area'] if (ROOT / f'tools/v2-content/zip/{z}.json').exists() else '')
+        wrap = lambda sid, kick, title, inner: f'<section class="section white" id="{sid}"><div class="container znarrow"><div class="kicker">{kick}</div><h2 class="title">{title}</h2>{inner}</div></section>'
+        overview = wrap('overview', '01 · 城市生活概览', f'{e(name)} 在哪里，日常会去到哪里', sc.overview(c))
+        maps_html = maps_html.replace('<section class="section" id="map">', '<section class="section white" id="map">', 1)
+        districts = wrap('districts', '03 · 片区比较', f'同在 {e(name)}，不同片区的日子不一样', sc.districts(c, ids))
+        daily = wrap('daily', '04 · 工作日与周末', '上班、接送、买菜和运动，各走一遍', sc.daily(c))
+        schools = wrap('schools', '05 · 学校与入学', '学校信息按具体地址核实', sc.schools(c))
+        hcta = f'<p class="zback"><a class="zmore" href="../buy.html?city={e(name.replace(" ", "+"))}#search">查看 San Jose 在售房源 →</a></p>'
+        housing = wrap('housing', '06 · 住房与成本', '能买到什么房子，住下来还要付什么', sc.housing(c, hcta))
+        src_note = f'来源：{e(MK["source_zh"])}。统计口径：{e(MK["method_zh"])}更新时间：{e(MK["updated_zh"])}。这是全市概括数字，不是任何一套房屋的估值，也不代表未来走势。'
+        art_list = '<h3 class="sub">相关知识文章</h3><ul class="zlinks">' + ''.join(f'<li><a href="../insights/{a}.html">{t_}</a></li>' for a, t_ in arts) + '</ul>'
+        market_sec = wrap('market', '07 · 房价数据与近期成交', f'{e(name)} 的市场数字怎么看', sc.market(c, mk['median'], mk['yoy_zh'], src_note, sold_html, art_list))
+        tour = wrap('tour', '08 · 实地看区路线', f'用半天时间，把 {e(name)} 走一遍', sc.tour(c))
+        cta_html = compare[compare.index('<div class="cta">'):compare.rindex('</div></section>')]
+        compare = wrap('compare', '09 · 比较与咨询', '把范围缩小到几个片区', sc.compare(c, lambda sl: f'{sl}.html' if sl in NAMES else '', glinks + cta_html))
 
     # ---------- 来源 ----------
     srcs = ''.join(f'<div class="source"><b>{e(s.get("org",""))}</b><a href="{e(s["url"])}" target="_blank" rel="noopener">{e(s.get("label") or s["url"])}</a></div>' for s in d['sources'] if s.get('url'))
