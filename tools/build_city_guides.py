@@ -16,7 +16,7 @@ OUT = ROOT / 'cities'
 SITE = 'https://www.homesbyjingchen.com'
 REVIEWED = '2026年10月'
 REVIEWED_ISO = '2026-10-08'
-ASSET_VER = '20261008'
+ASSET_VER = '20261009'
 
 CITIES = [  # slug, 名称, 地图初始中心（仅用于边界加载前的初始视野）, 初始缩放
     ('palo-alto', 'Palo Alto', (37.425, -122.140), 12),
@@ -31,6 +31,17 @@ CITIES = [  # slug, 名称, 地图初始中心（仅用于边界加载前的初�
     ('san-ramon', 'San Ramon', (37.765, -121.945), 12),
 ]
 NAMES = {s: n for s, n, _, _ in CITIES}
+
+SEO = json.loads((Path(__file__).resolve().parent / 'seo-meta.json').read_text(encoding='utf-8'))
+# 与城市相关的比较文章（guides/*.html）
+GUIDES = {
+    'fremont': [('fremont-vs-dublin', 'Fremont 与 Dublin 买房比较')],
+    'dublin': [('fremont-vs-dublin', 'Fremont 与 Dublin 买房比较'), ('dublin-vs-pleasanton', 'Dublin 与 Pleasanton 买房比较')],
+    'pleasanton': [('dublin-vs-pleasanton', 'Dublin 与 Pleasanton 买房比较')],
+    'sunnyvale': [('sunnyvale-vs-cupertino', 'Sunnyvale 与 Cupertino 买房比较')],
+    'cupertino': [('sunnyvale-vs-cupertino', 'Sunnyvale 与 Cupertino 买房比较')],
+}
+
 
 def e(t):
     return html.escape(str(t if t is not None else ''), quote=True)
@@ -380,12 +391,14 @@ def build(slug, center, zoom):
             cmp_cards.append(f'<div>{inner}</div>')
     allc = ''.join(f'<a href="{s}.html"{" class=cur aria-current=page" if s == slug else ""}>{e(n)}</a>' for s, n, _, _ in CITIES)
     q = name.replace(' ', '+')
+    gl = ''.join('<a class="btn" href="../guides/' + g + '.html">' + e(t_) + ' →</a>' for g, t_ in GUIDES.get(slug, []))
+    glinks = '<div class="btnrow" style="margin-top:20px">' + gl + '<a class="btn" href="../buy.html">湾区买房服务：六个步骤 →</a></div>'
     compare = f'''
 <section class="section" id="compare"><div class="container">
 <div class="kicker">08 · 城市比较与咨询</div><h2 class="title">还值得一起比较的城市</h2>
 <p class="lead">下面的比较都放在同样的预算、房型和通勤条件下来看。城市之间没有高下，差别在于你更看重哪一项。</p>
-<div class="cmp">{''.join(cmp_cards)}</div>
-<div class="cta"><div><h3>把范围缩小到几个片区，再到几套房</h3><p>告诉陈靖你的预算、办公地点、交通方式和对住房的要求，一起比较片区，逐项核对学校、通勤、房屋状况与持有成本。</p><div class="id">Jing Chen 陈靖 · REALTOR® · BQ Realty · DRE #02147119 · 925-917-4019</div></div>
+<div class="cmp">{''.join(cmp_cards)}</div>{glinks}
+<div class="cta"><div><h3>把范围缩小到几个片区，再到几套房</h3><p>告诉陈靖你的预算、办公地点、交通方式和对住房的要求，一起比较片区，逐项核对学校、通勤、房屋状况与持有成本。</p><div class="id">Jing Chen 陈靖 · REALTOR® · BQ Realty · DRE #02147119 · <a href="tel:+19259174019">925-917-4019</a></div></div>
 <div class="btnrow"><a class="btn gold" href="../index.html?city={e(q)}&amp;ask=compare#contact">让陈靖帮我比较这几个城市 →</a><a class="btn gold" href="../index.html?city={e(q)}&amp;ask=budget#contact">根据我的预算和通勤，缩小看房范围 →</a><a class="btn gold" href="../index.html?city={e(q)}&amp;ask=city#contact">咨询 {e(name)} 的购房选择 →</a></div></div>
 <h3 class="sub">十个城市的生活指南</h3><div class="allc">{allc}</div>
 </div></section>'''
@@ -400,12 +413,13 @@ def build(slug, center, zoom):
 <div class="note" style="margin-top:22px">城市、片区、学校、通勤和环境信息仅供一般了解，不构成估价、投资、税务或法律意见。片区名称是惯称或规划用名，不是法定边界；学校安排以学区对具体地址的确认为准；具体房源请结合最新 MLS 资料、卖方披露、公共记录和独立检查核实。</div>
 </div></section>'''
 
-    ld = {"@context": "https://schema.org", "@type": "WebPage", "name": d['meta_title'], "description": d['meta_description'], "url": url, "inLanguage": "zh-CN", "dateModified": REVIEWED_ISO,
+    seo = SEO[slug]
+    ld = {"@context": "https://schema.org", "@type": "WebPage", "name": seo['h1'], "description": seo['description'], "url": url, "inLanguage": "zh-CN", "dateModified": REVIEWED_ISO,
           "about": {"@type": "City", "name": f"{name}, California"},
           "author": {"@type": "RealEstateAgent", "name": "Jing Chen 陈靖", "telephone": "925-917-4019", "url": SITE + "/"},
           "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Jing Chen Homes", "item": SITE + "/"},
-              {"@type": "ListItem", "position": 2, "name": "城市与社区", "item": SITE + "/#market-cities"},
+              {"@type": "ListItem", "position": 2, "name": "城市指南", "item": SITE + "/#market-cities"},
               {"@type": "ListItem", "position": 3, "name": f"{name} 城市生活指南", "item": url}]}}
     guide_json = json.dumps(guide, ensure_ascii=False).replace('</', '<' + chr(92) + '/')
     facts = ''.join(f'<div class="fact"><small>{e(f["label"])}</small><strong>{e(f["value"])}</strong></div>' for f in d['facts'][:4])
@@ -413,12 +427,13 @@ def build(slug, center, zoom):
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(d['meta_title'])}｜Jing Chen Homes</title>
-<meta name="description" content="{e(d['meta_description'])}">
+<title>{e(seo['title'])}</title>
+<meta name="description" content="{e(seo['description'])}">
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="article">
-<meta property="og:title" content="{e(d['meta_title'])}">
-<meta property="og:description" content="{e(d['meta_description'])}">
+<meta property="og:site_name" content="Jing Chen Homes 陈靖">
+<meta property="og:title" content="{e(seo['title'])}">
+<meta property="og:description" content="{e(seo['description'])}">
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{SITE}/images/hero.webp">
 <meta property="og:locale" content="zh_CN">
@@ -429,19 +444,21 @@ def build(slug, center, zoom):
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
 <body>
-<nav class="nav"><div class="navin"><a class="brand" href="../index.html"><img class="navlogo" src="../images/logo-nav.png" alt="JC Team">JING CHEN HOMES</a><div class="navlinks"><a href="../index.html#homes">找房</a><a href="../index.html#market">湾区市场</a><a href="../index.html#market-cities">城市与社区</a><a href="../index.html#sold">成交案例</a><a href="../index.html#about">关于陈靖</a><a class="navcta" href="../index.html?city={e(q)}&amp;ask=city#contact">咨询陈靖</a></div></div></nav>
+<nav class="nav"><div class="navin"><a class="brand" href="../index.html"><img class="navlogo" src="../images/logo-nav.png" alt="JC Team">JING CHEN HOMES</a><div class="navlinks"><a href="../buy.html">买房</a><a href="../sell.html">卖房</a><a href="../index.html#homes">找房</a><a href="../index.html#market-cities">城市指南</a><a href="../index.html#compare-guides">城市比较</a><a href="../index.html#sold">成交案例</a><a href="../index.html#about">关于陈靖</a><a class="navcta" href="../index.html?city={e(q)}&amp;ask=city#contact">咨询陈靖</a></div></div></nav>
 <div class="subnav"><div class="subnav-in"><a href="#overview">概览</a><a href="#map">地图</a><a href="#districts">片区</a><a href="#daily">日常</a><a href="#schools">学校</a><a href="#housing">住房与成本</a><a href="#tour">看区路线</a><a href="#compare">比较与咨询</a></div></div>
 
 <header class="hero"><div class="container heroin">
-<div class="crumbs"><a href="../index.html">首页</a> / <a href="../index.html#market-cities">城市与社区</a> / {e(name)}</div>
+<div class="crumbs"><a href="../index.html">首页</a> / <a href="../index.html#market-cities">城市指南</a> / {e(name)}</div>
 <div class="kicker">BAY AREA LIVING GUIDE · {e(d.get('county',''))}</div>
-<h1 class="cityname">{e(name)}<span>城市生活指南</span></h1>
-<div class="herotag">{e(d['hero']['tagline'])}</div>
+<p class="cityname" aria-hidden="true">{e(name)}<span>城市生活指南</span></p>
+<h1 class="cityh1">{e(seo['h1'])}</h1>
+<p class="intro lead1">{e(seo['lead'])}</p>
 <p class="intro">{e(d['hero']['intro'])}</p>
+<div class="herotag">{e(d['hero']['tagline'])}</div>
 <div class="facts">{facts}</div>
 </div></header>
 {overview}{maps_html}{districts}{daily}{schools}{housing}{tour}{compare}{sources}
-<footer><div class="container footer"><div><strong>Jing Chen 陈靖</strong><br>REALTOR® · BQ Realty · DRE #02147119 · 925-917-4019</div><div>© 2026 Jing Chen · 城市生活指南<br><a href="../index.html">返回主网站</a> · <a href="../index.html#contact">预约咨询</a></div></div></footer>
+<footer><div class="container footer"><div><strong>Jing Chen 陈靖</strong><br>REALTOR® · BQ Realty · DRE #02147119 · <a href="tel:+19259174019">925-917-4019</a></div><div>© 2026 Jing Chen · 城市生活指南<br><a href="../index.html">返回首页</a> · <a href="../buy.html">买房服务</a> · <a href="../sell.html">卖房服务</a> · <a href="../index.html#contact">预约咨询</a></div></div></footer>
 <script>window.GUIDE={guide_json};</script>
 <script src="guide.js?v={ASSET_VER}"></script>
 <script>(function(){{var b=document.getElementById('openall');if(!b)return;b.onclick=function(){{var ds=[].slice.call(document.querySelectorAll('details.dist'));var open=ds.some(function(x){{return !x.open}});ds.forEach(function(x){{x.open=open}});b.textContent=open?'收起全部片区':'展开全部片区'}}}})();</script>

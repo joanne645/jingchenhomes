@@ -26,9 +26,28 @@
           "value": "public, max-age=3600"
         }
       ]
+    },
+    {
+      "source": "/pages.css",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
     }
   ],
   "redirects": [
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home/",
+      "destination": "/",
+      "permanent": true
+    },
     {
       "source": "/buy",
       "destination": "/en/#services",

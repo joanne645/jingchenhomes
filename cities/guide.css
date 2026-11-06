@@ -41,10 +41,12 @@ p{margin:0 0 14px}
 .hero{background:radial-gradient(circle at 12% 15%,rgba(198,163,91,.23),transparent 30%),linear-gradient(120deg,#08172f,#102d54 72%,#1b426e);color:#fff;position:relative;overflow:hidden}
 .hero:after{content:"";position:absolute;right:-100px;bottom:-190px;width:620px;height:620px;border:1px solid rgba(198,163,91,.18);border-radius:50%;box-shadow:0 0 0 80px rgba(198,163,91,.025),0 0 0 160px rgba(198,163,91,.018);pointer-events:none}
 .heroin{padding:168px 0 64px;position:relative;z-index:2}
-.cityname{font:clamp(48px,8vw,104px)/.95 Georgia,serif;letter-spacing:-.03em;margin:16px 0 20px;color:#fff}
+.cityname{font:clamp(44px,7vw,92px)/.95 Georgia,serif;letter-spacing:-.03em;margin:16px 0 26px;color:#fff}
 .cityname span{display:block;font-family:"Songti SC","STSong","Noto Serif SC",Georgia,serif;font-size:.42em;letter-spacing:.04em;color:var(--gold2);margin-top:14px;line-height:1.2}
-.herotag{color:rgba(255,255,255,.72);letter-spacing:.04em;font-size:13.5px}
-.hero p.intro{font-size:16.5px;max-width:780px;color:rgba(255,255,255,.82);margin-top:18px}
+.cityh1{font-size:clamp(23px,2.9vw,36px);line-height:1.35;color:#fff;margin:0 0 18px;max-width:860px}
+.herotag{color:rgba(255,255,255,.6);letter-spacing:.04em;font-size:13px;margin-top:16px}
+.hero p.intro.lead1{font-size:17px;color:#fff;margin-top:0}
+.hero p.intro{font-size:15.5px;max-width:780px;color:rgba(255,255,255,.78);margin-top:14px}
 .facts{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:36px;border-top:1px solid rgba(255,255,255,.16)}
 .fact{padding:18px 18px 0 0}
 .fact small{display:block;color:rgba(255,255,255,.5);font-size:11px;letter-spacing:.12em}
@@ -154,6 +156,8 @@ ul.dots li{font-size:14px;color:#3d3a35;margin-bottom:7px}
 .cta p{margin:0;color:rgba(255,255,255,.75);font-size:14px;max-width:560px}
 .cta .btnrow{margin:0;flex-direction:column;align-items:stretch}
 .cta .id{margin-top:12px;font-size:12.5px;color:rgba(255,255,255,.6)}
+.cta .id a,footer .footer a[href^="tel:"]{text-decoration:underline;text-underline-offset:3px}
+.cta>div{min-width:0}
 .allc{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px}
 .allc a{font-size:13px;border:1px solid var(--line);padding:6px 12px;background:#fff}
 .allc a.cur{background:var(--navy);color:#fff;border-color:var(--navy)}
@@ -262,6 +266,8 @@ footer{background:#071226;color:rgba(255,255,255,.6);padding:27px 0;font-size:12
  .source{grid-template-columns:1fr;gap:2px}
  .footer{display:block}
  .cta{padding:24px 20px}
+ .cityh1{overflow-wrap:anywhere}
+ .cta h3{word-break:normal}
  .mapside{padding:18px 16px}
  .sub{font-size:20px}
 }

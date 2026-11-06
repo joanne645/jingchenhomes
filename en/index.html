@@ -305,7 +305,13 @@ footer{background:#070d1d;color:rgba(255,255,255,.64);padding:34px 0;font-size:1
 .reveal.show{opacity:1;transform:none}
 
 @media(max-width:980px){
- .nav-links{display:none} .menu-btn{display:block}
+ .menu-btn{display:block;cursor:pointer;padding:4px 6px}
+ .nav-links{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:#0a1226;color:#fff;padding:6px 24px 20px;font-size:15px;box-shadow:0 18px 40px rgba(0,0,0,.28);max-height:calc(100vh - 82px);overflow-y:auto}
+ .nav-links.open{display:flex}
+ .nav-links a{padding:13px 0;border-bottom:1px solid rgba(255,255,255,.12);opacity:1}
+ .nav-links .nav-cta{border:1px solid rgba(255,255,255,.6);text-align:center;margin-top:14px;padding:12px}
+}
+@media(max-width:980px){
  .hero-grid{grid-template-columns:1fr} .hero-copy{padding-top:130px;padding-bottom:42px}
  .hero-photo{height:55vh;min-height:520px} .hero-photo:after{background:linear-gradient(180deg,var(--green) 0%,transparent 18%)}
  .intent-grid,.market-cards{grid-template-columns:repeat(2,1fr)}
@@ -349,7 +355,7 @@ html[lang="en"] .lifestyle-copy h2{font-size:40px}
       </div>
     </a>
     <div class="nav-right">
-    <div class="nav-links">
+    <div class="nav-links" id="navLinks" onclick="if(event.target.closest('a')){this.classList.remove('open');var b=document.querySelector('.menu-btn');if(b)b.setAttribute('aria-expanded','false')}">
       <a href="#services">Buy / Sell</a>
       <a href="#homes">Home Search</a>
       <a href="#market">Bay Area Market</a>
@@ -359,7 +365,7 @@ html[lang="en"] .lifestyle-copy h2{font-size:40px}
       <a class="nav-cta" href="#contact">Book a Consultation</a>
     </div>
     <a class="lang-switch" href="/" hreflang="zh-CN" lang="zh-CN" onclick="this.href='/'+location.hash" aria-label="切换到中文">中文</a>
-    <button class="menu-btn" onclick="document.getElementById('contact').scrollIntoView()">☰</button>
+    <button class="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="navLinks" onclick="var l=document.getElementById('navLinks'),o=l.classList.toggle('open');this.setAttribute('aria-expanded',o)">☰</button>
     </div>
   </div>
 </nav>

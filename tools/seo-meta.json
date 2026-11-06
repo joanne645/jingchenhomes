@@ -1,0 +1,123 @@
+{
+ "home": {
+  "path": "/",
+  "title": "陈靖 Jing Chen｜湾区华人地产经纪｜硅谷买房卖房",
+  "description": "陈靖 Jing Chen，BQ Realty 房地产经纪人，DRE #02147119。提供加州湾区买房、卖房与换房服务，从城市社区、学校查询和通勤安排出发，协助你比较适合自己的住房选择。",
+  "h1": "湾区买房与卖房，从看懂城市和房子开始"
+ },
+ "buy": {
+  "path": "/buy.html",
+  "title": "湾区买房服务｜选区、看房与报价策略｜陈靖",
+  "description": "准备在加州湾区买房？从预算与持有成本、城市社区比较，到看房、资料阅读与报价沟通，陈靖协助你梳理购房步骤，结合通勤、学校查询和入住计划做选择。",
+  "h1": "湾区买房：把生活需求变成清楚的选房标准",
+  "lead": "买房前最难的，常常是决定什么对自己最重要。把预算、城市、房屋条件和时间安排放在一起，才能判断一套房子是否值得继续看。"
+ },
+ "sell": {
+  "path": "/sell.html",
+  "title": "湾区卖房服务｜定价、上市准备与营销｜陈靖",
+  "description": "计划在湾区卖房或换房？陈靖协助你从房屋状况、可比成交和时间安排出发，讨论定价、上市准备、展示与报价比较，梳理适合自己情况的出售步骤。",
+  "h1": "湾区卖房：先看清房屋条件，再制定上市计划",
+  "lead": "卖房既要面对市场，也要配合你的搬迁和资金安排。先把房屋条件、可比成交和时间目标整理清楚，才更容易决定哪些准备值得做、怎样定价，以及如何比较不同报价。"
+ },
+ "palo-alto": {
+  "path": "/cities/palo-alto.html",
+  "title": "Palo Alto买房指南｜社区、学校与通勤｜陈靖",
+  "description": "从社区位置、房屋使用条件、学校地址查询和 Caltrain 接驳出发，理解 Palo Alto 的居住选择。城市名称并不能直接确定学校或通勤体验，具体房源需要逐项核查。",
+  "h1": "在 Palo Alto 买房，先比较社区与完整的日常路线",
+  "lead": "从社区位置、房屋使用条件、学校地址查询和 Caltrain 接驳出发，理解 Palo Alto 的居住选择。城市名称并不能直接确定学校或通勤体验，具体房源需要逐项核查。",
+  "school_entry": "https://www.pausd.org/enrollment/registration"
+ },
+ "cupertino": {
+  "path": "/cities/cupertino.html",
+  "title": "Cupertino买房指南｜学校边界、住房与日常路线｜陈靖",
+  "description": "比较 Cupertino 房源时，除了房屋空间，也要确认不同学段的学校查询结果、到工作地点的实际路线，以及步行骑行是否方便。学校名称与城市印象都需要落实到完整地址。",
+  "h1": "在 Cupertino 买房，把学校查询和生活动线一起看",
+  "lead": "比较 Cupertino 房源时，除了房屋空间，也要确认不同学段的学校查询结果、到工作地点的实际路线，以及步行骑行是否方便。学校名称与城市印象都需要落实到完整地址。",
+  "school_entry": "https://www.cusdk8.org/registration/locator"
+ },
+ "sunnyvale": {
+  "path": "/cities/sunnyvale.html",
+  "title": "Sunnyvale买房指南｜Caltrain、社区与住房选择｜陈靖",
+  "description": "考虑 Sunnyvale 时，可把 Sunnyvale 和 Lawrence 两个 Caltrain 站纳入出行比较，再看具体社区到车站、工作地和生活设施的连接。房屋类型、维护责任与学校查询同样需要逐套核实。",
+  "h1": "在 Sunnyvale 买房，从通勤方式开始缩小范围",
+  "lead": "考虑 Sunnyvale 时，可把 Sunnyvale 和 Lawrence 两个 Caltrain 站纳入出行比较，再看具体社区到车站、工作地和生活设施的连接。房屋类型、维护责任与学校查询同样需要逐套核实。",
+  "school_entry": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx"
+ },
+ "mountain-view": {
+  "path": "/cities/mountain-view.html",
+  "title": "Mountain View买房指南｜通勤、学校查询与生活半径｜陈靖",
+  "description": "选择 Mountain View 房源时，把住宅、工作地、沿线车站和日常活动点放在同一张地图上。再比较房屋动线、噪声、停车与学校地址查询，判断便利是否真正发生在自己的生活里。",
+  "h1": "在 Mountain View 买房，先画出常用的生活路线",
+  "lead": "选择 Mountain View 房源时，把住宅、工作地、沿线车站和日常活动点放在同一张地图上。再比较房屋动线、噪声、停车与学校地址查询，判断便利是否真正发生在自己的生活里。",
+  "school_entry": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx"
+ },
+ "san-jose": {
+  "path": "/cities/san-jose.html",
+  "title": "San Jose买房指南｜社区差异、学区查询与住房｜陈靖",
+  "description": "San Jose 的选房比较需要具体到社区与房屋。先确定通勤目的地和住房需求，再逐项核查学区、维护项目和日常设施，避免用全市平均信息代替对一套房子的判断。",
+  "h1": "在 San Jose 买房，把比较范围缩小到社区和地址",
+  "lead": "San Jose 的选房比较需要具体到社区与房屋。先确定通勤目的地和住房需求，再逐项核查学区、维护项目和日常设施，避免用全市平均信息代替对一套房子的判断。",
+  "school_entry": "https://www.sccoe.org/resources/families/Pages/School-District-Locator.aspx"
+ },
+ "fremont": {
+  "path": "/cities/fremont.html",
+  "title": "Fremont买房指南｜社区、学校地图与通勤｜陈靖",
+  "description": "从 Fremont 不同片区的生活动线出发，比较到工作地、BART、学校和公共空间的完整路线。学校归属、房屋状况与维护成本需要按具体地址确认，不能只凭城市标签作决定。",
+  "h1": "在 Fremont 买房，先分清社区，再比较路线",
+  "lead": "从 Fremont 不同片区的生活动线出发，比较到工作地、BART、学校和公共空间的完整路线。学校归属、房屋状况与维护成本需要按具体地址确认，不能只凭城市标签作决定。",
+  "school_entry": "https://fremontunified.org/about/schools/"
+ },
+ "milpitas": {
+  "path": "/cities/milpitas.html",
+  "title": "Milpitas买房指南｜通勤、学校查询与房屋类型｜陈靖",
+  "description": "考虑 Milpitas 的房源时，可以先用工作地点和固定出行点缩小范围，再比较户型、停车、共有设施与维护责任。通过官方入口查询学校，把交通便利落实到具体地址的完整行程。",
+  "h1": "在 Milpitas 买房，把通勤与住房细节放在一起",
+  "lead": "考虑 Milpitas 的房源时，可以先用工作地点和固定出行点缩小范围，再比较户型、停车、共有设施与维护责任。通过官方入口查询学校，把交通便利落实到具体地址的完整行程。",
+  "school_entry": "https://musd.org/enrollment"
+ },
+ "dublin": {
+  "path": "/cities/dublin.html",
+  "title": "Dublin买房指南｜BART、学校地图与日常生活｜陈靖",
+  "description": "加州 Dublin 的买房比较可以从到 BART 的路线、学校地址查询和公园使用习惯开始。对具体房源继续核查户型、HOA、地块与维护项目，判断住房空间是否与自己的日常安排匹配。",
+  "h1": "在加州 Dublin 买房，比较住房与一周的生活安排",
+  "lead": "加州 Dublin 的买房比较可以从到 BART 的路线、学校地址查询和公园使用习惯开始。对具体房源继续核查户型、HOA、地块与维护项目，判断住房空间是否与自己的日常安排匹配。",
+  "school_entry": "https://www.dublinusd.org/apps/pages/index.jsp?hideMenu=0&pREC_ID=829074&termREC_ID=&type=d&uREC_ID=443732"
+ },
+ "pleasanton": {
+  "path": "/cities/pleasanton.html",
+  "title": "Pleasanton买房指南｜市中心、公园与学校查询｜陈靖",
+  "description": "认识 Pleasanton，可以把历史市中心、公园步道与常用交通节点放进一次社区走访。真正需要比较的是候选房源到这些地方的路线，以及房屋条件、学校地址查询和长期维护安排。",
+  "h1": "在 Pleasanton 买房，看生活半径如何连接",
+  "lead": "认识 Pleasanton，可以把历史市中心、公园步道与常用交通节点放进一次社区走访。真正需要比较的是候选房源到这些地方的路线，以及房屋条件、学校地址查询和长期维护安排。",
+  "school_entry": "https://www.pleasantonusd.net/enrollment-registration/school-locator"
+ },
+ "san-ramon": {
+  "path": "/cities/san-ramon.html",
+  "title": "San Ramon买房指南｜学校边界、通勤与社区选择｜陈靖",
+  "description": "比较 San Ramon 房源时，先按地址查询各学段学校，再结合工作地点与日常出行安排筛选社区。房屋空间、户外维护、可能的 HOA 规则和总持有成本，需要放在同一份清单里判断。",
+  "h1": "在 San Ramon 买房，先核查地址，再安排实地比较",
+  "lead": "比较 San Ramon 房源时，先按地址查询各学段学校，再结合工作地点与日常出行安排筛选社区。房屋空间、户外维护、可能的 HOA 规则和总持有成本，需要放在同一份清单里判断。",
+  "school_entry": "https://www.srvusd.net/Departments/Facilities/Find-Your-School/index.html"
+ },
+ "fremont-vs-dublin": {
+  "path": "/guides/fremont-vs-dublin.html",
+  "title": "Fremont与Dublin买房比较｜通勤、学校与生活｜陈靖",
+  "description": "Fremont 和加州 Dublin 买房怎么选？从工作地点、BART 接驳、学校地址查询、房屋类型与持有成本出发，比较两地的居住取舍，并用实际路线与房源验证选择。",
+  "h1": "Fremont 和 Dublin 买房怎么选？先比较你每天要走的路",
+  "lead": "Fremont 与加州 Dublin 都可能出现在湾区买家的候选名单里。更有用的起点是：工作和日常活动把你带向哪里？你愿意为住房空间承担多少出行与维护成本？把这些条件确定下来，城市比较才有实际意义。"
+ },
+ "dublin-vs-pleasanton": {
+  "path": "/guides/dublin-vs-pleasanton.html",
+  "title": "Dublin与Pleasanton买房比较｜住房、通勤与生活｜陈靖",
+  "description": "Dublin 和 Pleasanton 住哪里更合适？比较两市的 BART 接驳、公园与市中心生活、学校地址查询和具体住房条件，从真实的一周安排判断适合自己的生活半径。",
+  "h1": "Dublin 和 Pleasanton 住哪里更合适？从一周的生活半径比较",
+  "lead": "Dublin 与 Pleasanton 相邻，选房时容易被放在一起比较。更细致的判断，可以从一周安排开始：你怎样去车站，常去哪里活动，希望怎样使用室内外空间，以及愿意承担多少维护工作。"
+ },
+ "sunnyvale-vs-cupertino": {
+  "path": "/guides/sunnyvale-vs-cupertino.html",
+  "title": "Sunnyvale与Cupertino买房比较｜通勤与学校查询｜陈靖",
+  "description": "Sunnyvale 和 Cupertino 买房怎么选？比较 Caltrain 与接驳方式、学校边界查询、日常接送和具体房屋条件，用完整地址与实际路线判断适合自己的住房选择。",
+  "h1": "Sunnyvale 和 Cupertino 买房怎么选？把通勤与学校查询分开核实",
+  "lead": "比较 Sunnyvale 与 Cupertino 时，先确定自己每天如何移动，再核实具体地址的学校和房屋条件。城市的知名度可以帮助你形成初步印象，真正的居住体验仍取决于房源所在的位置。"
+ }
+}

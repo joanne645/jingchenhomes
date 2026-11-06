@@ -388,7 +388,7 @@
     "short": "ESUHSD",
     "grades": "9–12",
     "covers": "东部与南部大片地区，包括 Berryessa、Alum Rock、Evergreen、Silver Creek、Edenvale、Santa Teresa 等片区的高中",
-    "locator_url": "http://www.myschoollocation.com/eastsideHSD/",
+    "locator_url": "https://www.esuhsd.org/Community/Boundaries/index.html",
     "map_url": "https://www.esuhsd.org/Community/Boundaries/index.html",
     "enroll_url": "https://www.esuhsd.org/Students--Parents/New-Students/index.html",
     "note": "学区说明 Attendance Area Locator 对靠近边界的地址更准确。学区内转学按名额审批，Evergreen Valley、Piedmont Hills、Santa Teresa、Silver Creek 四所被列为已满员（impacted）学校，转入申请通常直接被拒。小学和初中要另查所属小学学区。"
@@ -959,10 +959,10 @@
     "note": "San José Unified；2026年3月通过的新边界，适用于2027–28学年起的新生"
    },
    {
-    "label": "East Side Union HSD Attendance Area Locator",
+    "label": "East Side Union HSD 学校边界与地址查询入口",
     "kind": "school_boundary",
-    "url": "http://www.myschoollocation.com/eastsideHSD/",
-    "note": "East Side Union High School District；学区称其对边界附近地址更准确"
+    "url": "https://www.esuhsd.org/Community/Boundaries/index.html",
+    "note": "East Side Union High School District 官方边界页面，内含按地址查询的入口"
    },
    {
     "label": "Campbell Union HSD School Locator",
