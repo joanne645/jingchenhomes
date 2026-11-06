@@ -19,7 +19,7 @@
   - `tools/page-content/buy.html`、`sell.html`：买房六步、卖房说明的中文；英文在 `tools/v2-content/pages/`
   - `tools/v2-content/en-cities/<slug>.json`：英文城市页
   - `tools/v2-content/zip/<邮编>.json`：San Jose 邮编页内容。**新增邮编只需加这个文件和 `images/zip/<邮编>-1.webp`（可 -2、-3），再在 `tools/site-data/sj-zip-reference.json` 的 areas/zips 加一行**。网站不用框架，所以用 JSON 代替 MDX
-  - San Jose 城市页和 `/en/cities/san-jose.html` 的图文栏目：`tools/sj_sections.py`（中英文共用模板）；文字 `tools/city-content/san-jose.json`、`san-jose-sections.json`，英文 `tools/v2-content/en-cities/san-jose-full.json`、`san-jose-sections.en.json`；照片和授权记录 `tools/city-content/san-jose-photos.json`（demo=true 的是未核实授权的临时图，页面显示红标，不能上 main）
+  - San Jose 城市页和 `/en/cities/san-jose.html` 的图文栏目：`tools/sj_sections.py`（中英文共用模板）；文字 `tools/city-content/san-jose.json`、`san-jose-sections.json`，英文 `tools/v2-content/en-cities/san-jose-full.json`、`san-jose-sections.en.json`；照片和授权记录 `tools/city-content/san-jose-photos.json`（license 写“未核实”的待换授权照片）
   - 邮编详情页深度阅读：`tools/city-content/sj-zip-deep.json`（10 个 ZIP，中英文）
   - `tools/fetch_commons_photos.py`：在 Mac 终端运行，取 Commons 候选照片和授权记录到 `.photo_candidates/`
   - `tools/site-data/sold.json`：33 笔成交，`side` 为 buyer/seller/null；`market.json`：10 城市场数据
