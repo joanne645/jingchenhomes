@@ -394,7 +394,7 @@ def build_areas(lang):
     guides = ''.join(module_card(lang, g, i + 1) for i, g in enumerate(GUIDES))
     extra = ''.join(module_card(lang, s, i + 4) for i, s in enumerate(['compare-cities', 'school-lookup']))
     body = f'''<section class="band" id="cities"><div class="wrap"><p class="kick">10 CITIES</p><h2 class="h2">{L('十个城市，各有一份指南', 'A guide for each of 10 cities')}</h2><p class="sub">{L('每个城市都包括城市简介、片区特点、房屋类型、房价数据、交通通勤、学校查询入口、生活配套、近期真实成交和相关文章。', 'Each guide covers the city, neighborhoods, home types, price data, commuting, official school lookups, daily life, recent sales and related articles.')}{'' if z else ' English guides are concise editions; the most detailed versions are in Chinese.'}</p><div class="grid g4">{city_cards(lang, True)}</div></div></section>
-<section class="band tint" id="san-jose-zip"><div class="wrap"><div class="head-row"><div><p class="kick">SAN JOSE BY ZIP CODE</p><h2 class="h2">{L('San Jose 各邮编市场分析', 'San Jose by ZIP code')}</h2><p class="sub">{L('San Jose 城市大、差异明显。按邮编比较成交中位价、成交数和 DOM，再看 Berryessa、Cambrian、Almaden Valley 等地区的买卖要点。', 'San Jose is large and varied. Compare median price, sales and days on market by ZIP code, then read what buyers and sellers should know in Berryessa, Cambrian, Almaden Valley and more.')}</p></div><a class="b fill" href="@zip/index">{L('查看邮编分析', 'See ZIP code analysis')} →</a></div></div></section>
+<section class="band tint" id="san-jose-zip"><div class="wrap"><div class="head-row"><div><p class="kick">SAN JOSE BY ZIP CODE</p><h2 class="h2">{L('San Jose 各邮编市场分析', 'San Jose by ZIP code')}</h2><p class="sub">{L('San Jose 城市大、差异明显。按邮编了解 Berryessa、Cambrian、Almaden Valley 等地区的房屋特点和买卖要点。', 'San Jose is large and varied. Read what buyers and sellers should know, ZIP code by ZIP code, in Berryessa, Cambrian, Almaden Valley and more.')}</p></div><a class="b fill" href="@zip/index">{L('查看邮编分析', 'See ZIP code analysis')} →</a></div></div></section>
 <section class="band white" id="schools"><div class="narrow"><p class="kick">SCHOOLS</p><h2 class="h2">{L('学校要按完整地址查询', 'Check schools by full address')}</h2><div class="note">{L('本网站不保证任何地址对应特定学校。城市、邮编、学区和招生范围是不同的边界，学校安排也可能调整。请按完整地址在学区官方渠道查询，并向学区确认入学和实际安置。各学区官方入口列在对应城市页。', 'This site does not guarantee that any address is assigned to a particular school. City limits, ZIP codes, districts and attendance boundaries differ, and assignments can change. Look up the full address through official district channels and confirm enrollment and placement with the district. Official links are on each city page.')}</div></div></section>
 <section class="band" id="market"><div class="wrap"><p class="kick">MARKET DATA</p><h2 class="h2">{L('各城市成交中位价', 'Median sale prices by city')}</h2>{market_table(lang)}{market_note(lang)}</div></section>
 <section class="band white" id="budget"><div class="wrap"><p class="kick">BUDGET</p><h2 class="h2">{L('预算可以买哪里', 'Where a budget can go')}</h2><div class="grid g3">{t}</div><p class="src-note" style="margin-top:16px">{L('以上区间根据上表的成交中位价粗略归纳。同一城市内不同社区、地块大小、房屋新旧的价格差异仍然很大，不能代替针对具体预算和目标区域的规划。', 'These ranges are a rough summary of the medians above. Prices vary widely within a city by neighborhood, lot size and age, so this is no substitute for planning around your own budget and target areas.')}</p></div></section>
@@ -653,6 +653,8 @@ _mk = ROOT / 'tools/site-data/sj-zip-market.json'
 ZM = json.loads(_mk.read_text(encoding='utf-8')) if _mk.exists() else None   # 同周期核实数据，运行 tools/fetch_zip_market.py 生成
 ZC = {f.stem: json.loads(f.read_text(encoding='utf-8')) for f in sorted((C / 'zip').glob('*.json'))}
 ZIPS_ALL = list(REF['zips'])
+SHOW_REFERENCE = False   # True 时显示未核实的历史参考数字并加提示；默认不发布
+SHOW_NUMBERS = bool(ZM) or SHOW_REFERENCE
 
 
 def zmarket(z):
@@ -681,12 +683,14 @@ def zmeta(lang):
 
 
 def zbanner(lang):
-    if ZM:
+    if ZM or not SHOW_REFERENCE:
         return ''
     return '<p class="zwarn">' + ('预览版：以下数字沿用 2026 年 8–10 月的历史参考数据，尚未重新核实，不代表实时行情。95132 暂不填写未经确认的数字。' if lang == 'zh' else 'Preview: these figures are historical reference data from August to October 2026. They have not been re-verified and are not live market data. 95132 stays blank until confirmed.') + '</p>'
 
 
 def zpills(lang, z):
+    if not SHOW_NUMBERS:
+        return ''
     m = zmarket(z)
     zh = lang == 'zh'
     pend = '待核实' if zh else 'Pending'
@@ -697,14 +701,13 @@ def zpills(lang, z):
 
 
 def zgallery(lang, z, out):
-    photos = ZC[z].get('photos', [])
+    photos = [(i, ph) for i, ph in enumerate(ZC[z].get('photos', [])) if (ROOT / f'images/zip/{z}-{i + 1}.webp').exists()]
+    if not photos:   # 没有授权照片时不显示图片区
+        return ''
     cells = ''
-    for i, ph in enumerate(photos):
+    for i, ph in photos:
         f = f'images/zip/{z}-{i + 1}.webp'
-        if (ROOT / f).exists():
-            cells += f'<img src="{esc(rel(out, f))}" alt="{esc(ph.get("alt_" + lang) or ph[lang])}" loading="lazy">'
-        else:
-            cells += f'<div class="zph"><span>{"照片待提供" if lang == "zh" else "Photo needed"}<br>{esc(ph[lang])}</span></div>'
+        cells += f'<img src="{esc(rel(out, f))}" alt="{esc(ph.get("alt_" + lang) or ph[lang])}" loading="lazy">'
     return f'<div class="zgal zgal{len(photos)}">{cells}</div>'
 
 
@@ -722,10 +725,12 @@ def zblock(lang, z, out, h='h2', full=True):
                 f'<p><a class="zmore" href="@zip/{z}">{"查看 " + z + " 详情" if zh else "See " + z + " details"} →</a></p></article>')
     note = d.get('note')
     nt = ''
-    if note:
+    if note and note.get('checked'):   # 未核实的引用不发布
         nt = f'<p class="znote">{esc(note["zh" if zh else "en"])} <a class="zcite" href="{esc(note["url"])}" target="_blank" rel="noopener">{esc(note["src"])}</a></p>'
     links = ''.join(f'<li><a href="{esc(k["url"])}" target="_blank" rel="noopener">{esc(k["zh" if zh else "en"])}</a></li>' for k in d.get('links', []))
-    srcs = f'<h2 class="zh2">{"数据来源" if zh else "Data sources"}</h2>{zmeta(lang)}' + (f'<ul class="zlinks">{links}</ul>' if links else '')
+    srcs = ''
+    if SHOW_NUMBERS or links:
+        srcs = f'<h2 class="zh2">{("数据来源" if SHOW_NUMBERS else "官方资料") if zh else ("Data sources" if SHOW_NUMBERS else "Official resources")}</h2>' + (zmeta(lang) if SHOW_NUMBERS else '') + (f'<ul class="zlinks">{links}</ul>' if links else '')
     return f'<article class="zblock">{zbanner(lang)}{head}{zgallery(lang, z, out)}{zpills(lang, z)}{p(d["intro" + sfx])}{rich("买家需要知道" if zh else "What buyers should know", buy)}{rich("卖家需要知道" if zh else "What sellers should know", sell)}{nt}{srcs}</article>'
 
 
@@ -745,26 +750,38 @@ def build_zip_overview(lang):
     zh = lang == 'zh'
     L = (lambda a, b: a if zh else b)
     out = path(lang, 'areas/san-jose/index.html')
-    rows = ''
-    order = sorted(ZIPS_ALL, key=lambda z: -(zmarket(z).get('price') or 0))
     pend = L('待核实', 'Pending')
+    if SHOW_NUMBERS:
+        order = sorted(ZIPS_ALL, key=lambda z: -(zmarket(z).get('price') or 0))
+    else:
+        order = sorted(ZIPS_ALL)
+    rows = ''
     for z in order:
         m = zmarket(z)
         area = REF['areas'][z][0 if zh else 1]
         link = f'<a href="@zip/{z}">{z}</a>' if z in ZC else z
-        rows += f'<tr><td>{link}</td><td>{esc(area)}</td><td>{money_short(m.get("price")) or pend}</td><td>{m.get("sold", pend)}</td><td>{m.get("dom", pend)}</td></tr>'
-    chart, have = zchart(lang)
-    hi, lo = have[0], have[-1]
-    x = hi[1] / lo[1]
-    an = (f'<p>这些数字揭示了一个重要事实：<strong>San Jose 并不是一个统一的房地产市场。</strong></p><p>例如，{hi[0]} 的成交中位价约为 {lo[0]} 的 {x:.1f} 倍，但两者在房屋类型、地块、学区边界和买家需求方面都有差异。这些数字混合了独栋、Townhouse 和 Condo，看懂差异从哪里来，比看价格排名更有用。</p>' if zh else
-          f'<p>These numbers point to one important fact: <strong>San Jose is not a single real estate market.</strong></p><p>The median in {hi[0]} is about {x:.1f} times the median in {lo[0]}, but the two differ in home types, lots, school boundaries and buyer demand. The figures mix single-family homes, townhomes and condos, so understanding where the gap comes from matters more than the ranking.</p>')
+        nums = f'<td>{money_short(m.get("price")) or pend}</td><td>{m.get("sold", pend)}</td><td>{m.get("dom", pend)}</td>' if SHOW_NUMBERS else ''
+        rows += f'<tr><td>{link}</td><td>{esc(area)}</td>{nums}</tr>'
+    numh = f'<th>{L("成交中位价", "Median sale price")}</th><th>{L("成交数", "Sales")}</th><th>DOM</th>' if SHOW_NUMBERS else ''
+    if SHOW_NUMBERS:
+        chart, have = zchart(lang)
+        hi, lo = have[0], have[-1]
+        x = hi[1] / lo[1]
+        an = (f'<p>这些数字揭示了一个重要事实：<strong>San Jose 并不是一个统一的房地产市场。</strong></p><p>例如，{hi[0]} 的成交中位价约为 {lo[0]} 的 {x:.1f} 倍，但两者在房屋类型、地块、学区边界和买家需求方面都有差异。这些数字混合了独栋、Townhouse 和 Condo，看懂差异从哪里来，比看价格排名更有用。</p>' if zh else
+              f'<p>These numbers point to one important fact: <strong>San Jose is not a single real estate market.</strong></p><p>The median in {hi[0]} is about {x:.1f} times the median in {lo[0]}, but the two differ in home types, lots, school boundaries and buyer demand. The figures mix single-family homes, townhomes and condos, so understanding where the gap comes from matters more than the ranking.</p>')
+        meta_block = zmeta(lang)
+    else:
+        chart = ''
+        an = ('<p><strong>San Jose 并不是一个统一的房地产市场。</strong>不同邮编在房屋类型、地块、学区边界和买家需求方面都有差异，看懂差异从哪里来，比看价格排名更有用。</p><p class="src-note">各邮编的成交中位价、成交数和 DOM 正在按同一统计周期核实，核实后发布。</p>' if zh else
+              '<p><strong>San Jose is not a single real estate market.</strong> ZIP codes differ in home types, lots, school boundaries and buyer demand, and understanding those differences matters more than a price ranking.</p><p class="src-note">Median price, sales and days on market for each ZIP code are being verified for a single period and will be published once confirmed.</p>')
+        meta_block = ''
     blocks = ''.join(zblock(lang, z, out, 'h3', False) for z in order if z in ZC)
     no = [z for z in order if z not in ZC]
     body = f'''<div class="zpage"><p class="crumb2"><a href="@page/home">{L('首页', 'Home')}</a> / <a href="@page/areas">{L('地区与学区', 'Areas & Schools')}</a> / San Jose</p>
 <h1 class="zh1">San Jose Real Estate Market by ZIP Code{'<small>圣何塞各邮编房地产市场分析</small>' if zh else ''}</h1>
 {zbanner(lang)}
-<div class="tablewrap ztable"><table><thead><tr><th>ZIP Code</th><th>{L('主要地区', 'Main area')}</th><th>{L('成交中位价', 'Median sale price')}</th><th>{L('成交数', 'Sales')}</th><th>DOM</th></tr></thead><tbody>{rows}</tbody></table></div>
-{zmeta(lang)}
+<div class="tablewrap ztable"><table><thead><tr><th>ZIP Code</th><th>{L('主要地区', 'Main area')}</th>{numh}</tr></thead><tbody>{rows}</tbody></table></div>
+{meta_block}
 {chart}
 <h2 class="zh2">{L('不同 ZIP Code 的价格差异', 'Why prices differ by ZIP code')}</h2>{an}
 <h2 class="zh2">{L('各邮编地区介绍', 'ZIP code guides')}</h2>
@@ -773,7 +790,7 @@ def build_zip_overview(lang):
 <p class="zback"><a href="@city/san-jose">{L('查看 San Jose 城市生活指南', 'See the San Jose city guide')} →</a></p></div>
 {cta(lang, L('想知道哪个邮编适合你？', 'Which ZIP code fits you?'), L('把预算、工作地点和房型要求告诉陈靖，一起比较。', 'Share your budget, work location and home type with Jing and compare together.'), 'compare', '&city=San+Jose')}'''
     t = L('San Jose 各邮编房地产市场分析｜陈靖', 'San Jose Real Estate Market by ZIP Code | Jing Chen')
-    dsc = L('比较 San Jose 各 ZIP Code 的成交中位价、成交数和 DOM，了解 Berryessa、Cambrian、Almaden Valley、Willow Glen 等地区的差异。', 'Compare median sale price, sales and days on market across San Jose ZIP codes, from Berryessa to Cambrian, Almaden Valley and Willow Glen.')
+    dsc = L('按 ZIP Code 了解 San Jose 各地区的房屋特点和买卖要点，包括 Berryessa、Cambrian、Almaden Valley、Willow Glen 等。', 'A ZIP code guide to San Jose areas, including what buyers and sellers should know in Berryessa, Cambrian, Almaden Valley and Willow Glen.')
     page(lang, out, t, dsc, body, key='areas', ld=[breadcrumb(lang, [(L('地区与学区', 'Areas & Schools'), path(lang, 'areas.html')), ('San Jose', out.replace('index.html', ''))])])
     if no:
         print('邮编缺正文，未生成详情页:', no)
